@@ -3,7 +3,7 @@ name: Update Live M3U
 on:
   schedule:
     # Chạy mỗi ngày lúc 01:00 UTC (có thể đổi)
-    - cron: '0 1 * * *'
+    - cron: '25 */3 * * *'
   workflow_dispatch:  # Cho phép chạy thủ công
 
 jobs:
