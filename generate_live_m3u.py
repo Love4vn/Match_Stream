@@ -1,11 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Tạo Stream_live.m3u từ schedule.json và danh sách M3U.
-- Hiển thị tên trận đấu kèm tên kênh trong ngoặc.
-- Cho phép cùng kênh xuất hiện ở nhiều trận khác nhau.
-- Trong cùng một trận, loại bỏ các stream trùng URL.
-- Kiểm tra stream sống trước khi thêm.
+Tạo Stream_live.m3u với tốc độ tối ưu (kiểm tra sống song song, cache)
 """
 
 import json
@@ -17,12 +13,7 @@ from collections import OrderedDict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from urllib.parse import urlparse
 
-# Import fuzzy_matcher
-try:
-    from fuzzy_matcher import FuzzyMatcher
-except ImportError:
-    print("Lỗi: Không tìm thấy fuzzy_matcher.py. Hãy đặt cùng thư mục.")
-    sys.exit(1)
+from fuzzy_matcher import FuzzyMatcher
 
 # ==================== CẤU HÌNH ====================
 SCHEDULE_URL = "https://raw.githubusercontent.com/Love4vn/Live-Schedue/refs/heads/1/schedule.json"
@@ -30,12 +21,23 @@ M3U_LIST_FILE = "M3U_list.txt"
 OUTPUT_M3U = "Stream_live.m3u"
 
 FUZZY_THRESHOLD = 85
+# Tối đa số stream sẽ lưu cho mỗi kênh (trong cùng một trận)
+MAX_STREAMS_PER_CHANNEL = 300
+
+# Bật/tắt kiểm tra stream sống (nếu tắt sẽ nhanh hơn rất nhiều)
+CHECK_ALIVE = True
+# Số luồng kiểm tra song song
+ALIVE_CHECK_WORKERS = 20
+# Timeout kiểm tra (giây)
+CHECK_TIMEOUT = 8
+
+# Các tag bỏ qua (chỉ thêm những tag đặc biệt chưa có trong fuzzy_matcher)
 IGNORE_TAGS = [
     "[Backup]", "(SD)", "[SD]", "SD", "Low", "480p", "576p",
-    "┃CANAL+┃", "┃NL┃", "UK:", "US:", "DE:", "FR:",
-    "[line.tivi-ott.net]", "[ktkguru.com]"
+    "PLAY+:",   # đặc thù
 ]
 
+# Mapping giải đấu -> group-title
 LEAGUE_TO_GROUP = {
     "Premier League": "Live Premier League",
     "Serie A": "Live Serie A",
@@ -53,18 +55,12 @@ LEAGUE_TO_GROUP = {
     "International Friendly": "Live International Friendly"
 }
 
-# Chất lượng
+# Chất lượng (giữ lại HD+)
 HD_KEYWORDS = re.compile(r'(?i)(?:^|\W)(?:4K|UHD|FHD|Full[ -]?HD|HD|1080|720)(?=\W|$)', re.IGNORECASE)
 SD_KEYWORDS = re.compile(r'(?i)(?:^|\W)(?:SD|480|576|Low|Backup|Dead)(?=\W|$)', re.IGNORECASE)
 
-# Timeout kiểm tra stream (giây)
-CHECK_TIMEOUT = 10
-# Số luồng tải M3U và kiểm tra
-MAX_WORKERS = 10
-# =================================================
-
+# ========== HÀM TIỆN ÍCH ==========
 def download_text(url, timeout=30):
-    """Tải nội dung text từ URL."""
     try:
         headers = {'User-Agent': 'Mozilla/5.0 (compatible; M3U-Builder/1.0)'}
         resp = requests.get(url, timeout=timeout, headers=headers)
@@ -77,7 +73,6 @@ def download_text(url, timeout=30):
         return None
 
 def parse_m3u(content, base_url=None):
-    """Phân tích M3U, trả về danh sách stream dict."""
     streams = []
     lines = content.splitlines()
     i = 0
@@ -99,7 +94,6 @@ def parse_m3u(content, base_url=None):
             if url_line and not url_line.startswith('http') and base_url:
                 url_line = requests.compat.urljoin(base_url, url_line)
             if url_line and not url_line.startswith('#'):
-                # Ước lượng chất lượng
                 quality = "SD"
                 if HD_KEYWORDS.search(name):
                     if re.search(r'(?i)4K|UHD', name):
@@ -122,9 +116,8 @@ def parse_m3u(content, base_url=None):
     return streams
 
 def load_all_m3us(m3u_urls):
-    """Tải song song các M3U, gộp stream."""
     all_streams = []
-    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+    with ThreadPoolExecutor(max_workers=10) as executor:
         future_to_url = {executor.submit(download_text, url): url for url in m3u_urls}
         for future in as_completed(future_to_url):
             url = future_to_url[future]
@@ -139,21 +132,21 @@ def load_all_m3us(m3u_urls):
     return all_streams
 
 def filter_hd_streams(streams):
-    """Chỉ giữ chất lượng HD+."""
     return [s for s in streams if s['quality'] != 'SD']
 
+# Cache kiểm tra sống: dict url -> bool
+_alive_cache = {}
 def check_stream_alive(stream):
-    """Kiểm tra stream có sống không bằng HEAD request với headers."""
     url = stream['url']
+    if url in _alive_cache:
+        return _alive_cache[url]
     headers = {}
-    # Chuyển đổi headers từ dict
     for k, v in stream['headers'].items():
         if k == 'http-user-agent':
             headers['User-Agent'] = v
         elif k == 'http-cookie':
             headers['Cookie'] = v
         elif k == 'http-header':
-            # Dạng "Authorization: Bearer xxx"
             if ': ' in v:
                 h_name, h_val = v.split(': ', 1)
                 headers[h_name] = h_val
@@ -162,29 +155,42 @@ def check_stream_alive(stream):
         else:
             headers[k] = v
     try:
-        # Dùng HEAD để tiết kiệm băng thông
         resp = requests.head(url, headers=headers, timeout=CHECK_TIMEOUT, allow_redirects=True)
         if resp.status_code in (200, 206, 302, 304):
+            _alive_cache[url] = True
             return True
-        # Thử GET với stream=True nếu HEAD không hỗ trợ
+        # Thử GET stream nhẹ
         resp = requests.get(url, headers=headers, timeout=CHECK_TIMEOUT, stream=True)
         if resp.status_code in (200, 206):
-            # Đọc một phần nhỏ để xác nhận
             for _ in resp.iter_content(1024):
                 break
+            _alive_cache[url] = True
             return True
     except Exception:
         pass
+    _alive_cache[url] = False
     return False
+
+def check_alive_batch(streams):
+    """Kiểm tra hàng loạt stream song song, trả về set các url sống."""
+    if not CHECK_ALIVE:
+        return {s['url'] for s in streams}
+    alive_urls = set()
+    with ThreadPoolExecutor(max_workers=ALIVE_CHECK_WORKERS) as executor:
+        future_to_stream = {executor.submit(check_stream_alive, s): s for s in streams}
+        for future in as_completed(future_to_stream):
+            if future.result():
+                alive_urls.add(future_to_stream[future]['url'])
+    return alive_urls
 
 def main():
     print("=== BẮT ĐẦU TẠO Stream_live.m3u ===\n")
 
-    # 1. Tải schedule.json
+    # 1. Tải schedule
     print("[1] Tải lịch thi đấu...")
     schedule_json_str = download_text(SCHEDULE_URL)
     if not schedule_json_str:
-        print("Lỗi: Không thể tải schedule.json. Thoát.")
+        print("Lỗi: Không thể tải schedule.json")
         sys.exit(1)
     schedule_data = json.loads(schedule_json_str)
 
@@ -197,14 +203,14 @@ def main():
         m3u_urls = [line.strip() for line in f if line.strip() and not line.startswith('#')]
     print(f"  Có {len(m3u_urls)} URL M3U.")
 
-    # 3. Tải và phân tích M3U
+    # 3. Tải M3U
     print("[3] Tải M3U...")
     all_streams = load_all_m3us(m3u_urls)
     print(f"  Tổng stream: {len(all_streams)}")
     hd_streams = filter_hd_streams(all_streams)
     print(f"  Stream HD+: {len(hd_streams)}")
 
-    # 4. Khởi tạo FuzzyMatcher
+    # 4. Chuẩn bị fuzzy matcher
     print("[4] Khởi tạo FuzzyMatcher...")
     matcher = FuzzyMatcher(plugin_dir=None, match_threshold=FUZZY_THRESHOLD)
     stream_names = [s['name'] for s in hd_streams]
@@ -217,69 +223,80 @@ def main():
         ignore_misc=True
     )
 
-    # 5. Duyệt từng trận đấu, tìm stream cho từng kênh
-    print("[5] Xử lý từng trận đấu...")
-    results = []  # list các dict cho mỗi dòng M3U
-    game_counter = 0
-    for day_key, day_data in schedule_data.get('days', {}).items():
+    # 5. Xây dựng mapping channel -> list stream (chưa kiểm tra sống)
+    print("[5] Fuzzy matching...")
+    channel_to_streams = {}  # channel_name -> list of (stream, score)
+    # Duyệt qua từng kênh duy nhất trong schedule (lấy từ tất cả các trận)
+    all_channel_names = set()
+    for day_data in schedule_data.get('days', {}).values():
         for game in day_data.get('games', []):
-            game_counter += 1
+            for tv_item in game.get('tv_channels', []):
+                for ch in tv_item.get('channels', []):
+                    all_channel_names.add(ch.strip())
+    print(f"  Số kênh cần tìm: {len(all_channel_names)}")
+    for ch_name in all_channel_names:
+        best_matches = []
+        for stream in hd_streams:
+            match_name, score, _ = matcher.fuzzy_match(
+                query_name=ch_name,
+                candidate_names=[stream['name']],
+                user_ignored_tags=IGNORE_TAGS,
+                ignore_quality=True,
+                ignore_regional=True,
+                ignore_geographic=True,
+                ignore_misc=True
+            )
+            if match_name and score >= FUZZY_THRESHOLD:
+                best_matches.append((stream, score))
+        if best_matches:
+            # Sắp xếp theo score giảm, lấy tối đa MAX_STREAMS_PER_CHANNEL
+            best_matches.sort(key=lambda x: x[1], reverse=True)
+            channel_to_streams[ch_name] = best_matches[:MAX_STREAMS_PER_CHANNEL]
+            print(f"  ✓ {ch_name}: {len(best_matches)} stream (top {len(channel_to_streams[ch_name])})")
+        else:
+            print(f"  ✗ {ch_name}: không khớp")
+
+    # 6. Kiểm tra sống hàng loạt (nếu bật)
+    all_candidate_streams = []
+    for streams in channel_to_streams.values():
+        for stream, _ in streams:
+            all_candidate_streams.append(stream)
+    print(f"\n[6] Kiểm tra sống {len(all_candidate_streams)} stream (có thể mất vài phút)...")
+    alive_urls = check_alive_batch(all_candidate_streams)
+    print(f"  Số stream sống: {len(alive_urls)}")
+
+    # 7. Duyệt từng trận để tạo kết quả (giữ thứ tự trận đấu)
+    print("[7] Tạo file M3U...")
+    results = []  # mỗi phần tử là dict cho một dòng
+    for day_data in schedule_data.get('days', {}).values():
+        for game in day_data.get('games', []):
             match_name = game.get('match', '').strip()
             league = game.get('league', '')
             if not match_name:
                 continue
-            # Dùng set để deduplicate URL trong cùng trận
             seen_urls = set()
-            tv_channels_list = game.get('tv_channels', [])
-            for tv_item in tv_channels_list:
-                for channel_name in tv_item.get('channels', []):
-                    channel_name = channel_name.strip()
-                    if not channel_name:
+            for tv_item in game.get('tv_channels', []):
+                for ch_name in tv_item.get('channels', []):
+                    ch_name = ch_name.strip()
+                    if ch_name not in channel_to_streams:
                         continue
-                    # Tìm tất cả stream khớp với channel_name
-                    matched_streams = []
-                    for stream in hd_streams:
-                        match_name_found, score, _ = matcher.fuzzy_match(
-                            query_name=channel_name,
-                            candidate_names=[stream['name']],
-                            user_ignored_tags=IGNORE_TAGS,
-                            ignore_quality=True,
-                            ignore_regional=True,
-                            ignore_geographic=True,
-                            ignore_misc=True
-                        )
-                        if match_name_found and score >= FUZZY_THRESHOLD:
-                            matched_streams.append((stream, score))
-                    if not matched_streams:
-                        continue
-                    # Sắp xếp theo score giảm dần
-                    matched_streams.sort(key=lambda x: x[1], reverse=True)
-                    for stream, score in matched_streams:
-                        # Kiểm tra trùng URL trong cùng trận
+                    for stream, score in channel_to_streams[ch_name]:
+                        if stream['url'] not in alive_urls:
+                            continue
                         if stream['url'] in seen_urls:
                             continue
-                        # Kiểm tra stream sống
-                        print(f"    Kiểm tra {match_name} - {channel_name} ...", end=' ')
-                        if not check_stream_alive(stream):
-                            print("CHẾT")
-                            continue
-                        print("SỐNG")
                         seen_urls.add(stream['url'])
                         results.append({
                             'match_name': match_name,
-                            'channel_name': stream['name'],  # tên kênh gốc
+                            'channel_name': stream['name'],
                             'stream_url': stream['url'],
                             'headers': stream['headers'],
                             'league': league,
                             'quality': stream['quality']
                         })
-            if game_counter % 5 == 0:
-                print(f"  Đã xử lý {game_counter} trận, tìm được {len(results)} luồng")
+    print(f"  Số dòng M3U tạo được: {len(results)}")
 
-    print(f"\n  Tổng số luồng sau khi kiểm tra sống: {len(results)}")
-
-    # 6. Ghi M3U
-    print(f"[6] Ghi file {OUTPUT_M3U}...")
+    # 8. Ghi file
     with open(OUTPUT_M3U, 'w', encoding='utf-8') as out:
         out.write('#EXTM3U\n')
         for item in results:
@@ -291,7 +308,7 @@ def main():
             out.write(f'{item["stream_url"]}\n')
         out.write('\n')
 
-    print(f"✅ Hoàn tất! Đã tạo {OUTPUT_M3U} với {len(results)} luồng.")
+    print(f"✅ Hoàn tất! Đã tạo {OUTPUT_M3U}.")
 
 if __name__ == '__main__':
     main()
