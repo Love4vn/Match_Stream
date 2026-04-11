@@ -9,7 +9,7 @@ Các tính năng:
 - Xoá tag quảng cáo: ###, ===, ---, ***.
 - Fuzzy matching tên kênh (có xét số kênh và quốc gia).
 - Xử lý stream dạng "NEXT | Tên trận" (ưu tiên match theo tên trận).
-- Thêm prefix ngày giờ [DD/MM HH:MM] vào tên hiển thị.
+- Thêm prefix ngày giờ (từ trường "time" trong schedule, giữ nguyên AM/PM) vào tên hiển thị.
 - Tennis: chỉ lấy mỗi kênh một lần cho tất cả các trận.
 - Kiểm tra stream sống (HEAD/GET) với cache và song song.
 - Xuất ra file Stream_live.m3u với group-title theo giải đấu.
@@ -31,26 +31,26 @@ M3U_LIST_FILE = "M3U_list.txt"
 OUTPUT_M3U = "Stream_live.m3u"
 
 FUZZY_THRESHOLD = 85
-MAX_STREAMS_PER_CHANNEL = 3      # tối đa số stream giữ lại cho mỗi kênh trong một trận
-CHECK_ALIVE = True               # bật/tắt kiểm tra stream sống
+MAX_STREAMS_PER_CHANNEL = 300      # tối đa số stream giữ lại cho mỗi kênh trong một trận
+CHECK_ALIVE = False               # bật/tắt kiểm tra stream sống
 ALIVE_CHECK_WORKERS = 20
 CHECK_TIMEOUT = 8
 
 IGNORE_TAGS = ["[Backup]", "(SD)", "[SD]", "SD", "Low", "480p", "576p", "PLAY+:"]
 
 LEAGUE_TO_GROUP = {
-    "Premier League": "Live Premier League",
-    "Serie A": "Live Serie A",
-    "Bundesliga": "Live Bundesliga",
-    "La Liga": "Live La Liga",
-    "Ligue 1": "Live Ligue 1",
+    "Premier League": "⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League",
+    "Serie A": "⚽️🇮🇹|Live Serie A",
+    "Bundesliga": "⚽️🇩🇪|Live Bundesliga",
+    "La Liga": "⚽️🇪🇦|Live La Liga",
+    "Ligue 1": "⚽️🇨🇵|Live Ligue 1",
     "UEFA Champions League": "Live UEFA Champions League",
     "UEFA Europa League": "Live UEFA Europa League",
     "UEFA Europa Conference League": "Live UEFA Conference League",
     "UEFA Euro": "Live Euro",
     "FA Cup": "Live FA, League Cup",
     "League Cup": "Live FA, League Cup",
-    "Tennis": "Live Tennis",
+    "Tennis": "🎾|Live Tennis",
     "FIFA World Cup": "Live Fifa World Cup",
     "International Friendly": "Live International Friendly"
 }
@@ -400,28 +400,17 @@ def main():
 
     # 5. Thu thập tất cả các yêu cầu (kênh, quốc gia, giải, tên trận, thời gian)
     channel_requests = []          # (channel_name, country_code, league, match_name)
-    game_info = {}                 # match_name -> {'time':..., 'date':...}
-    for day_key, day_data in schedule_data.get('days', {}).items():
-        # Xác định ngày hiển thị (DD/MM)
-        try:
-            date_obj = datetime.strptime(day_key, "%Y%m%d")
-            date_display = date_obj.strftime("%d/%m")
-        except:
-            date_display = day_key[-4:]
+    game_info = {}                 # match_name -> time_str (gốc từ schedule, giữ nguyên AM/PM)
+    for day_data in schedule_data.get('days', {}).values():
         for game in day_data.get('games', []):
             match_name = game.get('match', '').strip()
             league = game.get('league', '')
-            time_str = game.get('time', '')
+            time_str = game.get('time', '')   # ví dụ "11/04 06:30 AM"
             if not match_name:
                 continue
-            # Lưu thông tin ngày giờ
+            # Lưu thông tin thời gian (giữ nguyên AM/PM, không sửa)
             if match_name not in game_info:
-                # Làm sạch thời gian: bỏ AM/PM, chỉ lấy HH:MM
-                time_clean = re.sub(r'\s*(AM|PM)', '', time_str)
-                game_info[match_name] = {
-                    'time': time_clean,
-                    'date': date_display
-                }
+                game_info[match_name] = time_str
             for tv_item in game.get('tv_channels', []):
                 country_raw = tv_item.get('country', '')
                 country_code = normalize_country(country_raw)
@@ -511,12 +500,15 @@ def main():
             league = game.get('league', '')
             if not match_name:
                 continue
-            info = game_info.get(match_name, {})
-            prefix = f"[{info.get('date', '')} {info.get('time', '')}]".strip()
+            # Lấy prefix trực tiếp từ game_info (giữ nguyên AM/PM)
+            prefix = game_info.get(match_name, '')
+            if prefix:
+                prefix = f"[{prefix}]"
+            else:
+                prefix = ""
             seen_urls_in_game = set()
             for tv_item in game.get('tv_channels', []):
-                country_raw = tv_item.get('country', '')
-                country_code = normalize_country(country_raw)
+                # Không cần country_code ở đây vì đã xử lý ở trên
                 for ch_name in tv_item.get('channels', []):
                     ch_name = ch_name.strip()
                     if ch_name not in channel_to_streams:
