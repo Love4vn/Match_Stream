@@ -1,22 +1,28 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Tạo Stream_live.m3u với:
-- Xử lý quốc gia: chỉ match nếu stream có chứa country code (nếu schedule có country)
-- Bỏ qua stream chứa ### (quảng cáo)
-- Tách số kênh: số phải khớp chính xác
-- Tennis: deduplicate toàn bộ (chỉ lấy mỗi kênh một lần cho tất cả trận)
+Tạo Stream_live.m3u từ schedule.json và danh sách M3U.
+
+Các tính năng:
+- Lấy lịch từ GitHub, tải nhiều M3U, phân tích #EXTINF, #EXTVLCOPT.
+- Lọc HD+ (4K, UHD, FHD, HD, 1080, 720), bỏ SD.
+- Xoá tag quảng cáo: ###, ===, ---, ***.
+- Fuzzy matching tên kênh (có xét số kênh và quốc gia).
+- Xử lý stream dạng "NEXT | Tên trận" (ưu tiên match theo tên trận).
+- Thêm prefix ngày giờ [DD/MM HH:MM] vào tên hiển thị.
+- Tennis: chỉ lấy mỗi kênh một lần cho tất cả các trận.
+- Kiểm tra stream sống (HEAD/GET) với cache và song song.
+- Xuất ra file Stream_live.m3u với group-title theo giải đấu.
 """
 
 import json
 import re
 import os
 import sys
-import requests
-from collections import OrderedDict
+from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from urllib.parse import urlparse
 
+import requests
 from fuzzy_matcher import FuzzyMatcher
 
 # ==================== CẤU HÌNH ====================
@@ -25,8 +31,8 @@ M3U_LIST_FILE = "M3U_list.txt"
 OUTPUT_M3U = "Stream_live.m3u"
 
 FUZZY_THRESHOLD = 85
-MAX_STREAMS_PER_CHANNEL = 300          # tối đa số stream giữ lại cho mỗi kênh trong một trận
-CHECK_ALIVE = False                   # bật kiểm tra stream sống
+MAX_STREAMS_PER_CHANNEL = 3      # tối đa số stream giữ lại cho mỗi kênh trong một trận
+CHECK_ALIVE = True               # bật/tắt kiểm tra stream sống
 ALIVE_CHECK_WORKERS = 20
 CHECK_TIMEOUT = 8
 
@@ -49,11 +55,12 @@ LEAGUE_TO_GROUP = {
     "International Friendly": "Live International Friendly"
 }
 
+# Chất lượng
 HD_KEYWORDS = re.compile(r'(?i)(?:^|\W)(?:4K|UHD|FHD|Full[ -]?HD|HD|1080|720)(?=\W|$)', re.IGNORECASE)
 SD_KEYWORDS = re.compile(r'(?i)(?:^|\W)(?:SD|480|576|Low|Backup|Dead)(?=\W|$)', re.IGNORECASE)
 
-# ========== Mapping quốc gia ==========
-# Ánh xạ tên quốc gia (tiếng Anh) sang mã 2 ký tự (ưu tiên viết hoa)
+# ========== XỬ LÝ QUỐC GIA ==========
+# Ánh xạ tên quốc gia (tiếng Anh, viết thường) -> mã 2 chữ
 COUNTRY_CODE_MAP = {
     "united states": "US", "usa": "US", "us": "US",
     "united kingdom": "UK", "uk": "UK", "great britain": "UK",
@@ -139,7 +146,6 @@ COUNTRY_CODE_MAP = {
     "uganda": "UG",
     "rwanda": "RW",
     "ghana": "GH",
-    "nigeria": "NG",
     "senegal": "SN",
     "ivory coast": "CI",
     "cameroon": "CM",
@@ -149,12 +155,16 @@ COUNTRY_CODE_MAP = {
     "zambia": "ZM",
 }
 
+# Mapping ngược: mã -> danh sách tên đầy đủ (để kiểm tra trong tên stream)
+CODE_TO_FULLNAMES = {}
+for name, code in COUNTRY_CODE_MAP.items():
+    CODE_TO_FULLNAMES.setdefault(code, []).append(name)
+
 def normalize_country(country_name):
-    """Chuyển tên quốc gia (có thể viết hoa, viết thường) thành mã 2 chữ cái."""
+    """Chuyển tên quốc gia (có thể viết hoa, viết thường) thành mã 2 chữ."""
     if not country_name:
         return None
     key = country_name.strip().lower()
-    # Xử lý trường hợp "United States of America"
     if "united states" in key:
         return "US"
     if "united kingdom" in key:
@@ -163,21 +173,11 @@ def normalize_country(country_name):
         return "VN"
     return COUNTRY_CODE_MAP.get(key, None)
 
-# ========== HÀM XỬ LÝ TÊN KÊNH ==========
-def extract_channel_number(name):
-    """Lấy số cuối cùng trong tên kênh (ví dụ 'beIN SPORTS 1' -> 1, 'BBC One' -> None)."""
-    # Tìm số đứng một mình ở cuối hoặc sau chữ 'SPORTS', 'CHANNEL', ...
-    # Pattern: số nguyên (1-999) có thể có khoảng trắng xung quanh
-    match = re.search(r'\b(\d+)\b', name)
-    if match:
-        return int(match.group(1))
-    return None
-
 def contains_country(stream_name, country_code):
-    """Kiểm tra stream_name có chứa country_code dưới dạng tiền tố/hậu tố hay không."""
+    """Kiểm tra stream_name có chứa country_code dưới dạng mã 2 chữ hoặc tên đầy đủ."""
     if not country_code:
-        return True  # không yêu cầu quốc gia -> luôn đúng
-    # Các pattern thường gặp: US:, US -, |US|, (US), [US], US space
+        return True
+    # Mã 2 chữ
     patterns = [
         rf'\b{country_code}\s*:',
         rf'\b{country_code}\s*-',
@@ -189,19 +189,32 @@ def contains_country(stream_name, country_code):
     for pat in patterns:
         if re.search(pat, stream_name, re.IGNORECASE):
             return True
+    # Tên đầy đủ
+    if country_code in CODE_TO_FULLNAMES:
+        for full_name in CODE_TO_FULLNAMES[country_code]:
+            if re.search(rf'\b{re.escape(full_name)}\b', stream_name, re.IGNORECASE):
+                return True
     return False
+
+# ========== TIỀN XỬ LÝ TÊN KÊNH ==========
+def extract_channel_number(name):
+    """Trả về số nguyên cuối cùng trong tên (ví dụ 'beIN SPORTS 1' -> 1)."""
+    match = re.search(r'\b(\d+)\b', name)
+    return int(match.group(1)) if match else None
 
 def clean_stream_name(name):
     """Loại bỏ các tag phổ biến (┃...┃, tiền tố 2 chữ cái + : hoặc -, ...)."""
-    # Giữ lại các ký tự đặc biệt cần thiết nhưng loại bỏ các tiền tố
     name = re.sub(r'┃[^┃]+┃', '', name)
     name = re.sub(r'\b[A-Z]{2}:\s*', '', name)
     name = re.sub(r'\b[A-Z]{2}\s*-\s*', '', name)
     name = re.sub(r'\[[^\]]+\]', '', name)
-    # Không loại bỏ ngoặc tròn vì có thể chứa regional (East/West)
     return name.strip()
 
-# ========== CÁC HÀM TIỆN ÍCH ==========
+def is_advertisement_stream(name):
+    """Bỏ qua nếu tên chứa ###, ===, ---, *** (quảng cáo)."""
+    return bool(re.search(r'#{3,}|={3,}|-{3,}|\*{3,}', name))
+
+# ========== TẢI VÀ PHÂN TÍCH M3U ==========
 def download_text(url, timeout=30):
     try:
         headers = {'User-Agent': 'Mozilla/5.0 (compatible; M3U-Builder/1.0)'}
@@ -223,8 +236,7 @@ def parse_m3u(content, base_url=None):
         if line.startswith('#EXTINF'):
             parts = line.split(',', 1)
             name = parts[1].strip() if len(parts) > 1 else ""
-            # Bỏ qua nếu tên chứa ### (3 dấu # trở lên)
-            if re.search(r'#{3,}', name):
+            if is_advertisement_stream(name):
                 i += 1
                 continue
             headers = {}
@@ -240,6 +252,7 @@ def parse_m3u(content, base_url=None):
             if url_line and not url_line.startswith('http') and base_url:
                 url_line = requests.compat.urljoin(base_url, url_line)
             if url_line and not url_line.startswith('#'):
+                # Chất lượng
                 quality = "SD"
                 if HD_KEYWORDS.search(name):
                     if re.search(r'(?i)4K|UHD', name):
@@ -250,7 +263,6 @@ def parse_m3u(content, base_url=None):
                         quality = "HD"
                 if SD_KEYWORDS.search(name):
                     quality = "SD"
-                # Lưu thêm clean_name và channel_number
                 clean = clean_stream_name(name)
                 num = extract_channel_number(name)
                 streams.append({
@@ -285,6 +297,7 @@ def load_all_m3us(m3u_urls):
 def filter_hd_streams(streams):
     return [s for s in streams if s['quality'] != 'SD']
 
+# ========== KIỂM TRA STREAM SỐNG ==========
 _alive_cache = {}
 def check_stream_alive(stream):
     url = stream['url']
@@ -309,6 +322,7 @@ def check_stream_alive(stream):
         if resp.status_code in (200, 206, 302, 304):
             _alive_cache[url] = True
             return True
+        # Thử GET nhẹ
         resp = requests.get(url, headers=headers, timeout=CHECK_TIMEOUT, stream=True)
         if resp.status_code in (200, 206):
             for _ in resp.iter_content(1024):
@@ -331,6 +345,19 @@ def check_alive_batch(streams):
                 alive_urls.add(future_to_stream[future]['url'])
     return alive_urls
 
+# ========== MATCH THEO TÊN TRẬN (NEXT | ...) ==========
+def match_stream_by_match_name(match_name, stream_name):
+    """Chuẩn hóa và kiểm tra stream_name có chứa match_name không."""
+    def normalize(s):
+        s = s.lower()
+        s = re.sub(r'[^\w\s]', '', s)   # xóa dấu câu
+        s = re.sub(r'\s+', ' ', s).strip()
+        return s
+    norm_match = normalize(match_name)
+    norm_stream = normalize(stream_name)
+    return norm_match in norm_stream
+
+# ========== HÀM CHÍNH ==========
 def main():
     print("=== BẮT ĐẦU TẠO Stream_live.m3u ===\n")
 
@@ -358,10 +385,9 @@ def main():
     hd_streams = filter_hd_streams(all_streams)
     print(f"  Stream HD+: {len(hd_streams)}")
 
-    # 4. Chuẩn bị fuzzy matcher
+    # 4. Chuẩn bị FuzzyMatcher cho kênh thường
     print("[4] Khởi tạo FuzzyMatcher...")
     matcher = FuzzyMatcher(plugin_dir=None, match_threshold=FUZZY_THRESHOLD)
-    # Dùng clean_name để precompute
     clean_names = [s['clean_name'] for s in hd_streams if s['clean_name']]
     matcher.precompute_normalizations(
         clean_names,
@@ -372,41 +398,82 @@ def main():
         ignore_misc=True
     )
 
-    # 5. Xây dựng danh sách các kênh từ schedule (kèm country)
-    # Mỗi mục: (channel_name, country_code, league)
-    channel_requests = []
-    for day_data in schedule_data.get('days', {}).values():
+    # 5. Thu thập tất cả các yêu cầu (kênh, quốc gia, giải, tên trận, thời gian)
+    channel_requests = []          # (channel_name, country_code, league, match_name)
+    game_info = {}                 # match_name -> {'time':..., 'date':...}
+    for day_key, day_data in schedule_data.get('days', {}).items():
+        # Xác định ngày hiển thị (DD/MM)
+        try:
+            date_obj = datetime.strptime(day_key, "%Y%m%d")
+            date_display = date_obj.strftime("%d/%m")
+        except:
+            date_display = day_key[-4:]
         for game in day_data.get('games', []):
+            match_name = game.get('match', '').strip()
             league = game.get('league', '')
+            time_str = game.get('time', '')
+            if not match_name:
+                continue
+            # Lưu thông tin ngày giờ
+            if match_name not in game_info:
+                # Làm sạch thời gian: bỏ AM/PM, chỉ lấy HH:MM
+                time_clean = re.sub(r'\s*(AM|PM)', '', time_str)
+                game_info[match_name] = {
+                    'time': time_clean,
+                    'date': date_display
+                }
             for tv_item in game.get('tv_channels', []):
                 country_raw = tv_item.get('country', '')
                 country_code = normalize_country(country_raw)
                 for ch_name in tv_item.get('channels', []):
                     ch_name = ch_name.strip()
-                    if ch_name:
-                        channel_requests.append((ch_name, country_code, league))
-    # Loại bỏ trùng lặp để tối ưu (giữ lại country đầu tiên gặp)
+                    if not ch_name:
+                        continue
+                    # Nếu country_code vẫn None, thử trích từ tên kênh
+                    if country_code is None:
+                        for full_name, code in COUNTRY_CODE_MAP.items():
+                            if re.search(rf'\b{re.escape(full_name)}\b', ch_name, re.IGNORECASE):
+                                country_code = code
+                                break
+                    channel_requests.append((ch_name, country_code, league, match_name))
+
+    # Loại bỏ trùng lặp (giữ lại country, league, match_name đầu tiên)
     unique_reqs = {}
-    for ch, cc, lg in channel_requests:
+    for ch, cc, lg, mn in channel_requests:
         if ch not in unique_reqs:
-            unique_reqs[ch] = (cc, lg)
+            unique_reqs[ch] = (cc, lg, mn)
     print(f"  Số kênh cần tìm: {len(unique_reqs)}")
 
-    # 6. Fuzzy matching có xét số kênh và quốc gia
+    # 6. Xây dựng dictionary các stream đặc biệt (chứa tên trận)
+    match_specific_streams = {}
+    for stream in hd_streams:
+        for match_name in game_info.keys():
+            if match_stream_by_match_name(match_name, stream['name']):
+                match_specific_streams.setdefault(match_name, []).append(stream)
+
+    # 7. Fuzzy matching (ưu tiên stream đặc biệt)
     channel_to_streams = {}  # channel_name -> list of (stream, score)
-    for ch_name, (country_code, league) in unique_reqs.items():
+    for ch_name, (country_code, league, match_name) in unique_reqs.items():
+        # Thử dùng stream đặc biệt trước
+        if match_name in match_specific_streams:
+            candidates = []
+            for stream in match_specific_streams[match_name]:
+                if country_code and not contains_country(stream['name'], country_code):
+                    continue
+                candidates.append((stream, 100))
+            if candidates:
+                channel_to_streams[ch_name] = candidates[:MAX_STREAMS_PER_CHANNEL]
+                print(f"  ✓ {ch_name} (match specific) -> {len(candidates)} stream")
+                continue
+        # Nếu không, dùng fuzzy matching thông thường
         best_matches = []
-        # Lấy số từ channel_name trong schedule
         expected_number = extract_channel_number(ch_name)
         for stream in hd_streams:
-            # Kiểm tra quốc gia
             if country_code and not contains_country(stream['name'], country_code):
                 continue
-            # Kiểm tra số kênh
             if expected_number is not None and stream['channel_number'] != expected_number:
                 continue
-            # Fuzzy match trên clean_name
-            match_name, score, _ = matcher.fuzzy_match(
+            match_name_found, score, _ = matcher.fuzzy_match(
                 query_name=ch_name,
                 candidate_names=[stream['clean_name']],
                 user_ignored_tags=IGNORE_TAGS,
@@ -415,16 +482,16 @@ def main():
                 ignore_geographic=True,
                 ignore_misc=True
             )
-            if match_name and score >= FUZZY_THRESHOLD:
+            if match_name_found and score >= FUZZY_THRESHOLD:
                 best_matches.append((stream, score))
         if best_matches:
             best_matches.sort(key=lambda x: x[1], reverse=True)
             channel_to_streams[ch_name] = best_matches[:MAX_STREAMS_PER_CHANNEL]
-            print(f"  ✓ {ch_name} (country={country_code}) -> {len(best_matches)} stream")
+            print(f"  ✓ {ch_name} (fuzzy) -> {len(best_matches)} stream")
         else:
-            print(f"  ✗ {ch_name} (country={country_code}) -> không khớp")
+            print(f"  ✗ {ch_name} -> không khớp")
 
-    # 7. Kiểm tra sống hàng loạt
+    # 8. Kiểm tra sống hàng loạt
     all_candidate_streams = []
     for streams in channel_to_streams.values():
         for stream, _ in streams:
@@ -433,10 +500,10 @@ def main():
     alive_urls = check_alive_batch(all_candidate_streams)
     print(f"  Số stream sống: {len(alive_urls)}")
 
-    # 8. Tạo kết quả theo từng trận (riêng Tennis deduplicate toàn bộ)
+    # 9. Tạo kết quả theo từng trận (Tennis dedup toàn bộ)
     print("[6] Tạo file M3U...")
-    results = []          # list các dòng output
-    tennis_seen_urls = set()   # dùng cho Tennis để deduplicate toàn bộ
+    results = []
+    tennis_seen_urls = set()
 
     for day_data in schedule_data.get('days', {}).values():
         for game in day_data.get('games', []):
@@ -444,6 +511,8 @@ def main():
             league = game.get('league', '')
             if not match_name:
                 continue
+            info = game_info.get(match_name, {})
+            prefix = f"[{info.get('date', '')} {info.get('time', '')}]".strip()
             seen_urls_in_game = set()
             for tv_item in game.get('tv_channels', []):
                 country_raw = tv_item.get('country', '')
@@ -452,10 +521,9 @@ def main():
                     ch_name = ch_name.strip()
                     if ch_name not in channel_to_streams:
                         continue
-                    for stream, score in channel_to_streams[ch_name]:
+                    for stream, _ in channel_to_streams[ch_name]:
                         if stream['url'] not in alive_urls:
                             continue
-                        # Xử lý Tennis: nếu đã có URL trong toàn bộ thì bỏ qua
                         if league == "Tennis":
                             if stream['url'] in tennis_seen_urls:
                                 continue
@@ -470,17 +538,20 @@ def main():
                             'stream_url': stream['url'],
                             'headers': stream['headers'],
                             'league': league,
-                            'quality': stream['quality']
+                            'time_prefix': prefix
                         })
     print(f"  Số dòng M3U tạo được: {len(results)}")
 
-    # 9. Ghi file
+    # 10. Ghi file M3U
     with open(OUTPUT_M3U, 'w', encoding='utf-8') as out:
         out.write('#EXTM3U\n')
         for item in results:
             group = LEAGUE_TO_GROUP.get(item['league'], item['league'])
-            display_title = f"{item['match_name']} ({item['channel_name']})"
-            out.write(f'#EXTINF:-1 group-title="{group}",{display_title}\n')
+            if item['time_prefix']:
+                display = f"{item['time_prefix']} {item['match_name']} ({item['channel_name']})"
+            else:
+                display = f"{item['match_name']} ({item['channel_name']})"
+            out.write(f'#EXTINF:-1 group-title="{group}",{display}\n')
             for key, val in item['headers'].items():
                 out.write(f'#EXTVLCOPT:{key}={val}\n')
             out.write(f'{item["stream_url"]}\n')
