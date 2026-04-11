@@ -36,7 +36,7 @@ CHECK_ALIVE = False               # bật/tắt kiểm tra stream sống
 ALIVE_CHECK_WORKERS = 20
 CHECK_TIMEOUT = 8
 
-IGNORE_TAGS = ["[Backup]", "(SD)", "[SD]", "SD", "Low", "480p", "576p", "PLAY+:"]
+IGNORE_TAGS = ["[Backup]", "(SD)", "[SD]", "SD", "Low", "480p", "576p", "PLAY+:", "VIP:", "NOW:", "RAW", "HEVC", "VIP", "NOW"]
 
 LEAGUE_TO_GROUP = {
     "Premier League": "⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League",
@@ -209,10 +209,12 @@ def extract_channel_number(name):
     return int(match.group(1)) if match else None
 
 def clean_stream_name(name):
-    """Loại bỏ các tag phổ biến (┃...┃, tiền tố 2 chữ cái + : hoặc -, ...)."""
+    """Loại bỏ các tag phổ biến (┃...┃, tiền tố 2-5 chữ cái + : hoặc -, ...)."""
     name = re.sub(r'┃[^┃]+┃', '', name)
-    name = re.sub(r'\b[A-Z]{2}:\s*', '', name)
-    name = re.sub(r'\b[A-Z]{2}\s*-\s*', '', name)
+    # Xóa tiền tố dạng "VIP:", "NOW:", "UK:", "US:" (2-5 chữ hoa + dấu hai chấm)
+    name = re.sub(r'\b[A-Z]{2,5}:\s*', '', name)
+    # Xóa tiền tố dạng "UK -", "VIP -" (2-5 chữ hoa + dấu cách + dấu gạch ngang)
+    name = re.sub(r'\b[A-Z]{2,5}\s*-\s*', '', name)
     name = re.sub(r'\[[^\]]+\]', '', name)
     return name.strip()
 
