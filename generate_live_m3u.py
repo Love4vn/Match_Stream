@@ -101,22 +101,28 @@ COUNTRY_CODE_MAP = {
     "russia": "RU",
     "poland": "PL",
     "czech": "CZ",
+    "czechia": "CZ",
     "slovakia": "SK",
     "hungary": "HU",
     "romania": "RO",
     "bulgaria": "BG",
     "serbia": "RS",
+    "srbija": "RS",
     "croatia": "HR",
+    "hrvatska": "HR",
     "slovenia": "SI",
     "bosnia": "BA",
     "macedonia": "MK",
     "albania": "AL",
     "greece": "GR",
+    "hellas": "GR",
     "cyprus": "CY",
     "portugal": "PT",
     "sweden": "SE",
+    "sverige": "SE",
     "norway": "NO",
     "denmark": "DK",
+    "danmark": "DK",
     "finland": "FI",
     "iceland": "IS",
     "ireland": "IE",
@@ -212,7 +218,7 @@ def clean_stream_name(name):
 
 def is_advertisement_stream(name):
     """Bỏ qua nếu tên chứa ###, ===, ---, *** (quảng cáo)."""
-    return bool(re.search(r'#{3,}|={3,}|-{3,}|\*{3,}', name))
+    return bool(re.search(r'#{3,}|={3,}|☰{3,}|-{3,}|\*{3,}', name))
 
 # ========== TẢI VÀ PHÂN TÍCH M3U ==========
 def download_text(url, timeout=30):
