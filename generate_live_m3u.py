@@ -32,7 +32,7 @@ OUTPUT_M3U = "Stream_live.m3u"
 
 FUZZY_THRESHOLD = 85
 MAX_STREAMS_PER_CHANNEL = 500      # tối đa số stream giữ lại cho mỗi kênh trong một trận
-CHECK_ALIVE = True               # bật/tắt kiểm tra stream sống
+CHECK_ALIVE = False               # bật/tắt kiểm tra stream sống
 ALIVE_CHECK_WORKERS = 20
 CHECK_TIMEOUT = 8
 
