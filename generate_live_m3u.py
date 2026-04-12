@@ -36,7 +36,7 @@ CHECK_ALIVE = False               # bật/tắt kiểm tra stream sống
 ALIVE_CHECK_WORKERS = 20
 CHECK_TIMEOUT = 8
 
-IGNORE_TAGS = ["[Backup]", "(SD)", "[SD]", "SD", "Low", "480p", "576p", "PLAY+:", "VIP:", "NOW:", "RAW", "HEVC", "VIP", "NOW"]
+IGNORE_TAGS = ["[Backup]", "(SD)", "[SD]", "SD", "Low", "480p", "576p", "PLAY+:", "VIP:", "NOW:", "RAW", "HEVC", "VIP", "NOW", "FHD", "HD"]
 
 LEAGUE_TO_GROUP = {
     "Premier League": "⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League",
@@ -167,8 +167,11 @@ for name, code in COUNTRY_CODE_MAP.items():
     CODE_TO_FULLNAMES.setdefault(code, []).append(name)
 
 def normalize_country(country_name):
-    """Chuyển tên quốc gia (có thể viết hoa, viết thường) thành mã 2 chữ."""
     if not country_name:
+        return None
+    # Các nhãn không phải quốc gia (bỏ qua)
+    SPECIAL_LABELS = ["livesportsontv", "wheresthematch", "ausport"]
+    if country_name.strip().lower() in SPECIAL_LABELS:
         return None
     key = country_name.strip().lower()
     if "united states" in key:
@@ -209,13 +212,12 @@ def extract_channel_number(name):
     return int(match.group(1)) if match else None
 
 def clean_stream_name(name):
-    """Loại bỏ các tag phổ biến (┃...┃, tiền tố 2-5 chữ cái + : hoặc -, ...)."""
     name = re.sub(r'┃[^┃]+┃', '', name)
-    # Xóa tiền tố dạng "VIP:", "NOW:", "UK:", "US:" (2-5 chữ hoa + dấu hai chấm)
     name = re.sub(r'\b[A-Z]{2,5}:\s*', '', name)
-    # Xóa tiền tố dạng "UK -", "VIP -" (2-5 chữ hoa + dấu cách + dấu gạch ngang)
     name = re.sub(r'\b[A-Z]{2,5}\s*-\s*', '', name)
     name = re.sub(r'\[[^\]]+\]', '', name)
+    # Xóa các tag chất lượng (dạng từ riêng)
+    name = re.sub(r'\b(?:FHD|HD|4K|UHD|8K|SD)\b', '', name, flags=re.IGNORECASE)
     return name.strip()
 
 def is_advertisement_stream(name):
@@ -481,6 +483,8 @@ def main():
             )
             if match_name_found and score >= FUZZY_THRESHOLD:
                 best_matches.append((stream, score))
+            else:
+                print(f"    Debug: {ch_name} vs {stream['clean_name']} -> score {score}")
         if best_matches:
             best_matches.sort(key=lambda x: x[1], reverse=True)
             channel_to_streams[ch_name] = best_matches[:MAX_STREAMS_PER_CHANNEL]
