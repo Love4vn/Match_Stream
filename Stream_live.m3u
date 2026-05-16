@@ -1,312 +1,372 @@
 #EXTM3U
-#EXTINF:-1 group-title="⚽️🇩🇪|Live Bundesliga",[16/05 08:30 PM] Bayern Munich vs FC Cologne (AU - BEIN SPORTS 3 UHD)
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] Juventus vs Fiorentina (US: BEIN SPORTS 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F5257E12050BC80508D63295AD975479
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=325031&extension=ts&play_token=2NuNV7Lo8o
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] Juventus vs Fiorentina (AU - BEIN SPORTS 2 UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/78138
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] Juventus vs Fiorentina (AU: BEIN SPORTS 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F5257E12050BC80508D63295AD975479
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=441312&extension=ts&play_token=gV51EI6nbv
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] Juventus vs Fiorentina (TR - BEIN SPORTS 2 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/39562
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] Juventus vs Fiorentina (TR - BEIN SPORTS 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/39558
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] Juventus vs Fiorentina (AR - BEIN SPORTS 2 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/203886
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] Juventus vs Fiorentina (AR - BEIN SPORTS 2 UHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/149614
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] Juventus vs Fiorentina (FR - BEIN SPORTS 2 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/56654
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] Juventus vs Fiorentina (AR - BEIN SPORTS 2 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/83132
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] Juventus vs Fiorentina (MY - BEIN SPORTS 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1052426
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] Juventus vs Fiorentina (FR-REU - BEIN SPORTS 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/987080
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] Juventus vs Fiorentina (ID - beIN Sports 2  HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1247885
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] Juventus vs Fiorentina (FR: beIN SPORTS 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F5257E12050BC80508D63295AD975479
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=220941&extension=ts&play_token=E9o7pbjdbV
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] Juventus vs Fiorentina (FR: BEIN SPORTS 2 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F5257E12050BC80508D63295AD975479
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=107006&extension=ts&play_token=tzBKYkKphP
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] Juventus vs Fiorentina (BEIN SPORTS FHD 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C1FFEB664EBB5E4274E0B2777AD4C775
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1836267&extension=ts&play_token=pnTHlprAqV
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] Juventus vs Fiorentina (BEIN SPORTS 2 4k)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C1FFEB664EBB5E4274E0B2777AD4C775
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1660426&extension=ts&play_token=K3CCkWF4Ut
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] Juventus vs Fiorentina (FR-CAR - BEIN SPORTS 2 HD ²)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1099723
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] AS Roma vs Lazio (AU - BEIN SPORTS 3 UHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/78139
-#EXTINF:-1 group-title="⚽️🇩🇪|Live Bundesliga",[16/05 08:30 PM] Bayern Munich vs FC Cologne (AU: BEIN SPORTS 3 HD)
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] AS Roma vs Lazio (AU: BEIN SPORTS 3 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FFC11C8F729258086E7184DC251CD921
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=441311&extension=ts&play_token=0Kv0TO2D2i
-#EXTINF:-1 group-title="⚽️🇩🇪|Live Bundesliga",[16/05 08:30 PM] Bayern Munich vs FC Cologne (TR - BEIN SPORTS 3 UHD)
+#EXTVLCOPT:http-header=Authorization: Bearer F5257E12050BC80508D63295AD975479
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=441311&extension=ts&play_token=q8J5spfyMn
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] AS Roma vs Lazio (TR - BEIN SPORTS 3 UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/39561
-#EXTINF:-1 group-title="⚽️🇩🇪|Live Bundesliga",[16/05 08:30 PM] Bayern Munich vs FC Cologne (TR - BEIN SPORTS 3 HD)
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] AS Roma vs Lazio (TR - BEIN SPORTS 3 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/39557
-#EXTINF:-1 group-title="⚽️🇩🇪|Live Bundesliga",[16/05 08:30 PM] Bayern Munich vs FC Cologne (AR - BEIN SPORTS 3 4K)
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] AS Roma vs Lazio (AR - BEIN SPORTS 3 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/203887
-#EXTINF:-1 group-title="⚽️🇩🇪|Live Bundesliga",[16/05 08:30 PM] Bayern Munich vs FC Cologne (AR - BEIN SPORTS 3 UHD)
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] AS Roma vs Lazio (AR - BEIN SPORTS 3 UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/149615
-#EXTINF:-1 group-title="⚽️🇩🇪|Live Bundesliga",[16/05 08:30 PM] Bayern Munich vs FC Cologne (FR - BEIN SPORTS 3 FHD)
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] AS Roma vs Lazio (FR - BEIN SPORTS 3 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/56653
-#EXTINF:-1 group-title="⚽️🇩🇪|Live Bundesliga",[16/05 08:30 PM] Bayern Munich vs FC Cologne (AR - BEIN SPORTS 3 FHD)
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] AS Roma vs Lazio (AR - BEIN SPORTS 3 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/83133
-#EXTINF:-1 group-title="⚽️🇩🇪|Live Bundesliga",[16/05 08:30 PM] Bayern Munich vs FC Cologne (MY - BEIN SPORTS 3 HD)
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] AS Roma vs Lazio (MY - BEIN SPORTS 3 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1052430
-#EXTINF:-1 group-title="⚽️🇩🇪|Live Bundesliga",[16/05 08:30 PM] Bayern Munich vs FC Cologne (FR-REU - BEIN SPORTS 3 HD)
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] AS Roma vs Lazio (FR-REU - BEIN SPORTS 3 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/987081
-#EXTINF:-1 group-title="⚽️🇩🇪|Live Bundesliga",[16/05 08:30 PM] Bayern Munich vs FC Cologne (ID - beIN Sports 3  HD)
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] AS Roma vs Lazio (ID - beIN Sports 3  HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1247886
-#EXTINF:-1 group-title="⚽️🇩🇪|Live Bundesliga",[16/05 08:30 PM] Bayern Munich vs FC Cologne (FR: BEIN SPORTS 3 4K)
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] AS Roma vs Lazio (FR: BEIN SPORTS 3 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FFC11C8F729258086E7184DC251CD921
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=107007&extension=ts&play_token=hKkSPtfsxT
-#EXTINF:-1 group-title="⚽️🇩🇪|Live Bundesliga",[16/05 08:30 PM] Bayern Munich vs FC Cologne (FR: beIN SPORTS 3 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer F5257E12050BC80508D63295AD975479
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=107007&extension=ts&play_token=tb9TVr76QP
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] AS Roma vs Lazio (FR: beIN SPORTS 3 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FFC11C8F729258086E7184DC251CD921
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=220940&extension=ts&play_token=nhdMF8QCAc
-#EXTINF:-1 group-title="⚽️🇩🇪|Live Bundesliga",[16/05 08:30 PM] Bayern Munich vs FC Cologne (BEIN SPORTS FHD 3)
+#EXTVLCOPT:http-header=Authorization: Bearer F5257E12050BC80508D63295AD975479
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=220940&extension=ts&play_token=6a8B5ClFLj
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] AS Roma vs Lazio (BEIN SPORTS FHD 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 121E68ECA188E82C302D79271FC3E81E
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1836266&extension=ts&play_token=8Jf6fA5X0a
-#EXTINF:-1 group-title="⚽️🇩🇪|Live Bundesliga",[16/05 08:30 PM] Bayern Munich vs FC Cologne (BEIN SPORTS 3 4k)
+#EXTVLCOPT:http-header=Authorization: Bearer C1FFEB664EBB5E4274E0B2777AD4C775
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1836266&extension=ts&play_token=PbCEQWCR5f
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] AS Roma vs Lazio (BEIN SPORTS 3 4k)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 121E68ECA188E82C302D79271FC3E81E
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1660425&extension=ts&play_token=D687vLkOa0
-#EXTINF:-1 group-title="⚽️🇩🇪|Live Bundesliga",[16/05 08:30 PM] Bayern Munich vs FC Cologne (FR-CAR - BEIN SPORTS 3 HD ²)
+#EXTVLCOPT:http-header=Authorization: Bearer C1FFEB664EBB5E4274E0B2777AD4C775
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1660425&extension=ts&play_token=sVfPtyUozo
+#EXTINF:-1 group-title="⚽️🇮🇹|Live Serie A",[17/05 05:00 PM] AS Roma vs Lazio (FR-CAR - BEIN SPORTS 3 HD ²)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1099724
-#EXTINF:-1 group-title="⚽️🇩🇪|Live Bundesliga",[16/05 08:30 PM] Bayern Munich vs FC Cologne (AR - BEIN SPORTS FRENCH 2 4K+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/334055
-#EXTINF:-1 group-title="⚽️🇩🇪|Live Bundesliga",[16/05 08:30 PM] Bayern Munich vs FC Cologne (AR - BEIN SPORTS FRENCH 2 UHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/211673
-#EXTINF:-1 group-title="⚽️🇩🇪|Live Bundesliga",[16/05 08:30 PM] Bayern Munich vs FC Cologne (FR - BEIN SPORTS 2 FRENCH FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/211444
-#EXTINF:-1 group-title="⚽️🇩🇪|Live Bundesliga",[16/05 08:30 PM] Bayern Munich vs FC Cologne (FR - BEIN SPORTS 2 FRENCH HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/987008
-#EXTINF:-1 group-title="⚽️🇩🇪|Live Bundesliga",[16/05 08:30 PM] Bayern Munich vs FC Cologne (AR| BEIN SPORTS 2 FRANCE FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 121E68ECA188E82C302D79271FC3E81E
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1330416&extension=ts&play_token=6BAKm0JTZM
-#EXTINF:-1 group-title="⚽️🇩🇪|Live Bundesliga",[16/05 08:30 PM] Bayern Munich vs FC Cologne (AR| BEIN SPORTS 2 FRANCE HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 121E68ECA188E82C302D79271FC3E81E
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1330452&extension=ts&play_token=pPqMk40tqz
-#EXTINF:-1 group-title="Live FA, League Cup",[16/05 09:00 PM] Manchester City vs Chelsea (US - ESPN DEPORTES HD ◉)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/71925
-#EXTINF:-1 group-title="Live FA, League Cup",[16/05 09:00 PM] Manchester City vs Chelsea (US - FUBO SPORTS NETWORK HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/200924
-#EXTINF:-1 group-title="Live FA, League Cup",[16/05 09:00 PM] Manchester City vs Chelsea (US - FUBO SPORTS NETWORK HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/325608
-#EXTINF:-1 group-title="Live FA, League Cup",[16/05 09:00 PM] Manchester City vs Chelsea (US: FUBO SPORTS NETWORK HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FFC11C8F729258086E7184DC251CD921
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=325046&extension=ts&play_token=R6AQGX3MQC
-#EXTINF:-1 group-title="Live FA, League Cup",[16/05 09:00 PM] Manchester City vs Chelsea (US - ESPN 2 HD ◉)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/71935
-#EXTINF:-1 group-title="Live FA, League Cup",[16/05 09:00 PM] Manchester City vs Chelsea (US: ESPN 2 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FFC11C8F729258086E7184DC251CD921
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=325021&extension=ts&play_token=ARBh2MjVLU
-#EXTINF:-1 group-title="Live FA, League Cup",[16/05 09:00 PM] Manchester City vs Chelsea (NL - ESPN 2 HD ◉)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1091
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Italian Open (US - TENNIS CHANNEL HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/316492
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Italian Open (US - TENNIS CHANNEL HD [BK])
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/316476
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Italian Open (US - TENNIS CHANNEL HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/71954
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Italian Open (US - TENNIS TV FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/795078
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Italian Open (US: TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FFC11C8F729258086E7184DC251CD921
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=324994&extension=ts&play_token=pE3zGUgvMl
+#EXTVLCOPT:http-header=Authorization: Bearer F5257E12050BC80508D63295AD975479
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=324994&extension=ts&play_token=m8yjBivMyz
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Italian Open (US: TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FFC11C8F729258086E7184DC251CD921
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=686562&extension=ts&play_token=4QcpqLIACr
+#EXTVLCOPT:http-header=Authorization: Bearer F5257E12050BC80508D63295AD975479
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=686562&extension=ts&play_token=wMwAtmjaWa
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Italian Open (CA - VIP TSN 5 HD ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/42913
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Italian Open (CA - TSN 5 HD ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/30353
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Italian Open (MT - TSN 5 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/816038
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Italian Open (CAFR - TVA SPORTS HD ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/47402
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Italian Open (CAFR - BK- TVA SPORTS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/78782
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Italian Open (CAFR - TVA SPORTS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1032691
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Italian Open (LAT - TVJ SPORTS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/325614
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Italian Open (LAT - TVJ SPORTS NETWORK HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/325615
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Internazionali BNL dItalia (UK - SKY SPORTS TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/664452
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Internazionali BNL dItalia (UK: SKY SPORTS TENNIS HEVC HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FFC11C8F729258086E7184DC251CD921
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=706974&extension=ts&play_token=3sZbUCsQLC
+#EXTVLCOPT:http-header=Authorization: Bearer F5257E12050BC80508D63295AD975479
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=706974&extension=ts&play_token=AECrQK9y8t
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Internazionali BNL dItalia (UK: SKY SPORTS TENNIS HEVC 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FFC11C8F729258086E7184DC251CD921
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=706975&extension=ts&play_token=0NAY2g1UeM
+#EXTVLCOPT:http-header=Authorization: Bearer F5257E12050BC80508D63295AD975479
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=706975&extension=ts&play_token=O5TF49HV8h
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Internazionali BNL dItalia (UK - SKY SPORTS TENNIS FHD ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/664451
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Internazionali BNL dItalia (DE - SKY SPORT TENNIS FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/498032
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Internazionali BNL dItalia (DE - SKY SPORT TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/310967
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Internazionali BNL dItalia (IT - SKY SPORT TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E836660AF95F8FA4B9CDF2349937C70
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/900938
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Internazionali BNL dItalia (SKYGO: SKY SPORT TENNIS 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FFC11C8F729258086E7184DC251CD921
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=686564&extension=ts&play_token=e4x7z8N3hN
+#EXTVLCOPT:http-header=Authorization: Bearer F5257E12050BC80508D63295AD975479
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=686564&extension=ts&play_token=Vb4nMoQGeS
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Internazionali BNL dItalia (SKYGO: SKY SPORT TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FFC11C8F729258086E7184DC251CD921
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=686563&extension=ts&play_token=htIk0ncXUb
+#EXTVLCOPT:http-header=Authorization: Bearer F5257E12050BC80508D63295AD975479
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=686563&extension=ts&play_token=gdYRypuFvo
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Internazionali BNL dItalia (DE: SKY SPORT TENNIS HD (SAT))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FFC11C8F729258086E7184DC251CD921
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=686546&extension=ts&play_token=18eI5qwcsY
+#EXTVLCOPT:http-header=Authorization: Bearer F5257E12050BC80508D63295AD975479
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=686546&extension=ts&play_token=o9eX22OfU3
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Internazionali BNL dItalia (DE: SKY SPORT TENNIS HD (720P))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FFC11C8F729258086E7184DC251CD921
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=686545&extension=ts&play_token=ksKWmkwfFp
+#EXTVLCOPT:http-header=Authorization: Bearer F5257E12050BC80508D63295AD975479
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=686545&extension=ts&play_token=wpzxwdJQXp
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Internazionali BNL dItalia (IT: SKY SPORT TENNIS 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FFC11C8F729258086E7184DC251CD921
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=686543&extension=ts&play_token=lNRUh1J0Tn
+#EXTVLCOPT:http-header=Authorization: Bearer F5257E12050BC80508D63295AD975479
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=686543&extension=ts&play_token=LnUvmyMvfC
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Internazionali BNL dItalia (IT: SKY SPORT TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FFC11C8F729258086E7184DC251CD921
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=686541&extension=ts&play_token=zmTnpl5jw4
+#EXTVLCOPT:http-header=Authorization: Bearer F5257E12050BC80508D63295AD975479
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=686541&extension=ts&play_token=XuKZ5m9jMm
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Internazionali BNL dItalia (SKYGO: SKY SPORT TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FFC11C8F729258086E7184DC251CD921
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=486667&extension=ts&play_token=37cBbnW1Xc
+#EXTVLCOPT:http-header=Authorization: Bearer F5257E12050BC80508D63295AD975479
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=486667&extension=ts&play_token=pEp0T1OAMt
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Internazionali BNL dItalia (SKYGO: SKY SPORT TENNIS 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FFC11C8F729258086E7184DC251CD921
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=486668&extension=ts&play_token=7CGjwTpBWu
+#EXTVLCOPT:http-header=Authorization: Bearer F5257E12050BC80508D63295AD975479
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=486668&extension=ts&play_token=MyckSPQxG5
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Internazionali BNL dItalia (DE: SKY SPORT TENNIS HD (720P))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FFC11C8F729258086E7184DC251CD921
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=479815&extension=ts&play_token=yphVu93LTI
+#EXTVLCOPT:http-header=Authorization: Bearer F5257E12050BC80508D63295AD975479
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=479815&extension=ts&play_token=LmV2vgvkXb
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Internazionali BNL dItalia (DE: SKY SPORT TENNIS HD (SAT))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FFC11C8F729258086E7184DC251CD921
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=479817&extension=ts&play_token=QqpKtbT170
+#EXTVLCOPT:http-header=Authorization: Bearer F5257E12050BC80508D63295AD975479
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=479817&extension=ts&play_token=gLbjxy5UTw
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Internazionali BNL dItalia (IT: SKY SPORT TENNIS 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FFC11C8F729258086E7184DC251CD921
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=285216&extension=ts&play_token=9HX7yZNZGS
+#EXTVLCOPT:http-header=Authorization: Bearer F5257E12050BC80508D63295AD975479
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=285216&extension=ts&play_token=nBR6vIu7fr
 #EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Internazionali BNL dItalia (IT: SKY SPORT TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FFC11C8F729258086E7184DC251CD921
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=285218&extension=ts&play_token=OnMMrtS98F
+#EXTVLCOPT:http-header=Authorization: Bearer F5257E12050BC80508D63295AD975479
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=285218&extension=ts&play_token=EZb4gMNFpE
+#EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Internazionali BNL dItalia (UK - SKY SPORTS+ FHD ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/973137
+#EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Internazionali BNL dItalia (UK - SKY SPORTS+ HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/973139
+#EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Internazionali BNL dItalia (UK: SKY SPORTS + HEVC HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F5257E12050BC80508D63295AD975479
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=621651&extension=ts&play_token=slnAaLgwRb
+#EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Internazionali BNL dItalia (UK: SKY SPORTS + HEVC 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F5257E12050BC80508D63295AD975479
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=621631&extension=ts&play_token=xgy6c4CRiS
+#EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Internazionali BNL dItalia (4K| SKY SPORTS UHD [EVENT])
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C1FFEB664EBB5E4274E0B2777AD4C775
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1471387&extension=ts&play_token=m6piKCt2mc
+#EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Internazionali BNL dItalia (VIP - SKY SPORT 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 98E1F0C142E196BCDABE20B1C7CFE664
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1281068
+#EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Internazionali BNL dItalia (IT: SKY SPORT HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F5257E12050BC80508D63295AD975479
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=285260&extension=ts&play_token=t35pkh1tZn
+#EXTINF:-1 group-title="🎾|Live Tennis",[16/05 05:00 PM] Internazionali BNL dItalia (4K| SKY SPORT 4K [LIVE-EVENT])
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C1FFEB664EBB5E4274E0B2777AD4C775
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1753227&extension=ts&play_token=Yobg77Ppck
 
