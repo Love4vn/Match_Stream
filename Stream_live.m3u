@@ -1,347 +1,217 @@
 #EXTM3U
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:30 PM] Internationaux de Strasbourg (┃CA FR┃ TVA SPORTS FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF2BC455168542C444037C996431BD3B
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=902076&extension=ts&play_token=jZ9jgNu1V0
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:30 PM] Internationaux de Strasbourg (┃CA FR┃ TVA SPORTS HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF2BC455168542C444037C996431BD3B
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=902077&extension=ts&play_token=ZygFUYPc52
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:30 PM] Internationaux de Strasbourg (┃CA FR┃ TVA SPORTS FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B38E44CF164A1CCF3D3F819D17926B95
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=902076&extension=ts&play_token=47UE58Aysf
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:30 PM] Internationaux de Strasbourg (┃CA FR┃ TVA SPORTS HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B38E44CF164A1CCF3D3F819D17926B95
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=902077&extension=ts&play_token=g5hmwlLrL6
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 08:30 PM] Hamburg Open (┃MT┃ TSN 3 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF2BC455168542C444037C996431BD3B
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=941921&extension=ts&play_token=xPxCNyEhKt
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 08:30 PM] Hamburg Open (┃MT┃ TSN 3 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B38E44CF164A1CCF3D3F819D17926B95
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=941921&extension=ts&play_token=2AR6U98v0K
 #EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (UK: SKY SPORTS TENNIS HEVC HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 974F603D9C96C414A911EFD08A8DD9F5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=706974&extension=ts&play_token=eiSbTlaj7r
+#EXTVLCOPT:http-header=Authorization: Bearer B1EB6B6CB5B37EA2294B28A7304AB404
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=706974&extension=ts&play_token=sC8fCthRk2
 #EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (UK: SKY SPORTS TENNIS HEVC 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 974F603D9C96C414A911EFD08A8DD9F5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=706975&extension=ts&play_token=CENkzlQWJO
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (┃UK┃ SKY SPORTS TENNIS HEVC FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer B1EB6B6CB5B37EA2294B28A7304AB404
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=706975&extension=ts&play_token=IkbRyvtnb9
+#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (UK: SKY SPORTS TENNIS HEVC HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF2BC455168542C444037C996431BD3B
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312026&extension=ts&play_token=yjfnJJm9Rs
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (┃UK┃ SKY SPORTS TENNIS HEVC HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 388FFE59B7AC4DAD4D8DF7F86D48AD06
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=706974&extension=ts&play_token=cz7bZpNDgk
+#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (UK: SKY SPORTS TENNIS HEVC 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF2BC455168542C444037C996431BD3B
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312043&extension=ts&play_token=5SYTIg7Kkn
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (┃UK┃ SKY SPORTS TENNIS FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF2BC455168542C444037C996431BD3B
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=394549&extension=ts&play_token=BbCYPDmcb8
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (┃UK┃ SKY SPORTS TENNIS HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF2BC455168542C444037C996431BD3B
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312186&extension=ts&play_token=Eg2gz6qgHf
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (┃UK┃ SKY SPORTS TENNIS HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B38E44CF164A1CCF3D3F819D17926B95
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=1312026&extension=ts&play_token=8474Q3k0PY
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (┃UK┃ SKY SPORTS TENNIS HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B38E44CF164A1CCF3D3F819D17926B95
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=1312043&extension=ts&play_token=PF6pNLCNw9
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (┃UK┃ SKY SPORTS TENNIS FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B38E44CF164A1CCF3D3F819D17926B95
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=394549&extension=ts&play_token=Qh8DdAg5M4
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (┃UK┃ SKY SPORTS TENNIS HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B38E44CF164A1CCF3D3F819D17926B95
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=1312186&extension=ts&play_token=qoA8kv3IZW
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 388FFE59B7AC4DAD4D8DF7F86D48AD06
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=706975&extension=ts&play_token=dLzZrRNfEb
 #EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (UK: SKY SPORTS + HEVC HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 974F603D9C96C414A911EFD08A8DD9F5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=621651&extension=ts&play_token=E0KjIDT0u6
+#EXTVLCOPT:http-header=Authorization: Bearer B1EB6B6CB5B37EA2294B28A7304AB404
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=621651&extension=ts&play_token=uQO8I8B1We
 #EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (UK: SKY SPORTS + HEVC 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 974F603D9C96C414A911EFD08A8DD9F5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=621631&extension=ts&play_token=60r4FyXwsD
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (┃UK┃ SKY SPORTS+ HEVC FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer B1EB6B6CB5B37EA2294B28A7304AB404
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=621631&extension=ts&play_token=17Lhxm0EJR
+#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (UK: SKY SPORTS + HEVC HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF2BC455168542C444037C996431BD3B
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312028&extension=ts&play_token=Q3MxRzcCgg
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (┃UK┃ SKY SPORTS+ HEVC HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 388FFE59B7AC4DAD4D8DF7F86D48AD06
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=621651&extension=ts&play_token=HMdB2U3XSw
+#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (UK: SKY SPORTS + HEVC 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF2BC455168542C444037C996431BD3B
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312050&extension=ts&play_token=kotNyGRxtQ
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (┃UK┃ SKY SPORTS+ FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF2BC455168542C444037C996431BD3B
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=870313&extension=ts&play_token=AhaVxALQm1
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (┃UK┃ SKY SPORTS+ HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF2BC455168542C444037C996431BD3B
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312185&extension=ts&play_token=ZWVn7DJI50
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (┃UK┃ SKY SPORTS+ HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B38E44CF164A1CCF3D3F819D17926B95
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=1312028&extension=ts&play_token=ABHleN6IP2
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (┃UK┃ SKY SPORTS+ HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B38E44CF164A1CCF3D3F819D17926B95
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=1312050&extension=ts&play_token=QlSBnhGH5B
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (┃UK┃ SKY SPORTS+ FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B38E44CF164A1CCF3D3F819D17926B95
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=870313&extension=ts&play_token=313l8SlC0c
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (┃UK┃ SKY SPORTS+ HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B38E44CF164A1CCF3D3F819D17926B95
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=1312185&extension=ts&play_token=ZLKb3Y8cH6
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (┃USA┃ SNY SPORTS HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF2BC455168542C444037C996431BD3B
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=858673&extension=ts&play_token=m3tBehaO5g
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (┃USA┃ SNY SPORTS HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B38E44CF164A1CCF3D3F819D17926B95
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=858673&extension=ts&play_token=zFNCjDelE7
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 388FFE59B7AC4DAD4D8DF7F86D48AD06
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=621631&extension=ts&play_token=ZvfUTEASW5
 #EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (SKYGO: SKY SPORT TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 974F603D9C96C414A911EFD08A8DD9F5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=486667&extension=ts&play_token=XoFqk8mKAW
+#EXTVLCOPT:http-header=Authorization: Bearer B1EB6B6CB5B37EA2294B28A7304AB404
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=486667&extension=ts&play_token=epUBfuxBEB
 #EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (SKYGO: SKY SPORT TENNIS 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 974F603D9C96C414A911EFD08A8DD9F5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=486668&extension=ts&play_token=1249hugqG6
+#EXTVLCOPT:http-header=Authorization: Bearer B1EB6B6CB5B37EA2294B28A7304AB404
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=486668&extension=ts&play_token=hDjBUQchaT
 #EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (DE: SKY SPORT TENNIS HD (720P))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 974F603D9C96C414A911EFD08A8DD9F5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=479815&extension=ts&play_token=5Rlrn7bWhp
+#EXTVLCOPT:http-header=Authorization: Bearer B1EB6B6CB5B37EA2294B28A7304AB404
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=479815&extension=ts&play_token=Kp13qbnpWC
 #EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (DE: SKY SPORT TENNIS HD (SAT))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 974F603D9C96C414A911EFD08A8DD9F5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=479817&extension=ts&play_token=DlIs2bHQAF
+#EXTVLCOPT:http-header=Authorization: Bearer B1EB6B6CB5B37EA2294B28A7304AB404
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=479817&extension=ts&play_token=GUtID9Af5x
 #EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (IT: SKY SPORT TENNIS 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 974F603D9C96C414A911EFD08A8DD9F5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=285216&extension=ts&play_token=Uaeran8HXx
+#EXTVLCOPT:http-header=Authorization: Bearer B1EB6B6CB5B37EA2294B28A7304AB404
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=285216&extension=ts&play_token=RJTLnPrSsR
 #EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (IT: SKY SPORT TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 974F603D9C96C414A911EFD08A8DD9F5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=285218&extension=ts&play_token=2gJp6ETz3Q
+#EXTVLCOPT:http-header=Authorization: Bearer B1EB6B6CB5B37EA2294B28A7304AB404
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=285218&extension=ts&play_token=jXR7Bdf0X2
 #EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (SKYGO: SKY SPORT TENNIS 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 974F603D9C96C414A911EFD08A8DD9F5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=686564&extension=ts&play_token=7Yqc4NW8EO
+#EXTVLCOPT:http-header=Authorization: Bearer B1EB6B6CB5B37EA2294B28A7304AB404
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=686564&extension=ts&play_token=gSXiiShskY
 #EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (SKYGO: SKY SPORT TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 974F603D9C96C414A911EFD08A8DD9F5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=686563&extension=ts&play_token=1RJinmtM07
+#EXTVLCOPT:http-header=Authorization: Bearer B1EB6B6CB5B37EA2294B28A7304AB404
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=686563&extension=ts&play_token=G7m5wchUCp
 #EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (DE: SKY SPORT TENNIS HD (SAT))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 974F603D9C96C414A911EFD08A8DD9F5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=686546&extension=ts&play_token=TQo7sbnKSS
+#EXTVLCOPT:http-header=Authorization: Bearer B1EB6B6CB5B37EA2294B28A7304AB404
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=686546&extension=ts&play_token=3hHh7fprYm
 #EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (DE: SKY SPORT TENNIS HD (720P))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 974F603D9C96C414A911EFD08A8DD9F5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=686545&extension=ts&play_token=3HPVruBMR4
+#EXTVLCOPT:http-header=Authorization: Bearer B1EB6B6CB5B37EA2294B28A7304AB404
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=686545&extension=ts&play_token=VaV1i1h0bz
 #EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (IT: SKY SPORT TENNIS 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 974F603D9C96C414A911EFD08A8DD9F5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=686543&extension=ts&play_token=ebnrxZBfko
+#EXTVLCOPT:http-header=Authorization: Bearer B1EB6B6CB5B37EA2294B28A7304AB404
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=686543&extension=ts&play_token=8PhxxzNeMT
 #EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (IT: SKY SPORT TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 974F603D9C96C414A911EFD08A8DD9F5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=686541&extension=ts&play_token=ymWZDRqddY
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (┃DE┃ SKY SPORT TENNIS FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer B1EB6B6CB5B37EA2294B28A7304AB404
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=686541&extension=ts&play_token=xjqzIAjOaj
+#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (SKYGO: SKY SPORT TENNIS 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF2BC455168542C444037C996431BD3B
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1149433&extension=ts&play_token=76daXSLcbP
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (┃DE┃ SKY SPORT TENNIS HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 388FFE59B7AC4DAD4D8DF7F86D48AD06
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=686564&extension=ts&play_token=kFcKj1L8sF
+#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (SKYGO: SKY SPORT TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF2BC455168542C444037C996431BD3B
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1149459&extension=ts&play_token=VL7liOaVsS
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (┃IT┃ SKY SPORT TENNIS FHD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 388FFE59B7AC4DAD4D8DF7F86D48AD06
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=686563&extension=ts&play_token=lOGiCCCBcK
+#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (DE: SKY SPORT TENNIS HD (SAT))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF2BC455168542C444037C996431BD3B
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1167174&extension=ts&play_token=gm2QobBlmg
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (┃DE┃ SKY SPORT TENNIS FHD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 388FFE59B7AC4DAD4D8DF7F86D48AD06
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=686546&extension=ts&play_token=LeMUMFf2Na
+#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (DE: SKY SPORT TENNIS HD (720P))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B38E44CF164A1CCF3D3F819D17926B95
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=1149433&extension=ts&play_token=p8D3NEqUf4
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (┃DE┃ SKY SPORT TENNIS HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 388FFE59B7AC4DAD4D8DF7F86D48AD06
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=686545&extension=ts&play_token=99r7JjfFHE
+#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (IT: SKY SPORT TENNIS 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B38E44CF164A1CCF3D3F819D17926B95
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=1149459&extension=ts&play_token=UhwUbFc235
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (┃IT┃ SKY SPORT TENNIS FHD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 388FFE59B7AC4DAD4D8DF7F86D48AD06
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=686543&extension=ts&play_token=qIhVcLw2yR
+#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (IT: SKY SPORT TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B38E44CF164A1CCF3D3F819D17926B95
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=1167174&extension=ts&play_token=WaagfCgagz
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 388FFE59B7AC4DAD4D8DF7F86D48AD06
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=686541&extension=ts&play_token=9fdg7dkKJk
+#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (SKYGO: SKY SPORT TENNIS HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 388FFE59B7AC4DAD4D8DF7F86D48AD06
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=486667&extension=ts&play_token=3IWvZaFhUS
+#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (SKYGO: SKY SPORT TENNIS 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 388FFE59B7AC4DAD4D8DF7F86D48AD06
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=486668&extension=ts&play_token=u8lO37XPFX
+#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (DE: SKY SPORT TENNIS HD (720P))
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 388FFE59B7AC4DAD4D8DF7F86D48AD06
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=479815&extension=ts&play_token=HU9LCkDrUw
+#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (DE: SKY SPORT TENNIS HD (SAT))
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 388FFE59B7AC4DAD4D8DF7F86D48AD06
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=479817&extension=ts&play_token=EvYAToMwgu
+#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (IT: SKY SPORT TENNIS 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 388FFE59B7AC4DAD4D8DF7F86D48AD06
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=285216&extension=ts&play_token=3u0jFf6pX4
+#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (IT: SKY SPORT TENNIS HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 388FFE59B7AC4DAD4D8DF7F86D48AD06
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=285218&extension=ts&play_token=zKnulIVdnD
 #EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (4K: SKY SPORTS ᵁᴴᴰ ³⁸⁴⁰ᴾ (EVENT))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 974F603D9C96C414A911EFD08A8DD9F5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1544240&extension=ts&play_token=oSn2s8TN8N
+#EXTVLCOPT:http-header=Authorization: Bearer B1EB6B6CB5B37EA2294B28A7304AB404
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1544240&extension=ts&play_token=J6SKObHxFH
+#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (4K| SKY SPORTS UHD [EVENT])
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FFA65F2840B7DDE8C10ED482B0C65566
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1471387&extension=ts&play_token=vXzbUyYotc
 #EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (4K| SKY SPORTS UHD [EVENT])
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:17:02:32; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 99EA7D5AF910F439E2718C5AAAC55159
-http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=1471387&extension=ts&play_token=viNm2Bs2g1
+#EXTVLCOPT:http-header=Authorization: Bearer 318076F834E62AADCE61B94B01893A6E
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=1471387&extension=ts&play_token=egoQS06qvG
 #EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (IT: SKY SPORT HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 974F603D9C96C414A911EFD08A8DD9F5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=285260&extension=ts&play_token=B9ou2Ghd4H
+#EXTVLCOPT:http-header=Authorization: Bearer B1EB6B6CB5B37EA2294B28A7304AB404
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=285260&extension=ts&play_token=9aqF580Z5o
 #EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (4K: SKY SPORT ᵁᴴᴰ ³⁸⁴⁰ᴾ (LIVE-EVENT))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 974F603D9C96C414A911EFD08A8DD9F5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1544238&extension=ts&play_token=ww2m3WqppC
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (┃DE┃ SKY SPORT 4K UHD)
+#EXTVLCOPT:http-header=Authorization: Bearer B1EB6B6CB5B37EA2294B28A7304AB404
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1544238&extension=ts&play_token=LGaKpRj5nb
+#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (4K| SKY SPORT 4K [LIVE-EVENT])
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF2BC455168542C444037C996431BD3B
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=893918&extension=ts&play_token=dShhEHz8tr
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (┃DE┃ SKY SPORT 4K UHD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FFA65F2840B7DDE8C10ED482B0C65566
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1753227&extension=ts&play_token=iiuBUpAErm
+#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:00 PM] ATP Tennis (IT: SKY SPORT HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B38E44CF164A1CCF3D3F819D17926B95
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=893918&extension=ts&play_token=Z8HIGMMg77
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 388FFE59B7AC4DAD4D8DF7F86D48AD06
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=285260&extension=ts&play_token=cJkkFKicxG
 #EXTINF:-1 group-title="🎾|Live Tennis",[22/05 07:30 PM] Internationaux de Strasbourg presented by Mammotion -SF(1) (HK: NOW SPORTS 4 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 974F603D9C96C414A911EFD08A8DD9F5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=791012&extension=ts&play_token=rOfUOjCT2J
+#EXTVLCOPT:http-header=Authorization: Bearer B1EB6B6CB5B37EA2294B28A7304AB404
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=791012&extension=ts&play_token=RBMiRk1XeA
 #EXTINF:-1 group-title="🎾|Live Tennis",[22/05 08:30 PM] Bitpanda Hamburg Open -SF (1-2) (HK: NOW SPORTS 6 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 974F603D9C96C414A911EFD08A8DD9F5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=791010&extension=ts&play_token=iuL3tu46z7
+#EXTVLCOPT:http-header=Authorization: Bearer B1EB6B6CB5B37EA2294B28A7304AB404
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=791010&extension=ts&play_token=hia5LKWj4E
 #EXTINF:-1 group-title="🎾|Live Tennis",[22/05 08:30 PM] Bitpanda Hamburg Open (4K: ZIGGO SPORT ᵁᴴᴰ ³⁸⁴⁰ᴾ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 974F603D9C96C414A911EFD08A8DD9F5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1544251&extension=ts&play_token=Ybl3D48dml
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 08:30 PM] Bitpanda Hamburg Open (┃NL┃ ZIGGO SPORT 4K)
+#EXTVLCOPT:http-header=Authorization: Bearer B1EB6B6CB5B37EA2294B28A7304AB404
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1544251&extension=ts&play_token=6YcYMrnHIk
+#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 08:30 PM] Bitpanda Hamburg Open (4K| ZIGGO SPORT UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF2BC455168542C444037C996431BD3B
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=548065&extension=ts&play_token=Z0TNnyouSZ
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 08:30 PM] Bitpanda Hamburg Open (┃NL┃ ZIGGO SPORT  8K+ UHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF2BC455168542C444037C996431BD3B
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=392231&extension=ts&play_token=aut5mPhRKE
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 08:30 PM] Bitpanda Hamburg Open (┃NL┃ ZIGGO SPORT 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B38E44CF164A1CCF3D3F819D17926B95
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=548065&extension=ts&play_token=zV7RO4eI88
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 08:30 PM] Bitpanda Hamburg Open (┃NL┃ ZIGGO SPORT  8K+ UHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B38E44CF164A1CCF3D3F819D17926B95
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=392231&extension=ts&play_token=fozpZhLt8E
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 08:30 PM] Bitpanda Hamburg Open (┃UCL┃ ZIGGO SPORT 4 HD [NL])
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF2BC455168542C444037C996431BD3B
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=894971&extension=ts&play_token=o86Fd0Xjej
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 08:30 PM] Bitpanda Hamburg Open (┃NL┃ ZIGGO SPORT 4 HD ⏺ʳᵉᶜ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF2BC455168542C444037C996431BD3B
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1279&extension=ts&play_token=Y21LujNDbp
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 08:30 PM] Bitpanda Hamburg Open (┃NL┃ ZIGGO SPORT 4 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF2BC455168542C444037C996431BD3B
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=548067&extension=ts&play_token=PCBkdi5JxD
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 08:30 PM] Bitpanda Hamburg Open (┃NL┃ ZIGGO SPORT 4 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF2BC455168542C444037C996431BD3B
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=948040&extension=ts&play_token=Vhg3JG9R9h
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 08:30 PM] Bitpanda Hamburg Open (┃UCL┃ ZIGGO SPORT 4 HD [NL])
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B38E44CF164A1CCF3D3F819D17926B95
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=894971&extension=ts&play_token=P3CjeeoQGv
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 08:30 PM] Bitpanda Hamburg Open (┃NL┃ ZIGGO SPORT 4 HD ⏺ʳᵉᶜ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B38E44CF164A1CCF3D3F819D17926B95
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=1279&extension=ts&play_token=DWmMusrbD7
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 08:30 PM] Bitpanda Hamburg Open (┃NL┃ ZIGGO SPORT 4 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B38E44CF164A1CCF3D3F819D17926B95
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=548067&extension=ts&play_token=QONP4jLXCd
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 08:30 PM] Bitpanda Hamburg Open (┃NL┃ ZIGGO SPORT 4 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B38E44CF164A1CCF3D3F819D17926B95
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=948040&extension=ts&play_token=NQdsSI1Wz1
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 08:30 PM] Bitpanda Hamburg Open (┃NL┃ ZIGGO SPORT 4 8K+ UHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF2BC455168542C444037C996431BD3B
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=392119&extension=ts&play_token=fPvHEwBH3D
-#EXTINF:-1 group-title="🎾|Live Tennis",[22/05 08:30 PM] Bitpanda Hamburg Open (┃NL┃ ZIGGO SPORT 4 8K+ UHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B38E44CF164A1CCF3D3F819D17926B95
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=392119&extension=ts&play_token=2TxhyvTukz
+#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer FFA65F2840B7DDE8C10ED482B0C65566
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1481950&extension=ts&play_token=iPLNOjJNBl
 
