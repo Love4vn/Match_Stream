@@ -1,182 +1,122 @@
 #EXTM3U
+#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (UK: TNT SPORTS 1 HEVC HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EE61A0EEAAA85B3D398481E3C0F572A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=621661&extension=ts&play_token=Dl9wgEBMfr
+#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (UK: TNT SPORTS 1 HEVC 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EE61A0EEAAA85B3D398481E3C0F572A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=621639&extension=ts&play_token=U7fEocj8fj
+#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (UK - TNT SPORTS 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9C38FF231EB24E15B643EF2FDCD9DA5D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/348297
 #EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UCL┃ TNT SPORTS 1 HD [UK])
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 280A0082E8AAEE895A34DBD457F2F0B0
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=894977&extension=ts&play_token=Wq8BD1SKpO
+#EXTVLCOPT:http-header=Authorization: Bearer 2DBBE8A3BF7EF88713B97700A02D5536
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=894977&extension=ts&play_token=jmXuI0spTi
 #EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UK┃ TNT SPORTS 1 HEVC FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 280A0082E8AAEE895A34DBD457F2F0B0
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174231&extension=ts&play_token=jkSOjsdd74
+#EXTVLCOPT:http-header=Authorization: Bearer 2DBBE8A3BF7EF88713B97700A02D5536
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174231&extension=ts&play_token=Vk3xgjpLrd
 #EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UK┃ TNT SPORTS 1 HEVC HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 280A0082E8AAEE895A34DBD457F2F0B0
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174226&extension=ts&play_token=tlS1F8cTuh
+#EXTVLCOPT:http-header=Authorization: Bearer 2DBBE8A3BF7EF88713B97700A02D5536
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174226&extension=ts&play_token=jX5sXzX3M3
 #EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UK┃ TNT SPORTS 1 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 280A0082E8AAEE895A34DBD457F2F0B0
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311899&extension=ts&play_token=bFyBM4uTCS
+#EXTVLCOPT:http-header=Authorization: Bearer 2DBBE8A3BF7EF88713B97700A02D5536
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311899&extension=ts&play_token=Ze5cwkaVOi
 #EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UK┃ TNT SPORTS 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 280A0082E8AAEE895A34DBD457F2F0B0
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174236&extension=ts&play_token=w3CHwbybIK
-#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UCL┃ TNT SPORTS 1 HD [UK])
+#EXTVLCOPT:http-header=Authorization: Bearer 2DBBE8A3BF7EF88713B97700A02D5536
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174236&extension=ts&play_token=162DQUxDIT
+#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (UK - TNT SPORTS 1 FHD ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 331089E315F721BA980B450CFE1BAA8E
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=894977&extension=ts&play_token=1DHCHSYsEF
-#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UK┃ TNT SPORTS 1 HEVC FHD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9C38FF231EB24E15B643EF2FDCD9DA5D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/17281
+#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (UK: TNT SPORTS 4 HEVC HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 331089E315F721BA980B450CFE1BAA8E
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=1174231&extension=ts&play_token=SlNgDTEEnD
-#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UK┃ TNT SPORTS 1 HEVC HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EE61A0EEAAA85B3D398481E3C0F572A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=621658&extension=ts&play_token=ta46WE80BP
+#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (UK: TNT SPORTS 4 HEVC 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 331089E315F721BA980B450CFE1BAA8E
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=1174226&extension=ts&play_token=cyh1reT1cL
-#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UK┃ TNT SPORTS 1 FHD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EE61A0EEAAA85B3D398481E3C0F572A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=621636&extension=ts&play_token=QKv1QN5OSe
+#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (UK - TNT SPORTS 4 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 331089E315F721BA980B450CFE1BAA8E
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=1311899&extension=ts&play_token=scghvgQm6n
-#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UK┃ TNT SPORTS 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 331089E315F721BA980B450CFE1BAA8E
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=1174236&extension=ts&play_token=6qwm3zMOWn
-#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UCL┃ TNT SPORTS 1 HD [UK])
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BF:A8:7B; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 56D014624D34ACC318966ECCBF2CDE42
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:BF:A8:7B&stream=894977&extension=ts&play_token=h5MV4edsRF
-#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UK┃ TNT SPORTS 1 HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BF:A8:7B; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 56D014624D34ACC318966ECCBF2CDE42
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:BF:A8:7B&stream=1174231&extension=ts&play_token=eREfNDLJSi
-#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UK┃ TNT SPORTS 1 HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BF:A8:7B; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 56D014624D34ACC318966ECCBF2CDE42
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:BF:A8:7B&stream=1174226&extension=ts&play_token=XeQOf0ehAm
-#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UK┃ TNT SPORTS 1 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BF:A8:7B; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 56D014624D34ACC318966ECCBF2CDE42
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:BF:A8:7B&stream=1311899&extension=ts&play_token=ue9OqQCO4i
-#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UK┃ TNT SPORTS 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BF:A8:7B; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 56D014624D34ACC318966ECCBF2CDE42
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:BF:A8:7B&stream=1174236&extension=ts&play_token=IXi48mTZgx
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9C38FF231EB24E15B643EF2FDCD9DA5D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/311555
 #EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UCL┃ TNT SPORTS 4 HD [UK])
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 280A0082E8AAEE895A34DBD457F2F0B0
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=894980&extension=ts&play_token=6dY3E92Siv
+#EXTVLCOPT:http-header=Authorization: Bearer 2DBBE8A3BF7EF88713B97700A02D5536
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=894980&extension=ts&play_token=124NAxstyw
 #EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UK┃ TNT SPORTS 4 HEVC FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 280A0082E8AAEE895A34DBD457F2F0B0
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174234&extension=ts&play_token=7loyKS2dAV
+#EXTVLCOPT:http-header=Authorization: Bearer 2DBBE8A3BF7EF88713B97700A02D5536
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174234&extension=ts&play_token=X6HGGwKBef
 #EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UK┃ TNT SPORTS 4 HEVC HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 280A0082E8AAEE895A34DBD457F2F0B0
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174229&extension=ts&play_token=T36ORMcS2I
+#EXTVLCOPT:http-header=Authorization: Bearer 2DBBE8A3BF7EF88713B97700A02D5536
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174229&extension=ts&play_token=L7RQrbDy46
 #EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UK┃ TNT SPORTS 4 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 280A0082E8AAEE895A34DBD457F2F0B0
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311902&extension=ts&play_token=6LqS0PFrwS
+#EXTVLCOPT:http-header=Authorization: Bearer 2DBBE8A3BF7EF88713B97700A02D5536
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311902&extension=ts&play_token=qViscNDDSh
 #EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UK┃ TNT SPORTS 4 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 280A0082E8AAEE895A34DBD457F2F0B0
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174239&extension=ts&play_token=2bMYb9xx5x
-#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UCL┃ TNT SPORTS 4 HD [UK])
+#EXTVLCOPT:http-header=Authorization: Bearer 2DBBE8A3BF7EF88713B97700A02D5536
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174239&extension=ts&play_token=sn0w42AkAf
+#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (UK - TNT SPORTS 4 FHD ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 331089E315F721BA980B450CFE1BAA8E
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=894980&extension=ts&play_token=abO3ngtYSp
-#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UK┃ TNT SPORTS 4 HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 331089E315F721BA980B450CFE1BAA8E
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=1174234&extension=ts&play_token=C1oWuYtdxN
-#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UK┃ TNT SPORTS 4 HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 331089E315F721BA980B450CFE1BAA8E
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=1174229&extension=ts&play_token=hpgPstkU94
-#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UK┃ TNT SPORTS 4 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 331089E315F721BA980B450CFE1BAA8E
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=1311902&extension=ts&play_token=jmqhzZXBFi
-#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UK┃ TNT SPORTS 4 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 331089E315F721BA980B450CFE1BAA8E
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=1174239&extension=ts&play_token=RCwch0M1gi
-#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UCL┃ TNT SPORTS 4 HD [UK])
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BF:A8:7B; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 56D014624D34ACC318966ECCBF2CDE42
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:BF:A8:7B&stream=894980&extension=ts&play_token=X75MwKcQxR
-#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UK┃ TNT SPORTS 4 HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BF:A8:7B; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 56D014624D34ACC318966ECCBF2CDE42
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:BF:A8:7B&stream=1174234&extension=ts&play_token=agtFw4ztXQ
-#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UK┃ TNT SPORTS 4 HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BF:A8:7B; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 56D014624D34ACC318966ECCBF2CDE42
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:BF:A8:7B&stream=1174229&extension=ts&play_token=AcqNbm6fKp
-#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UK┃ TNT SPORTS 4 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BF:A8:7B; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 56D014624D34ACC318966ECCBF2CDE42
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:BF:A8:7B&stream=1311902&extension=ts&play_token=CI4jJR4Zl2
-#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UK┃ TNT SPORTS 4 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BF:A8:7B; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 56D014624D34ACC318966ECCBF2CDE42
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:BF:A8:7B&stream=1174239&extension=ts&play_token=y0bhpsOpEl
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9C38FF231EB24E15B643EF2FDCD9DA5D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/311556
 #EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UK┃ TNT SPORTS ULTIMATE 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 280A0082E8AAEE895A34DBD457F2F0B0
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174213&extension=ts&play_token=AycTBduAAM
-#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UK┃ TNT SPORTS ULTIMATE 4K)
+#EXTVLCOPT:http-header=Authorization: Bearer 2DBBE8A3BF7EF88713B97700A02D5536
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174213&extension=ts&play_token=vTIfoXBDW2
+#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (CHI - TNT SPORTS 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 331089E315F721BA980B450CFE1BAA8E
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=1174213&extension=ts&play_token=Ab26qX0MwU
-#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UK┃ TNT SPORTS ULTIMATE 4K)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9C38FF231EB24E15B643EF2FDCD9DA5D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/335502
+#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (VIP - TNT SPORT ULTIMATE 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BF:A8:7B; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 56D014624D34ACC318966ECCBF2CDE42
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:BF:A8:7B&stream=1174213&extension=ts&play_token=T8TENPhJab
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9C38FF231EB24E15B643EF2FDCD9DA5D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1281083
+#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (UK - TNT SPORTS 5 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9C38FF231EB24E15B643EF2FDCD9DA5D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/311557
 #EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UCL┃ TNT SPORTS 5 HD [UK])
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 280A0082E8AAEE895A34DBD457F2F0B0
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=894981&extension=ts&play_token=L1HQyNgmog
-#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UCL┃ TNT SPORTS 5 HD [UK])
+#EXTVLCOPT:http-header=Authorization: Bearer 2DBBE8A3BF7EF88713B97700A02D5536
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=894981&extension=ts&play_token=Dykr8o8HSV
+#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (UK - TNT SPORTS 5 FHD ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:1B:0F:6D; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 331089E315F721BA980B450CFE1BAA8E
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1B:0F:6D&stream=894981&extension=ts&play_token=phKVJhWCLS
-#EXTINF:-1 group-title="🎾|Live Tennis",[26/05 01:15 AM] Roland Garros French Open (┃UCL┃ TNT SPORTS 5 HD [UK])
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BF:A8:7B; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 56D014624D34ACC318966ECCBF2CDE42
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:BF:A8:7B&stream=894981&extension=ts&play_token=5920HKyEBR
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9C38FF231EB24E15B643EF2FDCD9DA5D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/311558
 
