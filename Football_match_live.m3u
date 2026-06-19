@@ -1,196 +1,206 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1940135" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/06 02:00 AM | United States vs. Australia all | 8K US: SOCCER 22
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72DD196095524B5C748984FE17408F97
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1940135&extension=ts&play_token=245YrinvlP
-#EXTINF:-1 tvg-id="1939922" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/06 02:00 AM | United States vs. Australia all | 8K CA: SOCCER 34
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72DD196095524B5C748984FE17408F97
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939922&extension=ts&play_token=23cq5k9Hjo
-#EXTINF:-1 tvg-id="1939921" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/06 02:00 AM | United States vs. Australia all | 8K CA: SOCCER 35
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72DD196095524B5C748984FE17408F97
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939921&extension=ts&play_token=gSM4yVxCbO
-#EXTINF:-1 tvg-id="1610997" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",20/06 02:00 AM | 2026 FIFA World Cup USA vs Australia @ :TSN+ 59
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72DD196095524B5C748984FE17408F97
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1610997&extension=ts&play_token=rHy9y5SsMk
 #EXTINF:-1 tvg-id="1988113" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/06 02:00 AM | United States vs. Australia all | 8K ES: SOCCER 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72DD196095524B5C748984FE17408F97
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1988113&extension=ts&play_token=bZreAgElDK
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9B44B96F8E07D9BDE4D1B70ED1E55937
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988113&extension=ts&play_token=F9RLzRzZ0m
 #EXTINF:-1 tvg-id="1988112" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/06 02:00 AM | RTVE: United States vs. Australia all | 8K ES: SOCCER 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72DD196095524B5C748984FE17408F97
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1988112&extension=ts&play_token=DndrSjuhJB
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9B44B96F8E07D9BDE4D1B70ED1E55937
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988112&extension=ts&play_token=DnShvQGz8m
+#EXTINF:-1 tvg-id="1939922" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/06 02:00 AM | United States vs. Australia all | 8K CA: SOCCER 34
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9B44B96F8E07D9BDE4D1B70ED1E55937
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939922&extension=ts&play_token=RoeATawkL4
+#EXTINF:-1 tvg-id="1939921" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/06 02:00 AM | United States vs. Australia all | 8K CA: SOCCER 35
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9B44B96F8E07D9BDE4D1B70ED1E55937
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939921&extension=ts&play_token=xgO8L6RD6c
+#EXTINF:-1 tvg-id="1610997" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",20/06 02:00 AM | 2026 FIFA World Cup USA vs Australia @ :TSN+ 59
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9B44B96F8E07D9BDE4D1B70ED1E55937
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1610997&extension=ts&play_token=ssAeufvKbo
+#EXTINF:-1 tvg-id="1940135" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/06 02:00 AM | United States vs. Australia all | 8K US: SOCCER 22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9B44B96F8E07D9BDE4D1B70ED1E55937
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1940135&extension=ts&play_token=3o0v8ry4jr
 #EXTINF:-1 tvg-id="1919076" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/06 02:00 AM | CazéTV: United States vs. Australia all | 8K BR: SOCCER 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72DD196095524B5C748984FE17408F97
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1919076&extension=ts&play_token=XOVtQtzSme
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9B44B96F8E07D9BDE4D1B70ED1E55937
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919076&extension=ts&play_token=9hYkvMyUJC
 #EXTINF:-1 tvg-id="2062108" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/06 02:00 AM | United States vs. Australia all | 8K US: SOCCER 22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8AF51508C783D5EC5CDB682C1C97F446
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2062108&extension=ts&play_token=NaeNctRTg2
+#EXTVLCOPT:http-header=Authorization: Bearer B72E420B96F3E6EC5159BEBFCF6C8588
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2062108&extension=ts&play_token=hZUurutuY7
 #EXTINF:-1 tvg-id="2062297" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/06 02:00 AM | United States vs. Australia all | 8K CA: SOCCER 34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8AF51508C783D5EC5CDB682C1C97F446
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2062297&extension=ts&play_token=3nvTjj6g0z
+#EXTVLCOPT:http-header=Authorization: Bearer B72E420B96F3E6EC5159BEBFCF6C8588
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2062297&extension=ts&play_token=RUN7bWQ5DS
 #EXTINF:-1 tvg-id="2062296" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/06 02:00 AM | United States vs. Australia all | 8K CA: SOCCER 35
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8AF51508C783D5EC5CDB682C1C97F446
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2062296&extension=ts&play_token=UHrZpOaZH6
+#EXTVLCOPT:http-header=Authorization: Bearer B72E420B96F3E6EC5159BEBFCF6C8588
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2062296&extension=ts&play_token=QVY18jedMl
 #EXTINF:-1 tvg-id="2072540" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/06 02:00 AM | United States vs. Australia all | 8K ES: SOCCER 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8AF51508C783D5EC5CDB682C1C97F446
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2072540&extension=ts&play_token=yW9DNHgoBc
+#EXTVLCOPT:http-header=Authorization: Bearer B72E420B96F3E6EC5159BEBFCF6C8588
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2072540&extension=ts&play_token=j2Bsl91IFM
 #EXTINF:-1 tvg-id="2072539" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/06 02:00 AM | RTVE: United States vs. Australia all | 8K ES: SOCCER 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8AF51508C783D5EC5CDB682C1C97F446
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2072539&extension=ts&play_token=Tk62MRcTSC
+#EXTVLCOPT:http-header=Authorization: Bearer B72E420B96F3E6EC5159BEBFCF6C8588
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2072539&extension=ts&play_token=ZLjbpH03Ev
 #EXTINF:-1 tvg-id="2066949" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/06 02:00 AM | CazéTV: United States vs. Australia all | 8K BR: SOCCER 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8AF51508C783D5EC5CDB682C1C97F446
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2066949&extension=ts&play_token=Y8FbySpfYB
-#EXTINF:-1 tvg-id="2072540" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/06 02:00 AM | United States vs. Australia all | 8K ES: SOCCER 13
+#EXTVLCOPT:http-header=Authorization: Bearer B72E420B96F3E6EC5159BEBFCF6C8588
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2066949&extension=ts&play_token=EYnWWq3d2t
+#EXTINF:-1 tvg-id="1119198" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="https://go4.pw/CANADA/tsn.png",20/06 05:00 AM | CA TSN+ 11 ARABIC FEED – FIFA WORLD CUP 2026 – SCOTLAND @ MOROCCO – – /
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E53DECF9D38548CA57DBFF868AD04DA0
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072540&extension=ts&play_token=S0o5PGnBk9
-#EXTINF:-1 tvg-id="2072539" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/06 02:00 AM | RTVE: United States vs. Australia all | 8K ES: SOCCER 14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E53DECF9D38548CA57DBFF868AD04DA0
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072539&extension=ts&play_token=dafZghvTGD
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F136F7A974B22678580467510B11A962
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1119198
 #EXTINF:-1 tvg-id="1909859" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TSNplus.png",20/06 05:00 AM | CA (TSN+ 011) Arabic Feed: FIFA World Cup 2026: Scotland vs. Morocco ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8AF51508C783D5EC5CDB682C1C97F446
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1909859&extension=ts&play_token=qBfdxzq1CE
-#EXTINF:-1 tvg-id="1939920" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/06 05:00 AM | Scotland vs. Morocco all | 8K CA: SOCCER 36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72DD196095524B5C748984FE17408F97
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939920&extension=ts&play_token=QoHiQLoLcI
-#EXTINF:-1 tvg-id="1939919" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/06 05:00 AM | Scotland vs. Morocco all | 8K CA: SOCCER 37
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72DD196095524B5C748984FE17408F97
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939919&extension=ts&play_token=ayEHOZjl72
+#EXTVLCOPT:http-header=Authorization: Bearer B72E420B96F3E6EC5159BEBFCF6C8588
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1909859&extension=ts&play_token=vCgvSwoHxI
 #EXTINF:-1 tvg-id="1988111" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/06 05:00 AM | Scotland vs. Morocco all | 8K ES: SOCCER 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72DD196095524B5C748984FE17408F97
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1988111&extension=ts&play_token=VBgYQtPFKk
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9B44B96F8E07D9BDE4D1B70ED1E55937
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988111&extension=ts&play_token=4fdCOec8Fv
+#EXTINF:-1 tvg-id="1939920" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/06 05:00 AM | Scotland vs. Morocco all | 8K CA: SOCCER 36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9B44B96F8E07D9BDE4D1B70ED1E55937
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939920&extension=ts&play_token=i40JvAz9pM
+#EXTINF:-1 tvg-id="1939919" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/06 05:00 AM | Scotland vs. Morocco all | 8K CA: SOCCER 37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9B44B96F8E07D9BDE4D1B70ED1E55937
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939919&extension=ts&play_token=Do4srMLBCa
 #EXTINF:-1 tvg-id="1919077" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/06 05:00 AM | CazéTV: Scotland vs. Morocco all | 8K BR: SOCCER 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72DD196095524B5C748984FE17408F97
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1919077&extension=ts&play_token=jaMe3sQ7cC
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9B44B96F8E07D9BDE4D1B70ED1E55937
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919077&extension=ts&play_token=o91cERCw6N
 #EXTINF:-1 tvg-id="2062295" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/06 05:00 AM | Scotland vs. Morocco all | 8K CA: SOCCER 36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8AF51508C783D5EC5CDB682C1C97F446
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2062295&extension=ts&play_token=XS2viNnVLq
+#EXTVLCOPT:http-header=Authorization: Bearer B72E420B96F3E6EC5159BEBFCF6C8588
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2062295&extension=ts&play_token=1IxUa53ajT
 #EXTINF:-1 tvg-id="2062294" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/06 05:00 AM | Scotland vs. Morocco all | 8K CA: SOCCER 37
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8AF51508C783D5EC5CDB682C1C97F446
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2062294&extension=ts&play_token=WBcTIH3xok
+#EXTVLCOPT:http-header=Authorization: Bearer B72E420B96F3E6EC5159BEBFCF6C8588
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2062294&extension=ts&play_token=8FDHJ9EQgq
 #EXTINF:-1 tvg-id="2072538" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/06 05:00 AM | Scotland vs. Morocco all | 8K ES: SOCCER 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8AF51508C783D5EC5CDB682C1C97F446
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2072538&extension=ts&play_token=30tTm2qb3r
+#EXTVLCOPT:http-header=Authorization: Bearer B72E420B96F3E6EC5159BEBFCF6C8588
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2072538&extension=ts&play_token=VkDACZzQQr
 #EXTINF:-1 tvg-id="2066950" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/06 05:00 AM | CazéTV: Scotland vs. Morocco all | 8K BR: SOCCER 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8AF51508C783D5EC5CDB682C1C97F446
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2066950&extension=ts&play_token=7AyeyJPvCc
-#EXTINF:-1 tvg-id="2072538" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/06 05:00 AM | Scotland vs. Morocco all | 8K ES: SOCCER 15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E53DECF9D38548CA57DBFF868AD04DA0
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072538&extension=ts&play_token=CibANs5oIf
+#EXTVLCOPT:http-header=Authorization: Bearer B72E420B96F3E6EC5159BEBFCF6C8588
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2066950&extension=ts&play_token=mNtdy9Ql3q
 #EXTINF:-1 tvg-id="1610991" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",20/06 05:00 AM | Arabic Feed FIFA World Cup 2026 Scotland vs Morocco @ :TSN+ 66
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72DD196095524B5C748984FE17408F97
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1610991&extension=ts&play_token=pLJ1VTgix4
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9B44B96F8E07D9BDE4D1B70ED1E55937
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1610991&extension=ts&play_token=a0taVBkMU4
 #EXTINF:-1 tvg-id="1610990" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",20/06 05:00 AM | 2026 FIFA World Cup Scotland vs Morocco A @ :TSN+ 67
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72DD196095524B5C748984FE17408F97
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1610990&extension=ts&play_token=GH0XfL9AbG
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9B44B96F8E07D9BDE4D1B70ED1E55937
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1610990&extension=ts&play_token=6mifHDAiyQ
 #EXTINF:-1 tvg-id="1610980" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",20/06 05:00 AM | 2026 FIFA World Cup Scotland vs Morocco B @ :TSN+ 77
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72DD196095524B5C748984FE17408F97
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1610980&extension=ts&play_token=55X6YaaIH8
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9B44B96F8E07D9BDE4D1B70ED1E55937
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1610980&extension=ts&play_token=466yuW3ExB
+#EXTINF:-1 tvg-id="1119202" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="https://go4.pw/CANADA/tsn.png",20/06 07:30 AM | CA TSN+ 15 PORTUGUESE FEED – FIFA WORLD CUP 2026 – BRAZIL @ HAITI – – /
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F136F7A974B22678580467510B11A962
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1119202
+#EXTINF:-1 tvg-id="1119203" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="https://go4.pw/CANADA/tsn.png",20/06 07:30 AM | CA TSN+ 16 HAITIAN CREOLE FEED – FIFA WORLD CUP 2026 – BRAZIL @ HAITI – – /
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F136F7A974B22678580467510B11A962
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1119203
 #EXTINF:-1 tvg-id="1909855" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TSNplus.png",20/06 07:30 AM | CA (TSN+ 015) Portuguese Feed: FIFA World Cup 2026: Brazil vs. Haiti ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8AF51508C783D5EC5CDB682C1C97F446
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1909855&extension=ts&play_token=W2EdSp0pMD
+#EXTVLCOPT:http-header=Authorization: Bearer B72E420B96F3E6EC5159BEBFCF6C8588
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1909855&extension=ts&play_token=79SWaDOTGT
 #EXTINF:-1 tvg-id="1909854" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TSNplus.png",20/06 07:30 AM | CA (TSN+ 016) Haitian Creole Feed: FIFA World Cup 2026: Brazil vs. Haiti ( :05)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8AF51508C783D5EC5CDB682C1C97F446
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1909854&extension=ts&play_token=BRp7HXzqTb
+#EXTVLCOPT:http-header=Authorization: Bearer B72E420B96F3E6EC5159BEBFCF6C8588
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1909854&extension=ts&play_token=2nSvVgEkdG
 #EXTINF:-1 tvg-id="1610976" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",20/06 07:30 AM | Haitian Creole Feed FIFA World Cup 2026 Brazil vs Haiti @ :TSN+ 81
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72DD196095524B5C748984FE17408F97
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1610976&extension=ts&play_token=rCGHR2BtH7
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9B44B96F8E07D9BDE4D1B70ED1E55937
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1610976&extension=ts&play_token=q2vqc4rwNj
 #EXTINF:-1 tvg-id="1610975" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",20/06 07:30 AM | 2026 FIFA World Cup Brazil vs Haiti @ :TSN+ 82
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72DD196095524B5C748984FE17408F97
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1610975&extension=ts&play_token=kL9aUQzMQT
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9B44B96F8E07D9BDE4D1B70ED1E55937
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1610975&extension=ts&play_token=83A5kzoQuy
 #EXTINF:-1 tvg-id="1610974" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",20/06 07:30 AM | Portuguese Feed FIFA World Cup 2026 Brazil vs Haiti @ :TSN+ 83
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72DD196095524B5C748984FE17408F97
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1610974&extension=ts&play_token=qByYSUNDn6
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9B44B96F8E07D9BDE4D1B70ED1E55937
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1610974&extension=ts&play_token=eCAfmzDEb5
+#EXTINF:-1 tvg-id="1119207" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="https://go4.pw/CANADA/tsn.png",20/06 10:00 AM | CA TSN+ 20 SPANISH FEED – FIFA WORLD CUP 2026 – TÜRKIYE @ PARAGUAY – – /
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F136F7A974B22678580467510B11A962
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1119207
+#EXTINF:-1 tvg-id="1119208" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="https://go4.pw/CANADA/tsn.png",20/06 10:00 AM | CA TSN+ 21 TURKISH FEED – FIFA WORLD CUP 2026 – TÜRKIYE @ PARAGUAY – – /
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F136F7A974B22678580467510B11A962
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1119208
 #EXTINF:-1 tvg-id="1909850" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TSNplus.png",20/06 10:00 AM | CA (TSN+ 020) Spanish Feed: FIFA World Cup 2026: Turkiye vs. Paraguay ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8AF51508C783D5EC5CDB682C1C97F446
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1909850&extension=ts&play_token=7E2i0wh5KH
+#EXTVLCOPT:http-header=Authorization: Bearer B72E420B96F3E6EC5159BEBFCF6C8588
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1909850&extension=ts&play_token=qCpCubZ9mD
 #EXTINF:-1 tvg-id="1909849" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TSNplus.png",20/06 10:00 AM | CA (TSN+ 021) Turkish Feed: FIFA World Cup 2026: Turkiye vs. Paraguay ( :05)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8AF51508C783D5EC5CDB682C1C97F446
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1909849&extension=ts&play_token=9FOvqMDZ6K
+#EXTVLCOPT:http-header=Authorization: Bearer B72E420B96F3E6EC5159BEBFCF6C8588
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1909849&extension=ts&play_token=cKm9ao0ZXt
 #EXTINF:-1 tvg-id="1610965" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",20/06 10:00 AM | Turkish Feed FIFA World Cup 2026 Turkiye vs Paraguay @ :TSN+ 92
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72DD196095524B5C748984FE17408F97
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1610965&extension=ts&play_token=7ICNVarzWP
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9B44B96F8E07D9BDE4D1B70ED1E55937
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1610965&extension=ts&play_token=0LZBtL09Ap
 #EXTINF:-1 tvg-id="1610964" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",20/06 10:00 AM | Spanish Feed FIFA World Cup 2026 Turkiye vs Paraguay @ :TSN+ 93
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72DD196095524B5C748984FE17408F97
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1610964&extension=ts&play_token=1jBeePuYnG
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9B44B96F8E07D9BDE4D1B70ED1E55937
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1610964&extension=ts&play_token=TjHiv3pGbH
 #EXTINF:-1 tvg-id="1610963" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",20/06 10:00 AM | 2026 FIFA World Cup Turkiye vs Paraguay A @ :TSN+ 94
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72DD196095524B5C748984FE17408F97
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1610963&extension=ts&play_token=UyXC3F2Hf8
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9B44B96F8E07D9BDE4D1B70ED1E55937
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1610963&extension=ts&play_token=4T5hW8HjZJ
 #EXTINF:-1 tvg-id="1610961" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",20/06 10:00 AM | 2026 FIFA World Cup Turkiye vs Paraguay B @ :TSN+ 96
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72DD196095524B5C748984FE17408F97
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1610961&extension=ts&play_token=oyLMhK24A8
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9B44B96F8E07D9BDE4D1B70ED1E55937
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1610961&extension=ts&play_token=rne3Grbp8x
