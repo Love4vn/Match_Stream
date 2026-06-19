@@ -405,7 +405,7 @@ def test_portal(url: str, mac: str, debug: bool = False, check_stream: bool = Tr
         
         # Kiểm tra stream thực tế nếu yêu cầu
         if check_stream and channels:
-            test_ch = channels[0]
+            test_ch = channels[333]
             stream_url = stalker.create_link(test_ch.get("cmd", ""))
             if stream_url:
                 if debug:
