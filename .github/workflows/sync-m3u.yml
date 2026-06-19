@@ -1,0 +1,59 @@
+name: Sync .m3u files after generation
+
+on:
+  workflow_run:
+    workflows:
+      - "FootOnSat Optimize"       # thay đổi theo tên thực tế
+      - "Football match live scrape"
+      - "Generate M3U Playlist"
+    types:
+      - completed
+
+  # Dự phòng: cũng chạy theo lịch (mỗi 30 phút) nếu vì lý do nào đó workflow_run không bắt được
+  schedule:
+    - cron: '*/30 * * * *'
+
+  # Hoặc chạy khi có push thay đổi file .m3u (nếu bạn commit thủ công)
+  push:
+    branches: [ main, master ]
+    paths:
+      - '*.m3u'
+
+jobs:
+  copy-m3u:
+    runs-on: ubuntu-latest
+    # Chỉ chạy nếu workflow được trigger bởi workflow_run mà kết quả thành công
+    # Hoặc nếu là schedule/push thì vẫn chạy
+    if: |
+      (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success') ||
+      (github.event_name != 'workflow_run')
+    steps:
+      - name: Checkout private repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Clone public repo (dùng PAT)
+        run: |
+          git clone https://x-access-token:${{ secrets.PAT_PUBLIC_REPO }}@github.com/Love4vn/Stalker2M3U-public.git public-repo
+          rm -f public-repo/*.m3u   # xoá .m3u cũ trong public repo
+
+      - name: Copy all .m3u files
+        run: |
+          cp *.m3u public-repo/
+
+      - name: Commit and push to public repo
+        run: |
+          cd public-repo
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add *.m3u
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Sync m3u files from private repo (triggered by ${{ github.event.workflow_run.name }})"
+          # Kéo thay đổi từ remote về (giải quyết conflict nếu có)
+          git pull --rebase origin main || true
+          # Push lại
+          git push origin HEAD:main
