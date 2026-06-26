@@ -1,126 +1,156 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1909836" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TSNplus.png",27/06 02:00 AM | CA (TSN+ 034) Norwegian Feed: FIFA World Cup 2026: Norway vs. France ( :00)
+#EXTINF:-1 tvg-id="1909855" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TSNplus.png",27/06 02:00 AM | CA (TSN+ 015) Norwegian Feed: FIFA World Cup 2026: Norway vs. France ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B5D9072EC8515C87116C8167AE78DE07
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1909836&extension=ts&play_token=M3wgiqd6Zs
-#EXTINF:-1 tvg-id="1918812" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 02:00 AM | Norway vs. France all | 8K DE: SOCCER 65
+#EXTVLCOPT:http-header=Authorization: Bearer 4AD8BDF0A94B824A24B7DAB5D71B5568
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1909855&extension=ts&play_token=lAF95d34t5
+#EXTINF:-1 tvg-id="1918863" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 02:00 AM | Norway vs. France all | 8K DE: SOCCER 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EBD2F4E23E55A07E350D6194769CA389
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1918812&extension=ts&play_token=m4dySuXB13
-#EXTINF:-1 tvg-id="1988096" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 02:00 AM | Norway vs. France all | 8K ES: SOCCER 30
+#EXTVLCOPT:http-header=Authorization: Bearer 174640D2CBB49AF7935061D4A54B1AD7
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1918863&extension=ts&play_token=fQvWnoHSEp
+#EXTINF:-1 tvg-id="1988120" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 02:00 AM | Norway vs. France all | 8K ES: SOCCER 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EBD2F4E23E55A07E350D6194769CA389
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1988096&extension=ts&play_token=gw5oP5pcu8
-#EXTINF:-1 tvg-id="1939877" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 02:00 AM | Norway vs. France all | 8K CA: SOCCER 79
+#EXTVLCOPT:http-header=Authorization: Bearer 174640D2CBB49AF7935061D4A54B1AD7
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1988120&extension=ts&play_token=OzZ3hKmE72
+#EXTINF:-1 tvg-id="1940145" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 02:00 AM | Norway vs. France all | 8K US: SOCCER 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EBD2F4E23E55A07E350D6194769CA389
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939877&extension=ts&play_token=rEYsYxDe5w
-#EXTINF:-1 tvg-id="1939871" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 02:00 AM | Norway vs. France all | 8K CA: SOCCER 85
+#EXTVLCOPT:http-header=Authorization: Bearer 174640D2CBB49AF7935061D4A54B1AD7
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1940145&extension=ts&play_token=TJyCN8FjNz
+#EXTINF:-1 tvg-id="1939931" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 02:00 AM | Norway vs. France all | 8K CA: SOCCER 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EBD2F4E23E55A07E350D6194769CA389
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939871&extension=ts&play_token=RTX31kkB0q
-#EXTINF:-1 tvg-id="1919060" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 02:00 AM | CazéTV: Norway vs. France all | 8K BR: SOCCER 24
+#EXTVLCOPT:http-header=Authorization: Bearer 174640D2CBB49AF7935061D4A54B1AD7
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939931&extension=ts&play_token=1c0oN2yqcs
+#EXTINF:-1 tvg-id="1939930" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 02:00 AM | Norway vs. France all | 8K CA: SOCCER 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EBD2F4E23E55A07E350D6194769CA389
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919060&extension=ts&play_token=fnQ5THWcni
-#EXTINF:-1 tvg-id="1919059" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 02:00 AM | Norway vs. France all | 8K BR: SOCCER 25
+#EXTVLCOPT:http-header=Authorization: Bearer 174640D2CBB49AF7935061D4A54B1AD7
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939930&extension=ts&play_token=PFMgZbRWED
+#EXTINF:-1 tvg-id="1919079" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 02:00 AM | CazéTV: Norway vs. France all | 8K BR: SOCCER 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EBD2F4E23E55A07E350D6194769CA389
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919059&extension=ts&play_token=Ej5drCPUfM
-#EXTINF:-1 tvg-id="1939877" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 02:00 AM | Norway vs. France all | 8K CA: SOCCER 79
+#EXTVLCOPT:http-header=Authorization: Bearer 174640D2CBB49AF7935061D4A54B1AD7
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919079&extension=ts&play_token=mK3qpyevds
+#EXTINF:-1 tvg-id="1919078" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 02:00 AM | Norway vs. France all | 8K BR: SOCCER 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63E9F06EDBE2A42689943554D32C0E07
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939877&extension=ts&play_token=cDe7S7JWMn
-#EXTINF:-1 tvg-id="1939871" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 02:00 AM | Norway vs. France all | 8K CA: SOCCER 85
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63E9F06EDBE2A42689943554D32C0E07
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939871&extension=ts&play_token=3MXg4JWRW4
-#EXTINF:-1 tvg-id="1988096" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 02:00 AM | Norway vs. France all | 8K ES: SOCCER 30
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63E9F06EDBE2A42689943554D32C0E07
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1988096&extension=ts&play_token=S4gsv23giO
-#EXTINF:-1 tvg-id="1919060" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 02:00 AM | CazéTV: Norway vs. France all | 8K BR: SOCCER 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63E9F06EDBE2A42689943554D32C0E07
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919060&extension=ts&play_token=gNXgoGy1HX
-#EXTINF:-1 tvg-id="1919059" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 02:00 AM | Norway vs. France all | 8K BR: SOCCER 25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63E9F06EDBE2A42689943554D32C0E07
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919059&extension=ts&play_token=TeIshQGKgS
-#EXTINF:-1 tvg-id="1918812" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 02:00 AM | Norway vs. France all | 8K DE: SOCCER 65
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63E9F06EDBE2A42689943554D32C0E07
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1918812&extension=ts&play_token=5UwNbrArlV
-#EXTINF:-1 tvg-id="1939877" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 02:00 AM | Norway vs. France all | 8K CA: SOCCER 79
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 174640D2CBB49AF7935061D4A54B1AD7
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919078&extension=ts&play_token=5dpwvHxwyo
+#EXTINF:-1 tvg-id="1940145" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 02:00 AM | Norway vs. France all | 8K US: SOCCER 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1BF70A20B0AE3ECF770FBA8330A2163B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939877&extension=ts&play_token=YPwilqRnbE
-#EXTINF:-1 tvg-id="1939871" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 02:00 AM | Norway vs. France all | 8K CA: SOCCER 85
+#EXTVLCOPT:http-header=Authorization: Bearer DB494BB856566AD12D14462EABD350AE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1940145&extension=ts&play_token=uTHQQGj0J7
+#EXTINF:-1 tvg-id="1939931" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 02:00 AM | Norway vs. France all | 8K CA: SOCCER 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1BF70A20B0AE3ECF770FBA8330A2163B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939871&extension=ts&play_token=QCR2L6VSsP
-#EXTINF:-1 tvg-id="1988096" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 02:00 AM | Norway vs. France all | 8K ES: SOCCER 30
+#EXTVLCOPT:http-header=Authorization: Bearer DB494BB856566AD12D14462EABD350AE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939931&extension=ts&play_token=BY4WBeXsQ3
+#EXTINF:-1 tvg-id="1939930" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 02:00 AM | Norway vs. France all | 8K CA: SOCCER 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1BF70A20B0AE3ECF770FBA8330A2163B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1988096&extension=ts&play_token=pFHVuMMNww
-#EXTINF:-1 tvg-id="1919060" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 02:00 AM | CazéTV: Norway vs. France all | 8K BR: SOCCER 24
+#EXTVLCOPT:http-header=Authorization: Bearer DB494BB856566AD12D14462EABD350AE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939930&extension=ts&play_token=DMASreP13u
+#EXTINF:-1 tvg-id="1988120" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 02:00 AM | Norway vs. France all | 8K ES: SOCCER 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1BF70A20B0AE3ECF770FBA8330A2163B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1919060&extension=ts&play_token=2eZjM50jPM
-#EXTINF:-1 tvg-id="1919059" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 02:00 AM | Norway vs. France all | 8K BR: SOCCER 25
+#EXTVLCOPT:http-header=Authorization: Bearer DB494BB856566AD12D14462EABD350AE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1988120&extension=ts&play_token=avCKH0O0CD
+#EXTINF:-1 tvg-id="1919079" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 02:00 AM | CazéTV: Norway vs. France all | 8K BR: SOCCER 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1BF70A20B0AE3ECF770FBA8330A2163B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1919059&extension=ts&play_token=O227W7ZhHi
-#EXTINF:-1 tvg-id="1918812" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 02:00 AM | Norway vs. France all | 8K DE: SOCCER 65
+#EXTVLCOPT:http-header=Authorization: Bearer DB494BB856566AD12D14462EABD350AE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1919079&extension=ts&play_token=qNGB9dshrQ
+#EXTINF:-1 tvg-id="1919078" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 02:00 AM | Norway vs. France all | 8K BR: SOCCER 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1BF70A20B0AE3ECF770FBA8330A2163B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1918812&extension=ts&play_token=QLhNCYAMZ9
-#EXTINF:-1 tvg-id="2062252" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",27/06 02:00 AM | Norway vs. France all | 8K CA: SOCCER 79
+#EXTVLCOPT:http-header=Authorization: Bearer DB494BB856566AD12D14462EABD350AE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1919078&extension=ts&play_token=ev3u4JRPwy
+#EXTINF:-1 tvg-id="1918863" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 02:00 AM | Norway vs. France all | 8K DE: SOCCER 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DB494BB856566AD12D14462EABD350AE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1918863&extension=ts&play_token=UxeWzNb63U
+#EXTINF:-1 tvg-id="2062118" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",27/06 02:00 AM | Norway vs. France all | 8K US: SOCCER 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B5D9072EC8515C87116C8167AE78DE07
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2062252&extension=ts&play_token=svq4DTwcEX
-#EXTINF:-1 tvg-id="2062246" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",27/06 02:00 AM | Norway vs. France all | 8K CA: SOCCER 85
+#EXTVLCOPT:http-header=Authorization: Bearer 4AD8BDF0A94B824A24B7DAB5D71B5568
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2062118&extension=ts&play_token=aFu3mMFqoT
+#EXTINF:-1 tvg-id="2062306" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",27/06 02:00 AM | Norway vs. France all | 8K CA: SOCCER 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B5D9072EC8515C87116C8167AE78DE07
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2062246&extension=ts&play_token=y4Xv7nRsjn
-#EXTINF:-1 tvg-id="2066933" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",27/06 02:00 AM | CazéTV: Norway vs. France all | 8K BR: SOCCER 24
+#EXTVLCOPT:http-header=Authorization: Bearer 4AD8BDF0A94B824A24B7DAB5D71B5568
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2062306&extension=ts&play_token=ZxHnTxAMNt
+#EXTINF:-1 tvg-id="2062305" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",27/06 02:00 AM | Norway vs. France all | 8K CA: SOCCER 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B5D9072EC8515C87116C8167AE78DE07
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2066933&extension=ts&play_token=bBcp7TBc56
-#EXTINF:-1 tvg-id="2066932" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",27/06 02:00 AM | Norway vs. France all | 8K BR: SOCCER 25
+#EXTVLCOPT:http-header=Authorization: Bearer 4AD8BDF0A94B824A24B7DAB5D71B5568
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2062305&extension=ts&play_token=v3z9SoDePM
+#EXTINF:-1 tvg-id="2072547" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",27/06 02:00 AM | Norway vs. France all | 8K ES: SOCCER 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B5D9072EC8515C87116C8167AE78DE07
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2066932&extension=ts&play_token=FQIVaIaCkS
-#EXTINF:-1 tvg-id="2054987" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",27/06 02:00 AM | Norway vs. France all | 8K DE: SOCCER 65
+#EXTVLCOPT:http-header=Authorization: Bearer 4AD8BDF0A94B824A24B7DAB5D71B5568
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2072547&extension=ts&play_token=Mf1PN8aPqo
+#EXTINF:-1 tvg-id="2066952" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",27/06 02:00 AM | CazéTV: Norway vs. France all | 8K BR: SOCCER 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B5D9072EC8515C87116C8167AE78DE07
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2054987&extension=ts&play_token=4WLF1F46HZ
-#EXTINF:-1 tvg-id="1909828" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TSNplus.png",27/06 10:00 AM | CA (TSN+ 041) Flemish Feed: FIFA World Cup 2026: New Zealand vs. Belgium ( :00)
+#EXTVLCOPT:http-header=Authorization: Bearer 4AD8BDF0A94B824A24B7DAB5D71B5568
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2066952&extension=ts&play_token=DWPf0DO1vS
+#EXTINF:-1 tvg-id="2066951" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",27/06 02:00 AM | Norway vs. France all | 8K BR: SOCCER 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B5D9072EC8515C87116C8167AE78DE07
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1909828&extension=ts&play_token=BPQCuo7eMI
+#EXTVLCOPT:http-header=Authorization: Bearer 4AD8BDF0A94B824A24B7DAB5D71B5568
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2066951&extension=ts&play_token=OeUcNhcd8G
+#EXTINF:-1 tvg-id="2055038" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",27/06 02:00 AM | Norway vs. France all | 8K DE: SOCCER 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4AD8BDF0A94B824A24B7DAB5D71B5568
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2055038&extension=ts&play_token=oY95iXa6M5
+#EXTINF:-1 tvg-id="1610998" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",27/06 02:00 AM | 2026 FIFA World Cup Norway vs France @ :TSN+ 60
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 174640D2CBB49AF7935061D4A54B1AD7
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1610998&extension=ts&play_token=wdyH5dW7Tb
+#EXTINF:-1 tvg-id="1610995" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",27/06 02:00 AM | Norwegian Feed FIFA World Cup 2026 Norway vs France @ :TSN+ 62
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 174640D2CBB49AF7935061D4A54B1AD7
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1610995&extension=ts&play_token=gdbqVq0b5R
+#EXTINF:-1 tvg-id="1610998" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",27/06 02:00 AM | 2026 FIFA World Cup Norway vs France @ :TSN+ 60
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DB494BB856566AD12D14462EABD350AE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1610998&extension=ts&play_token=l1wlmBspgV
+#EXTINF:-1 tvg-id="1610995" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",27/06 02:00 AM | Norwegian Feed FIFA World Cup 2026 Norway vs France @ :TSN+ 62
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DB494BB856566AD12D14462EABD350AE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1610995&extension=ts&play_token=SoadohJRh8
+#EXTINF:-1 tvg-id="1909846" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TSNplus.png",27/06 10:00 AM | CA (TSN+ 023) Flemish Feed: FIFA World Cup 2026: New Zealand vs. Belgium ( :00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4AD8BDF0A94B824A24B7DAB5D71B5568
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1909846&extension=ts&play_token=ugttVMP2lu
+#EXTINF:-1 tvg-id="1610974" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",27/06 10:00 AM | 2026 FIFA World Cup New Zealand vs Belgium @ :TSN+ 83
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 174640D2CBB49AF7935061D4A54B1AD7
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1610974&extension=ts&play_token=uwouKtUItm
+#EXTINF:-1 tvg-id="1610970" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",27/06 10:00 AM | Flemish Feed FIFA World Cup 2026 New Zealand vs Belgium @ :TSN+ 87
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 174640D2CBB49AF7935061D4A54B1AD7
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1610970&extension=ts&play_token=WOzq6NGNPo
+#EXTINF:-1 tvg-id="1610974" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",27/06 10:00 AM | 2026 FIFA World Cup New Zealand vs Belgium @ :TSN+ 83
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DB494BB856566AD12D14462EABD350AE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1610974&extension=ts&play_token=DWQXrzmF9i
+#EXTINF:-1 tvg-id="1610970" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",27/06 10:00 AM | Flemish Feed FIFA World Cup 2026 New Zealand vs Belgium @ :TSN+ 87
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DB494BB856566AD12D14462EABD350AE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1610970&extension=ts&play_token=FL2g5ZX1EK
