@@ -1,116 +1,146 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1119211" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="https://go4.pw/CANADA/tsn.png",27/06 10:00 AM | CA TSN+ 24 FIFA WORLD CUP 2026 – NEW ZEALAND @ BELGIUM (FLEMISH FEED) – /
+#EXTINF:-1 tvg-id="1988084" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 10:00 AM | New Zealand Belgium all | 8K ES: SOCCER 42
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 04B457B98880498762D700B2071B2DD9
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1119211
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 234EEB2A834D5BD0942D8321F988240E
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988084&extension=ts&play_token=efREpjZedN
+#EXTINF:-1 tvg-id="1939874" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 10:00 AM | New Zealand vs. Belgium all | 8K CA: SOCCER 82
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 234EEB2A834D5BD0942D8321F988240E
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939874&extension=ts&play_token=HZtzNPyPkR
+#EXTINF:-1 tvg-id="1939873" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 10:00 AM | New Zealand vs. Belgium all | 8K CA: SOCCER 83
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 234EEB2A834D5BD0942D8321F988240E
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939873&extension=ts&play_token=FHd7vKcPcq
+#EXTINF:-1 tvg-id="1939872" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 10:00 AM | New Zealand vs. Belgium all | 8K CA: SOCCER 84
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 234EEB2A834D5BD0942D8321F988240E
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939872&extension=ts&play_token=24XvcGRRo2
+#EXTINF:-1 tvg-id="1940079" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 10:00 AM | Live New Zealand vs. Belgium all 8K US: SOCCER 78
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 234EEB2A834D5BD0942D8321F988240E
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1940079&extension=ts&play_token=7NJfk3g8n1
+#EXTINF:-1 tvg-id="1919038" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 10:00 AM | Live CazéTV: New Zealand vs. Belgium all 8K BR: SOCCER 46
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 234EEB2A834D5BD0942D8321F988240E
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919038&extension=ts&play_token=Vvc3fqd6b9
 #EXTINF:-1 tvg-id="1988084" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 10:00 AM | New Zealand Belgium all | 8K ES: SOCCER 42
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A37861E7908CDDCEA1D3A995AD44D1AF
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1988084&extension=ts&play_token=VhPOkkSVf7
-#EXTINF:-1 tvg-id="1940079" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 10:00 AM | New Zealand vs. Belgium all | 8K US: SOCCER 78
+#EXTVLCOPT:http-header=Authorization: Bearer F3FE4B7716EA3650D5D18979B96F2BF4
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1988084&extension=ts&play_token=RbOQfINea1
+#EXTINF:-1 tvg-id="1940079" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 10:00 AM | Live New Zealand vs. Belgium all 8K US: SOCCER 78
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A37861E7908CDDCEA1D3A995AD44D1AF
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1940079&extension=ts&play_token=WLGLYEHTC7
+#EXTVLCOPT:http-header=Authorization: Bearer F3FE4B7716EA3650D5D18979B96F2BF4
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1940079&extension=ts&play_token=w10YslRZqJ
 #EXTINF:-1 tvg-id="1939874" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 10:00 AM | New Zealand vs. Belgium all | 8K CA: SOCCER 82
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A37861E7908CDDCEA1D3A995AD44D1AF
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939874&extension=ts&play_token=MmLlHdAGTe
+#EXTVLCOPT:http-header=Authorization: Bearer F3FE4B7716EA3650D5D18979B96F2BF4
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939874&extension=ts&play_token=fMc9dWtcDx
 #EXTINF:-1 tvg-id="1939873" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 10:00 AM | New Zealand vs. Belgium all | 8K CA: SOCCER 83
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A37861E7908CDDCEA1D3A995AD44D1AF
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939873&extension=ts&play_token=N0L6dZzgrX
+#EXTVLCOPT:http-header=Authorization: Bearer F3FE4B7716EA3650D5D18979B96F2BF4
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939873&extension=ts&play_token=d7uAm8cJeL
 #EXTINF:-1 tvg-id="1939872" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 10:00 AM | New Zealand vs. Belgium all | 8K CA: SOCCER 84
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A37861E7908CDDCEA1D3A995AD44D1AF
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939872&extension=ts&play_token=flpATkaAHo
-#EXTINF:-1 tvg-id="1919038" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 10:00 AM | CazéTV: New Zealand vs. Belgium all | 8K BR: SOCCER 46
+#EXTVLCOPT:http-header=Authorization: Bearer F3FE4B7716EA3650D5D18979B96F2BF4
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939872&extension=ts&play_token=AuHXw3g5TC
+#EXTINF:-1 tvg-id="1919038" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 10:00 AM | Live CazéTV: New Zealand vs. Belgium all 8K BR: SOCCER 46
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A37861E7908CDDCEA1D3A995AD44D1AF
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919038&extension=ts&play_token=bW5Gb2TZoo
-#EXTINF:-1 tvg-id="1940079" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 10:00 AM | New Zealand vs. Belgium all | 8K US: SOCCER 78
+#EXTVLCOPT:http-header=Authorization: Bearer F3FE4B7716EA3650D5D18979B96F2BF4
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919038&extension=ts&play_token=4JEh0dJFZ2
+#EXTINF:-1 tvg-id="2072511" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",27/06 10:00 AM | New Zealand Belgium all | 8K ES: SOCCER 42
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C30737FC28F49CFB64CA7864F8ACB739
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1940079&extension=ts&play_token=CcTGlRD9qs
-#EXTINF:-1 tvg-id="1939874" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 10:00 AM | New Zealand vs. Belgium all | 8K CA: SOCCER 82
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17C10F5DFC1A258B1CECBCAA1956DFEA
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072511&extension=ts&play_token=LZ5ysIzLjP
+#EXTINF:-1 tvg-id="1610974" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",27/06 10:00 AM | 2026 FIFA World Cup New Zealand vs Belgium @ :TSN+ 83
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C30737FC28F49CFB64CA7864F8ACB739
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939874&extension=ts&play_token=swh1Pw3q8s
-#EXTINF:-1 tvg-id="1939873" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 10:00 AM | New Zealand vs. Belgium all | 8K CA: SOCCER 83
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 234EEB2A834D5BD0942D8321F988240E
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1610974&extension=ts&play_token=t3OqddcYA6
+#EXTINF:-1 tvg-id="1610970" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",27/06 10:00 AM | Flemish Feed FIFA World Cup 2026 New Zealand vs Belgium @ :TSN+ 87
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C30737FC28F49CFB64CA7864F8ACB739
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939873&extension=ts&play_token=8H45KHg6Cz
-#EXTINF:-1 tvg-id="1939872" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 10:00 AM | New Zealand vs. Belgium all | 8K CA: SOCCER 84
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C30737FC28F49CFB64CA7864F8ACB739
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939872&extension=ts&play_token=gT1JDUr58z
-#EXTINF:-1 tvg-id="1988084" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 10:00 AM | New Zealand Belgium all | 8K ES: SOCCER 42
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C30737FC28F49CFB64CA7864F8ACB739
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1988084&extension=ts&play_token=Q3CkqAiJSC
-#EXTINF:-1 tvg-id="1919038" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",27/06 10:00 AM | CazéTV: New Zealand vs. Belgium all | 8K BR: SOCCER 46
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C30737FC28F49CFB64CA7864F8ACB739
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919038&extension=ts&play_token=Rv669vCwiZ
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 234EEB2A834D5BD0942D8321F988240E
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1610970&extension=ts&play_token=VlJer2IerI
 #EXTINF:-1 tvg-id="1610974" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",27/06 10:00 AM | 2026 FIFA World Cup New Zealand vs Belgium @ :TSN+ 83
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A37861E7908CDDCEA1D3A995AD44D1AF
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1610974&extension=ts&play_token=Uo8Lo8t701
+#EXTVLCOPT:http-header=Authorization: Bearer F3FE4B7716EA3650D5D18979B96F2BF4
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1610974&extension=ts&play_token=zPgbdPeWgX
 #EXTINF:-1 tvg-id="1610970" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",27/06 10:00 AM | Flemish Feed FIFA World Cup 2026 New Zealand vs Belgium @ :TSN+ 87
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A37861E7908CDDCEA1D3A995AD44D1AF
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1610970&extension=ts&play_token=HKyLT1F5mx
-#EXTINF:-1 tvg-id="1610974" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",27/06 10:00 AM | 2026 FIFA World Cup New Zealand vs Belgium @ :TSN+ 83
+#EXTVLCOPT:http-header=Authorization: Bearer F3FE4B7716EA3650D5D18979B96F2BF4
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1610970&extension=ts&play_token=0dWfOucH5v
+#EXTINF:-1 tvg-id="1988049" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",28/06 04:00 AM | Panama vs. England all | 8K ES: SOCCER 77
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C30737FC28F49CFB64CA7864F8ACB739
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1610974&extension=ts&play_token=qvnusrLY5i
-#EXTINF:-1 tvg-id="1610970" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",27/06 10:00 AM | Flemish Feed FIFA World Cup 2026 New Zealand vs Belgium @ :TSN+ 87
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 234EEB2A834D5BD0942D8321F988240E
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988049&extension=ts&play_token=fLziJ7a5ww
+#EXTINF:-1 tvg-id="1919042" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",28/06 04:00 AM | CazéTV: Panama vs. England all | 8K BR: SOCCER 42
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C30737FC28F49CFB64CA7864F8ACB739
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1610970&extension=ts&play_token=UTyOAsvK6X
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 234EEB2A834D5BD0942D8321F988240E
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919042&extension=ts&play_token=DVfSg8IhL0
+#EXTINF:-1 tvg-id="1919040" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",28/06 04:00 AM | Panama vs. England all | 8K BR: SOCCER 44
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 234EEB2A834D5BD0942D8321F988240E
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919040&extension=ts&play_token=rsEs5JcopH
+#EXTINF:-1 tvg-id="1988049" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",28/06 04:00 AM | Panama vs. England all | 8K ES: SOCCER 77
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F3FE4B7716EA3650D5D18979B96F2BF4
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1988049&extension=ts&play_token=xEGGR5FkTi
 #EXTINF:-1 tvg-id="1919042" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",28/06 04:00 AM | CazéTV: Panama vs. England all | 8K BR: SOCCER 42
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A37861E7908CDDCEA1D3A995AD44D1AF
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919042&extension=ts&play_token=bhoPSzoPLq
+#EXTVLCOPT:http-header=Authorization: Bearer F3FE4B7716EA3650D5D18979B96F2BF4
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919042&extension=ts&play_token=rJlIPSTK0a
 #EXTINF:-1 tvg-id="1919040" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",28/06 04:00 AM | Panama vs. England all | 8K BR: SOCCER 44
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A37861E7908CDDCEA1D3A995AD44D1AF
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919040&extension=ts&play_token=wx9xXT9OWk
-#EXTINF:-1 tvg-id="1919042" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",28/06 04:00 AM | CazéTV: Panama vs. England all | 8K BR: SOCCER 42
+#EXTVLCOPT:http-header=Authorization: Bearer F3FE4B7716EA3650D5D18979B96F2BF4
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919040&extension=ts&play_token=2JCnbLQhOX
+#EXTINF:-1 tvg-id="2072476" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",28/06 04:00 AM | Panama vs. England all | 8K ES: SOCCER 77
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C30737FC28F49CFB64CA7864F8ACB739
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919042&extension=ts&play_token=KveDdbb9QW
-#EXTINF:-1 tvg-id="1919040" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",28/06 04:00 AM | Panama vs. England all | 8K BR: SOCCER 44
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17C10F5DFC1A258B1CECBCAA1956DFEA
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072476&extension=ts&play_token=tVT9z7xFfL
+#EXTINF:-1 tvg-id="1988046" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",28/06 04:00 AM | Croatia vs. Ghana all | 8K ES: SOCCER 80
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C30737FC28F49CFB64CA7864F8ACB739
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919040&extension=ts&play_token=EmjupW54yB
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 234EEB2A834D5BD0942D8321F988240E
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988046&extension=ts&play_token=PXgO0UKVcU
+#EXTINF:-1 tvg-id="1919044" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",28/06 04:00 AM | CazéTV: Croatia vs. Ghana all | 8K BR: SOCCER 40
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 234EEB2A834D5BD0942D8321F988240E
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919044&extension=ts&play_token=Uhj242oibK
+#EXTINF:-1 tvg-id="1988046" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",28/06 04:00 AM | Croatia vs. Ghana all | 8K ES: SOCCER 80
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F3FE4B7716EA3650D5D18979B96F2BF4
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1988046&extension=ts&play_token=H0VnoL9ciS
 #EXTINF:-1 tvg-id="1919044" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",28/06 04:00 AM | CazéTV: Croatia vs. Ghana all | 8K BR: SOCCER 40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A37861E7908CDDCEA1D3A995AD44D1AF
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919044&extension=ts&play_token=E3SG2PaT6w
-#EXTINF:-1 tvg-id="1919044" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",28/06 04:00 AM | CazéTV: Croatia vs. Ghana all | 8K BR: SOCCER 40
+#EXTVLCOPT:http-header=Authorization: Bearer F3FE4B7716EA3650D5D18979B96F2BF4
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919044&extension=ts&play_token=erdFTcm6NY
+#EXTINF:-1 tvg-id="2072473" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",28/06 04:00 AM | Croatia vs. Ghana all | 8K ES: SOCCER 80
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C30737FC28F49CFB64CA7864F8ACB739
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919044&extension=ts&play_token=u7F3M6DVAa
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17C10F5DFC1A258B1CECBCAA1956DFEA
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072473&extension=ts&play_token=fhhzMXvNxs
