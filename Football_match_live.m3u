@@ -1,16 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="2072541" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",28/06 04:00 AM | Live Panama vs. England all 8K ES: SOCCER 12
+#EXTINF:-1 tvg-id="2072459" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/06 02:00 AM | South Africa vs. Canada all | 8K ES: SOCCER 94
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 06E481091CBA7F5F6C2DA43C378E05D0
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072541&extension=ts&play_token=yIpuSJq1rH
-#EXTINF:-1 tvg-id="2055034" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",28/06 04:00 AM | Live Croatia vs. Ghana all 8K DE: SOCCER 18
+#EXTVLCOPT:http-header=Authorization: Bearer 9807142E2A1BA731AE370949580931DF
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072459&extension=ts&play_token=dIgdP69o3z
+#EXTINF:-1 tvg-id="2072451" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/06 02:00 AM | South Africa vs. Canada all | 8K ES: SOCCER 102
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 06E481091CBA7F5F6C2DA43C378E05D0
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055034&extension=ts&play_token=WzS1pQANBb
-#EXTINF:-1 tvg-id="2072542" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",28/06 04:00 AM | Live Croatia vs. Ghana all 8K ES: SOCCER 11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 06E481091CBA7F5F6C2DA43C378E05D0
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072542&extension=ts&play_token=KA1QIUTRjw
+#EXTVLCOPT:http-header=Authorization: Bearer 9807142E2A1BA731AE370949580931DF
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072451&extension=ts&play_token=XS77lZiNID
