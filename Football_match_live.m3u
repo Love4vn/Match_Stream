@@ -1,336 +1,451 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1918799" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K DE: SOCCER 78
+#EXTINF:-1 tvg-id="1611019" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",29/06 11:15 PM | Portuguese Feed FIFA World Cup 2026 Round of 32 Brazil vs Japan @ :TSN+ 38
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 80D4746FA06B0B107500285702DAB393
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918799&extension=ts&play_token=MHZjFX3JJ9
-#EXTINF:-1 tvg-id="1988073" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K ES: SOCCER 53
+#EXTVLCOPT:http-header=Authorization: Bearer 383D001685BBFFA4989FC8DCED166BA7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1611019&extension=ts&play_token=sbPYDWQCwk
+#EXTINF:-1 tvg-id="1611018" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",29/06 11:15 PM | Japanese Feed FIFA World Cup 2026 Round of 32 Brazil vs Japan @ :TSN+ 39
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 80D4746FA06B0B107500285702DAB393
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988073&extension=ts&play_token=0Q7LOsCc2P
-#EXTINF:-1 tvg-id="1988072" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | RTVE: Brazil vs. Japan all | 8K ES: SOCCER 54
+#EXTVLCOPT:http-header=Authorization: Bearer 383D001685BBFFA4989FC8DCED166BA7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1611018&extension=ts&play_token=FyY3t7eMqx
+#EXTINF:-1 tvg-id="1611017" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",29/06 11:15 PM | 2026 FIFA World Cup Round of 32 Brazil vs Japan @ :TSN+ 40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 80D4746FA06B0B107500285702DAB393
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988072&extension=ts&play_token=9YlwPM43Db
-#EXTINF:-1 tvg-id="1939878" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K CA: SOCCER 78
+#EXTVLCOPT:http-header=Authorization: Bearer 383D001685BBFFA4989FC8DCED166BA7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1611017&extension=ts&play_token=Xw1hqoNHWi
+#EXTINF:-1 tvg-id="1611019" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",29/06 11:15 PM | Portuguese Feed FIFA World Cup 2026 Round of 32 Brazil vs Japan @ :TSN+ 38
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B43D3E06063202AB2548F2B85E3301C1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611019&extension=ts&play_token=pI1nMc97e7
+#EXTINF:-1 tvg-id="1611018" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",29/06 11:15 PM | Japanese Feed FIFA World Cup 2026 Round of 32 Brazil vs Japan @ :TSN+ 39
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B43D3E06063202AB2548F2B85E3301C1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611018&extension=ts&play_token=eAi1dBElYG
+#EXTINF:-1 tvg-id="1611017" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",29/06 11:15 PM | 2026 FIFA World Cup Round of 32 Brazil vs Japan @ :TSN+ 40
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B43D3E06063202AB2548F2B85E3301C1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611017&extension=ts&play_token=AfNeXOXdFs
+#EXTINF:-1 tvg-id="1611019" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",29/06 11:15 PM | Portuguese Feed FIFA World Cup 2026 Round of 32 Brazil vs Japan @ :TSN+ 38
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1995F9821310922C83E450A22ABC0C47
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611019&extension=ts&play_token=R5rWDDRTV4
+#EXTINF:-1 tvg-id="1611018" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",29/06 11:15 PM | Japanese Feed FIFA World Cup 2026 Round of 32 Brazil vs Japan @ :TSN+ 39
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1995F9821310922C83E450A22ABC0C47
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611018&extension=ts&play_token=uX7nVPLhlM
+#EXTINF:-1 tvg-id="1611017" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",29/06 11:15 PM | 2026 FIFA World Cup Round of 32 Brazil vs Japan @ :TSN+ 40
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1995F9821310922C83E450A22ABC0C47
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611017&extension=ts&play_token=uHqYe1tqNa
+#EXTINF:-1 tvg-id="1918870" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K DE: SOCCER 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 80D4746FA06B0B107500285702DAB393
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939878&extension=ts&play_token=vR6AIwu4j9
-#EXTINF:-1 tvg-id="1939877" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K CA: SOCCER 79
+#EXTVLCOPT:http-header=Authorization: Bearer 383D001685BBFFA4989FC8DCED166BA7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918870&extension=ts&play_token=er1D2ERjP6
+#EXTINF:-1 tvg-id="1988123" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K ES: SOCCER 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 80D4746FA06B0B107500285702DAB393
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939877&extension=ts&play_token=7lSj5iTOAO
-#EXTINF:-1 tvg-id="1919042" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | CazéTV: Brazil vs. Japan all | 8K BR: SOCCER 42
+#EXTVLCOPT:http-header=Authorization: Bearer 383D001685BBFFA4989FC8DCED166BA7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988123&extension=ts&play_token=76egoo5tZQ
+#EXTINF:-1 tvg-id="1988122" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | RTVE: Brazil vs. Japan all | 8K ES: SOCCER 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 80D4746FA06B0B107500285702DAB393
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919042&extension=ts&play_token=dmTkHTSmSj
-#EXTINF:-1 tvg-id="1919040" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K BR: SOCCER 44
+#EXTVLCOPT:http-header=Authorization: Bearer 383D001685BBFFA4989FC8DCED166BA7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988122&extension=ts&play_token=TqRnz1GEav
+#EXTINF:-1 tvg-id="1939947" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K CA: SOCCER 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 80D4746FA06B0B107500285702DAB393
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919040&extension=ts&play_token=BDGpOaBr24
-#EXTINF:-1 tvg-id="1918799" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K DE: SOCCER 78
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7FBF0DA3A2216B7F1AF589A4C70E5522
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1918799&extension=ts&play_token=r9GGMbfRAX
-#EXTINF:-1 tvg-id="1988073" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K ES: SOCCER 53
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7FBF0DA3A2216B7F1AF589A4C70E5522
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1988073&extension=ts&play_token=SNP3ebBUFk
-#EXTINF:-1 tvg-id="1988072" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | RTVE: Brazil vs. Japan all | 8K ES: SOCCER 54
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7FBF0DA3A2216B7F1AF589A4C70E5522
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1988072&extension=ts&play_token=XahlwxcWb8
-#EXTINF:-1 tvg-id="1939878" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K CA: SOCCER 78
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7FBF0DA3A2216B7F1AF589A4C70E5522
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939878&extension=ts&play_token=1dJdVgNObw
-#EXTINF:-1 tvg-id="1939877" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K CA: SOCCER 79
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7FBF0DA3A2216B7F1AF589A4C70E5522
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939877&extension=ts&play_token=MbZLOvhwda
-#EXTINF:-1 tvg-id="1919042" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | CazéTV: Brazil vs. Japan all | 8K BR: SOCCER 42
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7FBF0DA3A2216B7F1AF589A4C70E5522
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919042&extension=ts&play_token=g9C3sDuGTY
-#EXTINF:-1 tvg-id="1919040" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K BR: SOCCER 44
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7FBF0DA3A2216B7F1AF589A4C70E5522
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919040&extension=ts&play_token=YIqtWEwk6U
-#EXTINF:-1 tvg-id="1939878" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K CA: SOCCER 78
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C753294C3215F5CE7E1D180A940A27AD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939878&extension=ts&play_token=V6xGSLpZvW
-#EXTINF:-1 tvg-id="1939877" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K CA: SOCCER 79
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C753294C3215F5CE7E1D180A940A27AD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939877&extension=ts&play_token=B926uOHl3V
-#EXTINF:-1 tvg-id="1988073" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K ES: SOCCER 53
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C753294C3215F5CE7E1D180A940A27AD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1988073&extension=ts&play_token=RYH4qPiJ3S
-#EXTINF:-1 tvg-id="1988072" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | RTVE: Brazil vs. Japan all | 8K ES: SOCCER 54
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C753294C3215F5CE7E1D180A940A27AD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1988072&extension=ts&play_token=3yKLwoGc65
-#EXTINF:-1 tvg-id="1919042" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | CazéTV: Brazil vs. Japan all | 8K BR: SOCCER 42
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C753294C3215F5CE7E1D180A940A27AD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919042&extension=ts&play_token=PhglHqH92A
-#EXTINF:-1 tvg-id="1919040" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K BR: SOCCER 44
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C753294C3215F5CE7E1D180A940A27AD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919040&extension=ts&play_token=qrlZMfm1S1
-#EXTINF:-1 tvg-id="1918799" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K DE: SOCCER 78
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C753294C3215F5CE7E1D180A940A27AD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1918799&extension=ts&play_token=RANqH9RB2G
-#EXTINF:-1 tvg-id="1918800" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K DE: SOCCER 77
+#EXTVLCOPT:http-header=Authorization: Bearer 383D001685BBFFA4989FC8DCED166BA7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939947&extension=ts&play_token=IQhQO2MLhu
+#EXTINF:-1 tvg-id="1939946" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K CA: SOCCER 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 80D4746FA06B0B107500285702DAB393
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918800&extension=ts&play_token=La9KMWKxTV
-#EXTINF:-1 tvg-id="1988071" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K ES: SOCCER 55
+#EXTVLCOPT:http-header=Authorization: Bearer 383D001685BBFFA4989FC8DCED166BA7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939946&extension=ts&play_token=zmqS3l99m8
+#EXTINF:-1 tvg-id="1940153" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K US: SOCCER 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 80D4746FA06B0B107500285702DAB393
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988071&extension=ts&play_token=xb5JiUhprI
-#EXTINF:-1 tvg-id="1988070" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | RTVE: Germany vs. Paraguay all | 8K ES: SOCCER 56
+#EXTVLCOPT:http-header=Authorization: Bearer 383D001685BBFFA4989FC8DCED166BA7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1940153&extension=ts&play_token=xrkwl7IZYi
+#EXTINF:-1 tvg-id="1919083" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | CazéTV: Brazil vs. Japan all | 8K BR: SOCCER 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 80D4746FA06B0B107500285702DAB393
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988070&extension=ts&play_token=VqERxFoAwE
-#EXTINF:-1 tvg-id="1939880" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K CA: SOCCER 76
+#EXTVLCOPT:http-header=Authorization: Bearer 383D001685BBFFA4989FC8DCED166BA7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919083&extension=ts&play_token=K4vYuFErun
+#EXTINF:-1 tvg-id="1919079" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K BR: SOCCER 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 80D4746FA06B0B107500285702DAB393
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939880&extension=ts&play_token=1EvVhJRDHi
-#EXTINF:-1 tvg-id="1939879" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K CA: SOCCER 77
+#EXTVLCOPT:http-header=Authorization: Bearer 383D001685BBFFA4989FC8DCED166BA7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919079&extension=ts&play_token=rMI1H2tB3B
+#EXTINF:-1 tvg-id="1918870" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K DE: SOCCER 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B43D3E06063202AB2548F2B85E3301C1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1918870&extension=ts&play_token=Ia5PnrzxMR
+#EXTINF:-1 tvg-id="1988123" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K ES: SOCCER 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B43D3E06063202AB2548F2B85E3301C1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1988123&extension=ts&play_token=lbx0nCQUSl
+#EXTINF:-1 tvg-id="1988122" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | RTVE: Brazil vs. Japan all | 8K ES: SOCCER 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B43D3E06063202AB2548F2B85E3301C1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1988122&extension=ts&play_token=R5I9GmbzvT
+#EXTINF:-1 tvg-id="1940153" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K US: SOCCER 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B43D3E06063202AB2548F2B85E3301C1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1940153&extension=ts&play_token=JqccBydzqT
+#EXTINF:-1 tvg-id="1939947" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K CA: SOCCER 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B43D3E06063202AB2548F2B85E3301C1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939947&extension=ts&play_token=ppYHoPKiTC
+#EXTINF:-1 tvg-id="1939946" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K CA: SOCCER 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B43D3E06063202AB2548F2B85E3301C1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939946&extension=ts&play_token=ROuOzTHiJj
+#EXTINF:-1 tvg-id="1919083" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | CazéTV: Brazil vs. Japan all | 8K BR: SOCCER 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B43D3E06063202AB2548F2B85E3301C1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919083&extension=ts&play_token=OTPbHKueKV
+#EXTINF:-1 tvg-id="1919079" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K BR: SOCCER 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B43D3E06063202AB2548F2B85E3301C1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919079&extension=ts&play_token=a7fHNy1Pba
+#EXTINF:-1 tvg-id="1940153" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K US: SOCCER 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1995F9821310922C83E450A22ABC0C47
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1940153&extension=ts&play_token=d5smy9Thi9
+#EXTINF:-1 tvg-id="1939947" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K CA: SOCCER 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1995F9821310922C83E450A22ABC0C47
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939947&extension=ts&play_token=qNghiOu96x
+#EXTINF:-1 tvg-id="1939946" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K CA: SOCCER 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1995F9821310922C83E450A22ABC0C47
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939946&extension=ts&play_token=feWFtWCEcw
+#EXTINF:-1 tvg-id="1988123" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K ES: SOCCER 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1995F9821310922C83E450A22ABC0C47
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1988123&extension=ts&play_token=EDeMwwtL4A
+#EXTINF:-1 tvg-id="1988122" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | RTVE: Brazil vs. Japan all | 8K ES: SOCCER 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1995F9821310922C83E450A22ABC0C47
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1988122&extension=ts&play_token=0V0zt3oeGx
+#EXTINF:-1 tvg-id="1919083" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | CazéTV: Brazil vs. Japan all | 8K BR: SOCCER 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1995F9821310922C83E450A22ABC0C47
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919083&extension=ts&play_token=pZNyQf1DxU
+#EXTINF:-1 tvg-id="1919079" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K BR: SOCCER 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1995F9821310922C83E450A22ABC0C47
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919079&extension=ts&play_token=6wuL03Ogeq
+#EXTINF:-1 tvg-id="1918870" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 12:00 AM | Brazil vs. Japan all | 8K DE: SOCCER 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1995F9821310922C83E450A22ABC0C47
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1918870&extension=ts&play_token=AbNX69WC9R
+#EXTINF:-1 tvg-id="1611019" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 12:00 AM | Portuguese Feed FIFA World Cup 2026 Round of 32 Brazil vs Japan @ :TSN+ 38
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 80D4746FA06B0B107500285702DAB393
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939879&extension=ts&play_token=O0fHoyMatk
-#EXTINF:-1 tvg-id="1919039" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K BR: SOCCER 45
+#EXTVLCOPT:http-header=Authorization: Bearer 383D001685BBFFA4989FC8DCED166BA7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1611019&extension=ts&play_token=sbPYDWQCwk
+#EXTINF:-1 tvg-id="1611018" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 12:00 AM | Japanese Feed FIFA World Cup 2026 Round of 32 Brazil vs Japan @ :TSN+ 39
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 80D4746FA06B0B107500285702DAB393
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919039&extension=ts&play_token=KMMUHEeN6N
-#EXTINF:-1 tvg-id="1919033" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K BR: SOCCER 51
+#EXTVLCOPT:http-header=Authorization: Bearer 383D001685BBFFA4989FC8DCED166BA7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1611018&extension=ts&play_token=FyY3t7eMqx
+#EXTINF:-1 tvg-id="1611017" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 12:00 AM | 2026 FIFA World Cup Round of 32 Brazil vs Japan @ :TSN+ 40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 80D4746FA06B0B107500285702DAB393
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919033&extension=ts&play_token=Qoi0QNh6ft
-#EXTINF:-1 tvg-id="1918800" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K DE: SOCCER 77
+#EXTVLCOPT:http-header=Authorization: Bearer 383D001685BBFFA4989FC8DCED166BA7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1611017&extension=ts&play_token=Xw1hqoNHWi
+#EXTINF:-1 tvg-id="1611019" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 12:00 AM | Portuguese Feed FIFA World Cup 2026 Round of 32 Brazil vs Japan @ :TSN+ 38
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7FBF0DA3A2216B7F1AF589A4C70E5522
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1918800&extension=ts&play_token=u0J7phN5I8
-#EXTINF:-1 tvg-id="1988071" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K ES: SOCCER 55
+#EXTVLCOPT:http-header=Authorization: Bearer B43D3E06063202AB2548F2B85E3301C1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611019&extension=ts&play_token=pI1nMc97e7
+#EXTINF:-1 tvg-id="1611018" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 12:00 AM | Japanese Feed FIFA World Cup 2026 Round of 32 Brazil vs Japan @ :TSN+ 39
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7FBF0DA3A2216B7F1AF589A4C70E5522
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1988071&extension=ts&play_token=ldRvL1Imdc
-#EXTINF:-1 tvg-id="1988070" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | RTVE: Germany vs. Paraguay all | 8K ES: SOCCER 56
+#EXTVLCOPT:http-header=Authorization: Bearer B43D3E06063202AB2548F2B85E3301C1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611018&extension=ts&play_token=eAi1dBElYG
+#EXTINF:-1 tvg-id="1611017" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 12:00 AM | 2026 FIFA World Cup Round of 32 Brazil vs Japan @ :TSN+ 40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7FBF0DA3A2216B7F1AF589A4C70E5522
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1988070&extension=ts&play_token=kdw1mCn0jc
-#EXTINF:-1 tvg-id="1939880" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K CA: SOCCER 76
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7FBF0DA3A2216B7F1AF589A4C70E5522
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939880&extension=ts&play_token=0oXVv6V9Am
-#EXTINF:-1 tvg-id="1939879" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K CA: SOCCER 77
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7FBF0DA3A2216B7F1AF589A4C70E5522
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939879&extension=ts&play_token=qgCIEwadTy
-#EXTINF:-1 tvg-id="1919039" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K BR: SOCCER 45
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7FBF0DA3A2216B7F1AF589A4C70E5522
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919039&extension=ts&play_token=j6enEf2Hyo
-#EXTINF:-1 tvg-id="1919033" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K BR: SOCCER 51
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7FBF0DA3A2216B7F1AF589A4C70E5522
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919033&extension=ts&play_token=fuioJjthUM
-#EXTINF:-1 tvg-id="1939880" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K CA: SOCCER 76
+#EXTVLCOPT:http-header=Authorization: Bearer B43D3E06063202AB2548F2B85E3301C1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611017&extension=ts&play_token=AfNeXOXdFs
+#EXTINF:-1 tvg-id="1611019" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 12:00 AM | Portuguese Feed FIFA World Cup 2026 Round of 32 Brazil vs Japan @ :TSN+ 38
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C753294C3215F5CE7E1D180A940A27AD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939880&extension=ts&play_token=k2ky4SNDIi
-#EXTINF:-1 tvg-id="1939879" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K CA: SOCCER 77
+#EXTVLCOPT:http-header=Authorization: Bearer 1995F9821310922C83E450A22ABC0C47
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611019&extension=ts&play_token=R5rWDDRTV4
+#EXTINF:-1 tvg-id="1611018" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 12:00 AM | Japanese Feed FIFA World Cup 2026 Round of 32 Brazil vs Japan @ :TSN+ 39
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C753294C3215F5CE7E1D180A940A27AD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939879&extension=ts&play_token=JbIzQqeumO
-#EXTINF:-1 tvg-id="1988071" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K ES: SOCCER 55
+#EXTVLCOPT:http-header=Authorization: Bearer 1995F9821310922C83E450A22ABC0C47
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611018&extension=ts&play_token=uX7nVPLhlM
+#EXTINF:-1 tvg-id="1611017" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 12:00 AM | 2026 FIFA World Cup Round of 32 Brazil vs Japan @ :TSN+ 40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C753294C3215F5CE7E1D180A940A27AD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1988071&extension=ts&play_token=IXM3Z2eve6
-#EXTINF:-1 tvg-id="1988070" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | RTVE: Germany vs. Paraguay all | 8K ES: SOCCER 56
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C753294C3215F5CE7E1D180A940A27AD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1988070&extension=ts&play_token=o2tngMJsRj
-#EXTINF:-1 tvg-id="1919039" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K BR: SOCCER 45
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C753294C3215F5CE7E1D180A940A27AD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919039&extension=ts&play_token=wxUWozgsVQ
-#EXTINF:-1 tvg-id="1919033" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K BR: SOCCER 51
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C753294C3215F5CE7E1D180A940A27AD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919033&extension=ts&play_token=UrzGx3erXB
-#EXTINF:-1 tvg-id="1918800" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K DE: SOCCER 77
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C753294C3215F5CE7E1D180A940A27AD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1918800&extension=ts&play_token=KFtAFZOWCI
-#EXTINF:-1 tvg-id="1300530" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="https://go4.pw/USA/FloSport.png",30/06 07:15 AM | US FLO 555 RACING RACE OF CHAMPIONS MODIFIEDS AT HOLLAND SPEEDWAY – /
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E2944FB3E1B5C939CBF9B4FCFEFCA2DE
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1300530
-#EXTINF:-1 tvg-id="1918875" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 07:15 AM | End Grand Prix of Netherlands Warm-Up all | 8K DE: SOCCER 2
+#EXTVLCOPT:http-header=Authorization: Bearer 1995F9821310922C83E450A22ABC0C47
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611017&extension=ts&play_token=uHqYe1tqNa
+#EXTINF:-1 tvg-id="1918871" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K DE: SOCCER 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 80D4746FA06B0B107500285702DAB393
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918875&extension=ts&play_token=Eq4ni2yJ0h
-#EXTINF:-1 tvg-id="1918862" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 07:15 AM | End Grand Prix of Netherlands Race all | 8K DE: SOCCER 15
+#EXTVLCOPT:http-header=Authorization: Bearer 383D001685BBFFA4989FC8DCED166BA7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918871&extension=ts&play_token=3xusJkU4IR
+#EXTINF:-1 tvg-id="1988121" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K ES: SOCCER 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 80D4746FA06B0B107500285702DAB393
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918862&extension=ts&play_token=Bft4LzhjTg
-#EXTINF:-1 tvg-id="1918860" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 07:15 AM | End Grand Prix of Netherlands Race all | 8K DE: SOCCER 17
+#EXTVLCOPT:http-header=Authorization: Bearer 383D001685BBFFA4989FC8DCED166BA7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988121&extension=ts&play_token=0t4fSTKcci
+#EXTINF:-1 tvg-id="1988120" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | RTVE: Germany vs. Paraguay all | 8K ES: SOCCER 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 80D4746FA06B0B107500285702DAB393
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918860&extension=ts&play_token=niuEtLGiVA
-#EXTINF:-1 tvg-id="1918827" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 07:15 AM | End Grand Prix of Netherlands Race all | 8K DE: SOCCER 50
+#EXTVLCOPT:http-header=Authorization: Bearer 383D001685BBFFA4989FC8DCED166BA7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988120&extension=ts&play_token=27kR48g2xm
+#EXTINF:-1 tvg-id="1939952" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K CA: SOCCER 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 80D4746FA06B0B107500285702DAB393
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918827&extension=ts&play_token=YOA9aSuBpf
-#EXTINF:-1 tvg-id="1988124" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 07:15 AM | End All races Grand Prix of the Netherlands all | 8K ES: SOCCER 2
+#EXTVLCOPT:http-header=Authorization: Bearer 383D001685BBFFA4989FC8DCED166BA7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939952&extension=ts&play_token=7UTRpcTr2U
+#EXTINF:-1 tvg-id="1939951" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K CA: SOCCER 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 80D4746FA06B0B107500285702DAB393
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988124&extension=ts&play_token=Hfr773wuk9
-#EXTINF:-1 tvg-id="1488481" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13748.png?ver=952",30/06 07:15 AM | ENDED MOTOGP GRAND PRIX OF THE NETHERLANDS (CA) 8K CA: SPORTSNET 3
+#EXTVLCOPT:http-header=Authorization: Bearer 383D001685BBFFA4989FC8DCED166BA7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939951&extension=ts&play_token=uxQ75K1xAK
+#EXTINF:-1 tvg-id="1940151" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K US: SOCCER 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 80D4746FA06B0B107500285702DAB393
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1488481&extension=ts&play_token=GQ3rCXIrHm
-#EXTINF:-1 tvg-id="1940100" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 07:15 AM | End Grand Prix of The Netherlands all | 8K US: SOCCER 57
+#EXTVLCOPT:http-header=Authorization: Bearer 383D001685BBFFA4989FC8DCED166BA7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1940151&extension=ts&play_token=dz91JManXS
+#EXTINF:-1 tvg-id="1919081" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K BR: SOCCER 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 80D4746FA06B0B107500285702DAB393
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1940100&extension=ts&play_token=AsmoX8AUVr
-#EXTINF:-1 tvg-id="1918875" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 07:15 AM | End Grand Prix of Netherlands Warm-Up all | 8K DE: SOCCER 2
+#EXTVLCOPT:http-header=Authorization: Bearer 383D001685BBFFA4989FC8DCED166BA7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919081&extension=ts&play_token=gbb1ctyRJk
+#EXTINF:-1 tvg-id="1919076" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K BR: SOCCER 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 383D001685BBFFA4989FC8DCED166BA7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919076&extension=ts&play_token=EdTTMMIwqI
+#EXTINF:-1 tvg-id="1918871" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K DE: SOCCER 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7FBF0DA3A2216B7F1AF589A4C70E5522
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1918875&extension=ts&play_token=MiOGaosXVc
-#EXTINF:-1 tvg-id="1918862" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 07:15 AM | End Grand Prix of Netherlands Race all | 8K DE: SOCCER 15
+#EXTVLCOPT:http-header=Authorization: Bearer B43D3E06063202AB2548F2B85E3301C1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1918871&extension=ts&play_token=1FEZ8LcWrH
+#EXTINF:-1 tvg-id="1988121" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K ES: SOCCER 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7FBF0DA3A2216B7F1AF589A4C70E5522
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1918862&extension=ts&play_token=GziINejB0H
-#EXTINF:-1 tvg-id="1918860" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 07:15 AM | End Grand Prix of Netherlands Race all | 8K DE: SOCCER 17
+#EXTVLCOPT:http-header=Authorization: Bearer B43D3E06063202AB2548F2B85E3301C1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1988121&extension=ts&play_token=oOAh3xpQNn
+#EXTINF:-1 tvg-id="1988120" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | RTVE: Germany vs. Paraguay all | 8K ES: SOCCER 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7FBF0DA3A2216B7F1AF589A4C70E5522
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1918860&extension=ts&play_token=GVisPlO5CM
-#EXTINF:-1 tvg-id="1918827" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 07:15 AM | End Grand Prix of Netherlands Race all | 8K DE: SOCCER 50
+#EXTVLCOPT:http-header=Authorization: Bearer B43D3E06063202AB2548F2B85E3301C1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1988120&extension=ts&play_token=l8iSPDcpq2
+#EXTINF:-1 tvg-id="1940151" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K US: SOCCER 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7FBF0DA3A2216B7F1AF589A4C70E5522
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1918827&extension=ts&play_token=sUi7rs4PrB
-#EXTINF:-1 tvg-id="1988124" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 07:15 AM | End All races Grand Prix of the Netherlands all | 8K ES: SOCCER 2
+#EXTVLCOPT:http-header=Authorization: Bearer B43D3E06063202AB2548F2B85E3301C1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1940151&extension=ts&play_token=MnXeGjNCbB
+#EXTINF:-1 tvg-id="1939952" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K CA: SOCCER 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7FBF0DA3A2216B7F1AF589A4C70E5522
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1988124&extension=ts&play_token=a5Y5pYsnwK
-#EXTINF:-1 tvg-id="1940100" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 07:15 AM | End Grand Prix of The Netherlands all | 8K US: SOCCER 57
+#EXTVLCOPT:http-header=Authorization: Bearer B43D3E06063202AB2548F2B85E3301C1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939952&extension=ts&play_token=dKHyZ45yoB
+#EXTINF:-1 tvg-id="1939951" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K CA: SOCCER 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7FBF0DA3A2216B7F1AF589A4C70E5522
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1940100&extension=ts&play_token=TntUYFj9uk
-#EXTINF:-1 tvg-id="1488481" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13748.png?ver=952",30/06 07:15 AM | ENDED MOTOGP GRAND PRIX OF THE NETHERLANDS (CA) 8K CA: SPORTSNET 3
+#EXTVLCOPT:http-header=Authorization: Bearer B43D3E06063202AB2548F2B85E3301C1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939951&extension=ts&play_token=jVQUMAjQ7J
+#EXTINF:-1 tvg-id="1919081" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K BR: SOCCER 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7FBF0DA3A2216B7F1AF589A4C70E5522
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1488481&extension=ts&play_token=jew9BMS9eh
-#EXTINF:-1 tvg-id="1940100" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 07:15 AM | End Grand Prix of The Netherlands all | 8K US: SOCCER 57
+#EXTVLCOPT:http-header=Authorization: Bearer B43D3E06063202AB2548F2B85E3301C1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919081&extension=ts&play_token=5eNBvJZObF
+#EXTINF:-1 tvg-id="1919076" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K BR: SOCCER 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B43D3E06063202AB2548F2B85E3301C1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919076&extension=ts&play_token=tzsAUwheXV
+#EXTINF:-1 tvg-id="1940151" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K US: SOCCER 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C753294C3215F5CE7E1D180A940A27AD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1940100&extension=ts&play_token=lhHRlUh0VL
-#EXTINF:-1 tvg-id="1488481" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13748.png?ver=952",30/06 07:15 AM | ENDED MOTOGP GRAND PRIX OF THE NETHERLANDS (CA) 8K CA: SPORTSNET 3
+#EXTVLCOPT:http-header=Authorization: Bearer 1995F9821310922C83E450A22ABC0C47
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1940151&extension=ts&play_token=ObDbqbFciW
+#EXTINF:-1 tvg-id="1939952" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K CA: SOCCER 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C753294C3215F5CE7E1D180A940A27AD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1488481&extension=ts&play_token=t5Eka85yXM
-#EXTINF:-1 tvg-id="1988124" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 07:15 AM | End All races Grand Prix of the Netherlands all | 8K ES: SOCCER 2
+#EXTVLCOPT:http-header=Authorization: Bearer 1995F9821310922C83E450A22ABC0C47
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939952&extension=ts&play_token=CaVB1N8Kxw
+#EXTINF:-1 tvg-id="1939951" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K CA: SOCCER 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C753294C3215F5CE7E1D180A940A27AD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1988124&extension=ts&play_token=jfCBYSb2vH
-#EXTINF:-1 tvg-id="1918875" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 07:15 AM | End Grand Prix of Netherlands Warm-Up all | 8K DE: SOCCER 2
+#EXTVLCOPT:http-header=Authorization: Bearer 1995F9821310922C83E450A22ABC0C47
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939951&extension=ts&play_token=I20N8Jc7EJ
+#EXTINF:-1 tvg-id="1988121" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K ES: SOCCER 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C753294C3215F5CE7E1D180A940A27AD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1918875&extension=ts&play_token=nnQM779Jkx
-#EXTINF:-1 tvg-id="1918862" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 07:15 AM | End Grand Prix of Netherlands Race all | 8K DE: SOCCER 15
+#EXTVLCOPT:http-header=Authorization: Bearer 1995F9821310922C83E450A22ABC0C47
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1988121&extension=ts&play_token=WhB3eYiahC
+#EXTINF:-1 tvg-id="1988120" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | RTVE: Germany vs. Paraguay all | 8K ES: SOCCER 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C753294C3215F5CE7E1D180A940A27AD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1918862&extension=ts&play_token=u4ZD1Rbz8i
-#EXTINF:-1 tvg-id="1918860" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 07:15 AM | End Grand Prix of Netherlands Race all | 8K DE: SOCCER 17
+#EXTVLCOPT:http-header=Authorization: Bearer 1995F9821310922C83E450A22ABC0C47
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1988120&extension=ts&play_token=iuDC1kvX9Z
+#EXTINF:-1 tvg-id="1919081" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K BR: SOCCER 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C753294C3215F5CE7E1D180A940A27AD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1918860&extension=ts&play_token=LzjDMKsJOH
-#EXTINF:-1 tvg-id="1918827" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 07:15 AM | End Grand Prix of Netherlands Race all | 8K DE: SOCCER 50
+#EXTVLCOPT:http-header=Authorization: Bearer 1995F9821310922C83E450A22ABC0C47
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919081&extension=ts&play_token=9zecG40Gox
+#EXTINF:-1 tvg-id="1919076" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K BR: SOCCER 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C753294C3215F5CE7E1D180A940A27AD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1918827&extension=ts&play_token=ss9rfvTvTW
+#EXTVLCOPT:http-header=Authorization: Bearer 1995F9821310922C83E450A22ABC0C47
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919076&extension=ts&play_token=PXmtTdKrnT
+#EXTINF:-1 tvg-id="1918871" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Germany vs. Paraguay all | 8K DE: SOCCER 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1995F9821310922C83E450A22ABC0C47
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1918871&extension=ts&play_token=oJngBi0U2N
+#EXTINF:-1 tvg-id="1611002" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 07:15 AM | Dutch Feed FIFA World Cup 2026 Round of 32 Netherlands vs Morocco @ :TSN+ 55
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 383D001685BBFFA4989FC8DCED166BA7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1611002&extension=ts&play_token=pwQnA20ZCZ
+#EXTINF:-1 tvg-id="1611001" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 07:15 AM | Arabic Feed FIFA World Cup 2026 Round of 32 Netherlands vs Morocco @ :TSN+ 56
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 383D001685BBFFA4989FC8DCED166BA7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1611001&extension=ts&play_token=PGjSJDA29v
+#EXTINF:-1 tvg-id="1611000" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 07:15 AM | 2026 FIFA World Cup Round of 32 Netherlands vs Morocco @ :TSN+ 57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 383D001685BBFFA4989FC8DCED166BA7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1611000&extension=ts&play_token=k9H5e0C99w
 #EXTINF:-1 tvg-id="1538122" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13748.png?ver=952",30/06 07:15 AM | MotoGP: MotoGP Grand Prix of the Netherlands @ :Sportsnet+ 03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 80D4746FA06B0B107500285702DAB393
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1538122&extension=ts&play_token=bfxgtMDNza
+#EXTVLCOPT:http-header=Authorization: Bearer 383D001685BBFFA4989FC8DCED166BA7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1538122&extension=ts&play_token=DZG9GqSBti
+#EXTINF:-1 tvg-id="1611002" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 07:15 AM | Dutch Feed FIFA World Cup 2026 Round of 32 Netherlands vs Morocco @ :TSN+ 55
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B43D3E06063202AB2548F2B85E3301C1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611002&extension=ts&play_token=DZWS9IEXTf
+#EXTINF:-1 tvg-id="1611001" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 07:15 AM | Arabic Feed FIFA World Cup 2026 Round of 32 Netherlands vs Morocco @ :TSN+ 56
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B43D3E06063202AB2548F2B85E3301C1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611001&extension=ts&play_token=Wvf3FnYPSN
+#EXTINF:-1 tvg-id="1611000" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 07:15 AM | 2026 FIFA World Cup Round of 32 Netherlands vs Morocco @ :TSN+ 57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B43D3E06063202AB2548F2B85E3301C1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611000&extension=ts&play_token=MgqT6i5ldn
 #EXTINF:-1 tvg-id="1538122" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13748.png?ver=952",30/06 07:15 AM | MotoGP: MotoGP Grand Prix of the Netherlands @ :Sportsnet+ 03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7FBF0DA3A2216B7F1AF589A4C70E5522
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1538122&extension=ts&play_token=QJej7bDyLj
+#EXTVLCOPT:http-header=Authorization: Bearer B43D3E06063202AB2548F2B85E3301C1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1538122&extension=ts&play_token=LgVNlKXW1Z
+#EXTINF:-1 tvg-id="1611002" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 07:15 AM | Dutch Feed FIFA World Cup 2026 Round of 32 Netherlands vs Morocco @ :TSN+ 55
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1995F9821310922C83E450A22ABC0C47
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611002&extension=ts&play_token=aS2HREhtNG
+#EXTINF:-1 tvg-id="1611001" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 07:15 AM | Arabic Feed FIFA World Cup 2026 Round of 32 Netherlands vs Morocco @ :TSN+ 56
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1995F9821310922C83E450A22ABC0C47
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611001&extension=ts&play_token=Bw9fk0LM2v
+#EXTINF:-1 tvg-id="1611000" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 07:15 AM | 2026 FIFA World Cup Round of 32 Netherlands vs Morocco @ :TSN+ 57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1995F9821310922C83E450A22ABC0C47
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611000&extension=ts&play_token=q2S23ZfbCs
 #EXTINF:-1 tvg-id="1538122" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13748.png?ver=952",30/06 07:15 AM | MotoGP: MotoGP Grand Prix of the Netherlands @ :Sportsnet+ 03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C753294C3215F5CE7E1D180A940A27AD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1538122&extension=ts&play_token=f2U9BTQCos
+#EXTVLCOPT:http-header=Authorization: Bearer 1995F9821310922C83E450A22ABC0C47
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1538122&extension=ts&play_token=S7wjCUtsZ8
+#EXTINF:-1 tvg-id="1940154" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 08:00 AM | Netherlands vs. Morocco all | 8K US: SOCCER 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 383D001685BBFFA4989FC8DCED166BA7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1940154&extension=ts&play_token=YZ9onH3hbt
+#EXTINF:-1 tvg-id="1940154" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 08:00 AM | Netherlands vs. Morocco all | 8K US: SOCCER 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B43D3E06063202AB2548F2B85E3301C1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1940154&extension=ts&play_token=8dZlat0G6i
+#EXTINF:-1 tvg-id="1940154" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 08:00 AM | Netherlands vs. Morocco all | 8K US: SOCCER 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1995F9821310922C83E450A22ABC0C47
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1940154&extension=ts&play_token=sVNuSPyWUI
+#EXTINF:-1 tvg-id="1611002" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 08:00 AM | Dutch Feed FIFA World Cup 2026 Round of 32 Netherlands vs Morocco @ :TSN+ 55
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 383D001685BBFFA4989FC8DCED166BA7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1611002&extension=ts&play_token=pwQnA20ZCZ
+#EXTINF:-1 tvg-id="1611001" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 08:00 AM | Arabic Feed FIFA World Cup 2026 Round of 32 Netherlands vs Morocco @ :TSN+ 56
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 383D001685BBFFA4989FC8DCED166BA7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1611001&extension=ts&play_token=PGjSJDA29v
+#EXTINF:-1 tvg-id="1611000" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 08:00 AM | 2026 FIFA World Cup Round of 32 Netherlands vs Morocco @ :TSN+ 57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 383D001685BBFFA4989FC8DCED166BA7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1611000&extension=ts&play_token=k9H5e0C99w
+#EXTINF:-1 tvg-id="1611002" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 08:00 AM | Dutch Feed FIFA World Cup 2026 Round of 32 Netherlands vs Morocco @ :TSN+ 55
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B43D3E06063202AB2548F2B85E3301C1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611002&extension=ts&play_token=DZWS9IEXTf
+#EXTINF:-1 tvg-id="1611001" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 08:00 AM | Arabic Feed FIFA World Cup 2026 Round of 32 Netherlands vs Morocco @ :TSN+ 56
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B43D3E06063202AB2548F2B85E3301C1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611001&extension=ts&play_token=Wvf3FnYPSN
+#EXTINF:-1 tvg-id="1611000" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 08:00 AM | 2026 FIFA World Cup Round of 32 Netherlands vs Morocco @ :TSN+ 57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B43D3E06063202AB2548F2B85E3301C1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611000&extension=ts&play_token=MgqT6i5ldn
+#EXTINF:-1 tvg-id="1611002" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 08:00 AM | Dutch Feed FIFA World Cup 2026 Round of 32 Netherlands vs Morocco @ :TSN+ 55
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1995F9821310922C83E450A22ABC0C47
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611002&extension=ts&play_token=aS2HREhtNG
+#EXTINF:-1 tvg-id="1611001" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 08:00 AM | Arabic Feed FIFA World Cup 2026 Round of 32 Netherlands vs Morocco @ :TSN+ 56
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1995F9821310922C83E450A22ABC0C47
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611001&extension=ts&play_token=Bw9fk0LM2v
+#EXTINF:-1 tvg-id="1611000" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 08:00 AM | 2026 FIFA World Cup Round of 32 Netherlands vs Morocco @ :TSN+ 57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1995F9821310922C83E450A22ABC0C47
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611000&extension=ts&play_token=q2S23ZfbCs
