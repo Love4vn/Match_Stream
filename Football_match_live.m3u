@@ -1,101 +1,206 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1918871" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Live Germany vs. Paraguay all 8K DE: SOCCER 6
+#EXTINF:-1 tvg-id="1939912" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",01/07 12:00 AM | Ivory Coast vs. Norway all | 8K CA: SOCCER 44
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ACDE4D59D1D136190C5424B286D5637C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918871&extension=ts&play_token=2Awg7YcoJD
-#EXTINF:-1 tvg-id="1988121" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Live Germany vs. Paraguay all 8K ES: SOCCER 5
+#EXTVLCOPT:http-header=Authorization: Bearer D90E0C9464328F3EC36B8F4613CD8A37
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939912&extension=ts&play_token=TSrzUA5men
+#EXTINF:-1 tvg-id="1939911" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",01/07 12:00 AM | Ivory Coast vs. Norway all | 8K CA: SOCCER 45
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ACDE4D59D1D136190C5424B286D5637C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988121&extension=ts&play_token=BusTDoXnO4
-#EXTINF:-1 tvg-id="1988120" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | End RTVE: Germany vs. Paraguay all | 8K ES: SOCCER 6
+#EXTVLCOPT:http-header=Authorization: Bearer D90E0C9464328F3EC36B8F4613CD8A37
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939911&extension=ts&play_token=Xj0aSeAXJJ
+#EXTINF:-1 tvg-id="1939912" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",01/07 12:00 AM | Ivory Coast vs. Norway all | 8K CA: SOCCER 44
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7F8EFBE27AE2DCFA9E021630339A165B
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939912&extension=ts&play_token=SIJIJQ9WGe
+#EXTINF:-1 tvg-id="1939911" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",01/07 12:00 AM | Ivory Coast vs. Norway all | 8K CA: SOCCER 45
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7F8EFBE27AE2DCFA9E021630339A165B
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939911&extension=ts&play_token=c6EXiA5rmw
+#EXTINF:-1 tvg-id="1939912" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",01/07 12:00 AM | Ivory Coast vs. Norway all | 8K CA: SOCCER 44
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9BD92264B70B0E6F1FADE3A79043BCE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939912&extension=ts&play_token=U1pHqG7KLg
+#EXTINF:-1 tvg-id="1939911" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",01/07 12:00 AM | Ivory Coast vs. Norway all | 8K CA: SOCCER 45
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9BD92264B70B0E6F1FADE3A79043BCE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939911&extension=ts&play_token=k99c5xAhj8
+#EXTINF:-1 tvg-id="1988102" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",01/07 12:00 AM | Côte d'Ivoire vs. Norway all | 8K ES: SOCCER 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ACDE4D59D1D136190C5424B286D5637C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988120&extension=ts&play_token=YG8o3NpS3W
-#EXTINF:-1 tvg-id="1939952" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Live Germany vs. Paraguay all 8K CA: SOCCER 4
+#EXTVLCOPT:http-header=Authorization: Bearer D90E0C9464328F3EC36B8F4613CD8A37
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988102&extension=ts&play_token=2FYYj7doI3
+#EXTINF:-1 tvg-id="1919061" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",01/07 12:00 AM | Côte d'Ivoire vs. Norway all | 8K BR: SOCCER 23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ACDE4D59D1D136190C5424B286D5637C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939952&extension=ts&play_token=PFDc8m0R5Z
-#EXTINF:-1 tvg-id="1939951" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Live Germany vs. Paraguay all 8K CA: SOCCER 5
+#EXTVLCOPT:http-header=Authorization: Bearer D90E0C9464328F3EC36B8F4613CD8A37
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919061&extension=ts&play_token=YpdN7y11oN
+#EXTINF:-1 tvg-id="1919058" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",01/07 12:00 AM | CazéTV: Côte d'Ivoire vs. Norway all | 8K BR: SOCCER 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ACDE4D59D1D136190C5424B286D5637C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939951&extension=ts&play_token=eYEu3Tclgr
-#EXTINF:-1 tvg-id="1939942" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Live Germany vs. Paraguay all 8K CA: SOCCER 14
+#EXTVLCOPT:http-header=Authorization: Bearer D90E0C9464328F3EC36B8F4613CD8A37
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919058&extension=ts&play_token=sL0UPDnoMm
+#EXTINF:-1 tvg-id="1988102" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",01/07 12:00 AM | Côte d'Ivoire vs. Norway all | 8K ES: SOCCER 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ACDE4D59D1D136190C5424B286D5637C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939942&extension=ts&play_token=T79oXUSYIX
-#EXTINF:-1 tvg-id="1940151" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Live Germany vs. Paraguay all 8K US: SOCCER 6
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7F8EFBE27AE2DCFA9E021630339A165B
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1988102&extension=ts&play_token=dmyNAfRkLb
+#EXTINF:-1 tvg-id="1919061" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",01/07 12:00 AM | Côte d'Ivoire vs. Norway all | 8K BR: SOCCER 23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ACDE4D59D1D136190C5424B286D5637C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1940151&extension=ts&play_token=EJp6VuWOMT
-#EXTINF:-1 tvg-id="1919081" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Live CazéTV: Germany vs. Paraguay all 8K BR: SOCCER 3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7F8EFBE27AE2DCFA9E021630339A165B
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919061&extension=ts&play_token=uEncBadN2c
+#EXTINF:-1 tvg-id="1919058" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",01/07 12:00 AM | CazéTV: Côte d'Ivoire vs. Norway all | 8K BR: SOCCER 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ACDE4D59D1D136190C5424B286D5637C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919081&extension=ts&play_token=6JOJepzwuE
-#EXTINF:-1 tvg-id="1919076" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 03:30 AM | Live Germany vs. Paraguay all 8K BR: SOCCER 8
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7F8EFBE27AE2DCFA9E021630339A165B
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919058&extension=ts&play_token=Eekas69oXR
+#EXTINF:-1 tvg-id="1988102" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",01/07 12:00 AM | Côte d'Ivoire vs. Norway all | 8K ES: SOCCER 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ACDE4D59D1D136190C5424B286D5637C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919076&extension=ts&play_token=ex8w9uWR6h
-#EXTINF:-1 tvg-id="1611002" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 07:15 AM | Dutch Feed FIFA World Cup 2026 Round of 32 Netherlands vs Morocco @ :TSN+ 55
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9BD92264B70B0E6F1FADE3A79043BCE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1988102&extension=ts&play_token=l0McJZBy90
+#EXTINF:-1 tvg-id="1919061" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",01/07 12:00 AM | Côte d'Ivoire vs. Norway all | 8K BR: SOCCER 23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ACDE4D59D1D136190C5424B286D5637C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1611002&extension=ts&play_token=NUTHHBHkNk
-#EXTINF:-1 tvg-id="1611001" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 07:15 AM | Arabic Feed FIFA World Cup 2026 Round of 32 Netherlands vs Morocco @ :TSN+ 56
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9BD92264B70B0E6F1FADE3A79043BCE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1919061&extension=ts&play_token=8x9uDazwBX
+#EXTINF:-1 tvg-id="1919058" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",01/07 12:00 AM | CazéTV: Côte d'Ivoire vs. Norway all | 8K BR: SOCCER 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ACDE4D59D1D136190C5424B286D5637C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1611001&extension=ts&play_token=PpcGSof8sZ
-#EXTINF:-1 tvg-id="1611000" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 07:15 AM | 2026 FIFA World Cup Round of 32 Netherlands vs Morocco @ :TSN+ 57
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9BD92264B70B0E6F1FADE3A79043BCE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1919058&extension=ts&play_token=eHZ7idFKu6
+#EXTINF:-1 tvg-id="2072529" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",01/07 12:00 AM | Côte d'Ivoire vs. Norway all | 8K ES: SOCCER 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ACDE4D59D1D136190C5424B286D5637C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1611000&extension=ts&play_token=ssREtOsdS9
-#EXTINF:-1 tvg-id="1940154" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",30/06 08:00 AM | Netherlands vs. Morocco all | 8K US: SOCCER 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ACDE4D59D1D136190C5424B286D5637C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1940154&extension=ts&play_token=lSriqucazG
-#EXTINF:-1 tvg-id="1611002" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 08:00 AM | Dutch Feed FIFA World Cup 2026 Round of 32 Netherlands vs Morocco @ :TSN+ 55
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ACDE4D59D1D136190C5424B286D5637C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1611002&extension=ts&play_token=NUTHHBHkNk
-#EXTINF:-1 tvg-id="1611001" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 08:00 AM | Arabic Feed FIFA World Cup 2026 Round of 32 Netherlands vs Morocco @ :TSN+ 56
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ACDE4D59D1D136190C5424B286D5637C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1611001&extension=ts&play_token=PpcGSof8sZ
-#EXTINF:-1 tvg-id="1611000" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",30/06 08:00 AM | 2026 FIFA World Cup Round of 32 Netherlands vs Morocco @ :TSN+ 57
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ACDE4D59D1D136190C5424B286D5637C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1611000&extension=ts&play_token=ssREtOsdS9
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 994B7E9311BA86BBBBD305EAA97C93A1
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072529&extension=ts&play_token=LTPjwjaCgC
 #EXTINF:-1 tvg-id="1661025" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=67754",01/07 03:15 AM | (FLSP 724) flofootball: 2026 St Frances Academy MD vs DeLand FL (St Frances Academy MD vs DeLand FL) ( :05)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ACDE4D59D1D136190C5424B286D5637C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1661025&extension=ts&play_token=H4juR0lgO0
+#EXTVLCOPT:http-header=Authorization: Bearer D90E0C9464328F3EC36B8F4613CD8A37
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1661025&extension=ts&play_token=uWKYkqnYMx
 #EXTINF:-1 tvg-id="1660879" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=67754",01/07 03:15 AM | (FLSP 870) flofootball: 2026 King Drew CA vs St Frances Academy MD (King Drew CA vs St Frances Academy MD) ( :40)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ACDE4D59D1D136190C5424B286D5637C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1660879&extension=ts&play_token=Rsd8GKazzO
+#EXTVLCOPT:http-header=Authorization: Bearer D90E0C9464328F3EC36B8F4613CD8A37
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1660879&extension=ts&play_token=nPTw54vNcV
 #EXTINF:-1 tvg-id="1660777" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=67754",01/07 03:15 AM | (FLSP 972) flofootball: 2026 St Frances Academy MD vs St James Academy VA (St Frances Acad. MD vs St James Acad. VA) ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ACDE4D59D1D136190C5424B286D5637C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1660777&extension=ts&play_token=fbLV8MazaR
+#EXTVLCOPT:http-header=Authorization: Bearer D90E0C9464328F3EC36B8F4613CD8A37
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1660777&extension=ts&play_token=0IRManxeNo
 #EXTINF:-1 tvg-id="1660765" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=67754",01/07 03:15 AM | (FLSP 984) flofootball: 2026 St Frances Academy MD vs Hun School NJ (St Frances Academy MD vs Hun School NJ) ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ACDE4D59D1D136190C5424B286D5637C
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1660765&extension=ts&play_token=BJ5PfTW35t
+#EXTVLCOPT:http-header=Authorization: Bearer D90E0C9464328F3EC36B8F4613CD8A37
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1660765&extension=ts&play_token=p187b6ZC5D
+#EXTINF:-1 tvg-id="1661025" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=67754",01/07 03:15 AM | (FLSP 724) flofootball: 2026 St Frances Academy MD vs DeLand FL (St Frances Academy MD vs DeLand FL) ( :05)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7F8EFBE27AE2DCFA9E021630339A165B
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1661025&extension=ts&play_token=LJjTvROe23
+#EXTINF:-1 tvg-id="1660879" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=67754",01/07 03:15 AM | (FLSP 870) flofootball: 2026 King Drew CA vs St Frances Academy MD (King Drew CA vs St Frances Academy MD) ( :40)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7F8EFBE27AE2DCFA9E021630339A165B
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1660879&extension=ts&play_token=6nLMpvUJOO
+#EXTINF:-1 tvg-id="1660777" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=67754",01/07 03:15 AM | (FLSP 972) flofootball: 2026 St Frances Academy MD vs St James Academy VA (St Frances Acad. MD vs St James Acad. VA) ( :00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7F8EFBE27AE2DCFA9E021630339A165B
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1660777&extension=ts&play_token=wL6nQMq1dJ
+#EXTINF:-1 tvg-id="1660765" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=67754",01/07 03:15 AM | (FLSP 984) flofootball: 2026 St Frances Academy MD vs Hun School NJ (St Frances Academy MD vs Hun School NJ) ( :00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7F8EFBE27AE2DCFA9E021630339A165B
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1660765&extension=ts&play_token=bGOzMJTd9r
+#EXTINF:-1 tvg-id="1661025" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=67754",01/07 03:15 AM | (FLSP 724) flofootball: 2026 St Frances Academy MD vs DeLand FL (St Frances Academy MD vs DeLand FL) ( :05)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9BD92264B70B0E6F1FADE3A79043BCE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1661025&extension=ts&play_token=78P3yE1FxY
+#EXTINF:-1 tvg-id="1660879" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=67754",01/07 03:15 AM | (FLSP 870) flofootball: 2026 King Drew CA vs St Frances Academy MD (King Drew CA vs St Frances Academy MD) ( :40)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9BD92264B70B0E6F1FADE3A79043BCE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1660879&extension=ts&play_token=7K9NQtvrbe
+#EXTINF:-1 tvg-id="1660777" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=67754",01/07 03:15 AM | (FLSP 972) flofootball: 2026 St Frances Academy MD vs St James Academy VA (St Frances Acad. MD vs St James Acad. VA) ( :00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9BD92264B70B0E6F1FADE3A79043BCE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1660777&extension=ts&play_token=EU6DF5uudV
+#EXTINF:-1 tvg-id="1660765" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=67754",01/07 03:15 AM | (FLSP 984) flofootball: 2026 St Frances Academy MD vs Hun School NJ (St Frances Academy MD vs Hun School NJ) ( :00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9BD92264B70B0E6F1FADE3A79043BCE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1660765&extension=ts&play_token=DF32HY6qpi
+#EXTINF:-1 tvg-id="1988104" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",01/07 04:00 AM | France vs. Sweden all | 8K ES: SOCCER 22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D90E0C9464328F3EC36B8F4613CD8A37
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988104&extension=ts&play_token=5a6XMTryOt
+#EXTINF:-1 tvg-id="1939919" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",01/07 04:00 AM | France vs. Sweden all | 8K CA: SOCCER 37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D90E0C9464328F3EC36B8F4613CD8A37
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939919&extension=ts&play_token=SGDFAzbjsk
+#EXTINF:-1 tvg-id="1939918" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",01/07 04:00 AM | France vs. Sweden all | 8K CA: SOCCER 38
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D90E0C9464328F3EC36B8F4613CD8A37
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939918&extension=ts&play_token=m26rQNjigM
+#EXTINF:-1 tvg-id="1919060" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",01/07 04:00 AM | CazéTV: France vs. Sweden all | 8K BR: SOCCER 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D90E0C9464328F3EC36B8F4613CD8A37
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919060&extension=ts&play_token=o4yHsAQVeW
+#EXTINF:-1 tvg-id="1988104" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",01/07 04:00 AM | France vs. Sweden all | 8K ES: SOCCER 22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7F8EFBE27AE2DCFA9E021630339A165B
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1988104&extension=ts&play_token=tZQOH3Jv69
+#EXTINF:-1 tvg-id="1939919" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",01/07 04:00 AM | France vs. Sweden all | 8K CA: SOCCER 37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7F8EFBE27AE2DCFA9E021630339A165B
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939919&extension=ts&play_token=UkL9UlI3o9
+#EXTINF:-1 tvg-id="1939918" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",01/07 04:00 AM | France vs. Sweden all | 8K CA: SOCCER 38
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7F8EFBE27AE2DCFA9E021630339A165B
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939918&extension=ts&play_token=OzjK2Yf1sR
+#EXTINF:-1 tvg-id="1919060" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",01/07 04:00 AM | CazéTV: France vs. Sweden all | 8K BR: SOCCER 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7F8EFBE27AE2DCFA9E021630339A165B
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919060&extension=ts&play_token=9XBuYiL2sD
+#EXTINF:-1 tvg-id="1939919" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",01/07 04:00 AM | France vs. Sweden all | 8K CA: SOCCER 37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9BD92264B70B0E6F1FADE3A79043BCE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939919&extension=ts&play_token=A7YLnkZmAZ
+#EXTINF:-1 tvg-id="1939918" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",01/07 04:00 AM | France vs. Sweden all | 8K CA: SOCCER 38
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9BD92264B70B0E6F1FADE3A79043BCE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939918&extension=ts&play_token=3xU3ollQWW
+#EXTINF:-1 tvg-id="1988104" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",01/07 04:00 AM | France vs. Sweden all | 8K ES: SOCCER 22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9BD92264B70B0E6F1FADE3A79043BCE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1988104&extension=ts&play_token=iFSyXbUU8i
+#EXTINF:-1 tvg-id="1919060" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",01/07 04:00 AM | CazéTV: France vs. Sweden all | 8K BR: SOCCER 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9BD92264B70B0E6F1FADE3A79043BCE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1919060&extension=ts&play_token=OCK9CXWaun
+#EXTINF:-1 tvg-id="2072531" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",01/07 04:00 AM | France vs. Sweden all | 8K ES: SOCCER 22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 994B7E9311BA86BBBBD305EAA97C93A1
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072531&extension=ts&play_token=SGJgV3eZU8
