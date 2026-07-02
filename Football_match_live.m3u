@@ -1,106 +1,431 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1988104" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | Spain vs. Austria all | 8K ES: SOCCER 22
+#EXTINF:-1 tvg-id="1611014" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 01:15 AM | 2026 FIFA World Cup Round of 32 Spain vs Austria @ :TSN+ 43
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94F098098A103219D175766A0D7BE33B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988104&extension=ts&play_token=kDPRYcQYMZ
-#EXTINF:-1 tvg-id="1988103" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | RTVE: Spain vs. Austria all | 8K ES: SOCCER 23
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8879D33D63337174F3E15F8620E6CCEF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611014&extension=ts&play_token=faQbOuVdPb
+#EXTINF:-1 tvg-id="1611013" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 01:15 AM | Spanish Feed FIFA World Cup 2026 Round of 32 Spain vs Austria @ :TSN+ 44
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94F098098A103219D175766A0D7BE33B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988103&extension=ts&play_token=CJ3E0JmSFe
-#EXTINF:-1 tvg-id="1939886" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | Spain vs. Austria all | 8K CA: SOCCER 70
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8879D33D63337174F3E15F8620E6CCEF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611013&extension=ts&play_token=3ricujNctI
+#EXTINF:-1 tvg-id="1611012" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 01:15 AM | German Feed FIFA World Cup 2026 Round of 32 Spain vs Austria @ :TSN+ 45
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94F098098A103219D175766A0D7BE33B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939886&extension=ts&play_token=vp32toNk8k
-#EXTINF:-1 tvg-id="1939885" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | Spain vs. Austria all | 8K CA: SOCCER 71
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94F098098A103219D175766A0D7BE33B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939885&extension=ts&play_token=GDjFkyGQSt
-#EXTINF:-1 tvg-id="1919056" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | CazéTV: Spain vs. Austria all | 8K BR: SOCCER 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94F098098A103219D175766A0D7BE33B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919056&extension=ts&play_token=Ge3CIzbaiU
-#EXTINF:-1 tvg-id="1919054" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | Spain vs. Austria all | 8K BR: SOCCER 30
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94F098098A103219D175766A0D7BE33B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919054&extension=ts&play_token=pAkeP5rBdv
-#EXTINF:-1 tvg-id="1939886" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | Spain vs. Austria all | 8K CA: SOCCER 70
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8879D33D63337174F3E15F8620E6CCEF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611012&extension=ts&play_token=ZvWQbmiUAr
+#EXTINF:-1 tvg-id="1611014" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 01:15 AM | 2026 FIFA World Cup Round of 32 Spain vs Austria @ :TSN+ 43
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 501A3296FF384E27EFB4C80B0542A923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939886&extension=ts&play_token=kq61irp2BN
-#EXTINF:-1 tvg-id="1939885" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | Spain vs. Austria all | 8K CA: SOCCER 71
+#EXTVLCOPT:http-header=Authorization: Bearer 2947C1A751D0F4AFCCC167E46E2BD8C8
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611014&extension=ts&play_token=qEVbvIfmhn
+#EXTINF:-1 tvg-id="1611013" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 01:15 AM | Spanish Feed FIFA World Cup 2026 Round of 32 Spain vs Austria @ :TSN+ 44
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 501A3296FF384E27EFB4C80B0542A923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939885&extension=ts&play_token=dhBxoFBLWk
-#EXTINF:-1 tvg-id="1988104" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | Spain vs. Austria all | 8K ES: SOCCER 22
+#EXTVLCOPT:http-header=Authorization: Bearer 2947C1A751D0F4AFCCC167E46E2BD8C8
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611013&extension=ts&play_token=PufToC70dk
+#EXTINF:-1 tvg-id="1611012" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 01:15 AM | German Feed FIFA World Cup 2026 Round of 32 Spain vs Austria @ :TSN+ 45
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 501A3296FF384E27EFB4C80B0542A923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1988104&extension=ts&play_token=cP5cZKfWNK
-#EXTINF:-1 tvg-id="1988103" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | RTVE: Spain vs. Austria all | 8K ES: SOCCER 23
+#EXTVLCOPT:http-header=Authorization: Bearer 2947C1A751D0F4AFCCC167E46E2BD8C8
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611012&extension=ts&play_token=XjMD1JIA60
+#EXTINF:-1 tvg-id="1611014" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 01:15 AM | 2026 FIFA World Cup Round of 32 Spain vs Austria @ :TSN+ 43
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0AABE2641AACAE3CD38C07D89016834F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1611014&extension=ts&play_token=GtlwcOoZmE
+#EXTINF:-1 tvg-id="1611013" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 01:15 AM | Spanish Feed FIFA World Cup 2026 Round of 32 Spain vs Austria @ :TSN+ 44
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0AABE2641AACAE3CD38C07D89016834F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1611013&extension=ts&play_token=I8u1Jq7QNh
+#EXTINF:-1 tvg-id="1611012" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 01:15 AM | German Feed FIFA World Cup 2026 Round of 32 Spain vs Austria @ :TSN+ 45
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0AABE2641AACAE3CD38C07D89016834F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1611012&extension=ts&play_token=7xN5aI8ZRo
+#EXTINF:-1 tvg-id="1988122" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | Spain vs. Austria all | 8K ES: SOCCER 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8879D33D63337174F3E15F8620E6CCEF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1988122&extension=ts&play_token=lWxX5uAxZc
+#EXTINF:-1 tvg-id="1988121" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | RTVE: Spain vs. Austria all | 8K ES: SOCCER 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8879D33D63337174F3E15F8620E6CCEF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1988121&extension=ts&play_token=aNLBYXgFfL
+#EXTINF:-1 tvg-id="1940147" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | Spain vs. Austria all | 8K US: SOCCER 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8879D33D63337174F3E15F8620E6CCEF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1940147&extension=ts&play_token=9Bq0EcDt00
+#EXTINF:-1 tvg-id="1939932" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | Spain vs. Austria all | 8K CA: SOCCER 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8879D33D63337174F3E15F8620E6CCEF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939932&extension=ts&play_token=TD9MlzucnF
+#EXTINF:-1 tvg-id="1939931" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | Spain vs. Austria all | 8K CA: SOCCER 25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8879D33D63337174F3E15F8620E6CCEF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939931&extension=ts&play_token=l566gUlTeg
+#EXTINF:-1 tvg-id="1611014" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 02:00 AM | 2026 FIFA World Cup Round of 32 Spain vs Austria @ :TSN+ 43
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8879D33D63337174F3E15F8620E6CCEF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611014&extension=ts&play_token=faQbOuVdPb
+#EXTINF:-1 tvg-id="1611013" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 02:00 AM | Spanish Feed FIFA World Cup 2026 Round of 32 Spain vs Austria @ :TSN+ 44
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8879D33D63337174F3E15F8620E6CCEF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611013&extension=ts&play_token=3ricujNctI
+#EXTINF:-1 tvg-id="1611012" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 02:00 AM | German Feed FIFA World Cup 2026 Round of 32 Spain vs Austria @ :TSN+ 45
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8879D33D63337174F3E15F8620E6CCEF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611012&extension=ts&play_token=ZvWQbmiUAr
+#EXTINF:-1 tvg-id="1919081" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | CazéTV: Spain vs. Austria all | 8K BR: SOCCER 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8879D33D63337174F3E15F8620E6CCEF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919081&extension=ts&play_token=p6vJogCp2R
+#EXTINF:-1 tvg-id="1919079" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | Spain vs. Austria all | 8K BR: SOCCER 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8879D33D63337174F3E15F8620E6CCEF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919079&extension=ts&play_token=yoOnE95ch3
+#EXTINF:-1 tvg-id="1940147" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | Spain vs. Austria all | 8K US: SOCCER 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 501A3296FF384E27EFB4C80B0542A923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1988103&extension=ts&play_token=XWfnM9AQfS
-#EXTINF:-1 tvg-id="1919056" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | CazéTV: Spain vs. Austria all | 8K BR: SOCCER 28
+#EXTVLCOPT:http-header=Authorization: Bearer 2947C1A751D0F4AFCCC167E46E2BD8C8
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1940147&extension=ts&play_token=r8ZMqRfF5U
+#EXTINF:-1 tvg-id="1939932" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | Spain vs. Austria all | 8K CA: SOCCER 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 501A3296FF384E27EFB4C80B0542A923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919056&extension=ts&play_token=X9n3DtU1Z9
-#EXTINF:-1 tvg-id="1919054" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | Spain vs. Austria all | 8K BR: SOCCER 30
+#EXTVLCOPT:http-header=Authorization: Bearer 2947C1A751D0F4AFCCC167E46E2BD8C8
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939932&extension=ts&play_token=a3dep2YOhc
+#EXTINF:-1 tvg-id="1939931" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | Spain vs. Austria all | 8K CA: SOCCER 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 501A3296FF384E27EFB4C80B0542A923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919054&extension=ts&play_token=PmEta6sxrg
-#EXTINF:-1 tvg-id="1939886" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | Spain vs. Austria all | 8K CA: SOCCER 70
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3A721FF7C93F84749CA92DA51712B566
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939886&extension=ts&play_token=rv7XbVsBVP
-#EXTINF:-1 tvg-id="1939885" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | Spain vs. Austria all | 8K CA: SOCCER 71
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3A721FF7C93F84749CA92DA51712B566
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939885&extension=ts&play_token=rsYjDII22V
-#EXTINF:-1 tvg-id="1988104" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | Spain vs. Austria all | 8K ES: SOCCER 22
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3A721FF7C93F84749CA92DA51712B566
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1988104&extension=ts&play_token=vt6Zo1COBU
-#EXTINF:-1 tvg-id="1988103" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | RTVE: Spain vs. Austria all | 8K ES: SOCCER 23
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3A721FF7C93F84749CA92DA51712B566
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1988103&extension=ts&play_token=2rnDyuW64p
-#EXTINF:-1 tvg-id="1919056" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | CazéTV: Spain vs. Austria all | 8K BR: SOCCER 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3A721FF7C93F84749CA92DA51712B566
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1919056&extension=ts&play_token=Pg2ywpwHJG
-#EXTINF:-1 tvg-id="1919054" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | Spain vs. Austria all | 8K BR: SOCCER 30
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3A721FF7C93F84749CA92DA51712B566
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1919054&extension=ts&play_token=gjqbMlEfKR
-#EXTINF:-1 tvg-id="1919057" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 06:00 AM | CazéTV: Portugal vs. Croatia all | 8K BR: SOCCER 27
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94F098098A103219D175766A0D7BE33B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919057&extension=ts&play_token=KwXDjEszNX
-#EXTINF:-1 tvg-id="1919057" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 06:00 AM | CazéTV: Portugal vs. Croatia all | 8K BR: SOCCER 27
+#EXTVLCOPT:http-header=Authorization: Bearer 2947C1A751D0F4AFCCC167E46E2BD8C8
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939931&extension=ts&play_token=bhRtL9JR2t
+#EXTINF:-1 tvg-id="1611014" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 02:00 AM | 2026 FIFA World Cup Round of 32 Spain vs Austria @ :TSN+ 43
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 501A3296FF384E27EFB4C80B0542A923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919057&extension=ts&play_token=j9elZhojxr
-#EXTINF:-1 tvg-id="1919057" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 06:00 AM | CazéTV: Portugal vs. Croatia all | 8K BR: SOCCER 27
+#EXTVLCOPT:http-header=Authorization: Bearer 2947C1A751D0F4AFCCC167E46E2BD8C8
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611014&extension=ts&play_token=qEVbvIfmhn
+#EXTINF:-1 tvg-id="1611013" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 02:00 AM | Spanish Feed FIFA World Cup 2026 Round of 32 Spain vs Austria @ :TSN+ 44
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2947C1A751D0F4AFCCC167E46E2BD8C8
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611013&extension=ts&play_token=PufToC70dk
+#EXTINF:-1 tvg-id="1611012" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 02:00 AM | German Feed FIFA World Cup 2026 Round of 32 Spain vs Austria @ :TSN+ 45
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2947C1A751D0F4AFCCC167E46E2BD8C8
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611012&extension=ts&play_token=XjMD1JIA60
+#EXTINF:-1 tvg-id="1988122" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | Spain vs. Austria all | 8K ES: SOCCER 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2947C1A751D0F4AFCCC167E46E2BD8C8
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1988122&extension=ts&play_token=TdtGJ1dT09
+#EXTINF:-1 tvg-id="1988121" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | RTVE: Spain vs. Austria all | 8K ES: SOCCER 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2947C1A751D0F4AFCCC167E46E2BD8C8
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1988121&extension=ts&play_token=SHQFRyt14q
+#EXTINF:-1 tvg-id="1919081" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | CazéTV: Spain vs. Austria all | 8K BR: SOCCER 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2947C1A751D0F4AFCCC167E46E2BD8C8
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919081&extension=ts&play_token=BVX359c2jZ
+#EXTINF:-1 tvg-id="1919079" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | Spain vs. Austria all | 8K BR: SOCCER 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2947C1A751D0F4AFCCC167E46E2BD8C8
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919079&extension=ts&play_token=6TEUynOEe3
+#EXTINF:-1 tvg-id="1940147" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | Spain vs. Austria all | 8K US: SOCCER 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3A721FF7C93F84749CA92DA51712B566
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1919057&extension=ts&play_token=aFE12MOGMo
+#EXTVLCOPT:http-header=Authorization: Bearer 0AABE2641AACAE3CD38C07D89016834F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1940147&extension=ts&play_token=tEUMuVT9aQ
+#EXTINF:-1 tvg-id="1939932" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | Spain vs. Austria all | 8K CA: SOCCER 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0AABE2641AACAE3CD38C07D89016834F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939932&extension=ts&play_token=jXJ7B2oe2I
+#EXTINF:-1 tvg-id="1939931" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | Spain vs. Austria all | 8K CA: SOCCER 25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0AABE2641AACAE3CD38C07D89016834F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939931&extension=ts&play_token=kBjqZiSu35
+#EXTINF:-1 tvg-id="1611014" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 02:00 AM | 2026 FIFA World Cup Round of 32 Spain vs Austria @ :TSN+ 43
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0AABE2641AACAE3CD38C07D89016834F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1611014&extension=ts&play_token=GtlwcOoZmE
+#EXTINF:-1 tvg-id="1611013" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 02:00 AM | Spanish Feed FIFA World Cup 2026 Round of 32 Spain vs Austria @ :TSN+ 44
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0AABE2641AACAE3CD38C07D89016834F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1611013&extension=ts&play_token=I8u1Jq7QNh
+#EXTINF:-1 tvg-id="1611012" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 02:00 AM | German Feed FIFA World Cup 2026 Round of 32 Spain vs Austria @ :TSN+ 45
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0AABE2641AACAE3CD38C07D89016834F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1611012&extension=ts&play_token=7xN5aI8ZRo
+#EXTINF:-1 tvg-id="1988122" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | Spain vs. Austria all | 8K ES: SOCCER 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0AABE2641AACAE3CD38C07D89016834F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1988122&extension=ts&play_token=oSQERw3que
+#EXTINF:-1 tvg-id="1988121" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | RTVE: Spain vs. Austria all | 8K ES: SOCCER 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0AABE2641AACAE3CD38C07D89016834F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1988121&extension=ts&play_token=7Gi57OHnAr
+#EXTINF:-1 tvg-id="1919081" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | CazéTV: Spain vs. Austria all | 8K BR: SOCCER 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0AABE2641AACAE3CD38C07D89016834F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1919081&extension=ts&play_token=BQD3je9bZw
+#EXTINF:-1 tvg-id="1919079" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 02:00 AM | Spain vs. Austria all | 8K BR: SOCCER 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0AABE2641AACAE3CD38C07D89016834F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1919079&extension=ts&play_token=FSj69mPBbH
+#EXTINF:-1 tvg-id="2072549" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",03/07 02:00 AM | Spain vs. Austria all | 8K ES: SOCCER 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 456DF6C2CF4EEB72C10D2FC57F1A0431
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072549&extension=ts&play_token=xdo5D6uh5Z
+#EXTINF:-1 tvg-id="2072548" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",03/07 02:00 AM | RTVE: Spain vs. Austria all | 8K ES: SOCCER 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 456DF6C2CF4EEB72C10D2FC57F1A0431
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072548&extension=ts&play_token=sFFZWi3T0W
+#EXTINF:-1 tvg-id="1611004" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 05:15 AM | 2026 FIFA World Cup Round of 32 Portugal vs Croatia @ :TSN+ 53
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8879D33D63337174F3E15F8620E6CCEF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611004&extension=ts&play_token=WSdXK9HypT
+#EXTINF:-1 tvg-id="1611003" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 05:15 AM | Portuguese Feed FIFA World Cup 2026 Round of 32 Portugal vs Croatia @ :TSN+ 54
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8879D33D63337174F3E15F8620E6CCEF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611003&extension=ts&play_token=uO7yroNMX5
+#EXTINF:-1 tvg-id="1611002" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 05:15 AM | Croatian Feed FIFA World Cup 2026 Round of 32 Portugal vs Croatia @ :TSN+ 55
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8879D33D63337174F3E15F8620E6CCEF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611002&extension=ts&play_token=qJkLFuzOYP
+#EXTINF:-1 tvg-id="1611004" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 05:15 AM | 2026 FIFA World Cup Round of 32 Portugal vs Croatia @ :TSN+ 53
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2947C1A751D0F4AFCCC167E46E2BD8C8
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611004&extension=ts&play_token=DUjr1bA0fF
+#EXTINF:-1 tvg-id="1611003" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 05:15 AM | Portuguese Feed FIFA World Cup 2026 Round of 32 Portugal vs Croatia @ :TSN+ 54
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2947C1A751D0F4AFCCC167E46E2BD8C8
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611003&extension=ts&play_token=h0K7lmnS9R
+#EXTINF:-1 tvg-id="1611002" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 05:15 AM | Croatian Feed FIFA World Cup 2026 Round of 32 Portugal vs Croatia @ :TSN+ 55
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2947C1A751D0F4AFCCC167E46E2BD8C8
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611002&extension=ts&play_token=ZPrpbaNFx0
+#EXTINF:-1 tvg-id="1611004" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 05:15 AM | 2026 FIFA World Cup Round of 32 Portugal vs Croatia @ :TSN+ 53
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0AABE2641AACAE3CD38C07D89016834F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1611004&extension=ts&play_token=EeQ1ajNrnL
+#EXTINF:-1 tvg-id="1611003" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 05:15 AM | Portuguese Feed FIFA World Cup 2026 Round of 32 Portugal vs Croatia @ :TSN+ 54
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0AABE2641AACAE3CD38C07D89016834F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1611003&extension=ts&play_token=5l6loeLcyX
+#EXTINF:-1 tvg-id="1611002" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 05:15 AM | Croatian Feed FIFA World Cup 2026 Round of 32 Portugal vs Croatia @ :TSN+ 55
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0AABE2641AACAE3CD38C07D89016834F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1611002&extension=ts&play_token=GPyEqCbckV
+#EXTINF:-1 tvg-id="1940145" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 06:00 AM | Portugal vs. Croatia all | 8K US: SOCCER 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8879D33D63337174F3E15F8620E6CCEF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1940145&extension=ts&play_token=g3hrOl3ePO
+#EXTINF:-1 tvg-id="1919083" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 06:00 AM | CazéTV: Portugal vs. Croatia all | 8K BR: SOCCER 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8879D33D63337174F3E15F8620E6CCEF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919083&extension=ts&play_token=QHazGGBA6U
+#EXTINF:-1 tvg-id="1940145" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 06:00 AM | Portugal vs. Croatia all | 8K US: SOCCER 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2947C1A751D0F4AFCCC167E46E2BD8C8
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1940145&extension=ts&play_token=86HV50VFGq
+#EXTINF:-1 tvg-id="1919083" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 06:00 AM | CazéTV: Portugal vs. Croatia all | 8K BR: SOCCER 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2947C1A751D0F4AFCCC167E46E2BD8C8
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919083&extension=ts&play_token=bSkhbzGjIA
+#EXTINF:-1 tvg-id="1940145" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 06:00 AM | Portugal vs. Croatia all | 8K US: SOCCER 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0AABE2641AACAE3CD38C07D89016834F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1940145&extension=ts&play_token=G3AoqfdYpV
+#EXTINF:-1 tvg-id="1919083" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 06:00 AM | CazéTV: Portugal vs. Croatia all | 8K BR: SOCCER 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0AABE2641AACAE3CD38C07D89016834F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1919083&extension=ts&play_token=bh8RfQkDVM
+#EXTINF:-1 tvg-id="1611004" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 06:00 AM | 2026 FIFA World Cup Round of 32 Portugal vs Croatia @ :TSN+ 53
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8879D33D63337174F3E15F8620E6CCEF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611004&extension=ts&play_token=WSdXK9HypT
+#EXTINF:-1 tvg-id="1611003" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 06:00 AM | Portuguese Feed FIFA World Cup 2026 Round of 32 Portugal vs Croatia @ :TSN+ 54
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8879D33D63337174F3E15F8620E6CCEF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611003&extension=ts&play_token=uO7yroNMX5
+#EXTINF:-1 tvg-id="1611002" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 06:00 AM | Croatian Feed FIFA World Cup 2026 Round of 32 Portugal vs Croatia @ :TSN+ 55
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8879D33D63337174F3E15F8620E6CCEF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611002&extension=ts&play_token=qJkLFuzOYP
+#EXTINF:-1 tvg-id="1611004" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 06:00 AM | 2026 FIFA World Cup Round of 32 Portugal vs Croatia @ :TSN+ 53
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2947C1A751D0F4AFCCC167E46E2BD8C8
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611004&extension=ts&play_token=DUjr1bA0fF
+#EXTINF:-1 tvg-id="1611003" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 06:00 AM | Portuguese Feed FIFA World Cup 2026 Round of 32 Portugal vs Croatia @ :TSN+ 54
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2947C1A751D0F4AFCCC167E46E2BD8C8
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611003&extension=ts&play_token=h0K7lmnS9R
+#EXTINF:-1 tvg-id="1611002" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 06:00 AM | Croatian Feed FIFA World Cup 2026 Round of 32 Portugal vs Croatia @ :TSN+ 55
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2947C1A751D0F4AFCCC167E46E2BD8C8
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611002&extension=ts&play_token=ZPrpbaNFx0
+#EXTINF:-1 tvg-id="1611004" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 06:00 AM | 2026 FIFA World Cup Round of 32 Portugal vs Croatia @ :TSN+ 53
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0AABE2641AACAE3CD38C07D89016834F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1611004&extension=ts&play_token=EeQ1ajNrnL
+#EXTINF:-1 tvg-id="1611003" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 06:00 AM | Portuguese Feed FIFA World Cup 2026 Round of 32 Portugal vs Croatia @ :TSN+ 54
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0AABE2641AACAE3CD38C07D89016834F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1611003&extension=ts&play_token=5l6loeLcyX
+#EXTINF:-1 tvg-id="1611002" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 06:00 AM | Croatian Feed FIFA World Cup 2026 Round of 32 Portugal vs Croatia @ :TSN+ 55
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0AABE2641AACAE3CD38C07D89016834F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1611002&extension=ts&play_token=GPyEqCbckV
+#EXTINF:-1 tvg-id="1610993" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 09:15 AM | 2026 FIFA World Cup Round of 32 Switzerland vs Algeria A @ :TSN+ 64
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8879D33D63337174F3E15F8620E6CCEF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1610993&extension=ts&play_token=NETKCaA3aH
+#EXTINF:-1 tvg-id="1610992" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 09:15 AM | German Feed FIFA World Cup 2026 Round of 32 Switzerland vs Algeria @ :TSN+ 65
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8879D33D63337174F3E15F8620E6CCEF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1610992&extension=ts&play_token=hvRPMIGdd3
+#EXTINF:-1 tvg-id="1610991" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 09:15 AM | Arabic Feed FIFA World Cup 2026 Round of 32 Switzerland vs Algeria @ :TSN+ 66
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8879D33D63337174F3E15F8620E6CCEF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1610991&extension=ts&play_token=03UNV0f1Wk
+#EXTINF:-1 tvg-id="1610993" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 09:15 AM | 2026 FIFA World Cup Round of 32 Switzerland vs Algeria A @ :TSN+ 64
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2947C1A751D0F4AFCCC167E46E2BD8C8
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1610993&extension=ts&play_token=fIR9Ax0Eqr
+#EXTINF:-1 tvg-id="1610992" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 09:15 AM | German Feed FIFA World Cup 2026 Round of 32 Switzerland vs Algeria @ :TSN+ 65
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2947C1A751D0F4AFCCC167E46E2BD8C8
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1610992&extension=ts&play_token=jfbkn7cJXj
+#EXTINF:-1 tvg-id="1610991" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 09:15 AM | Arabic Feed FIFA World Cup 2026 Round of 32 Switzerland vs Algeria @ :TSN+ 66
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2947C1A751D0F4AFCCC167E46E2BD8C8
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1610991&extension=ts&play_token=0IQJHG9dkt
+#EXTINF:-1 tvg-id="1610993" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 09:15 AM | 2026 FIFA World Cup Round of 32 Switzerland vs Algeria A @ :TSN+ 64
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0AABE2641AACAE3CD38C07D89016834F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1610993&extension=ts&play_token=miX8yQyPus
+#EXTINF:-1 tvg-id="1610992" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 09:15 AM | German Feed FIFA World Cup 2026 Round of 32 Switzerland vs Algeria @ :TSN+ 65
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0AABE2641AACAE3CD38C07D89016834F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1610992&extension=ts&play_token=Ye0qNfsZgA
+#EXTINF:-1 tvg-id="1610991" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 09:15 AM | Arabic Feed FIFA World Cup 2026 Round of 32 Switzerland vs Algeria @ :TSN+ 66
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0AABE2641AACAE3CD38C07D89016834F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1610991&extension=ts&play_token=R3NP3mTSMw
+#EXTINF:-1 tvg-id="1940146" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 10:00 AM | Switzerland vs. Algeria all | 8K US: SOCCER 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8879D33D63337174F3E15F8620E6CCEF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1940146&extension=ts&play_token=0FE6y1m3wA
+#EXTINF:-1 tvg-id="1940146" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 10:00 AM | Switzerland vs. Algeria all | 8K US: SOCCER 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2947C1A751D0F4AFCCC167E46E2BD8C8
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1940146&extension=ts&play_token=m5j9K8om5p
+#EXTINF:-1 tvg-id="1940146" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",03/07 10:00 AM | Switzerland vs. Algeria all | 8K US: SOCCER 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0AABE2641AACAE3CD38C07D89016834F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1940146&extension=ts&play_token=H8Ns76I4LT
+#EXTINF:-1 tvg-id="1610993" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 10:00 AM | 2026 FIFA World Cup Round of 32 Switzerland vs Algeria A @ :TSN+ 64
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8879D33D63337174F3E15F8620E6CCEF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1610993&extension=ts&play_token=NETKCaA3aH
+#EXTINF:-1 tvg-id="1610992" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 10:00 AM | German Feed FIFA World Cup 2026 Round of 32 Switzerland vs Algeria @ :TSN+ 65
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8879D33D63337174F3E15F8620E6CCEF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1610992&extension=ts&play_token=hvRPMIGdd3
+#EXTINF:-1 tvg-id="1610991" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 10:00 AM | Arabic Feed FIFA World Cup 2026 Round of 32 Switzerland vs Algeria @ :TSN+ 66
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8879D33D63337174F3E15F8620E6CCEF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1610991&extension=ts&play_token=03UNV0f1Wk
+#EXTINF:-1 tvg-id="1610993" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 10:00 AM | 2026 FIFA World Cup Round of 32 Switzerland vs Algeria A @ :TSN+ 64
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2947C1A751D0F4AFCCC167E46E2BD8C8
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1610993&extension=ts&play_token=fIR9Ax0Eqr
+#EXTINF:-1 tvg-id="1610992" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 10:00 AM | German Feed FIFA World Cup 2026 Round of 32 Switzerland vs Algeria @ :TSN+ 65
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2947C1A751D0F4AFCCC167E46E2BD8C8
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1610992&extension=ts&play_token=jfbkn7cJXj
+#EXTINF:-1 tvg-id="1610991" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 10:00 AM | Arabic Feed FIFA World Cup 2026 Round of 32 Switzerland vs Algeria @ :TSN+ 66
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2947C1A751D0F4AFCCC167E46E2BD8C8
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1610991&extension=ts&play_token=0IQJHG9dkt
+#EXTINF:-1 tvg-id="1610993" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 10:00 AM | 2026 FIFA World Cup Round of 32 Switzerland vs Algeria A @ :TSN+ 64
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0AABE2641AACAE3CD38C07D89016834F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1610993&extension=ts&play_token=miX8yQyPus
+#EXTINF:-1 tvg-id="1610992" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 10:00 AM | German Feed FIFA World Cup 2026 Round of 32 Switzerland vs Algeria @ :TSN+ 65
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0AABE2641AACAE3CD38C07D89016834F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1610992&extension=ts&play_token=Ye0qNfsZgA
+#EXTINF:-1 tvg-id="1610991" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",03/07 10:00 AM | Arabic Feed FIFA World Cup 2026 Round of 32 Switzerland vs Algeria @ :TSN+ 66
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0AABE2641AACAE3CD38C07D89016834F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1610991&extension=ts&play_token=R3NP3mTSMw
