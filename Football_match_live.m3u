@@ -1,221 +1,146 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1611008" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",06/07 02:15 AM | 2026 FIFA World Cup Round of 16 Brazil vs Norway A @ :TSN+ 49
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4CD6CBD89B6A951A31BAE04AE5F95C5B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1611008&extension=ts&play_token=oGTPsqgoh2
-#EXTINF:-1 tvg-id="1611007" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",06/07 02:15 AM | Portuguese Feed FIFA World Cup 2026 Round of 16 Brazil vs Norway @ :TSN+ 50
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4CD6CBD89B6A951A31BAE04AE5F95C5B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1611007&extension=ts&play_token=m0lLwMAade
-#EXTINF:-1 tvg-id="1611006" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",06/07 02:15 AM | Norwegian Feed FIFA World Cup 2026 Round of 16 Brazil vs Norway @ :TSN+ 51
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4CD6CBD89B6A951A31BAE04AE5F95C5B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1611006&extension=ts&play_token=EgiLVLHfM9
-#EXTINF:-1 tvg-id="1611008" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",06/07 02:15 AM | 2026 FIFA World Cup Round of 16 Brazil vs Norway A @ :TSN+ 49
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 757F3C99A2E744BEF923BE40FD7BBD47
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611008&extension=ts&play_token=SSZumVGgBU
-#EXTINF:-1 tvg-id="1611007" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",06/07 02:15 AM | Portuguese Feed FIFA World Cup 2026 Round of 16 Brazil vs Norway @ :TSN+ 50
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 757F3C99A2E744BEF923BE40FD7BBD47
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611007&extension=ts&play_token=fAXNPAZHk9
-#EXTINF:-1 tvg-id="1611006" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",06/07 02:15 AM | Norwegian Feed FIFA World Cup 2026 Round of 16 Brazil vs Norway @ :TSN+ 51
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 757F3C99A2E744BEF923BE40FD7BBD47
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611006&extension=ts&play_token=kbn6vNT8eD
-#EXTINF:-1 tvg-id="1988104" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/07 03:00 AM | Brazil vs. Norway all | 8K ES: SOCCER 22
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4CD6CBD89B6A951A31BAE04AE5F95C5B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988104&extension=ts&play_token=oDCcva2ay5
-#EXTINF:-1 tvg-id="1988103" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/07 03:00 AM | Live Brazil vs. Norway all 8K ES: SOCCER 23
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4CD6CBD89B6A951A31BAE04AE5F95C5B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988103&extension=ts&play_token=AiCuP2K4Qk
-#EXTINF:-1 tvg-id="1939909" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/07 03:00 AM | Brazil vs. Norway all | 8K CA: SOCCER 47
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4CD6CBD89B6A951A31BAE04AE5F95C5B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939909&extension=ts&play_token=7P0Tbl3AfA
-#EXTINF:-1 tvg-id="1939908" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/07 03:00 AM | Brazil vs. Norway all | 8K CA: SOCCER 48
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4CD6CBD89B6A951A31BAE04AE5F95C5B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939908&extension=ts&play_token=xsx8mFAaNa
-#EXTINF:-1 tvg-id="1939895" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/07 03:00 AM | Brazil vs. Norway all | 8K CA: SOCCER 61
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4CD6CBD89B6A951A31BAE04AE5F95C5B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939895&extension=ts&play_token=UDivp9jNdk
-#EXTINF:-1 tvg-id="1940142" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/07 03:00 AM | Brazil vs. Norway all | 8K US: SOCCER 15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4CD6CBD89B6A951A31BAE04AE5F95C5B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1940142&extension=ts&play_token=qlACjKUIqy
-#EXTINF:-1 tvg-id="1919079" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/07 03:00 AM | Live CazéTV: Brazil vs. Norway all 8K BR: SOCCER 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4CD6CBD89B6A951A31BAE04AE5F95C5B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919079&extension=ts&play_token=OJK72IJJz1
-#EXTINF:-1 tvg-id="1919078" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/07 03:00 AM | Brazil vs. Norway all | 8K BR: SOCCER 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4CD6CBD89B6A951A31BAE04AE5F95C5B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919078&extension=ts&play_token=AQaQrqHPKR
-#EXTINF:-1 tvg-id="1940142" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/07 03:00 AM | Brazil vs. Norway all | 8K US: SOCCER 15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 757F3C99A2E744BEF923BE40FD7BBD47
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1940142&extension=ts&play_token=fnBpiqWVaT
-#EXTINF:-1 tvg-id="1939909" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/07 03:00 AM | Brazil vs. Norway all | 8K CA: SOCCER 47
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 757F3C99A2E744BEF923BE40FD7BBD47
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939909&extension=ts&play_token=108PRJu3ZM
-#EXTINF:-1 tvg-id="1939908" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/07 03:00 AM | Brazil vs. Norway all | 8K CA: SOCCER 48
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 757F3C99A2E744BEF923BE40FD7BBD47
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939908&extension=ts&play_token=kZOZHqMoq0
-#EXTINF:-1 tvg-id="1939895" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/07 03:00 AM | Brazil vs. Norway all | 8K CA: SOCCER 61
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 757F3C99A2E744BEF923BE40FD7BBD47
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939895&extension=ts&play_token=NLFj2MuX5e
-#EXTINF:-1 tvg-id="1988104" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/07 03:00 AM | Brazil vs. Norway all | 8K ES: SOCCER 22
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 757F3C99A2E744BEF923BE40FD7BBD47
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1988104&extension=ts&play_token=sOPJpvNeWN
-#EXTINF:-1 tvg-id="1988103" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/07 03:00 AM | Live Brazil vs. Norway all 8K ES: SOCCER 23
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 757F3C99A2E744BEF923BE40FD7BBD47
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1988103&extension=ts&play_token=zgw1zxUVT7
-#EXTINF:-1 tvg-id="1919079" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/07 03:00 AM | Live CazéTV: Brazil vs. Norway all 8K BR: SOCCER 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 757F3C99A2E744BEF923BE40FD7BBD47
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919079&extension=ts&play_token=Ln0clhStgx
-#EXTINF:-1 tvg-id="1919078" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/07 03:00 AM | Brazil vs. Norway all | 8K BR: SOCCER 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 757F3C99A2E744BEF923BE40FD7BBD47
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919078&extension=ts&play_token=j4pc0gE7Zk
-#EXTINF:-1 tvg-id="1611008" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",06/07 03:00 AM | 2026 FIFA World Cup Round of 16 Brazil vs Norway A @ :TSN+ 49
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4CD6CBD89B6A951A31BAE04AE5F95C5B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1611008&extension=ts&play_token=oGTPsqgoh2
-#EXTINF:-1 tvg-id="1611007" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",06/07 03:00 AM | Portuguese Feed FIFA World Cup 2026 Round of 16 Brazil vs Norway @ :TSN+ 50
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4CD6CBD89B6A951A31BAE04AE5F95C5B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1611007&extension=ts&play_token=m0lLwMAade
-#EXTINF:-1 tvg-id="1611006" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",06/07 03:00 AM | Norwegian Feed FIFA World Cup 2026 Round of 16 Brazil vs Norway @ :TSN+ 51
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4CD6CBD89B6A951A31BAE04AE5F95C5B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1611006&extension=ts&play_token=EgiLVLHfM9
-#EXTINF:-1 tvg-id="1611008" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",06/07 03:00 AM | 2026 FIFA World Cup Round of 16 Brazil vs Norway A @ :TSN+ 49
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 757F3C99A2E744BEF923BE40FD7BBD47
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611008&extension=ts&play_token=SSZumVGgBU
-#EXTINF:-1 tvg-id="1611007" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",06/07 03:00 AM | Portuguese Feed FIFA World Cup 2026 Round of 16 Brazil vs Norway @ :TSN+ 50
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 757F3C99A2E744BEF923BE40FD7BBD47
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611007&extension=ts&play_token=fAXNPAZHk9
-#EXTINF:-1 tvg-id="1611006" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",06/07 03:00 AM | Norwegian Feed FIFA World Cup 2026 Round of 16 Brazil vs Norway @ :TSN+ 51
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 757F3C99A2E744BEF923BE40FD7BBD47
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611006&extension=ts&play_token=kbn6vNT8eD
 #EXTINF:-1 tvg-id="1610992" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",06/07 06:15 AM | 2026 FIFA World Cup Round of 16 Mexico vs England A @ :TSN+ 65
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4CD6CBD89B6A951A31BAE04AE5F95C5B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1610992&extension=ts&play_token=fReH59CvhP
+#EXTVLCOPT:http-header=Authorization: Bearer 45EEE41B7BEDF4BDC29AB32AD6100A00
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1610992&extension=ts&play_token=7eGcEFfz78
 #EXTINF:-1 tvg-id="1610991" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",06/07 06:15 AM | Spanish Feed FIFA World Cup 2026 Round of 16 Mexico vs England @ :TSN+ 66
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4CD6CBD89B6A951A31BAE04AE5F95C5B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1610991&extension=ts&play_token=sKbwphBcX7
+#EXTVLCOPT:http-header=Authorization: Bearer 45EEE41B7BEDF4BDC29AB32AD6100A00
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1610991&extension=ts&play_token=sFZzCk9fiA
 #EXTINF:-1 tvg-id="1610988" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",06/07 06:15 AM | 2026 FIFA World Cup Round of 16 Mexico vs England B @ :TSN+ 69
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4CD6CBD89B6A951A31BAE04AE5F95C5B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1610988&extension=ts&play_token=Hhih0ZJpli
+#EXTVLCOPT:http-header=Authorization: Bearer 45EEE41B7BEDF4BDC29AB32AD6100A00
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1610988&extension=ts&play_token=t8yEhj36qE
 #EXTINF:-1 tvg-id="1610992" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",06/07 06:15 AM | 2026 FIFA World Cup Round of 16 Mexico vs England A @ :TSN+ 65
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 757F3C99A2E744BEF923BE40FD7BBD47
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1610992&extension=ts&play_token=XJJsqVBVN2
+#EXTVLCOPT:http-header=Authorization: Bearer 725DA2E5462489299B3289E9F6F9C92B
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1610992&extension=ts&play_token=BfJweWnRHm
 #EXTINF:-1 tvg-id="1610991" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",06/07 06:15 AM | Spanish Feed FIFA World Cup 2026 Round of 16 Mexico vs England @ :TSN+ 66
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 757F3C99A2E744BEF923BE40FD7BBD47
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1610991&extension=ts&play_token=vWoNfWQqSy
+#EXTVLCOPT:http-header=Authorization: Bearer 725DA2E5462489299B3289E9F6F9C92B
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1610991&extension=ts&play_token=zQL3f1KASI
 #EXTINF:-1 tvg-id="1610988" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",06/07 06:15 AM | 2026 FIFA World Cup Round of 16 Mexico vs England B @ :TSN+ 69
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 757F3C99A2E744BEF923BE40FD7BBD47
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1610988&extension=ts&play_token=t6nnXs5j7n
+#EXTVLCOPT:http-header=Authorization: Bearer 725DA2E5462489299B3289E9F6F9C92B
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1610988&extension=ts&play_token=OsRN1sJZT5
+#EXTINF:-1 tvg-id="1610992" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",06/07 06:15 AM | 2026 FIFA World Cup Round of 16 Mexico vs England A @ :TSN+ 65
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EF40C9A475EF28E589356A83B42C7813
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1610992&extension=ts&play_token=iSpBF64PBG
+#EXTINF:-1 tvg-id="1610991" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",06/07 06:15 AM | Spanish Feed FIFA World Cup 2026 Round of 16 Mexico vs England @ :TSN+ 66
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EF40C9A475EF28E589356A83B42C7813
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1610991&extension=ts&play_token=nHP28LeqiA
+#EXTINF:-1 tvg-id="1610988" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",06/07 06:15 AM | 2026 FIFA World Cup Round of 16 Mexico vs England B @ :TSN+ 69
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EF40C9A475EF28E589356A83B42C7813
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1610988&extension=ts&play_token=EsbReqUFX3
+#EXTINF:-1 tvg-id="1119210" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="https://go4.pw/CANADA/tsn.png",06/07 06:15 AM | CA TSN+ 23 FIFA WORLD CUP 2026 ROUND OF 16 MEXICO @ ENGLAND (SPANISH FEED) – /
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AA752C04CD0FAE4A22FC4D8A5FC89C47
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1119210
 #EXTINF:-1 tvg-id="1893152" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",06/07 06:15 AM | LIV Golf Mexico City Day 4 Featured Group 4 LIV Golf | 8K NL: DAZN 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4CD6CBD89B6A951A31BAE04AE5F95C5B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1893152&extension=ts&play_token=DpVqMVSW9o
+#EXTVLCOPT:http-header=Authorization: Bearer 45EEE41B7BEDF4BDC29AB32AD6100A00
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1893152&extension=ts&play_token=L7JEZn9qT1
 #EXTINF:-1 tvg-id="1893152" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",06/07 06:15 AM | LIV Golf Mexico City Day 4 Featured Group 4 LIV Golf | 8K NL: DAZN 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 757F3C99A2E744BEF923BE40FD7BBD47
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1893152&extension=ts&play_token=4Mt6b9s1g8
+#EXTVLCOPT:http-header=Authorization: Bearer 725DA2E5462489299B3289E9F6F9C92B
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1893152&extension=ts&play_token=w9U7aizhzR
+#EXTINF:-1 tvg-id="1893152" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",06/07 06:15 AM | LIV Golf Mexico City Day 4 Featured Group 4 LIV Golf | 8K NL: DAZN 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EF40C9A475EF28E589356A83B42C7813
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1893152&extension=ts&play_token=VcCszbzprZ
 #EXTINF:-1 tvg-id="1702718" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",06/07 07:00 AM | Soccer: Mexico vs England @ :Tv2Play NO 17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4CD6CBD89B6A951A31BAE04AE5F95C5B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1702718&extension=ts&play_token=MHBdaiJRAO
+#EXTVLCOPT:http-header=Authorization: Bearer 45EEE41B7BEDF4BDC29AB32AD6100A00
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1702718&extension=ts&play_token=I4585AsdlU
 #EXTINF:-1 tvg-id="1610992" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",06/07 07:00 AM | 2026 FIFA World Cup Round of 16 Mexico vs England A @ :TSN+ 65
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4CD6CBD89B6A951A31BAE04AE5F95C5B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1610992&extension=ts&play_token=fReH59CvhP
+#EXTVLCOPT:http-header=Authorization: Bearer 45EEE41B7BEDF4BDC29AB32AD6100A00
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1610992&extension=ts&play_token=7eGcEFfz78
 #EXTINF:-1 tvg-id="1610991" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",06/07 07:00 AM | Spanish Feed FIFA World Cup 2026 Round of 16 Mexico vs England @ :TSN+ 66
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4CD6CBD89B6A951A31BAE04AE5F95C5B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1610991&extension=ts&play_token=sKbwphBcX7
+#EXTVLCOPT:http-header=Authorization: Bearer 45EEE41B7BEDF4BDC29AB32AD6100A00
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1610991&extension=ts&play_token=sFZzCk9fiA
 #EXTINF:-1 tvg-id="1610988" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",06/07 07:00 AM | 2026 FIFA World Cup Round of 16 Mexico vs England B @ :TSN+ 69
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4CD6CBD89B6A951A31BAE04AE5F95C5B
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1610988&extension=ts&play_token=Hhih0ZJpli
+#EXTVLCOPT:http-header=Authorization: Bearer 45EEE41B7BEDF4BDC29AB32AD6100A00
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1610988&extension=ts&play_token=t8yEhj36qE
 #EXTINF:-1 tvg-id="1610992" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",06/07 07:00 AM | 2026 FIFA World Cup Round of 16 Mexico vs England A @ :TSN+ 65
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 757F3C99A2E744BEF923BE40FD7BBD47
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1610992&extension=ts&play_token=XJJsqVBVN2
+#EXTVLCOPT:http-header=Authorization: Bearer 725DA2E5462489299B3289E9F6F9C92B
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1610992&extension=ts&play_token=BfJweWnRHm
 #EXTINF:-1 tvg-id="1610991" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",06/07 07:00 AM | Spanish Feed FIFA World Cup 2026 Round of 16 Mexico vs England @ :TSN+ 66
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 757F3C99A2E744BEF923BE40FD7BBD47
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1610991&extension=ts&play_token=vWoNfWQqSy
+#EXTVLCOPT:http-header=Authorization: Bearer 725DA2E5462489299B3289E9F6F9C92B
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1610991&extension=ts&play_token=zQL3f1KASI
 #EXTINF:-1 tvg-id="1610988" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",06/07 07:00 AM | 2026 FIFA World Cup Round of 16 Mexico vs England B @ :TSN+ 69
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 757F3C99A2E744BEF923BE40FD7BBD47
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1610988&extension=ts&play_token=t6nnXs5j7n
+#EXTVLCOPT:http-header=Authorization: Bearer 725DA2E5462489299B3289E9F6F9C92B
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1610988&extension=ts&play_token=OsRN1sJZT5
 #EXTINF:-1 tvg-id="1702718" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",06/07 07:00 AM | Soccer: Mexico vs England @ :Tv2Play NO 17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 757F3C99A2E744BEF923BE40FD7BBD47
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1702718&extension=ts&play_token=61JA26nQml
+#EXTVLCOPT:http-header=Authorization: Bearer 725DA2E5462489299B3289E9F6F9C92B
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1702718&extension=ts&play_token=hm299jg9P8
+#EXTINF:-1 tvg-id="1610992" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",06/07 07:00 AM | 2026 FIFA World Cup Round of 16 Mexico vs England A @ :TSN+ 65
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EF40C9A475EF28E589356A83B42C7813
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1610992&extension=ts&play_token=iSpBF64PBG
+#EXTINF:-1 tvg-id="1610991" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",06/07 07:00 AM | Spanish Feed FIFA World Cup 2026 Round of 16 Mexico vs England @ :TSN+ 66
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EF40C9A475EF28E589356A83B42C7813
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1610991&extension=ts&play_token=nHP28LeqiA
+#EXTINF:-1 tvg-id="1610988" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",06/07 07:00 AM | 2026 FIFA World Cup Round of 16 Mexico vs England B @ :TSN+ 69
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EF40C9A475EF28E589356A83B42C7813
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1610988&extension=ts&play_token=EsbReqUFX3
+#EXTINF:-1 tvg-id="1702718" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",06/07 07:00 AM | Soccer: Mexico vs England @ :Tv2Play NO 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EF40C9A475EF28E589356A83B42C7813
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1702718&extension=ts&play_token=NGdJeuBCJq
+#EXTINF:-1 tvg-id="1119210" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="https://go4.pw/CANADA/tsn.png",06/07 07:00 AM | CA TSN+ 23 FIFA WORLD CUP 2026 ROUND OF 16 MEXICO @ ENGLAND (SPANISH FEED) – /
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AA752C04CD0FAE4A22FC4D8A5FC89C47
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1119210
+#EXTINF:-1 tvg-id="1919075" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/07 01:15 AM | Portugal Finais all | 8K BR: SOCCER 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 45EEE41B7BEDF4BDC29AB32AD6100A00
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919075&extension=ts&play_token=SP7fE9dEe5
+#EXTINF:-1 tvg-id="1919075" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/07 01:15 AM | Portugal Finais all | 8K BR: SOCCER 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 725DA2E5462489299B3289E9F6F9C92B
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919075&extension=ts&play_token=gN0uQ26iZG
+#EXTINF:-1 tvg-id="1919075" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/07 01:15 AM | Portugal Finais all | 8K BR: SOCCER 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EF40C9A475EF28E589356A83B42C7813
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1919075&extension=ts&play_token=LxtG5jQzOu
