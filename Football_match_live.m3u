@@ -1,151 +1,141 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="2054962" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",07/07 02:00 AM | Portugal vs. Spain all | 8K DE: SOCCER 90
+#EXTINF:-1 tvg-id="1919075" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/07 01:15 AM | Portugal Finais all | 8K BR: SOCCER 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17002DCB3480FBC2F1338CF0834BBCBA
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054962&extension=ts&play_token=5dcRpQl1oE
-#EXTINF:-1 tvg-id="2072483" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",07/07 02:00 AM | Portugal vs. Spain all | 8K ES: SOCCER 70
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 327FB425AAEE4B59996AD3C7E9C3C60E
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919075&extension=ts&play_token=Jub3PV8fNl
+#EXTINF:-1 tvg-id="1919075" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/07 01:15 AM | Portugal Finais all | 8K BR: SOCCER 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17002DCB3480FBC2F1338CF0834BBCBA
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072483&extension=ts&play_token=VIyhHUW7sn
-#EXTINF:-1 tvg-id="2072481" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",07/07 02:00 AM | Portugal vs. Spain all | 8K ES: SOCCER 72
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B51FC4CAA1AD2F94055BD0789B625C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919075&extension=ts&play_token=cP3qiau2r8
+#EXTINF:-1 tvg-id="1919075" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/07 01:15 AM | Portugal Finais all | 8K BR: SOCCER 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17002DCB3480FBC2F1338CF0834BBCBA
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072481&extension=ts&play_token=wtBtzK4PSC
-#EXTINF:-1 tvg-id="858520" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/billiard logo.png",07/07 06:15 AM | ┃USA┃ BILLIARD TV HD
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BED646EE0733A7ACD1EB0C0630E38401
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1919075&extension=ts&play_token=snCB7bwMos
+#EXTINF:-1 tvg-id="1918787" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/07 02:00 AM | Portugal vs. Spain all | 8K DE: SOCCER 90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A57CC23D0AAE35FAF0CC777BEB02C007
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=858520&extension=ts&play_token=Ioicu0ZWTb
-#EXTINF:-1 tvg-id="1367501" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif",07/07 06:15 AM | USA Soccer16
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 327FB425AAEE4B59996AD3C7E9C3C60E
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918787&extension=ts&play_token=Kl5zmhuTCw
+#EXTINF:-1 tvg-id="1988056" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/07 02:00 AM | Portugal vs. Spain all | 8K ES: SOCCER 70
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A57CC23D0AAE35FAF0CC777BEB02C007
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1367501&extension=ts&play_token=77UglxCZs9
-#EXTINF:-1 tvg-id="988101" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",07/07 06:15 AM | ┃USA┃ TENNIS CHANNEL PLUS 16
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 327FB425AAEE4B59996AD3C7E9C3C60E
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988056&extension=ts&play_token=SJRDGrrNoo
+#EXTINF:-1 tvg-id="1988054" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/07 02:00 AM | Portugal vs. Spain all | 8K ES: SOCCER 72
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A57CC23D0AAE35FAF0CC777BEB02C007
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=988101&extension=ts&play_token=YVReZGXi9d
-#EXTINF:-1 tvg-id="934977" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/TELEMUNDO/TELEMUNDO.png",07/07 06:15 AM | ┃USA┃ TELEMUNDO 13 (KRDO) COLORADO SPRINGS
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 327FB425AAEE4B59996AD3C7E9C3C60E
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988054&extension=ts&play_token=K56LwkxntE
+#EXTINF:-1 tvg-id="1939865" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/07 02:00 AM | Portugal vs. Spain all | 8K CA: SOCCER 91
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A57CC23D0AAE35FAF0CC777BEB02C007
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=934977&extension=ts&play_token=Vv4M4aUwn8
-#EXTINF:-1 tvg-id="934965" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/TELEMUNDO/TELEMUNDO.png",07/07 06:15 AM | ┃USA┃ TELEMUNDO 19 (KFBI) MEDFORD
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 327FB425AAEE4B59996AD3C7E9C3C60E
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939865&extension=ts&play_token=Eeoncif4Dd
+#EXTINF:-1 tvg-id="1939864" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/07 02:00 AM | Portugal vs. Spain all | 8K CA: SOCCER 92
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A57CC23D0AAE35FAF0CC777BEB02C007
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=934965&extension=ts&play_token=5BezpxUUex
-#EXTINF:-1 tvg-id="933178" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/PARAMOUNT+ SPORT/PARAMOUNT+ SPORT.png",07/07 06:15 AM | ┃USA┃ PARAMOUNT+ SPORT 16 UEFA EUROPA LEAGUE GALATASARAY VS TOTTENHAM
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 327FB425AAEE4B59996AD3C7E9C3C60E
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939864&extension=ts&play_token=ghhkdVGQ6Z
+#EXTINF:-1 tvg-id="1919041" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/07 02:00 AM | Portugal vs. Spain all | 8K BR: SOCCER 43
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A57CC23D0AAE35FAF0CC777BEB02C007
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=933178&extension=ts&play_token=kkSYQhpyFx
-#EXTINF:-1 tvg-id="933185" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/PARAMOUNT+ SPORT/PARAMOUNT+ SPORT.png",07/07 06:15 AM | ┃USA┃ PARAMOUNT+ SPORT 23 UEFA CONFERENCE LEAGUE DJURGÅRDEN VS PANATHINAIKOS
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 327FB425AAEE4B59996AD3C7E9C3C60E
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919041&extension=ts&play_token=q0xnpV9L9p
+#EXTINF:-1 tvg-id="1919039" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/07 02:00 AM | Portugal vs. Spain all | 8K BR: SOCCER 45
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A57CC23D0AAE35FAF0CC777BEB02C007
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=933185&extension=ts&play_token=kqJyeJJu9g
-#EXTINF:-1 tvg-id="933187" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/PARAMOUNT+ SPORT/PARAMOUNT+ SPORT.png",07/07 06:15 AM | ┃USA┃ PARAMOUNT+ SPORT 25 UEFA CONFERENCE LEAGUE HEART OF MIDLOTHIAN VS HEIDENHEIM
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 327FB425AAEE4B59996AD3C7E9C3C60E
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919039&extension=ts&play_token=cfz21khQXi
+#EXTINF:-1 tvg-id="1939865" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/07 02:00 AM | Portugal vs. Spain all | 8K CA: SOCCER 91
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A57CC23D0AAE35FAF0CC777BEB02C007
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=933187&extension=ts&play_token=IRO7VL1ayt
-#EXTINF:-1 tvg-id="933192" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/PARAMOUNT+ SPORT/PARAMOUNT+ SPORT.png",07/07 06:15 AM | ┃USA┃ PARAMOUNT+ SPORT 30 UEFA EUROPA LEAGUE HOFFENHEIM VS LYON
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B51FC4CAA1AD2F94055BD0789B625C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939865&extension=ts&play_token=o5cIn5FmXb
+#EXTINF:-1 tvg-id="1939864" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/07 02:00 AM | Portugal vs. Spain all | 8K CA: SOCCER 92
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A57CC23D0AAE35FAF0CC777BEB02C007
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=933192&extension=ts&play_token=9MlQPtJSGw
-#EXTINF:-1 tvg-id="858520" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/billiard logo.png",07/07 06:15 AM | ┃USA┃ BILLIARD TV HD
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B51FC4CAA1AD2F94055BD0789B625C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939864&extension=ts&play_token=0OE0LFS6B0
+#EXTINF:-1 tvg-id="1988056" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/07 02:00 AM | Portugal vs. Spain all | 8K ES: SOCCER 70
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 61F0F3E3DD4CA88BD650CEB9082776FA
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=858520&extension=ts&play_token=OALjEYwBe0
-#EXTINF:-1 tvg-id="1367501" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif",07/07 06:15 AM | USA Soccer16
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B51FC4CAA1AD2F94055BD0789B625C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1988056&extension=ts&play_token=8zqOtkYdam
+#EXTINF:-1 tvg-id="1988054" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/07 02:00 AM | Portugal vs. Spain all | 8K ES: SOCCER 72
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 61F0F3E3DD4CA88BD650CEB9082776FA
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1367501&extension=ts&play_token=P1HopRubds
-#EXTINF:-1 tvg-id="988101" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",07/07 06:15 AM | ┃USA┃ TENNIS CHANNEL PLUS 16
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B51FC4CAA1AD2F94055BD0789B625C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1988054&extension=ts&play_token=J4OUBXH3OR
+#EXTINF:-1 tvg-id="1919041" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/07 02:00 AM | Portugal vs. Spain all | 8K BR: SOCCER 43
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 61F0F3E3DD4CA88BD650CEB9082776FA
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=988101&extension=ts&play_token=eXOEhsh91t
-#EXTINF:-1 tvg-id="934977" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/TELEMUNDO/TELEMUNDO.png",07/07 06:15 AM | ┃USA┃ TELEMUNDO 13 (KRDO) COLORADO SPRINGS
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B51FC4CAA1AD2F94055BD0789B625C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919041&extension=ts&play_token=iCFtNxxkLe
+#EXTINF:-1 tvg-id="1919039" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/07 02:00 AM | Portugal vs. Spain all | 8K BR: SOCCER 45
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 61F0F3E3DD4CA88BD650CEB9082776FA
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=934977&extension=ts&play_token=olBGsbtSOX
-#EXTINF:-1 tvg-id="934965" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/TELEMUNDO/TELEMUNDO.png",07/07 06:15 AM | ┃USA┃ TELEMUNDO 19 (KFBI) MEDFORD
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B51FC4CAA1AD2F94055BD0789B625C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919039&extension=ts&play_token=9zWArbkIO9
+#EXTINF:-1 tvg-id="1918787" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/07 02:00 AM | Portugal vs. Spain all | 8K DE: SOCCER 90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 61F0F3E3DD4CA88BD650CEB9082776FA
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=934965&extension=ts&play_token=0m5lTI1ayq
-#EXTINF:-1 tvg-id="933178" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/PARAMOUNT+ SPORT/PARAMOUNT+ SPORT.png",07/07 06:15 AM | ┃USA┃ PARAMOUNT+ SPORT 16 UEFA EUROPA LEAGUE GALATASARAY VS TOTTENHAM
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B51FC4CAA1AD2F94055BD0789B625C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1918787&extension=ts&play_token=McAPzxofpc
+#EXTINF:-1 tvg-id="1939865" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/07 02:00 AM | Portugal vs. Spain all | 8K CA: SOCCER 91
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 61F0F3E3DD4CA88BD650CEB9082776FA
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=933178&extension=ts&play_token=Z3AIeYmjPV
-#EXTINF:-1 tvg-id="933185" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/PARAMOUNT+ SPORT/PARAMOUNT+ SPORT.png",07/07 06:15 AM | ┃USA┃ PARAMOUNT+ SPORT 23 UEFA CONFERENCE LEAGUE DJURGÅRDEN VS PANATHINAIKOS
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BED646EE0733A7ACD1EB0C0630E38401
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939865&extension=ts&play_token=T6I4wtkqfH
+#EXTINF:-1 tvg-id="1939864" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/07 02:00 AM | Portugal vs. Spain all | 8K CA: SOCCER 92
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 61F0F3E3DD4CA88BD650CEB9082776FA
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=933185&extension=ts&play_token=1CSI7MysHm
-#EXTINF:-1 tvg-id="933187" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/PARAMOUNT+ SPORT/PARAMOUNT+ SPORT.png",07/07 06:15 AM | ┃USA┃ PARAMOUNT+ SPORT 25 UEFA CONFERENCE LEAGUE HEART OF MIDLOTHIAN VS HEIDENHEIM
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BED646EE0733A7ACD1EB0C0630E38401
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939864&extension=ts&play_token=h6VQTbXAQo
+#EXTINF:-1 tvg-id="1988056" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/07 02:00 AM | Portugal vs. Spain all | 8K ES: SOCCER 70
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 61F0F3E3DD4CA88BD650CEB9082776FA
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=933187&extension=ts&play_token=vlXJAhDRN0
-#EXTINF:-1 tvg-id="933192" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/PARAMOUNT+ SPORT/PARAMOUNT+ SPORT.png",07/07 06:15 AM | ┃USA┃ PARAMOUNT+ SPORT 30 UEFA EUROPA LEAGUE HOFFENHEIM VS LYON
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BED646EE0733A7ACD1EB0C0630E38401
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1988056&extension=ts&play_token=fQJvqwsl8L
+#EXTINF:-1 tvg-id="1988054" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/07 02:00 AM | Portugal vs. Spain all | 8K ES: SOCCER 72
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 61F0F3E3DD4CA88BD650CEB9082776FA
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=933192&extension=ts&play_token=5f7tAtOHx2
-#EXTINF:-1 tvg-id="858520" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/billiard logo.png",07/07 06:15 AM | ┃USA┃ BILLIARD TV HD
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BED646EE0733A7ACD1EB0C0630E38401
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1988054&extension=ts&play_token=O2edMq0mMY
+#EXTINF:-1 tvg-id="1919041" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/07 02:00 AM | Portugal vs. Spain all | 8K BR: SOCCER 43
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5AD917E5EEDC29B460EAA22C3548A25D
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=858520&extension=ts&play_token=qC9RdfKCb1
-#EXTINF:-1 tvg-id="1367501" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif",07/07 06:15 AM | USA Soccer16
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BED646EE0733A7ACD1EB0C0630E38401
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1919041&extension=ts&play_token=C8LBQEMgLi
+#EXTINF:-1 tvg-id="1919039" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/07 02:00 AM | Portugal vs. Spain all | 8K BR: SOCCER 45
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5AD917E5EEDC29B460EAA22C3548A25D
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1367501&extension=ts&play_token=5IaLPwmh90
-#EXTINF:-1 tvg-id="988101" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",07/07 06:15 AM | ┃USA┃ TENNIS CHANNEL PLUS 16
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BED646EE0733A7ACD1EB0C0630E38401
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1919039&extension=ts&play_token=vlGU36TIB9
+#EXTINF:-1 tvg-id="1918787" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/07 02:00 AM | Portugal vs. Spain all | 8K DE: SOCCER 90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5AD917E5EEDC29B460EAA22C3548A25D
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=988101&extension=ts&play_token=7Jv0fVuzy8
-#EXTINF:-1 tvg-id="934977" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/TELEMUNDO/TELEMUNDO.png",07/07 06:15 AM | ┃USA┃ TELEMUNDO 13 (KRDO) COLORADO SPRINGS
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BED646EE0733A7ACD1EB0C0630E38401
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1918787&extension=ts&play_token=5qEF8B0BVI
+#EXTINF:-1 tvg-id="1300138" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="https://go4.pw/USA/FloSport.png",07/07 06:15 AM | US FLO 163 RACING USAC MRA SPRINTS AT VALLEY SPEEDWAY – /
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5AD917E5EEDC29B460EAA22C3548A25D
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=934977&extension=ts&play_token=yw0Zu8ZcvJ
-#EXTINF:-1 tvg-id="934965" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/TELEMUNDO/TELEMUNDO.png",07/07 06:15 AM | ┃USA┃ TELEMUNDO 19 (KFBI) MEDFORD
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 652BF113160D461533D4418759B6976B
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1300138
+#EXTINF:-1 tvg-id="1672263" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",07/07 06:15 AM | (MX) (Disney 043) Fort Lauderdale United vs. Sporting Jax ( :05)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5AD917E5EEDC29B460EAA22C3548A25D
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=934965&extension=ts&play_token=tHq6OY7bBw
-#EXTINF:-1 tvg-id="933178" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/PARAMOUNT+ SPORT/PARAMOUNT+ SPORT.png",07/07 06:15 AM | ┃USA┃ PARAMOUNT+ SPORT 16 UEFA EUROPA LEAGUE GALATASARAY VS TOTTENHAM
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 327FB425AAEE4B59996AD3C7E9C3C60E
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1672263&extension=ts&play_token=SPcQiEbCg4
+#EXTINF:-1 tvg-id="1672263" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",07/07 06:15 AM | (MX) (Disney 043) Fort Lauderdale United vs. Sporting Jax ( :05)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5AD917E5EEDC29B460EAA22C3548A25D
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=933178&extension=ts&play_token=x2eEtrZ1gc
-#EXTINF:-1 tvg-id="933185" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/PARAMOUNT+ SPORT/PARAMOUNT+ SPORT.png",07/07 06:15 AM | ┃USA┃ PARAMOUNT+ SPORT 23 UEFA CONFERENCE LEAGUE DJURGÅRDEN VS PANATHINAIKOS
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B51FC4CAA1AD2F94055BD0789B625C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1672263&extension=ts&play_token=c7uXmB8laj
+#EXTINF:-1 tvg-id="1672263" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",07/07 06:15 AM | (MX) (Disney 043) Fort Lauderdale United vs. Sporting Jax ( :05)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5AD917E5EEDC29B460EAA22C3548A25D
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=933185&extension=ts&play_token=DAKPA4zaR2
-#EXTINF:-1 tvg-id="933187" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/PARAMOUNT+ SPORT/PARAMOUNT+ SPORT.png",07/07 06:15 AM | ┃USA┃ PARAMOUNT+ SPORT 25 UEFA CONFERENCE LEAGUE HEART OF MIDLOTHIAN VS HEIDENHEIM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5AD917E5EEDC29B460EAA22C3548A25D
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=933187&extension=ts&play_token=kyTpeONb2L
-#EXTINF:-1 tvg-id="933192" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/PARAMOUNT+ SPORT/PARAMOUNT+ SPORT.png",07/07 06:15 AM | ┃USA┃ PARAMOUNT+ SPORT 30 UEFA EUROPA LEAGUE HOFFENHEIM VS LYON
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5AD917E5EEDC29B460EAA22C3548A25D
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=933192&extension=ts&play_token=rcMEkaRfia
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BED646EE0733A7ACD1EB0C0630E38401
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1672263&extension=ts&play_token=4UwqiL050A
