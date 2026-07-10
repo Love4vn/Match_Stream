@@ -1,11 +1,101 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="2072512" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",11/07 02:00 AM | Spain vs. Belgium all | 8K ES: SOCCER 41
+#EXTINF:-1 tvg-id="1988085" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",11/07 02:00 AM | Spain vs. Belgium all | 8K ES: SOCCER 41
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 80F2FADFB9C6A64F4088C12EA8BF05B9
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072512&extension=ts&play_token=hgqaGS6fNp
-#EXTINF:-1 tvg-id="2072511" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",11/07 02:00 AM | RTVE: Spain vs. Belgium all | 8K ES: SOCCER 42
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1E01C1E179F85275693DFCBBF52D560F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988085&extension=ts&play_token=F5gfZXq3lS
+#EXTINF:-1 tvg-id="1988084" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",11/07 02:00 AM | RTVE: Spain vs. Belgium all | 8K ES: SOCCER 42
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 80F2FADFB9C6A64F4088C12EA8BF05B9
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072511&extension=ts&play_token=545IMhD9qe
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1E01C1E179F85275693DFCBBF52D560F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988084&extension=ts&play_token=OsI3f8iW7i
+#EXTINF:-1 tvg-id="1939905" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",11/07 02:00 AM | Spain vs. Belgium all | 8K CA: SOCCER 51
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1E01C1E179F85275693DFCBBF52D560F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939905&extension=ts&play_token=itI3cCKJRG
+#EXTINF:-1 tvg-id="1919054" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",11/07 02:00 AM | CazéTV: Spain vs. Belgium all | 8K BR: SOCCER 30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1E01C1E179F85275693DFCBBF52D560F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919054&extension=ts&play_token=1LEcwDKrNJ
+#EXTINF:-1 tvg-id="1919052" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",11/07 02:00 AM | Spain vs. Belgium all | 8K BR: SOCCER 32
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1E01C1E179F85275693DFCBBF52D560F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919052&extension=ts&play_token=iYra4prRi9
+#EXTINF:-1 tvg-id="1988085" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",11/07 02:00 AM | Spain vs. Belgium all | 8K ES: SOCCER 41
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 38754FCBCBB8A8F9B53B1446D039E4B3
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1988085&extension=ts&play_token=SaOaSkVwAj
+#EXTINF:-1 tvg-id="1988084" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",11/07 02:00 AM | RTVE: Spain vs. Belgium all | 8K ES: SOCCER 42
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 38754FCBCBB8A8F9B53B1446D039E4B3
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1988084&extension=ts&play_token=9Cf1TLo0Lx
+#EXTINF:-1 tvg-id="1939905" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",11/07 02:00 AM | Spain vs. Belgium all | 8K CA: SOCCER 51
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 38754FCBCBB8A8F9B53B1446D039E4B3
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939905&extension=ts&play_token=BHz2kCL1Uk
+#EXTINF:-1 tvg-id="1919054" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",11/07 02:00 AM | CazéTV: Spain vs. Belgium all | 8K BR: SOCCER 30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 38754FCBCBB8A8F9B53B1446D039E4B3
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919054&extension=ts&play_token=GIveXvFbp0
+#EXTINF:-1 tvg-id="1919052" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",11/07 02:00 AM | Spain vs. Belgium all | 8K BR: SOCCER 32
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 38754FCBCBB8A8F9B53B1446D039E4B3
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919052&extension=ts&play_token=DsTs4d13iW
+#EXTINF:-1 tvg-id="1939905" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",11/07 02:00 AM | Spain vs. Belgium all | 8K CA: SOCCER 51
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C7941AD6FB5A8386FD1F0848A799D73B
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939905&extension=ts&play_token=MljfBYM34P
+#EXTINF:-1 tvg-id="1988085" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",11/07 02:00 AM | Spain vs. Belgium all | 8K ES: SOCCER 41
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C7941AD6FB5A8386FD1F0848A799D73B
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1988085&extension=ts&play_token=5AVsC4PItr
+#EXTINF:-1 tvg-id="1988084" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",11/07 02:00 AM | RTVE: Spain vs. Belgium all | 8K ES: SOCCER 42
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C7941AD6FB5A8386FD1F0848A799D73B
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1988084&extension=ts&play_token=UibmNxuWsp
+#EXTINF:-1 tvg-id="1919054" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",11/07 02:00 AM | CazéTV: Spain vs. Belgium all | 8K BR: SOCCER 30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C7941AD6FB5A8386FD1F0848A799D73B
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919054&extension=ts&play_token=jrNJWximlX
+#EXTINF:-1 tvg-id="1919052" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",11/07 02:00 AM | Spain vs. Belgium all | 8K BR: SOCCER 32
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C7941AD6FB5A8386FD1F0848A799D73B
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919052&extension=ts&play_token=zi9JQXio3a
+#EXTINF:-1 tvg-id="1939905" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",11/07 02:00 AM | Spain vs. Belgium all | 8K CA: SOCCER 51
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A872A99692D6A6FA7A3022C829EABE2B
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939905&extension=ts&play_token=gSTYQVRvVB
+#EXTINF:-1 tvg-id="1988085" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",11/07 02:00 AM | Spain vs. Belgium all | 8K ES: SOCCER 41
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A872A99692D6A6FA7A3022C829EABE2B
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1988085&extension=ts&play_token=peLU0MExDW
+#EXTINF:-1 tvg-id="1988084" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",11/07 02:00 AM | RTVE: Spain vs. Belgium all | 8K ES: SOCCER 42
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A872A99692D6A6FA7A3022C829EABE2B
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1988084&extension=ts&play_token=jnkotp0132
+#EXTINF:-1 tvg-id="1919054" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",11/07 02:00 AM | CazéTV: Spain vs. Belgium all | 8K BR: SOCCER 30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A872A99692D6A6FA7A3022C829EABE2B
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1919054&extension=ts&play_token=311cWeIxyy
+#EXTINF:-1 tvg-id="1919052" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",11/07 02:00 AM | Spain vs. Belgium all | 8K BR: SOCCER 32
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A872A99692D6A6FA7A3022C829EABE2B
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1919052&extension=ts&play_token=sV8cCajHOV
