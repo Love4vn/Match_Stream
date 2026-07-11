@@ -1,126 +1,131 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1919080" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",12/07 01:30 AM | Benfica vs. CR Flamengo all | 8K BR: SOCCER 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7EB31B956C5B12D402A7DEAF63777808
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919080&extension=ts&play_token=9urOvYZyQj
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BDA526ECFE2BA4369A3DDDE78534B023
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919080&extension=ts&play_token=nDmP8KmUlV
 #EXTINF:-1 tvg-id="1919080" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",12/07 01:30 AM | Benfica vs. CR Flamengo all | 8K BR: SOCCER 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0F77BBC064728EA0AADC01C3A571DF80
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919080&extension=ts&play_token=q2a16vQZop
-#EXTINF:-1 tvg-id="2063940" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",12/07 04:00 AM | Norway vs. England all | 8K FR: SOCCER 19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7EB31B956C5B12D402A7DEAF63777808
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2063940&extension=ts&play_token=B7B6XVcG0L
-#EXTINF:-1 tvg-id="1988106" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",12/07 04:00 AM | Norway vs. England all | 8K ES: SOCCER 20
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7EB31B956C5B12D402A7DEAF63777808
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988106&extension=ts&play_token=C6F5poB0u6
-#EXTINF:-1 tvg-id="1939944" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",12/07 04:00 AM | Norway vs. England all | 8K CA: SOCCER 12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7EB31B956C5B12D402A7DEAF63777808
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939944&extension=ts&play_token=DAmFjdbMza
-#EXTINF:-1 tvg-id="1611015" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",12/07 04:00 AM | Norwegian Feed FIFA World Cup 2026 Quarterfinal Norway vs England @ :TSN+ 42
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7EB31B956C5B12D402A7DEAF63777808
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1611015&extension=ts&play_token=6CtVYZXTIv
-#EXTINF:-1 tvg-id="1611014" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",12/07 04:00 AM | 2026 FIFA World Cup Quarterfinal Norway vs England A @ :TSN+ 43
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7EB31B956C5B12D402A7DEAF63777808
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1611014&extension=ts&play_token=ZdiB4R8Tpe
-#EXTINF:-1 tvg-id="1919083" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",12/07 04:00 AM | CazéTV: Norway vs. England all | 8K BR: SOCCER 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7EB31B956C5B12D402A7DEAF63777808
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919083&extension=ts&play_token=uJ9Km2L1Ko
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1C527269DF25EEFDF0EA1D8D96D008EF
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919080&extension=ts&play_token=WrEYN6A4eX
 #EXTINF:-1 tvg-id="2063940" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",12/07 04:00 AM | Norway vs. England all | 8K FR: SOCCER 19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0F77BBC064728EA0AADC01C3A571DF80
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=2063940&extension=ts&play_token=Qm68LI26Pr
+#EXTVLCOPT:http-header=Authorization: Bearer BDA526ECFE2BA4369A3DDDE78534B023
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=2063940&extension=ts&play_token=GqSPtbehWb
 #EXTINF:-1 tvg-id="1988106" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",12/07 04:00 AM | Norway vs. England all | 8K ES: SOCCER 20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0F77BBC064728EA0AADC01C3A571DF80
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1988106&extension=ts&play_token=Q89YIoG0jY
+#EXTVLCOPT:http-header=Authorization: Bearer BDA526ECFE2BA4369A3DDDE78534B023
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1988106&extension=ts&play_token=fubicxSWrf
+#EXTINF:-1 tvg-id="1940085" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",12/07 04:00 AM | Norway vs. England all | 8K US: SOCCER 72
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BDA526ECFE2BA4369A3DDDE78534B023
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1940085&extension=ts&play_token=IhVmSBfmNN
 #EXTINF:-1 tvg-id="1939944" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",12/07 04:00 AM | Norway vs. England all | 8K CA: SOCCER 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0F77BBC064728EA0AADC01C3A571DF80
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939944&extension=ts&play_token=b0FLNpNdKU
+#EXTVLCOPT:http-header=Authorization: Bearer BDA526ECFE2BA4369A3DDDE78534B023
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939944&extension=ts&play_token=aoUf36Hybg
 #EXTINF:-1 tvg-id="1611015" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",12/07 04:00 AM | Norwegian Feed FIFA World Cup 2026 Quarterfinal Norway vs England @ :TSN+ 42
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0F77BBC064728EA0AADC01C3A571DF80
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611015&extension=ts&play_token=pbBUHQrS0j
+#EXTVLCOPT:http-header=Authorization: Bearer BDA526ECFE2BA4369A3DDDE78534B023
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611015&extension=ts&play_token=hX2aaOcL4g
 #EXTINF:-1 tvg-id="1611014" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",12/07 04:00 AM | 2026 FIFA World Cup Quarterfinal Norway vs England A @ :TSN+ 43
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0F77BBC064728EA0AADC01C3A571DF80
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611014&extension=ts&play_token=sEcVz2SALU
+#EXTVLCOPT:http-header=Authorization: Bearer BDA526ECFE2BA4369A3DDDE78534B023
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611014&extension=ts&play_token=4GtTWViTsz
 #EXTINF:-1 tvg-id="1919083" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",12/07 04:00 AM | CazéTV: Norway vs. England all | 8K BR: SOCCER 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0F77BBC064728EA0AADC01C3A571DF80
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919083&extension=ts&play_token=lg1BWc7E3u
-#EXTINF:-1 tvg-id="1119198" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="https://go4.pw/CANADA/tsn.png",12/07 04:00 AM | CA TSN+ 11 FIFA WORLD CUP 2026 – QUARTERFINAL – NORWAY @ ENGLAND (NORWEGIAN FEED) – – /
+#EXTVLCOPT:http-header=Authorization: Bearer BDA526ECFE2BA4369A3DDDE78534B023
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919083&extension=ts&play_token=gd2BxjU1MZ
+#EXTINF:-1 tvg-id="1940085" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",12/07 04:00 AM | Norway vs. England all | 8K US: SOCCER 72
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 505E288BC00D5B00A5424644B2AD5D6C
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1119198
-#EXTINF:-1 tvg-id="1119202" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="https://go4.pw/CANADA/tsn.png",12/07 08:00 AM | CA TSN+ 15 FIFA WORLD CUP 2026 – QUARTERFINAL – ARGENTINA @ SWITZERLAND (SPANISH FEED) – – /
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1C527269DF25EEFDF0EA1D8D96D008EF
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1940085&extension=ts&play_token=CiYEFFlxxP
+#EXTINF:-1 tvg-id="1939944" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",12/07 04:00 AM | Norway vs. England all | 8K CA: SOCCER 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 505E288BC00D5B00A5424644B2AD5D6C
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1119202
-#EXTINF:-1 tvg-id="1119203" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="https://go4.pw/CANADA/tsn.png",12/07 08:00 AM | CA TSN+ 16 FIFA WORLD CUP 2026 – QUARTERFINAL – ARGENTINA @ SWITZERLAND (GERMAN FEED) – – /
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1C527269DF25EEFDF0EA1D8D96D008EF
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939944&extension=ts&play_token=ErIxVcQkig
+#EXTINF:-1 tvg-id="1611015" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",12/07 04:00 AM | Norwegian Feed FIFA World Cup 2026 Quarterfinal Norway vs England @ :TSN+ 42
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 505E288BC00D5B00A5424644B2AD5D6C
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1119203
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1C527269DF25EEFDF0EA1D8D96D008EF
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611015&extension=ts&play_token=PtiRRUf8fM
+#EXTINF:-1 tvg-id="1611014" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",12/07 04:00 AM | 2026 FIFA World Cup Quarterfinal Norway vs England A @ :TSN+ 43
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1C527269DF25EEFDF0EA1D8D96D008EF
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611014&extension=ts&play_token=DJ0KqEcLbc
+#EXTINF:-1 tvg-id="2063940" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",12/07 04:00 AM | Norway vs. England all | 8K FR: SOCCER 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1C527269DF25EEFDF0EA1D8D96D008EF
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2063940&extension=ts&play_token=M4UEaO4utr
+#EXTINF:-1 tvg-id="1988106" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",12/07 04:00 AM | Norway vs. England all | 8K ES: SOCCER 20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1C527269DF25EEFDF0EA1D8D96D008EF
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1988106&extension=ts&play_token=61lQ4MqIoZ
+#EXTINF:-1 tvg-id="1919083" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",12/07 04:00 AM | CazéTV: Norway vs. England all | 8K BR: SOCCER 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1C527269DF25EEFDF0EA1D8D96D008EF
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919083&extension=ts&play_token=a9QWZrddQt
+#EXTINF:-1 tvg-id="2113092" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",12/07 04:00 AM | Norway vs. England all | 8K FR: SOCCER 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A13270C4D3C6D13A09BE5D39D5E8E4B2
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113092&extension=ts&play_token=kE5aRSL87L
+#EXTINF:-1 tvg-id="2072533" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",12/07 04:00 AM | Norway vs. England all | 8K ES: SOCCER 20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A13270C4D3C6D13A09BE5D39D5E8E4B2
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072533&extension=ts&play_token=B7nHLC83GR
 #EXTINF:-1 tvg-id="1611002" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",12/07 08:00 AM | Spanish Feed FIFA World Cup 2026 Quarterfinal Argentina vs Switzerland @ :TSN+ 55
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7EB31B956C5B12D402A7DEAF63777808
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1611002&extension=ts&play_token=iMBTaOttkt
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BDA526ECFE2BA4369A3DDDE78534B023
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611002&extension=ts&play_token=4g8Gp1VSBZ
 #EXTINF:-1 tvg-id="1611001" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",12/07 08:00 AM | 2026 FIFA World Cup Quarterfinal Argentina vs Switzerland A @ :TSN+ 56
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7EB31B956C5B12D402A7DEAF63777808
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1611001&extension=ts&play_token=CtHJuIvVBg
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BDA526ECFE2BA4369A3DDDE78534B023
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611001&extension=ts&play_token=LkKwyVguVX
 #EXTINF:-1 tvg-id="1611000" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",12/07 08:00 AM | German Feed FIFA World Cup 2026 Quarterfinal Argentina vs Switzerland @ :TSN+ 57
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7EB31B956C5B12D402A7DEAF63777808
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1611000&extension=ts&play_token=7nY5hsya6c
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BDA526ECFE2BA4369A3DDDE78534B023
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611000&extension=ts&play_token=DwaIU8CSb7
 #EXTINF:-1 tvg-id="1610996" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",12/07 08:00 AM | 2026 FIFA World Cup Quarterfinal Argentina vs Switzerland B @ :TSN+ 61
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7EB31B956C5B12D402A7DEAF63777808
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1610996&extension=ts&play_token=9QtAkCxxI4
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BDA526ECFE2BA4369A3DDDE78534B023
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1610996&extension=ts&play_token=5oG8ar9G8P
 #EXTINF:-1 tvg-id="1611002" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",12/07 08:00 AM | Spanish Feed FIFA World Cup 2026 Quarterfinal Argentina vs Switzerland @ :TSN+ 55
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0F77BBC064728EA0AADC01C3A571DF80
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611002&extension=ts&play_token=7KNvDtkqlX
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1C527269DF25EEFDF0EA1D8D96D008EF
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611002&extension=ts&play_token=TgH38wUIbj
 #EXTINF:-1 tvg-id="1611001" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",12/07 08:00 AM | 2026 FIFA World Cup Quarterfinal Argentina vs Switzerland A @ :TSN+ 56
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0F77BBC064728EA0AADC01C3A571DF80
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611001&extension=ts&play_token=4XyXriKuVB
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1C527269DF25EEFDF0EA1D8D96D008EF
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611001&extension=ts&play_token=iRTdvXDu06
 #EXTINF:-1 tvg-id="1611000" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",12/07 08:00 AM | German Feed FIFA World Cup 2026 Quarterfinal Argentina vs Switzerland @ :TSN+ 57
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0F77BBC064728EA0AADC01C3A571DF80
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611000&extension=ts&play_token=EMg1HUbSKS
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1C527269DF25EEFDF0EA1D8D96D008EF
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611000&extension=ts&play_token=r3cp7TNtHP
 #EXTINF:-1 tvg-id="1610996" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",12/07 08:00 AM | 2026 FIFA World Cup Quarterfinal Argentina vs Switzerland B @ :TSN+ 61
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0F77BBC064728EA0AADC01C3A571DF80
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1610996&extension=ts&play_token=nw4ze7600h
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1C527269DF25EEFDF0EA1D8D96D008EF
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1610996&extension=ts&play_token=yBhaOFcSSE
