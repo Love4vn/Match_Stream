@@ -1,181 +1,126 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1601694" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",15/07 12:00 AM | US (ESPN+ 025) Soccer: Víkingur Reykjavík vs. ETO FC Győr ( :00)
+#EXTINF:-1 tvg-id="1601713" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",15/07 12:00 AM | US (ESPN+ 006) Soccer: Víkingur Reykjavík vs. ETO FC Győr ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0E797C8749E5DD6B4994662A240C5A84
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1601694&extension=ts&play_token=KEYDmScOEG
-#EXTINF:-1 tvg-id="1601694" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",15/07 12:00 AM | US (ESPN+ 025) Soccer: Víkingur Reykjavík vs. ETO FC Győr ( :00)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8EFF323E7BE9CB75DDA05EED224E9C56
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1601713&extension=ts&play_token=8JA2cbTIrQ
+#EXTINF:-1 tvg-id="1924726" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",15/07 12:00 AM | VÍKINGUR REYKJAVÍK VS. ETO FC GYŐR (US) 8K US: ESPN+ 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 084D31B42A04AAB5631A06BE288FE36A
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1601694&extension=ts&play_token=JJWI2ggr0T
-#EXTINF:-1 tvg-id="1601694" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",15/07 12:00 AM | US (ESPN+ 025) Soccer: Víkingur Reykjavík vs. ETO FC Győr ( :00)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8EFF323E7BE9CB75DDA05EED224E9C56
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1924726&extension=ts&play_token=9gjMbuwruL
+#EXTINF:-1 tvg-id="1601713" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",15/07 12:00 AM | US (ESPN+ 006) Soccer: Víkingur Reykjavík vs. ETO FC Győr ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9B47393712459CBBFC3542F1B3495715
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1601694&extension=ts&play_token=AQub6mYpo3
-#EXTINF:-1 tvg-id="1601694" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",15/07 12:00 AM | US (ESPN+ 025) Soccer: Víkingur Reykjavík vs. ETO FC Győr ( :00)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8EFF323E7BE9CB75DDA05EED224E9C56
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1601713&extension=ts&play_token=8JA2cbTIrQ
+#EXTINF:-1 tvg-id="1924726" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",15/07 12:00 AM | VÍKINGUR REYKJAVÍK VS. ETO FC GYŐR (US) 8K US: ESPN+ 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0E797C8749E5DD6B4994662A240C5A84
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1601694&extension=ts&play_token=KEYDmScOEG
-#EXTINF:-1 tvg-id="1601694" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",15/07 12:00 AM | US (ESPN+ 025) Soccer: Víkingur Reykjavík vs. ETO FC Győr ( :00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 084D31B42A04AAB5631A06BE288FE36A
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1601694&extension=ts&play_token=JJWI2ggr0T
-#EXTINF:-1 tvg-id="1601694" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",15/07 12:00 AM | US (ESPN+ 025) Soccer: Víkingur Reykjavík vs. ETO FC Győr ( :00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9B47393712459CBBFC3542F1B3495715
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1601694&extension=ts&play_token=AQub6mYpo3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8EFF323E7BE9CB75DDA05EED224E9C56
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1924726&extension=ts&play_token=9gjMbuwruL
 #EXTINF:-1 tvg-id="678592" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13744.png?ver=9390",15/07 01:00 AM | FA Player 07 Arsenal vs Bristol City // //
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0E797C8749E5DD6B4994662A240C5A84
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=678592&extension=ts&play_token=dW1YSEBz9k
-#EXTINF:-1 tvg-id="678592" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13744.png?ver=9390",15/07 01:00 AM | FA Player 07 Arsenal vs Bristol City // //
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8EFF323E7BE9CB75DDA05EED224E9C56
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=678592&extension=ts&play_token=rsXJRQ3jjm
+#EXTINF:-1 tvg-id="1429574" group-title="🌍|Live International Friendly-Match" tvg-logo="http://103.176.90.95/images/1429574.png",15/07 01:00 AM | FA Player 07 Arsenal vs Bristol City // //
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 084D31B42A04AAB5631A06BE288FE36A
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=678592&extension=ts&play_token=Q15FHKn3xh
-#EXTINF:-1 tvg-id="678592" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13744.png?ver=9390",15/07 01:00 AM | FA Player 07 Arsenal vs Bristol City // //
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9B47393712459CBBFC3542F1B3495715
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=678592&extension=ts&play_token=VxqD88cvst
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BC5F19F7016C19F2BA548935890C7D6B
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1429574&extension=ts&play_token=3B7o2x2lm9
 #EXTINF:-1 tvg-id="621397" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11393.jpg?ver=82037",15/07 02:00 AM | LA LIGA OSASUNA 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0E797C8749E5DD6B4994662A240C5A84
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=621397&extension=ts&play_token=0QvAHUkb0H
-#EXTINF:-1 tvg-id="621397" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11393.jpg?ver=82037",15/07 02:00 AM | LA LIGA OSASUNA 4K
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8EFF323E7BE9CB75DDA05EED224E9C56
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=621397&extension=ts&play_token=KxijUdePQl
+#EXTINF:-1 tvg-id="1314035" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK LA LIGA TEAMS/OSASUNA.png",15/07 02:00 AM | ┃ ┃ LA LIGA OSASUNA FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 084D31B42A04AAB5631A06BE288FE36A
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=621397&extension=ts&play_token=pibAjv7ELb
-#EXTINF:-1 tvg-id="621397" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11393.jpg?ver=82037",15/07 02:00 AM | LA LIGA OSASUNA 4K
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B66AB9AA0AFA14F46B6844ACACF0B4C6
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1314035&extension=ts&play_token=rLduYas8MB
+#EXTINF:-1 tvg-id="1395518" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/OSASUNA.png",15/07 02:00 AM | LA LIGA| OSASUNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9B47393712459CBBFC3542F1B3495715
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=621397&extension=ts&play_token=SaKaXrSkp4
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BC5F19F7016C19F2BA548935890C7D6B
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1395518&extension=ts&play_token=OluWzTl2jN
 #EXTINF:-1 tvg-id="1702730" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",15/07 02:00 AM | Tennis: Plava Laguna Croatia Open Umag: Dag 2 @ :Tv2Play NO 05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0E797C8749E5DD6B4994662A240C5A84
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1702730&extension=ts&play_token=IdUbfLE6c5
-#EXTINF:-1 tvg-id="1702730" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",15/07 02:00 AM | Tennis: Plava Laguna Croatia Open Umag: Dag 2 @ :Tv2Play NO 05
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8EFF323E7BE9CB75DDA05EED224E9C56
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1702730&extension=ts&play_token=oVlulkYRWB
+#EXTINF:-1 tvg-id="1996031" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/2PLAY.png",15/07 02:00 AM | Tennis: Plava Laguna Croatia Open Umag: Dag 2 @ :Tv2Play NO 05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 084D31B42A04AAB5631A06BE288FE36A
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1702730&extension=ts&play_token=lxublUS1Xu
-#EXTINF:-1 tvg-id="1702730" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",15/07 02:00 AM | Tennis: Plava Laguna Croatia Open Umag: Dag 2 @ :Tv2Play NO 05
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BC5F19F7016C19F2BA548935890C7D6B
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996031&extension=ts&play_token=MmuLDSnQoC
+#EXTINF:-1 tvg-id="1940138" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",15/07 02:00 AM | France vs. Spain all | 8K US: SOCCER 19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9B47393712459CBBFC3542F1B3495715
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1702730&extension=ts&play_token=hN2glzUZWH
-#EXTINF:-1 tvg-id="2063945" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",15/07 02:00 AM | France vs. Spain all | 8K FR: SOCCER 14
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8EFF323E7BE9CB75DDA05EED224E9C56
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1940138&extension=ts&play_token=woWS4MxWYx
+#EXTINF:-1 tvg-id="1939946" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",15/07 02:00 AM | France vs. Spain all | 8K CA: SOCCER 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0E797C8749E5DD6B4994662A240C5A84
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2063945&extension=ts&play_token=KkofrUfaFw
-#EXTINF:-1 tvg-id="1918862" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",15/07 02:00 AM | End ZDF: France vs. Spain all | 8K DE: SOCCER 15
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8EFF323E7BE9CB75DDA05EED224E9C56
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939946&extension=ts&play_token=8ucsiNUUQq
+#EXTINF:-1 tvg-id="2063951" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",15/07 02:00 AM | France vs. Spain all | 8K FR: SOCCER 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0E797C8749E5DD6B4994662A240C5A84
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918862&extension=ts&play_token=9Yq8DGYgsk
-#EXTINF:-1 tvg-id="1988111" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",15/07 02:00 AM | France vs. Spain all | 8K ES: SOCCER 15
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8EFF323E7BE9CB75DDA05EED224E9C56
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2063951&extension=ts&play_token=I05aH8jBqA
+#EXTINF:-1 tvg-id="1988119" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",15/07 02:00 AM | France vs. Spain all | 8K ES: SOCCER 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0E797C8749E5DD6B4994662A240C5A84
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988111&extension=ts&play_token=NBixjCJ4hx
-#EXTINF:-1 tvg-id="1988110" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",15/07 02:00 AM | RTVE: France vs. Spain all | 8K ES: SOCCER 16
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8EFF323E7BE9CB75DDA05EED224E9C56
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1988119&extension=ts&play_token=hx8IUBmHl9
+#EXTINF:-1 tvg-id="1988118" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",15/07 02:00 AM | RTVE: France vs. Spain all | 8K ES: SOCCER 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0E797C8749E5DD6B4994662A240C5A84
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988110&extension=ts&play_token=nROwhbbMvh
-#EXTINF:-1 tvg-id="1939944" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",15/07 02:00 AM | France vs. Spain all | 8K CA: SOCCER 12
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8EFF323E7BE9CB75DDA05EED224E9C56
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1988118&extension=ts&play_token=ak3TKFrUWZ
+#EXTINF:-1 tvg-id="1919083" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",15/07 02:00 AM | CazéTV: France vs. Spain all | 8K BR: SOCCER 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0E797C8749E5DD6B4994662A240C5A84
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939944&extension=ts&play_token=icim976nZd
-#EXTINF:-1 tvg-id="1940098" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",15/07 02:00 AM | France vs. Spain all | 8K US: SOCCER 59
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8EFF323E7BE9CB75DDA05EED224E9C56
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919083&extension=ts&play_token=z3OlKDKTz2
+#EXTINF:-1 tvg-id="1918865" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",15/07 02:00 AM | ZDF: France vs. Spain all | 8K DE: SOCCER 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0E797C8749E5DD6B4994662A240C5A84
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1940098&extension=ts&play_token=0ydp1nhGEX
-#EXTINF:-1 tvg-id="1919073" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",15/07 02:00 AM | CazéTV: France vs. Spain all | 8K BR: SOCCER 11
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8EFF323E7BE9CB75DDA05EED224E9C56
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1918865&extension=ts&play_token=jzACHReGol
+#EXTINF:-1 tvg-id="2055040" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",15/07 02:00 AM | ZDF: France vs. Spain all | 8K DE: SOCCER 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0E797C8749E5DD6B4994662A240C5A84
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919073&extension=ts&play_token=N4DfbVc7dV
-#EXTINF:-1 tvg-id="1918862" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",15/07 02:00 AM | ZDF: France vs. Spain all | 8K DE: SOCCER 15
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BC5F19F7016C19F2BA548935890C7D6B
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055040&extension=ts&play_token=bDJClnxRjj
+#EXTINF:-1 tvg-id="2113103" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",15/07 02:00 AM | France vs. Spain all | 8K FR: SOCCER 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 084D31B42A04AAB5631A06BE288FE36A
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1918862&extension=ts&play_token=6eXvozsfDc
-#EXTINF:-1 tvg-id="2063945" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",15/07 02:00 AM | France vs. Spain all | 8K FR: SOCCER 14
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BC5F19F7016C19F2BA548935890C7D6B
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113103&extension=ts&play_token=IZQx4kGrCW
+#EXTINF:-1 tvg-id="2072546" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",15/07 02:00 AM | France vs. Spain all | 8K ES: SOCCER 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 084D31B42A04AAB5631A06BE288FE36A
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=2063945&extension=ts&play_token=Me2gshbAiS
-#EXTINF:-1 tvg-id="1988111" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",15/07 02:00 AM | France vs. Spain all | 8K ES: SOCCER 15
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BC5F19F7016C19F2BA548935890C7D6B
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072546&extension=ts&play_token=tDVYeothIB
+#EXTINF:-1 tvg-id="2072545" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",15/07 02:00 AM | RTVE: France vs. Spain all | 8K ES: SOCCER 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 084D31B42A04AAB5631A06BE288FE36A
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1988111&extension=ts&play_token=bAHKXnnWUB
-#EXTINF:-1 tvg-id="1988110" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",15/07 02:00 AM | RTVE: France vs. Spain all | 8K ES: SOCCER 16
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BC5F19F7016C19F2BA548935890C7D6B
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072545&extension=ts&play_token=Mg0i7FMCSc
+#EXTINF:-1 tvg-id="1611009" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",15/07 02:00 AM | Spanish Feed FIFA World Cup 2026 Semifinal France vs Spain @ :TSN+ 48
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 084D31B42A04AAB5631A06BE288FE36A
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1988110&extension=ts&play_token=0qhWXLrOgx
-#EXTINF:-1 tvg-id="1940098" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",15/07 02:00 AM | End France vs. Spain all | 8K US: SOCCER 59
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8EFF323E7BE9CB75DDA05EED224E9C56
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611009&extension=ts&play_token=te59Or0Ojp
+#EXTINF:-1 tvg-id="1611008" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",15/07 02:00 AM | 2026 FIFA World Cup Semifinal France vs Spain A @ :TSN+ 49
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 084D31B42A04AAB5631A06BE288FE36A
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1940098&extension=ts&play_token=Rkpff4Npcu
-#EXTINF:-1 tvg-id="1939944" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",15/07 02:00 AM | France vs. Spain all | 8K CA: SOCCER 12
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8EFF323E7BE9CB75DDA05EED224E9C56
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611008&extension=ts&play_token=losIWXaGpV
+#EXTINF:-1 tvg-id="1610996" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",15/07 02:00 AM | 2026 FIFA World Cup Semifinal France vs Spain B @ :TSN+ 61
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 084D31B42A04AAB5631A06BE288FE36A
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939944&extension=ts&play_token=KtE5phSdWf
-#EXTINF:-1 tvg-id="1919073" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",15/07 02:00 AM | CazéTV: France vs. Spain all | 8K BR: SOCCER 11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 084D31B42A04AAB5631A06BE288FE36A
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919073&extension=ts&play_token=ssdtoV9O1V
-#EXTINF:-1 tvg-id="1940098" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",15/07 02:00 AM | End France vs. Spain all | 8K US: SOCCER 59
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9B47393712459CBBFC3542F1B3495715
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1940098&extension=ts&play_token=UqRkQXuZq2
-#EXTINF:-1 tvg-id="1939944" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",15/07 02:00 AM | France vs. Spain all | 8K CA: SOCCER 12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9B47393712459CBBFC3542F1B3495715
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939944&extension=ts&play_token=pXuKueAzrg
-#EXTINF:-1 tvg-id="2063945" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",15/07 02:00 AM | France vs. Spain all | 8K FR: SOCCER 14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9B47393712459CBBFC3542F1B3495715
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=2063945&extension=ts&play_token=eU9ks37bVF
-#EXTINF:-1 tvg-id="1988111" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",15/07 02:00 AM | France vs. Spain all | 8K ES: SOCCER 15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9B47393712459CBBFC3542F1B3495715
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1988111&extension=ts&play_token=Ja4IgOFxRu
-#EXTINF:-1 tvg-id="1988110" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",15/07 02:00 AM | RTVE: France vs. Spain all | 8K ES: SOCCER 16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9B47393712459CBBFC3542F1B3495715
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1988110&extension=ts&play_token=TGNWMeNPmM
-#EXTINF:-1 tvg-id="1919073" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",15/07 02:00 AM | CazéTV: France vs. Spain all | 8K BR: SOCCER 11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9B47393712459CBBFC3542F1B3495715
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1919073&extension=ts&play_token=0XmtQlInEX
-#EXTINF:-1 tvg-id="1918862" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",15/07 02:00 AM | ZDF: France vs. Spain all | 8K DE: SOCCER 15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9B47393712459CBBFC3542F1B3495715
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1918862&extension=ts&play_token=1JThtG4dAa
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8EFF323E7BE9CB75DDA05EED224E9C56
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1610996&extension=ts&play_token=M3jDrTS7wY
