@@ -1,11 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="2070914" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15271.jpg?ver=95591",18/07 01:45 AM | PSF 03 Hearts vs Rayo Vallecano 17/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=2070914&extension=ts&play_token=Q7XA9JtR1X
+#EXTINF:-1 tvg-id="2070914" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15271.jpg?ver=95591",18/07 01:45 AM | PSF 03 Hearts vs Rayo Vallecano 17/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1428AE687EFFFB068FAD874DBCA7A075
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2070914&extension=ts&play_token=WJ0piaEjCw
+#EXTVLCOPT:http-header=Authorization: Bearer 54A465ABC3AD60A3A4442B0C4F106C09
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2070914&extension=ts&play_token=Wtfe3JA5x2
 #EXTINF:-1 tvg-id="2114329" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",18/07 01:45 AM | PSF 03 Hearts vs Rayo Vallecano 17/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6A6FD85356BAAC711711D89514508205
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114329&extension=ts&play_token=z9A61vig0J
+#EXTVLCOPT:http-header=Authorization: Bearer 3B6D112FC97BB31122C1C70978A84296
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114329&extension=ts&play_token=RRsRcx0OPH
