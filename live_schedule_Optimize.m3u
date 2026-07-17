@@ -1,541 +1,471 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="238270" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS7.png",17/07 11:30 PM | Roman Andres Burruchaga vs Daniel Merida Aguilar (UK| BEIN SPORTS 7 HD)
+#EXTINF:-1 tvg-id="1523279" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/logos/1913059.png",18/07 01:00 AM | Austria Vienna vs Paks (AT: ORF SPORT+ ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D74D46BC37C7C141D764A63BA11DE0AD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1523279&extension=ts&play_token=ds3mUCvvei
+#EXTINF:-1 tvg-id="539276" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8395.png?39708",18/07 01:00 AM | Austria Vienna vs Paks (AT: ORF Sport+ HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D74D46BC37C7C141D764A63BA11DE0AD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=539276&extension=ts&play_token=o6kqPL98tw
+#EXTINF:-1 tvg-id="409259" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8395.png?52105",18/07 01:00 AM | Austria Vienna vs Paks (AT: ORF SPORT+ HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D74D46BC37C7C141D764A63BA11DE0AD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=409259&extension=ts&play_token=SnLrN3DvJh
+#EXTINF:-1 tvg-id="1913059" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/logos/1913059.png",18/07 01:00 AM | Austria Vienna vs Paks (AT| ORF SPORT+ HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3B6D112FC97BB31122C1C70978A84296
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=238270&extension=ts&play_token=o2DHd0UTkt
-#EXTINF:-1 tvg-id="324994" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12430.jpg?68030",18/07 01:30 AM | Athens Open (US: TENNIS HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 017C53FDADF3DFDB0255363E1BB1F9CB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1913059&extension=ts&play_token=zhaPL0bn7t
+#EXTINF:-1 tvg-id="2386" group-title="Live International Friendly" tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRIA/ORFSPORT.png",18/07 01:00 AM | Austria Vienna vs Paks (┃AT┃ ORF SPORT+ HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=324994&extension=ts&play_token=zKBc5W08Z5
-#EXTINF:-1 tvg-id="325092" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12430.jpg?ver=69335",18/07 01:30 AM | Athens Open (US: TENNIS CHANNEL)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4BD4F09BA0FC956D26F4BBFA0E9A578A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=2386&extension=ts&play_token=2VlvbxLs2E
+#EXTINF:-1 tvg-id="238270" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS7.png",18/07 04:00 PM |  (UK| BEIN SPORTS 7 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=325092&extension=ts&play_token=FJzYrHwrZC
-#EXTINF:-1 tvg-id="686562" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13749.jpg?ver=36191",18/07 01:30 AM | Athens Open (US: TENNIS HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=686562&extension=ts&play_token=2yrPRD46Vn
-#EXTINF:-1 tvg-id="686561" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13749.jpg?ver=36191",18/07 01:30 AM | Athens Open (US: TENNIS CHANNEL)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=686561&extension=ts&play_token=QKGHJczGvl
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 017C53FDADF3DFDB0255363E1BB1F9CB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=238270&extension=ts&play_token=2rI0Cn6oXc
 #EXTINF:-1 tvg-id="324994" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12430.jpg?68030",18/07 01:30 AM | Athens Open (US: TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 54A465ABC3AD60A3A4442B0C4F106C09
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=324994&extension=ts&play_token=xGeDQTWzxH
+#EXTVLCOPT:http-header=Authorization: Bearer D74D46BC37C7C141D764A63BA11DE0AD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=324994&extension=ts&play_token=UEBxcI25d8
 #EXTINF:-1 tvg-id="325092" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12430.jpg?ver=69335",18/07 01:30 AM | Athens Open (US: TENNIS CHANNEL)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 54A465ABC3AD60A3A4442B0C4F106C09
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=325092&extension=ts&play_token=i6K1CkSeLi
+#EXTVLCOPT:http-header=Authorization: Bearer D74D46BC37C7C141D764A63BA11DE0AD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=325092&extension=ts&play_token=dOfxKykkEr
 #EXTINF:-1 tvg-id="686562" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13749.jpg?ver=36191",18/07 01:30 AM | Athens Open (US: TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 54A465ABC3AD60A3A4442B0C4F106C09
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=686562&extension=ts&play_token=5JpdGTkIyx
+#EXTVLCOPT:http-header=Authorization: Bearer D74D46BC37C7C141D764A63BA11DE0AD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=686562&extension=ts&play_token=kSQgpuRXpK
 #EXTINF:-1 tvg-id="686561" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13749.jpg?ver=36191",18/07 01:30 AM | Athens Open (US: TENNIS CHANNEL)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 54A465ABC3AD60A3A4442B0C4F106C09
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=686561&extension=ts&play_token=URAfXmHBqb
+#EXTVLCOPT:http-header=Authorization: Bearer D74D46BC37C7C141D764A63BA11DE0AD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=686561&extension=ts&play_token=SVUCEiegBk
 #EXTINF:-1 tvg-id="316492" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/USA/teni.png",18/07 01:30 AM | Athens Open (US - TENNIS CHANNEL HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4592BB46DB89BBDA7164919E5E0DBF9
+#EXTVLCOPT:http-header=Authorization: Bearer 5BFF796F43369820E29CB74D16ED6919
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/316492
 #EXTINF:-1 tvg-id="71954" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/USA/teni.png",18/07 01:30 AM | Athens Open (US - TENNIS CHANNEL HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4592BB46DB89BBDA7164919E5E0DBF9
+#EXTVLCOPT:http-header=Authorization: Bearer 5BFF796F43369820E29CB74D16ED6919
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/71954
-#EXTINF:-1 tvg-id="325027" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/537.png?72164",17/07 11:30 PM | Roman Andres Burruchaga vs Daniel Merida Aguilar (US: BEIN SPORTS 7 HD)
+#EXTINF:-1 tvg-id="858523" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/tennis channel.png",18/07 01:30 AM | Athens Open (┃USA┃ TENNIS CHANNEL HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=325027&extension=ts&play_token=e0MOQuCPTW
-#EXTINF:-1 tvg-id="325027" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/537.png?72164",17/07 11:30 PM | Roman Andres Burruchaga vs Daniel Merida Aguilar (US: BEIN SPORTS 7 HD)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4BD4F09BA0FC956D26F4BBFA0E9A578A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=858523&extension=ts&play_token=ITAguF9yvq
+#EXTINF:-1 tvg-id="988078" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",18/07 01:30 AM | Athens Open (┃USA┃ TENNIS CHANNEL HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4BD4F09BA0FC956D26F4BBFA0E9A578A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=988078&extension=ts&play_token=PKIBjndtNv
+#EXTINF:-1 tvg-id="325027" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/537.png?72164",18/07 04:00 PM |  (US: BEIN SPORTS 7 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 54A465ABC3AD60A3A4442B0C4F106C09
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=325027&extension=ts&play_token=uMhZyoi23b
-#EXTINF:-1 tvg-id="1044084" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10179.jpg?31608",18/07 08:00 AM | Ultimate Tennis Showdown (CA: TVA SPORTS 2 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1044084&extension=ts&play_token=M1QZoGNwA9
-#EXTINF:-1 tvg-id="412908" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6010.jpg?38066",18/07 08:00 AM | Ultimate Tennis Showdown (CA FR: TVA SPORTS 2 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=412908&extension=ts&play_token=S5KLlLBGi0
+#EXTVLCOPT:http-header=Authorization: Bearer D74D46BC37C7C141D764A63BA11DE0AD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=325027&extension=ts&play_token=SYbGcmQ695
 #EXTINF:-1 tvg-id="1044084" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10179.jpg?31608",18/07 08:00 AM | Ultimate Tennis Showdown (CA: TVA SPORTS 2 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 54A465ABC3AD60A3A4442B0C4F106C09
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1044084&extension=ts&play_token=pxl2MpJ6TH
+#EXTVLCOPT:http-header=Authorization: Bearer D74D46BC37C7C141D764A63BA11DE0AD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1044084&extension=ts&play_token=Eg7E831Iae
 #EXTINF:-1 tvg-id="412908" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6010.jpg?38066",18/07 08:00 AM | Ultimate Tennis Showdown (CA FR: TVA SPORTS 2 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 54A465ABC3AD60A3A4442B0C4F106C09
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=412908&extension=ts&play_token=f0mk63U4p5
-#EXTINF:-1 tvg-id="1568618" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669",18/07 01:30 AM | Athens Open (GO: TENNIS CHANNEL)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1568618&extension=ts&play_token=0APjmZ3Eoi
+#EXTVLCOPT:http-header=Authorization: Bearer D74D46BC37C7C141D764A63BA11DE0AD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=412908&extension=ts&play_token=700igdC3bM
 #EXTINF:-1 tvg-id="1568618" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669",18/07 01:30 AM | Athens Open (GO: TENNIS CHANNEL)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 54A465ABC3AD60A3A4442B0C4F106C09
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1568618&extension=ts&play_token=33fu9QduLX
-#EXTINF:-1 tvg-id="479708" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12430.jpg?25404",18/07 01:30 AM | Athens Open (DE: TENNIS CHANNEL)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=479708&extension=ts&play_token=cx1pMeTRWc
-#EXTINF:-1 tvg-id="686544" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13749.jpg?ver=36191",18/07 01:30 AM | Athens Open (DE: TENNIS CHANNEL)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=686544&extension=ts&play_token=A0uwd3ma2q
+#EXTVLCOPT:http-header=Authorization: Bearer D74D46BC37C7C141D764A63BA11DE0AD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1568618&extension=ts&play_token=xXBfoWVpuD
 #EXTINF:-1 tvg-id="686544" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13749.jpg?ver=36191",18/07 01:30 AM | Athens Open (DE: TENNIS CHANNEL)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 54A465ABC3AD60A3A4442B0C4F106C09
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=686544&extension=ts&play_token=UIAqawr2kK
+#EXTVLCOPT:http-header=Authorization: Bearer D74D46BC37C7C141D764A63BA11DE0AD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=686544&extension=ts&play_token=3mXhAD87AL
 #EXTINF:-1 tvg-id="479708" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12430.jpg?25404",18/07 01:30 AM | Athens Open (DE: TENNIS CHANNEL)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 54A465ABC3AD60A3A4442B0C4F106C09
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=479708&extension=ts&play_token=twgylfxtDK
-#EXTINF:-1 tvg-id="203891" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",17/07 11:30 PM | Roman Andres Burruchaga vs Daniel Merida Aguilar (AR - BEIN SPORTS 7 4K)
+#EXTVLCOPT:http-header=Authorization: Bearer D74D46BC37C7C141D764A63BA11DE0AD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=479708&extension=ts&play_token=MWIMceeEiH
+#EXTINF:-1 tvg-id="203891" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",18/07 04:00 PM |  (AR - BEIN SPORTS 7 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4592BB46DB89BBDA7164919E5E0DBF9
+#EXTVLCOPT:http-header=Authorization: Bearer 5BFF796F43369820E29CB74D16ED6919
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/203891
-#EXTINF:-1 tvg-id="149619" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",17/07 11:30 PM | Roman Andres Burruchaga vs Daniel Merida Aguilar (AR - BEIN SPORTS 7 UHD)
+#EXTINF:-1 tvg-id="149619" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",18/07 04:00 PM |  (AR - BEIN SPORTS 7 UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4592BB46DB89BBDA7164919E5E0DBF9
+#EXTVLCOPT:http-header=Authorization: Bearer 5BFF796F43369820E29CB74D16ED6919
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/149619
-#EXTINF:-1 tvg-id="73357" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",17/07 11:30 PM | Roman Andres Burruchaga vs Daniel Merida Aguilar (AR - BEIN SPORTS 7 FHD)
+#EXTINF:-1 tvg-id="73357" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",18/07 04:00 PM |  (AR - BEIN SPORTS 7 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4592BB46DB89BBDA7164919E5E0DBF9
+#EXTVLCOPT:http-header=Authorization: Bearer 5BFF796F43369820E29CB74D16ED6919
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/73357
-#EXTINF:-1 tvg-id="986964" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",17/07 11:30 PM | Roman Andres Burruchaga vs Daniel Merida Aguilar (AR - BEIN SPORTS 7 FHD³)
+#EXTINF:-1 tvg-id="986964" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",18/07 04:00 PM |  (AR - BEIN SPORTS 7 FHD³)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4592BB46DB89BBDA7164919E5E0DBF9
+#EXTVLCOPT:http-header=Authorization: Bearer 5BFF796F43369820E29CB74D16ED6919
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/986964
-#EXTINF:-1 tvg-id="986979" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",17/07 11:30 PM | Roman Andres Burruchaga vs Daniel Merida Aguilar (AR - BEIN SPORTS 7 HEVC)
+#EXTINF:-1 tvg-id="986979" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",18/07 04:00 PM |  (AR - BEIN SPORTS 7 HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4592BB46DB89BBDA7164919E5E0DBF9
+#EXTVLCOPT:http-header=Authorization: Bearer 5BFF796F43369820E29CB74D16ED6919
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/986979
-#EXTINF:-1 tvg-id="987000" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",17/07 11:30 PM | Roman Andres Burruchaga vs Daniel Merida Aguilar (AR - BEIN SPORTS 7 HD³)
+#EXTINF:-1 tvg-id="987000" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",18/07 04:00 PM |  (AR - BEIN SPORTS 7 HD³)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4592BB46DB89BBDA7164919E5E0DBF9
+#EXTVLCOPT:http-header=Authorization: Bearer 5BFF796F43369820E29CB74D16ED6919
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/987000
-#EXTINF:-1 tvg-id="544425" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",17/07 11:30 PM | Roman Andres Burruchaga vs Daniel Merida Aguilar (8K: beIN SP⚽RTS 7 ᴴᴰ ◉)
+#EXTINF:-1 tvg-id="798792" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png",18/07 04:00 PM |  (┃AR┃ BEIN SPORTS 7 UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=544425&extension=ts&play_token=LSVqv4svwK
-#EXTINF:-1 tvg-id="544485" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",17/07 11:30 PM | Roman Andres Burruchaga vs Daniel Merida Aguilar (8K: beIN SP⚽RTS 7 ʰᵉᵛᶜ)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4BD4F09BA0FC956D26F4BBFA0E9A578A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=798792&extension=ts&play_token=hMus3BP0zz
+#EXTINF:-1 tvg-id="798802" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png",18/07 04:00 PM |  (┃AR┃ BEIN SPORTS 7 HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=544485&extension=ts&play_token=g3GjeyQsez
-#EXTINF:-1 tvg-id="544448" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",17/07 11:30 PM | Roman Andres Burruchaga vs Daniel Merida Aguilar (8K: beIN SP⚽RTS 7 ᴿᴬᵂ)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4BD4F09BA0FC956D26F4BBFA0E9A578A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=798802&extension=ts&play_token=UyjzUvXnW0
+#EXTINF:-1 tvg-id="1030242" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 7.png",18/07 04:00 PM |  (┃AR┃ BEIN SPORTS 7 RAW)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=544448&extension=ts&play_token=WGUCERek7B
-#EXTINF:-1 tvg-id="706545" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",17/07 11:30 PM | Roman Andres Burruchaga vs Daniel Merida Aguilar (SS: beIN SP⚽RTS 7 HD)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4BD4F09BA0FC956D26F4BBFA0E9A578A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1030242&extension=ts&play_token=nAMhNDitAy
+#EXTINF:-1 tvg-id="242236" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png",18/07 04:00 PM |  (┃AR┃ BEIN SPORTS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=706545&extension=ts&play_token=iA3q4ivJ7w
-#EXTINF:-1 tvg-id="706532" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",17/07 11:30 PM | Roman Andres Burruchaga vs Daniel Merida Aguilar (SS: beIN SP⚽RTS 7 4K)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4BD4F09BA0FC956D26F4BBFA0E9A578A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=242236&extension=ts&play_token=DXOdRT21tu
+#EXTINF:-1 tvg-id="207917" group-title="🎾|Live Tennis" tvg-logo="http://picons.cmshulk.com/picons/207917.png",18/07 02:30 AM | Tenis: WTA Iasi Sferturi (RO|  DIGI SPORT 2 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=706532&extension=ts&play_token=rStJgO5VGB
-#EXTINF:-1 tvg-id="1353002" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",17/07 11:30 PM | Roman Andres Burruchaga vs Daniel Merida Aguilar (BE: beIN SP⚽RTS 7 ᴴᴰ)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 017C53FDADF3DFDB0255363E1BB1F9CB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=207917&extension=ts&play_token=LpQv349MyF
+#EXTINF:-1 tvg-id="56118" group-title="🎾|Live Tennis" tvg-logo="http://picons.cmshulk.com/picons/56118.png",18/07 02:30 AM | Tenis: WTA Iasi Sferturi (RO| DIGI SPORT 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1353002&extension=ts&play_token=9RiPWT4Ppu
-#EXTINF:-1 tvg-id="1352978" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",17/07 11:30 PM | Roman Andres Burruchaga vs Daniel Merida Aguilar (BE: beIN SP⚽RTS 7 ʰᵉᵛᶜ)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 017C53FDADF3DFDB0255363E1BB1F9CB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=56118&extension=ts&play_token=dXpa6HrRMp
+#EXTINF:-1 tvg-id="1444080" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 2.png",18/07 02:30 AM | Tenis: WTA Iasi Sferturi (┃RO┃ DIGI SPORT 2 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1352978&extension=ts&play_token=Tad9ko2p1U
-#EXTINF:-1 tvg-id="1352964" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",17/07 11:30 PM | Roman Andres Burruchaga vs Daniel Merida Aguilar (BE: beIN SP⚽RTS 7 ᴿᴬᵂ)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4BD4F09BA0FC956D26F4BBFA0E9A578A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444080&extension=ts&play_token=F5Qs11DE2b
+#EXTINF:-1 tvg-id="1444077" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 2.png",18/07 02:30 AM | Tenis: WTA Iasi Sferturi (┃RO┃ DIGI SPORT 2 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1352964&extension=ts&play_token=W5MaznKJhl
-#EXTINF:-1 tvg-id="544829" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",17/07 11:30 PM | Roman Andres Burruchaga vs Daniel Merida Aguilar (◉: beIN Sp⚽rts 7 HD)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4BD4F09BA0FC956D26F4BBFA0E9A578A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444077&extension=ts&play_token=bxBlqnwy9T
+#EXTINF:-1 tvg-id="1444078" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 2.png",18/07 02:30 AM | Tenis: WTA Iasi Sferturi (┃RO┃ DIGI SPORT 2 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=544829&extension=ts&play_token=SsEoKcxtg2
-#EXTINF:-1 tvg-id="544815" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",17/07 11:30 PM | Roman Andres Burruchaga vs Daniel Merida Aguilar (◉: beIN Sp⚽rts 7 4K)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4BD4F09BA0FC956D26F4BBFA0E9A578A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444078&extension=ts&play_token=OdKEdi7Kwo
+#EXTINF:-1 tvg-id="1444079" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 2.png",18/07 02:30 AM | Tenis: WTA Iasi Sferturi (┃RO┃ DIGI SPORT 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=544815&extension=ts&play_token=V2dVSsDdFu
-#EXTINF:-1 tvg-id="544799" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",17/07 11:30 PM | Roman Andres Burruchaga vs Daniel Merida Aguilar (◉: beIN Sp⚽rts 7 HEVC)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4BD4F09BA0FC956D26F4BBFA0E9A578A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444079&extension=ts&play_token=Uxbj1vFSGZ
+#EXTINF:-1 tvg-id="1444081" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 2.png",18/07 02:30 AM | Tenis: WTA Iasi Sferturi (┃RO┃ DIGI SPORT 2 FIBRA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=544799&extension=ts&play_token=weGvpXsh4R
-#EXTINF:-1 tvg-id="985148" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",17/07 11:30 PM | Roman Andres Burruchaga vs Daniel Merida Aguilar (ᵁᴴᴰ: beIN Sp⚽rts 7 ᴴᴰ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=985148&extension=ts&play_token=ly5z0VoG4a
-#EXTINF:-1 tvg-id="985112" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",17/07 11:30 PM | Roman Andres Burruchaga vs Daniel Merida Aguilar (ᵁᴴᴰ: beIN Sp⚽rts 7 ʰᵉᵛᶜ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=985112&extension=ts&play_token=clB76AH96k
-#EXTINF:-1 tvg-id="985094" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",17/07 11:30 PM | Roman Andres Burruchaga vs Daniel Merida Aguilar (ᵁᴴᴰ: beIN Sp⚽rts 7 ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=985094&extension=ts&play_token=dcYz1oRACB
-#EXTINF:-1 tvg-id="1201193" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",17/07 11:30 PM | Roman Andres Burruchaga vs Daniel Merida Aguilar (NM: beIN SP⚽RTS 7 ᴴᴰ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1201193&extension=ts&play_token=iTvyxSgL3Y
-#EXTINF:-1 tvg-id="1201153" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",17/07 11:30 PM | Roman Andres Burruchaga vs Daniel Merida Aguilar (NM: beIN SP⚽RTS 7 ʰᵉᵛᶜ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1201153&extension=ts&play_token=Xc5iSHS0GT
-#EXTINF:-1 tvg-id="1201135" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",17/07 11:30 PM | Roman Andres Burruchaga vs Daniel Merida Aguilar (NM: beIN SP⚽RTS 7 ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1201135&extension=ts&play_token=vbm4axDAIx
-#EXTINF:-1 tvg-id="1120425" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",17/07 11:30 PM | Roman Andres Burruchaga vs Daniel Merida Aguilar (SA: beIN SP⚽RTS 7 ᴴᴰ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1120425&extension=ts&play_token=HiSPkQfP0o
-#EXTINF:-1 tvg-id="1120405" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",17/07 11:30 PM | Roman Andres Burruchaga vs Daniel Merida Aguilar (SA: beIN SP⚽RTS 7 ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1120405&extension=ts&play_token=ZAfuYI3oSm
-#EXTINF:-1 tvg-id="425621" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6342.png?26954",17/07 10:30 PM | Tournoi WTA d'Iasi (FR: BEIN SPORTS MAX 4 HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=425621&extension=ts&play_token=u18wTeXIlD
-#EXTINF:-1 tvg-id="425621" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6342.png?26954",17/07 10:30 PM | Tournoi WTA d'Iasi (FR: BEIN SPORTS MAX 4 HEVC)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4BD4F09BA0FC956D26F4BBFA0E9A578A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444081&extension=ts&play_token=h5mCp573PW
+#EXTINF:-1 tvg-id="425621" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6342.png?26954",18/07 02:00 AM | Tournoi WTA d'Iasi (FR: BEIN SPORTS MAX 4 HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 54A465ABC3AD60A3A4442B0C4F106C09
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=425621&extension=ts&play_token=hRyEcctK1A
-#EXTINF:-1 tvg-id="62502" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/EUROPE/FRANCE/SPORTS_MAX_4.png",17/07 10:30 PM | Tournoi WTA d'Iasi (FR - BEIN SPORTS MAX 4 FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer D74D46BC37C7C141D764A63BA11DE0AD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=425621&extension=ts&play_token=6PmKBmxnmU
+#EXTINF:-1 tvg-id="62502" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/EUROPE/FRANCE/SPORTS_MAX_4.png",18/07 02:00 AM | Tournoi WTA d'Iasi (FR - BEIN SPORTS MAX 4 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4592BB46DB89BBDA7164919E5E0DBF9
+#EXTVLCOPT:http-header=Authorization: Bearer 5BFF796F43369820E29CB74D16ED6919
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/62502
-#EXTINF:-1 tvg-id="506653" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/france/506653.png",17/07 10:30 PM | Tournoi WTA d'Iasi (FR| BEIN SPORTS MAX 4 FHD)
+#EXTINF:-1 tvg-id="506653" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/france/506653.png",18/07 02:00 AM | Tournoi WTA d'Iasi (FR| BEIN SPORTS MAX 4 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3B6D112FC97BB31122C1C70978A84296
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=506653&extension=ts&play_token=DwNm7AMnRK
-#EXTINF:-1 tvg-id="507371" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/france/507371.png",17/07 10:30 PM | Tournoi WTA d'Iasi (FR| BEIN SPORTS MAX 4 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 017C53FDADF3DFDB0255363E1BB1F9CB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=506653&extension=ts&play_token=QOe3HPMxt9
+#EXTINF:-1 tvg-id="507371" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/france/507371.png",18/07 02:00 AM | Tournoi WTA d'Iasi (FR| BEIN SPORTS MAX 4 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3B6D112FC97BB31122C1C70978A84296
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=507371&extension=ts&play_token=y5Aq9YW12e
-#EXTINF:-1 tvg-id="207917" group-title="🎾|Live Tennis" tvg-logo="http://picons.cmshulk.com/picons/207917.png",17/07 10:30 PM | Tenis: WTA Iasi Sferturi (RO|  DIGI SPORT 2 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 017C53FDADF3DFDB0255363E1BB1F9CB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=507371&extension=ts&play_token=2wvP2Tl7t1
+#EXTINF:-1 tvg-id="941426" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS MAX 4.png",18/07 02:00 AM | Tournoi WTA d'Iasi (┃FR┃ BEIN SPORTS MAX 4 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3B6D112FC97BB31122C1C70978A84296
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=207917&extension=ts&play_token=1BAdffbQFc
-#EXTINF:-1 tvg-id="56118" group-title="🎾|Live Tennis" tvg-logo="http://picons.cmshulk.com/picons/56118.png",17/07 10:30 PM | Tenis: WTA Iasi Sferturi (RO| DIGI SPORT 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3B6D112FC97BB31122C1C70978A84296
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=56118&extension=ts&play_token=nkwzWDP7eY
-#EXTINF:-1 tvg-id="425622" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6340.png?10505",17/07 11:30 PM | Tournoi WTA d'Athènes (FR: BEIN SPORTS MAX 5 HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=425622&extension=ts&play_token=YFsfLd9gDO
-#EXTINF:-1 tvg-id="425622" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6340.png?10505",17/07 11:30 PM | Tournoi WTA d'Athènes (FR: BEIN SPORTS MAX 5 HEVC)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4BD4F09BA0FC956D26F4BBFA0E9A578A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=941426&extension=ts&play_token=zZNoCafXDy
+#EXTINF:-1 tvg-id="386376" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14267.png?34845",18/07 02:00 AM | ATP World Tour 250 - Umag 2026 (PT: SPORT TV 6 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 54A465ABC3AD60A3A4442B0C4F106C09
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=425622&extension=ts&play_token=Sj66b1VBvJ
-#EXTINF:-1 tvg-id="62501" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/EUROPE/FRANCE/SPORTS_MAX_5.png",17/07 11:30 PM | Tournoi WTA d'Athènes (FR - BEIN SPORTS MAX 5 FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer D74D46BC37C7C141D764A63BA11DE0AD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=386376&extension=ts&play_token=it2xO7jsA2
+#EXTINF:-1 tvg-id="589155" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14267.png?34845",18/07 02:00 AM | ATP World Tour 250 - Umag 2026 (PT: SPORT TV 6 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D74D46BC37C7C141D764A63BA11DE0AD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=589155&extension=ts&play_token=aAaNUnIzOf
+#EXTINF:-1 tvg-id="764066" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png",18/07 02:00 AM | ATP World Tour 250 - Umag 2026 (PT - SPORT TV 6 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4592BB46DB89BBDA7164919E5E0DBF9
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/62501
-#EXTINF:-1 tvg-id="506654" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/france/506654.png",17/07 11:30 PM | Tournoi WTA d'Athènes (FR| BEIN SPORTS MAX 5 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3B6D112FC97BB31122C1C70978A84296
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=506654&extension=ts&play_token=W6fCXH0j7e
-#EXTINF:-1 tvg-id="507370" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/france/507370.png",17/07 11:30 PM | Tournoi WTA d'Athènes (FR| BEIN SPORTS MAX 5 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3B6D112FC97BB31122C1C70978A84296
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=507370&extension=ts&play_token=VnHcc0qNE9
-#EXTINF:-1 tvg-id="386376" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14267.png?34845",17/07 11:30 PM | ATP World Tour 250 - Umag 2026 (PT: SPORT TV 6 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=386376&extension=ts&play_token=qFyNetXgQC
-#EXTINF:-1 tvg-id="589155" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14267.png?34845",17/07 11:30 PM | ATP World Tour 250 - Umag 2026 (PT: SPORT TV 6 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=589155&extension=ts&play_token=bsBWTbaHxh
-#EXTINF:-1 tvg-id="386376" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14267.png?34845",17/07 11:30 PM | ATP World Tour 250 - Umag 2026 (PT: SPORT TV 6 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 54A465ABC3AD60A3A4442B0C4F106C09
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=386376&extension=ts&play_token=9XTQSPWaYy
-#EXTINF:-1 tvg-id="589155" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14267.png?34845",17/07 11:30 PM | ATP World Tour 250 - Umag 2026 (PT: SPORT TV 6 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 54A465ABC3AD60A3A4442B0C4F106C09
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=589155&extension=ts&play_token=ZoVSZiplVS
-#EXTINF:-1 tvg-id="764066" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png",17/07 11:30 PM | ATP World Tour 250 - Umag 2026 (PT - SPORT TV 6 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4592BB46DB89BBDA7164919E5E0DBF9
+#EXTVLCOPT:http-header=Authorization: Bearer 5BFF796F43369820E29CB74D16ED6919
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/764066
-#EXTINF:-1 tvg-id="712739" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/SPORTTV6.png",17/07 11:30 PM | ATP World Tour 250 - Umag 2026 (PT| SPORT TV 6 FHD)
+#EXTINF:-1 tvg-id="712739" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/SPORTTV6.png",18/07 02:00 AM | ATP World Tour 250 - Umag 2026 (PT| SPORT TV 6 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3B6D112FC97BB31122C1C70978A84296
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=712739&extension=ts&play_token=a1HwkzXGGL
-#EXTINF:-1 tvg-id="1980747" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330",18/07 12:05 AM | : Plava Laguna Croatia Open - Umag (ZG: ZIGGO SPORT 4 ᴿᴬᵂ)
+#EXTVLCOPT:http-header=Authorization: Bearer 017C53FDADF3DFDB0255363E1BB1F9CB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=712739&extension=ts&play_token=MHZAj9lIVC
+#EXTINF:-1 tvg-id="959358" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORT TV/SPORT TV 6.png",18/07 02:00 AM | ATP World Tour 250 - Umag 2026 (┃PT┃ SPORT TV 6 FHD HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1980747&extension=ts&play_token=hIvd6RUm6x
-#EXTINF:-1 tvg-id="2011551" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",18/07 12:05 AM | : Plava Laguna Croatia Open - Umag (OD: ZIGGO SPORT 4 ᴴᴰ)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4BD4F09BA0FC956D26F4BBFA0E9A578A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=959358&extension=ts&play_token=Dg40oxeYnm
+#EXTINF:-1 tvg-id="959359" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORT TV/SPORT TV 6.png",18/07 02:00 AM | ATP World Tour 250 - Umag 2026 (┃PT┃ SPORT TV 6 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=2011551&extension=ts&play_token=wTd31ANUO0
-#EXTINF:-1 tvg-id="2011260" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",18/07 12:05 AM | : Plava Laguna Croatia Open - Umag (OD: ZIGGO SPORT 4 ᴿᴬᵂ)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4BD4F09BA0FC956D26F4BBFA0E9A578A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=959359&extension=ts&play_token=EYi3ZVVuoi
+#EXTINF:-1 tvg-id="959360" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORT TV/SPORT TV 6.png",18/07 02:00 AM | ATP World Tour 250 - Umag 2026 (┃PT┃ SPORT TV 6 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=2011260&extension=ts&play_token=D9WY8XJoYC
-#EXTINF:-1 tvg-id="1537608" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?87307",18/07 12:05 AM | : Plava Laguna Croatia Open - Umag (NL: ZIGGO SPORT 4 ᴿᴬᵂ ◉)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4BD4F09BA0FC956D26F4BBFA0E9A578A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=959360&extension=ts&play_token=n6zPnDwRn4
+#EXTINF:-1 tvg-id="959361" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORT TV/SPORT TV 6.png",18/07 02:00 AM | ATP World Tour 250 - Umag 2026 (┃PT┃ SPORT TV 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1537608&extension=ts&play_token=S1dADEBDOL
-#EXTINF:-1 tvg-id="1980747" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330",18/07 12:05 AM | : Plava Laguna Croatia Open - Umag (ZG: ZIGGO SPORT 4 ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 54A465ABC3AD60A3A4442B0C4F106C09
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1980747&extension=ts&play_token=40Gx77wesc
-#EXTINF:-1 tvg-id="2011551" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",18/07 12:05 AM | : Plava Laguna Croatia Open - Umag (OD: ZIGGO SPORT 4 ᴴᴰ)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4BD4F09BA0FC956D26F4BBFA0E9A578A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=959361&extension=ts&play_token=5Uy59dpTbV
+#EXTINF:-1 tvg-id="425622" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6340.png?10505",18/07 06:00 AM | Ultimate Tennis Showdown (FR: BEIN SPORTS MAX 5 HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 54A465ABC3AD60A3A4442B0C4F106C09
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2011551&extension=ts&play_token=ljxrBPgF2A
-#EXTINF:-1 tvg-id="2011260" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",18/07 12:05 AM | : Plava Laguna Croatia Open - Umag (OD: ZIGGO SPORT 4 ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 54A465ABC3AD60A3A4442B0C4F106C09
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2011260&extension=ts&play_token=Es4I0job5h
-#EXTINF:-1 tvg-id="1537608" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?87307",18/07 12:05 AM | : Plava Laguna Croatia Open - Umag (NL: ZIGGO SPORT 4 ᴿᴬᵂ ◉)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 54A465ABC3AD60A3A4442B0C4F106C09
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1537608&extension=ts&play_token=qKh7Hq30sU
-#EXTINF:-1 tvg-id="1052177" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/NEDERLAND/ziggosport.png",18/07 12:05 AM | : Plava Laguna Croatia Open - Umag (NL - ZIGGO SPORT 4 UHD)
+#EXTVLCOPT:http-header=Authorization: Bearer D74D46BC37C7C141D764A63BA11DE0AD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=425622&extension=ts&play_token=7f0VWHLbeG
+#EXTINF:-1 tvg-id="62501" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/EUROPE/FRANCE/SPORTS_MAX_5.png",18/07 06:00 AM | Ultimate Tennis Showdown (FR - BEIN SPORTS MAX 5 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4592BB46DB89BBDA7164919E5E0DBF9
+#EXTVLCOPT:http-header=Authorization: Bearer 5BFF796F43369820E29CB74D16ED6919
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/62501
+#EXTINF:-1 tvg-id="506654" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/france/506654.png",18/07 06:00 AM | Ultimate Tennis Showdown (FR| BEIN SPORTS MAX 5 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 017C53FDADF3DFDB0255363E1BB1F9CB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=506654&extension=ts&play_token=3FEVfFy12E
+#EXTINF:-1 tvg-id="507370" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/france/507370.png",18/07 06:00 AM | Ultimate Tennis Showdown (FR| BEIN SPORTS MAX 5 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 017C53FDADF3DFDB0255363E1BB1F9CB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=507370&extension=ts&play_token=TbGPknFX4x
+#EXTINF:-1 tvg-id="941427" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS MAX 5.png",18/07 06:00 AM | Ultimate Tennis Showdown (┃FR┃ BEIN SPORTS MAX 5 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4BD4F09BA0FC956D26F4BBFA0E9A578A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=941427&extension=ts&play_token=yLkJ8src20
+#EXTINF:-1 tvg-id="425624" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8299.png?88939",19/07 12:00 AM | Ultimate Tennis Showdown (FR: BEIN SPORTS MAX 7 HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D74D46BC37C7C141D764A63BA11DE0AD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=425624&extension=ts&play_token=uxP60g8AEr
+#EXTINF:-1 tvg-id="62499" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/EUROPE/FRANCE/SPORTS_MAX_7.png",19/07 12:00 AM | Ultimate Tennis Showdown (FR - BEIN SPORTS MAX 7 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5BFF796F43369820E29CB74D16ED6919
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/62499
+#EXTINF:-1 tvg-id="506656" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/france/506656.png",19/07 12:00 AM | Ultimate Tennis Showdown (FR| BEIN SPORTS MAX 7 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 017C53FDADF3DFDB0255363E1BB1F9CB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=506656&extension=ts&play_token=0KxmZH3Eyi
+#EXTINF:-1 tvg-id="507368" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/france/507368.png",19/07 12:00 AM | Ultimate Tennis Showdown (FR| BEIN SPORTS MAX 7 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 017C53FDADF3DFDB0255363E1BB1F9CB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=507368&extension=ts&play_token=7PUliYHiDH
+#EXTINF:-1 tvg-id="941429" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS MAX 7.png",19/07 12:00 AM | Ultimate Tennis Showdown (┃FR┃ BEIN SPORTS MAX 7 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4BD4F09BA0FC956D26F4BBFA0E9A578A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=941429&extension=ts&play_token=6qq8l8SbSJ
+#EXTINF:-1 tvg-id="425560" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3299.png?54930",19/07 02:00 AM | Tournoi ATP d'Umag (FR: EUROSPORT 2 HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D74D46BC37C7C141D764A63BA11DE0AD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=425560&extension=ts&play_token=a0eofxDXbF
+#EXTINF:-1 tvg-id="207224" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/722.png?35425",19/07 02:00 AM | Tournoi ATP d'Umag (FR: EUROSPORT 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D74D46BC37C7C141D764A63BA11DE0AD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=207224&extension=ts&play_token=Xxz9RmPocv
+#EXTINF:-1 tvg-id="106947" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/722.png?35425",19/07 02:00 AM | Tournoi ATP d'Umag (FR: EUROSPORT 2 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D74D46BC37C7C141D764A63BA11DE0AD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=106947&extension=ts&play_token=PqkZOo9ERA
+#EXTINF:-1 tvg-id="56651" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/EUROPE/FRANCE/EUROSPORT2HD.png",19/07 02:00 AM | Tournoi ATP d'Umag (FR - EUROSPORT 2 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5BFF796F43369820E29CB74D16ED6919
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/56651
+#EXTINF:-1 tvg-id="56576" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/EUROPE/FRANCE/EUROSPORT2HD.png",19/07 02:00 AM | Tournoi ATP d'Umag (FR - EUROSPORT 2 HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5BFF796F43369820E29CB74D16ED6919
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/56576
+#EXTINF:-1 tvg-id="506560" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/france/506560.png",19/07 02:00 AM | Tournoi ATP d'Umag (FR| EUROSPORT 2 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 017C53FDADF3DFDB0255363E1BB1F9CB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=506560&extension=ts&play_token=HGyYbHWoG8
+#EXTINF:-1 tvg-id="507387" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/france/507387.png",19/07 02:00 AM | Tournoi ATP d'Umag (FR| EUROSPORT 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 017C53FDADF3DFDB0255363E1BB1F9CB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=507387&extension=ts&play_token=QInMZ6DUAE
+#EXTINF:-1 tvg-id="941599" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/EUROSPORT 2.png",19/07 02:00 AM | Tournoi ATP d'Umag (┃FR┃ EUROSPORT 2 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4BD4F09BA0FC956D26F4BBFA0E9A578A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=941599&extension=ts&play_token=gs15zdSnad
+#EXTINF:-1 tvg-id="941597" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/EUROSPORT 2.png",19/07 02:00 AM | Tournoi ATP d'Umag (┃FR┃ EUROSPORT 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4BD4F09BA0FC956D26F4BBFA0E9A578A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=941597&extension=ts&play_token=kMUrXt2N98
+#EXTINF:-1 tvg-id="941601" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR SPORT/EUROSPORT 2.png",19/07 02:00 AM | Tournoi ATP d'Umag (┃FR┃ EUROSPORT 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4BD4F09BA0FC956D26F4BBFA0E9A578A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=941601&extension=ts&play_token=qB03JG2gNs
+#EXTINF:-1 tvg-id="1980747" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330",18/07 02:00 AM | : Plava Laguna Croatia Open - Umag (ZG: ZIGGO SPORT 4 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D74D46BC37C7C141D764A63BA11DE0AD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1980747&extension=ts&play_token=ez7qHOoV3M
+#EXTINF:-1 tvg-id="2011551" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",18/07 02:00 AM | : Plava Laguna Croatia Open - Umag (OD: ZIGGO SPORT 4 ᴴᴰ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D74D46BC37C7C141D764A63BA11DE0AD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2011551&extension=ts&play_token=IWOgIBfzng
+#EXTINF:-1 tvg-id="2011260" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",18/07 02:00 AM | : Plava Laguna Croatia Open - Umag (OD: ZIGGO SPORT 4 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D74D46BC37C7C141D764A63BA11DE0AD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2011260&extension=ts&play_token=MM1c6PcK2J
+#EXTINF:-1 tvg-id="1537608" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?87307",18/07 02:00 AM | : Plava Laguna Croatia Open - Umag (NL: ZIGGO SPORT 4 ᴿᴬᵂ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D74D46BC37C7C141D764A63BA11DE0AD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1537608&extension=ts&play_token=gSV7ja3iF5
+#EXTINF:-1 tvg-id="1052177" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/NEDERLAND/ziggosport.png",18/07 02:00 AM | : Plava Laguna Croatia Open - Umag (NL - ZIGGO SPORT 4 UHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5BFF796F43369820E29CB74D16ED6919
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1052177
-#EXTINF:-1 tvg-id="1283307" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",18/07 12:05 AM | : Plava Laguna Croatia Open - Umag (NL| ZIGGO SPORT 4 4K)
+#EXTINF:-1 tvg-id="1283307" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",18/07 02:00 AM | : Plava Laguna Croatia Open - Umag (NL| ZIGGO SPORT 4 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3B6D112FC97BB31122C1C70978A84296
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1283307&extension=ts&play_token=4ZD9DGlYNe
-#EXTINF:-1 tvg-id="1761572" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",18/07 12:05 AM | : Plava Laguna Croatia Open - Umag (NL| ZIGGO SPORT 4 UHD 8K)
+#EXTVLCOPT:http-header=Authorization: Bearer 017C53FDADF3DFDB0255363E1BB1F9CB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1283307&extension=ts&play_token=kYJNPxgTtX
+#EXTINF:-1 tvg-id="1761572" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",18/07 02:00 AM | : Plava Laguna Croatia Open - Umag (NL| ZIGGO SPORT 4 UHD 8K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3B6D112FC97BB31122C1C70978A84296
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1761572&extension=ts&play_token=ZqDtQrppUk
-#EXTINF:-1 tvg-id="1282760" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",18/07 12:05 AM | : Plava Laguna Croatia Open - Umag (NL| ZIGGO SPORT 4 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 017C53FDADF3DFDB0255363E1BB1F9CB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1761572&extension=ts&play_token=3gfvjzlNna
+#EXTINF:-1 tvg-id="1282760" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",18/07 02:00 AM | : Plava Laguna Croatia Open - Umag (NL| ZIGGO SPORT 4 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3B6D112FC97BB31122C1C70978A84296
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1282760&extension=ts&play_token=tlKfcHU03Y
-#EXTINF:-1 tvg-id="1282745" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",18/07 12:05 AM | : Plava Laguna Croatia Open - Umag (NL| ZIGGO SPORT 4 FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer 017C53FDADF3DFDB0255363E1BB1F9CB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1282760&extension=ts&play_token=9QpxHxwgmD
+#EXTINF:-1 tvg-id="1282745" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",18/07 02:00 AM | : Plava Laguna Croatia Open - Umag (NL| ZIGGO SPORT 4 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3B6D112FC97BB31122C1C70978A84296
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1282745&extension=ts&play_token=quIHuGYty9
-#EXTINF:-1 tvg-id="1921307" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",18/07 12:05 AM | : Plava Laguna Croatia Open - Umag (NL| ZIGGO SPORT 4 ᴿᴬᵂ ◉)
+#EXTVLCOPT:http-header=Authorization: Bearer 017C53FDADF3DFDB0255363E1BB1F9CB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1282745&extension=ts&play_token=B7p4uwFccq
+#EXTINF:-1 tvg-id="1921307" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",18/07 02:00 AM | : Plava Laguna Croatia Open - Umag (NL| ZIGGO SPORT 4 ᴿᴬᵂ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3B6D112FC97BB31122C1C70978A84296
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1921307&extension=ts&play_token=9DfXudvQtD
-#EXTINF:-1 tvg-id="842765" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6545.png?72925",17/07 11:30 PM | Olympiacos vs Fortuna Sittard (GR: COSMOTE SPORT 1 ᴴᴰ ◉)
+#EXTVLCOPT:http-header=Authorization: Bearer 017C53FDADF3DFDB0255363E1BB1F9CB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1921307&extension=ts&play_token=KnX481cHSf
+#EXTINF:-1 tvg-id="548067" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",18/07 02:00 AM | : Plava Laguna Croatia Open - Umag (┃NL┃ ZIGGO SPORT 4 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=842765&extension=ts&play_token=l1Ep8xn4Jc
-#EXTINF:-1 tvg-id="842747" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6545.png?53661",17/07 11:30 PM | Olympiacos vs Fortuna Sittard (GR: COSMOTE SPORT 1 ᵁᴴᴰ ◉)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4BD4F09BA0FC956D26F4BBFA0E9A578A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=548067&extension=ts&play_token=uZmSNS8060
+#EXTINF:-1 tvg-id="933000" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT RACING.png",18/07 02:00 AM | : Plava Laguna Croatia Open - Umag (┃NL┃ ZIGGO SPORT 4 FHD 50FPS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=842747&extension=ts&play_token=seYD3CXF0y
-#EXTINF:-1 tvg-id="770489" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotesport1.png",17/07 11:30 PM | Olympiacos vs Fortuna Sittard (GR VIP: COSMOTE SPORT 1 HD)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4BD4F09BA0FC956D26F4BBFA0E9A578A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=933000&extension=ts&play_token=ubJxqIeEE4
+#EXTINF:-1 tvg-id="948040" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT RACING.png",18/07 02:00 AM | : Plava Laguna Croatia Open - Umag (┃NL┃ ZIGGO SPORT 4 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=770489&extension=ts&play_token=62sh7WT0tM
-#EXTINF:-1 tvg-id="770488" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotesport1.png",17/07 11:30 PM | Olympiacos vs Fortuna Sittard (GR VIP: COSMOTE SPORT 1 HD)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4BD4F09BA0FC956D26F4BBFA0E9A578A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=948040&extension=ts&play_token=uDLcmMPrsG
+#EXTINF:-1 tvg-id="237600" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",18/07 02:00 AM | : Plava Laguna Croatia Open - Umag (┃NL┃ ZIGGO SPORT 4 8K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=770488&extension=ts&play_token=AZ9ZQhfJyo
-#EXTINF:-1 tvg-id="842765" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6545.png?72925",17/07 11:30 PM | Olympiacos vs Fortuna Sittard (GR: COSMOTE SPORT 1 ᴴᴰ ◉)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4BD4F09BA0FC956D26F4BBFA0E9A578A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=237600&extension=ts&play_token=bgCmAw6MzL
+#EXTINF:-1 tvg-id="392119" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",18/07 02:00 AM | : Plava Laguna Croatia Open - Umag (┃NL┃ ZIGGO SPORT 4 8K+ UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 54A465ABC3AD60A3A4442B0C4F106C09
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=842765&extension=ts&play_token=xocVNqnTZ8
-#EXTINF:-1 tvg-id="842747" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6545.png?53661",17/07 11:30 PM | Olympiacos vs Fortuna Sittard (GR: COSMOTE SPORT 1 ᵁᴴᴰ ◉)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4BD4F09BA0FC956D26F4BBFA0E9A578A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=392119&extension=ts&play_token=UQaPMsQ75B
+#EXTINF:-1 tvg-id="1279" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",18/07 02:00 AM | : Plava Laguna Croatia Open - Umag (┃NL┃ ZIGGO SPORT 4 HD ⏺ʳᵉᶜ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 54A465ABC3AD60A3A4442B0C4F106C09
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=842747&extension=ts&play_token=Bp80ivPE4L
-#EXTINF:-1 tvg-id="770489" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotesport1.png",17/07 11:30 PM | Olympiacos vs Fortuna Sittard (GR VIP: COSMOTE SPORT 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 54A465ABC3AD60A3A4442B0C4F106C09
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=770489&extension=ts&play_token=fb8NBcoVr8
-#EXTINF:-1 tvg-id="770488" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotesport1.png",17/07 11:30 PM | Olympiacos vs Fortuna Sittard (GR VIP: COSMOTE SPORT 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 54A465ABC3AD60A3A4442B0C4F106C09
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=770488&extension=ts&play_token=nAbG7TpGgU
-#EXTINF:-1 tvg-id="54947" group-title="Live International Friendly" tvg-logo="https://go4.pw/EUROPE/cosmotesport.png",17/07 11:30 PM | Olympiacos vs Fortuna Sittard (GR - COSMOTE SPORT 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4592BB46DB89BBDA7164919E5E0DBF9
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/54947
-#EXTINF:-1 tvg-id="1432209" group-title="Live International Friendly" tvg-logo="http://picons.cmshulk.com/picons/1432209.png",17/07 11:30 PM | Olympiacos vs Fortuna Sittard (GR| COSMOTE SPORT 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3B6D112FC97BB31122C1C70978A84296
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1432209&extension=ts&play_token=mlb7gvTlDq
-#EXTINF:-1 tvg-id="307824" group-title="Live International Friendly" tvg-logo="http://103.176.90.95/images/307824.png",17/07 11:30 PM | Olympiacos vs Fortuna Sittard (GR| COSMOTE SPORT 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3B6D112FC97BB31122C1C70978A84296
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=307824&extension=ts&play_token=tMGkWrRuzv
-#EXTINF:-1 tvg-id="1523279" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/logos/1913059.png",18/07 01:00 AM | Austria Vienna vs Paks (AT: ORF SPORT+ ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1523279&extension=ts&play_token=oxNQYMLMda
-#EXTINF:-1 tvg-id="539276" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8395.png?39708",18/07 01:00 AM | Austria Vienna vs Paks (AT: ORF Sport+ HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=539276&extension=ts&play_token=3Je2mrYX55
-#EXTINF:-1 tvg-id="409259" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8395.png?52105",18/07 01:00 AM | Austria Vienna vs Paks (AT: ORF SPORT+ HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=409259&extension=ts&play_token=weuI7v8qtt
-#EXTINF:-1 tvg-id="1523279" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/logos/1913059.png",18/07 01:00 AM | Austria Vienna vs Paks (AT: ORF SPORT+ ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 54A465ABC3AD60A3A4442B0C4F106C09
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1523279&extension=ts&play_token=aupMaJdYtd
-#EXTINF:-1 tvg-id="539276" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8395.png?39708",18/07 01:00 AM | Austria Vienna vs Paks (AT: ORF Sport+ HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 54A465ABC3AD60A3A4442B0C4F106C09
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=539276&extension=ts&play_token=sNbVy3WGiB
-#EXTINF:-1 tvg-id="409259" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8395.png?52105",18/07 01:00 AM | Austria Vienna vs Paks (AT: ORF SPORT+ HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 54A465ABC3AD60A3A4442B0C4F106C09
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=409259&extension=ts&play_token=7c44J40LoX
-#EXTINF:-1 tvg-id="1913059" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/logos/1913059.png",18/07 01:00 AM | Austria Vienna vs Paks (AT| ORF SPORT+ HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3B6D112FC97BB31122C1C70978A84296
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1913059&extension=ts&play_token=TtDmHIyBSS
-#EXTINF:-1 tvg-id="1688714" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6512.jpg?56699",18/07 01:45 AM | Benfica vs Villarreal (VIP: BENFICA TV ᴴᴰ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1688714&extension=ts&play_token=HWrebQyuWe
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4BD4F09BA0FC956D26F4BBFA0E9A578A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1279&extension=ts&play_token=NVmaYpWWf6
 #EXTINF:-1 tvg-id="1688714" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6512.jpg?56699",18/07 01:45 AM | Benfica vs Villarreal (VIP: BENFICA TV ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 54A465ABC3AD60A3A4442B0C4F106C09
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1688714&extension=ts&play_token=yIr8vqZ72e
+#EXTVLCOPT:http-header=Authorization: Bearer D74D46BC37C7C141D764A63BA11DE0AD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1688714&extension=ts&play_token=3gv5ELlGwM
 #EXTINF:-1 tvg-id="68416" group-title="Live International Friendly" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/ben.png",18/07 01:45 AM | Benfica vs Villarreal (PT - BENFICA TV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4592BB46DB89BBDA7164919E5E0DBF9
+#EXTVLCOPT:http-header=Authorization: Bearer 5BFF796F43369820E29CB74D16ED6919
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/68416
 #EXTINF:-1 tvg-id="983567" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/BENFICA.png",18/07 01:45 AM | Benfica vs Villarreal (PT| BENFICA TV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3B6D112FC97BB31122C1C70978A84296
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=983567&extension=ts&play_token=v8yjF0Zh0n
-#EXTINF:-1 tvg-id="386461" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701",18/07 01:45 AM | Benfica vs Villarreal (PT: DAZN 1 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E977C75D79BDD6FAACEBC3F55EE06422
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=386461&extension=ts&play_token=ClAtJcWTPF
+#EXTVLCOPT:http-header=Authorization: Bearer 017C53FDADF3DFDB0255363E1BB1F9CB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=983567&extension=ts&play_token=GaZ2TtsKkb
 #EXTINF:-1 tvg-id="386461" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12401.jpg?31701",18/07 01:45 AM | Benfica vs Villarreal (PT: DAZN 1 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 54A465ABC3AD60A3A4442B0C4F106C09
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=386461&extension=ts&play_token=cdPi12zy47
+#EXTVLCOPT:http-header=Authorization: Bearer D74D46BC37C7C141D764A63BA11DE0AD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=386461&extension=ts&play_token=3Yv9QVnmIE
 #EXTINF:-1 tvg-id="763969" group-title="Live International Friendly" tvg-logo="https://go4.pw/FRANCE/DAZN.png",18/07 01:45 AM | Benfica vs Villarreal (PT - DAZN 1 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4592BB46DB89BBDA7164919E5E0DBF9
+#EXTVLCOPT:http-header=Authorization: Bearer 5BFF796F43369820E29CB74D16ED6919
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/763969
 #EXTINF:-1 tvg-id="942694" group-title="Live International Friendly" tvg-logo="https://go4.pw/FRANCE/DAZN.png",18/07 01:45 AM | Benfica vs Villarreal (PT - DAZN 1 HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A4592BB46DB89BBDA7164919E5E0DBF9
+#EXTVLCOPT:http-header=Authorization: Bearer 5BFF796F43369820E29CB74D16ED6919
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/942694
 #EXTINF:-1 tvg-id="107495" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",18/07 01:45 AM | Benfica vs Villarreal (PT| DAZN 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3B6D112FC97BB31122C1C70978A84296
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=107495&extension=ts&play_token=9QSrutG5C0
+#EXTVLCOPT:http-header=Authorization: Bearer 017C53FDADF3DFDB0255363E1BB1F9CB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=107495&extension=ts&play_token=ERxSf4OFBB
 #EXTINF:-1 tvg-id="118459" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",18/07 01:45 AM | Benfica vs Villarreal (PT| DAZN 1 HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3B6D112FC97BB31122C1C70978A84296
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=118459&extension=ts&play_token=2UZVQIA6HC
+#EXTVLCOPT:http-header=Authorization: Bearer 017C53FDADF3DFDB0255363E1BB1F9CB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=118459&extension=ts&play_token=UStPbvUIxh
