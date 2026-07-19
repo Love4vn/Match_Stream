@@ -1,191 +1,176 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1918853" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/07 07:00 PM | Live FC Erzgebirge Aue vs. FC Schalke 04 all 8K DE: SOCCER 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C7C823E5A196EB0A84A67B73AD61CA2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918853&extension=ts&play_token=rm8ZmsIi56
-#EXTINF:-1 tvg-id="1918853" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/07 07:00 PM | Live FC Erzgebirge Aue vs. FC Schalke 04 all 8K DE: SOCCER 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer DFFB4A67FBA40C99651DAFE9F18DC3C5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1918853&extension=ts&play_token=LBQBfLg9nD
-#EXTINF:-1 tvg-id="2055028" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",19/07 07:00 PM | Live FC Erzgebirge Aue vs. FC Schalke 04 all 8K DE: SOCCER 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0A93A3F3C8F3F2E2773F83DE6E394788
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055028&extension=ts&play_token=6uQtbRDtED
 #EXTINF:-1 tvg-id="1988125" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 12:30 AM | End Netherlands Spain 2010 Final all | 8K ES: SOCCER 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C7C823E5A196EB0A84A67B73AD61CA2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988125&extension=ts&play_token=wwgbu8avTj
-#EXTINF:-1 tvg-id="1988124" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 12:30 AM | SPAIN VS. ARGENTINA ALL SET FOR THE FINAL all | 8K ES: SOCCER 2
+#EXTVLCOPT:http-header=Authorization: Bearer 86FDD4BED27390222CA74ADBDD27F55A
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988125&extension=ts&play_token=eoxqSH2lzM
+#EXTINF:-1 tvg-id="1988124" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 12:30 AM | End SPAIN VS. ARGENTINA ALL SET FOR THE FINAL all | 8K ES: SOCCER 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C7C823E5A196EB0A84A67B73AD61CA2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988124&extension=ts&play_token=Zh3DxpsfX8
+#EXTVLCOPT:http-header=Authorization: Bearer 86FDD4BED27390222CA74ADBDD27F55A
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988124&extension=ts&play_token=F0FpvlFp85
 #EXTINF:-1 tvg-id="1988125" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 12:30 AM | End Netherlands Spain 2010 Final all | 8K ES: SOCCER 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer DFFB4A67FBA40C99651DAFE9F18DC3C5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1988125&extension=ts&play_token=oNOC5n8BCH
-#EXTINF:-1 tvg-id="1988124" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 12:30 AM | SPAIN VS. ARGENTINA ALL SET FOR THE FINAL all | 8K ES: SOCCER 2
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E91C43CFDDEF2AECBC9B2A55A6DA2E3B
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1988125&extension=ts&play_token=IT1g5h7rN1
+#EXTINF:-1 tvg-id="1988124" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 12:30 AM | End SPAIN VS. ARGENTINA ALL SET FOR THE FINAL all | 8K ES: SOCCER 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer DFFB4A67FBA40C99651DAFE9F18DC3C5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1988124&extension=ts&play_token=HcQknFFhg7
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E91C43CFDDEF2AECBC9B2A55A6DA2E3B
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1988124&extension=ts&play_token=SlGlrTc6LR
 #EXTINF:-1 tvg-id="2072552" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/07 12:30 AM | End Netherlands Spain 2010 Final all | 8K ES: SOCCER 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0A93A3F3C8F3F2E2773F83DE6E394788
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072552&extension=ts&play_token=QYgLaRMuqK
-#EXTINF:-1 tvg-id="2072551" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/07 12:30 AM | SPAIN VS. ARGENTINA ALL SET FOR THE FINAL all | 8K ES: SOCCER 2
+#EXTVLCOPT:http-header=Authorization: Bearer 14A5F14C9092BF3D424FB6C070050677
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072552&extension=ts&play_token=vkzAqfA9bV
+#EXTINF:-1 tvg-id="2072551" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/07 12:30 AM | End SPAIN VS. ARGENTINA ALL SET FOR THE FINAL all | 8K ES: SOCCER 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0A93A3F3C8F3F2E2773F83DE6E394788
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072551&extension=ts&play_token=VbNauZ9OWg
-#EXTINF:-1 tvg-id="2072543" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/07 12:30 AM | SPAIN VS. ARGENTINA ALL SET FOR THE FINAL all | 8K ES: SOCCER 2
+#EXTVLCOPT:http-header=Authorization: Bearer 14A5F14C9092BF3D424FB6C070050677
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072551&extension=ts&play_token=8yyeOupn4g
+#EXTINF:-1 tvg-id="2072543" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/07 12:30 AM | End SPAIN VS. ARGENTINA ALL SET FOR THE FINAL all | 8K ES: SOCCER 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0A93A3F3C8F3F2E2773F83DE6E394788
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072543&extension=ts&play_token=NZNa1gGqmQ
+#EXTVLCOPT:http-header=Authorization: Bearer 14A5F14C9092BF3D424FB6C070050677
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072543&extension=ts&play_token=dWcA48wIZq
 #EXTINF:-1 tvg-id="1611012" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",20/07 12:30 AM | 2026 FIFA World Cup Semifinal France vs Spain A @ :TSN+ 45
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C7C823E5A196EB0A84A67B73AD61CA2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1611012&extension=ts&play_token=nmKJVlLYwf
+#EXTVLCOPT:http-header=Authorization: Bearer 86FDD4BED27390222CA74ADBDD27F55A
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1611012&extension=ts&play_token=D4WtsSyrMV
 #EXTINF:-1 tvg-id="1610998" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",20/07 12:30 AM | 2026 FIFA World Cup Semifinal France vs Spain B @ :TSN+ 60
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C7C823E5A196EB0A84A67B73AD61CA2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1610998&extension=ts&play_token=SR8tfi5ndh
+#EXTVLCOPT:http-header=Authorization: Bearer 86FDD4BED27390222CA74ADBDD27F55A
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1610998&extension=ts&play_token=MrUPnz0FDT
 #EXTINF:-1 tvg-id="1611012" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",20/07 12:30 AM | 2026 FIFA World Cup Semifinal France vs Spain A @ :TSN+ 45
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer DFFB4A67FBA40C99651DAFE9F18DC3C5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1611012&extension=ts&play_token=OxqpWea4PV
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E91C43CFDDEF2AECBC9B2A55A6DA2E3B
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1611012&extension=ts&play_token=xjsJee7nOf
 #EXTINF:-1 tvg-id="1610998" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14409.png?ver=39128",20/07 12:30 AM | 2026 FIFA World Cup Semifinal France vs Spain B @ :TSN+ 60
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer DFFB4A67FBA40C99651DAFE9F18DC3C5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1610998&extension=ts&play_token=Dcbj2Vw6HQ
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E91C43CFDDEF2AECBC9B2A55A6DA2E3B
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1610998&extension=ts&play_token=mrZnw8AOuu
 #EXTINF:-1 tvg-id="2063944" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 02:00 AM | Spain vs. Argentina all | 8K FR: SOCCER 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C7C823E5A196EB0A84A67B73AD61CA2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2063944&extension=ts&play_token=QH7sjsc0qJ
-#EXTINF:-1 tvg-id="1918814" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 02:00 AM | End Spain vs. Argentina all | 8K DE: SOCCER 63
+#EXTVLCOPT:http-header=Authorization: Bearer 86FDD4BED27390222CA74ADBDD27F55A
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2063944&extension=ts&play_token=ged7IISAyu
+#EXTINF:-1 tvg-id="1918814" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 02:00 AM | Spain vs. Argentina all | 8K DE: SOCCER 63
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C7C823E5A196EB0A84A67B73AD61CA2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918814&extension=ts&play_token=z1IiNufvow
-#EXTINF:-1 tvg-id="1988124" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 02:00 AM | SPAIN VS. ARGENTINA ALL SET FOR THE FINAL all | 8K ES: SOCCER 2
+#EXTVLCOPT:http-header=Authorization: Bearer 86FDD4BED27390222CA74ADBDD27F55A
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918814&extension=ts&play_token=e2OUrWABoT
+#EXTINF:-1 tvg-id="1988124" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 02:00 AM | End SPAIN VS. ARGENTINA ALL SET FOR THE FINAL all | 8K ES: SOCCER 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C7C823E5A196EB0A84A67B73AD61CA2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988124&extension=ts&play_token=Zh3DxpsfX8
+#EXTVLCOPT:http-header=Authorization: Bearer 86FDD4BED27390222CA74ADBDD27F55A
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988124&extension=ts&play_token=F0FpvlFp85
 #EXTINF:-1 tvg-id="1988112" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 02:00 AM | Spain vs. Argentina all | 8K ES: SOCCER 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C7C823E5A196EB0A84A67B73AD61CA2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988112&extension=ts&play_token=jftpttBCAk
+#EXTVLCOPT:http-header=Authorization: Bearer 86FDD4BED27390222CA74ADBDD27F55A
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988112&extension=ts&play_token=wMQtDV0Z5D
 #EXTINF:-1 tvg-id="1988111" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 02:00 AM | Spain vs. Argentina all | 8K ES: SOCCER 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C7C823E5A196EB0A84A67B73AD61CA2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988111&extension=ts&play_token=09UJQ41YSp
+#EXTVLCOPT:http-header=Authorization: Bearer 86FDD4BED27390222CA74ADBDD27F55A
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988111&extension=ts&play_token=tJKQr6AiiT
 #EXTINF:-1 tvg-id="1939907" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 02:00 AM | Spain vs. Argentina all | 8K CA: SOCCER 49
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C7C823E5A196EB0A84A67B73AD61CA2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939907&extension=ts&play_token=u0tExcZY12
-#EXTINF:-1 tvg-id="1940098" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 02:00 AM | Spain vs. Argentina all | 8K US: SOCCER 59
+#EXTVLCOPT:http-header=Authorization: Bearer 86FDD4BED27390222CA74ADBDD27F55A
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939907&extension=ts&play_token=FkTVz0iQmr
+#EXTINF:-1 tvg-id="1940098" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 02:00 AM | Live Spain vs. Argentina all 8K US: SOCCER 59
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C7C823E5A196EB0A84A67B73AD61CA2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1940098&extension=ts&play_token=aQQRooSI8U
-#EXTINF:-1 tvg-id="1919082" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 02:00 AM | CazéTV: Spain vs. Argentina all | 8K BR: SOCCER 2
+#EXTVLCOPT:http-header=Authorization: Bearer 86FDD4BED27390222CA74ADBDD27F55A
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1940098&extension=ts&play_token=K0ravj58Az
+#EXTINF:-1 tvg-id="1919082" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 02:00 AM | Live CazéTV: Spain vs. Argentina all 8K BR: SOCCER 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C7C823E5A196EB0A84A67B73AD61CA2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919082&extension=ts&play_token=vHtLXyhqWu
+#EXTVLCOPT:http-header=Authorization: Bearer 86FDD4BED27390222CA74ADBDD27F55A
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919082&extension=ts&play_token=doJaZSCWkK
 #EXTINF:-1 tvg-id="1919081" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 02:00 AM | Spain vs. Argentina all | 8K BR: SOCCER 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C7C823E5A196EB0A84A67B73AD61CA2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919081&extension=ts&play_token=BTiUNMdHYW
-#EXTINF:-1 tvg-id="1918814" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 02:00 AM | End Spain vs. Argentina all | 8K DE: SOCCER 63
+#EXTVLCOPT:http-header=Authorization: Bearer 86FDD4BED27390222CA74ADBDD27F55A
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919081&extension=ts&play_token=WUr0J0mRDz
+#EXTINF:-1 tvg-id="1940098" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 02:00 AM | Live Spain vs. Argentina all 8K US: SOCCER 59
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer DFFB4A67FBA40C99651DAFE9F18DC3C5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1918814&extension=ts&play_token=UVq8XAzhOY
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E91C43CFDDEF2AECBC9B2A55A6DA2E3B
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1940098&extension=ts&play_token=aDbo8O3px9
+#EXTINF:-1 tvg-id="1939907" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 02:00 AM | Spain vs. Argentina all | 8K CA: SOCCER 49
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E91C43CFDDEF2AECBC9B2A55A6DA2E3B
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939907&extension=ts&play_token=eLrdQ2rYTO
 #EXTINF:-1 tvg-id="2063944" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 02:00 AM | Spain vs. Argentina all | 8K FR: SOCCER 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer DFFB4A67FBA40C99651DAFE9F18DC3C5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=2063944&extension=ts&play_token=mBieyoduvx
-#EXTINF:-1 tvg-id="1988124" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 02:00 AM | SPAIN VS. ARGENTINA ALL SET FOR THE FINAL all | 8K ES: SOCCER 2
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E91C43CFDDEF2AECBC9B2A55A6DA2E3B
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2063944&extension=ts&play_token=Q53Suxc7eq
+#EXTINF:-1 tvg-id="1988124" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 02:00 AM | End SPAIN VS. ARGENTINA ALL SET FOR THE FINAL all | 8K ES: SOCCER 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer DFFB4A67FBA40C99651DAFE9F18DC3C5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1988124&extension=ts&play_token=HcQknFFhg7
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E91C43CFDDEF2AECBC9B2A55A6DA2E3B
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1988124&extension=ts&play_token=SlGlrTc6LR
 #EXTINF:-1 tvg-id="1988112" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 02:00 AM | Spain vs. Argentina all | 8K ES: SOCCER 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer DFFB4A67FBA40C99651DAFE9F18DC3C5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1988112&extension=ts&play_token=A0Mlpz3BAv
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E91C43CFDDEF2AECBC9B2A55A6DA2E3B
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1988112&extension=ts&play_token=TYYUgv8hs4
 #EXTINF:-1 tvg-id="1988111" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 02:00 AM | Spain vs. Argentina all | 8K ES: SOCCER 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer DFFB4A67FBA40C99651DAFE9F18DC3C5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1988111&extension=ts&play_token=ev068ttZR9
-#EXTINF:-1 tvg-id="1940098" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 02:00 AM | Spain vs. Argentina all | 8K US: SOCCER 59
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E91C43CFDDEF2AECBC9B2A55A6DA2E3B
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1988111&extension=ts&play_token=u19dO3bGxK
+#EXTINF:-1 tvg-id="1919082" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 02:00 AM | Live CazéTV: Spain vs. Argentina all 8K BR: SOCCER 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer DFFB4A67FBA40C99651DAFE9F18DC3C5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1940098&extension=ts&play_token=yX5Lz8SLn2
-#EXTINF:-1 tvg-id="1939907" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 02:00 AM | Spain vs. Argentina all | 8K CA: SOCCER 49
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer DFFB4A67FBA40C99651DAFE9F18DC3C5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1939907&extension=ts&play_token=ynp7aq5UQJ
-#EXTINF:-1 tvg-id="1919082" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 02:00 AM | CazéTV: Spain vs. Argentina all | 8K BR: SOCCER 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer DFFB4A67FBA40C99651DAFE9F18DC3C5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919082&extension=ts&play_token=TNSrXpm8QA
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E91C43CFDDEF2AECBC9B2A55A6DA2E3B
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919082&extension=ts&play_token=u59NpQhdgJ
 #EXTINF:-1 tvg-id="1919081" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 02:00 AM | Spain vs. Argentina all | 8K BR: SOCCER 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer DFFB4A67FBA40C99651DAFE9F18DC3C5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1919081&extension=ts&play_token=MF082LivCZ
-#EXTINF:-1 tvg-id="2054989" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/07 02:00 AM | End Spain vs. Argentina all | 8K DE: SOCCER 63
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E91C43CFDDEF2AECBC9B2A55A6DA2E3B
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919081&extension=ts&play_token=rcRKgbpeHd
+#EXTINF:-1 tvg-id="1918814" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",20/07 02:00 AM | Spain vs. Argentina all | 8K DE: SOCCER 63
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E91C43CFDDEF2AECBC9B2A55A6DA2E3B
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1918814&extension=ts&play_token=65GcRxqs17
+#EXTINF:-1 tvg-id="2054989" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/07 02:00 AM | Spain vs. Argentina all | 8K DE: SOCCER 63
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0A93A3F3C8F3F2E2773F83DE6E394788
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054989&extension=ts&play_token=5R7aY9LfkO
+#EXTVLCOPT:http-header=Authorization: Bearer 14A5F14C9092BF3D424FB6C070050677
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054989&extension=ts&play_token=coepuULgJH
 #EXTINF:-1 tvg-id="2113096" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/07 02:00 AM | Spain vs. Argentina all | 8K FR: SOCCER 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0A93A3F3C8F3F2E2773F83DE6E394788
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113096&extension=ts&play_token=50erRq1tsr
-#EXTINF:-1 tvg-id="2072551" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/07 02:00 AM | SPAIN VS. ARGENTINA ALL SET FOR THE FINAL all | 8K ES: SOCCER 2
+#EXTVLCOPT:http-header=Authorization: Bearer 14A5F14C9092BF3D424FB6C070050677
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113096&extension=ts&play_token=cMpC1oHlR8
+#EXTINF:-1 tvg-id="2072551" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/07 02:00 AM | End SPAIN VS. ARGENTINA ALL SET FOR THE FINAL all | 8K ES: SOCCER 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0A93A3F3C8F3F2E2773F83DE6E394788
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072551&extension=ts&play_token=VbNauZ9OWg
-#EXTINF:-1 tvg-id="2072543" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/07 02:00 AM | SPAIN VS. ARGENTINA ALL SET FOR THE FINAL all | 8K ES: SOCCER 2
+#EXTVLCOPT:http-header=Authorization: Bearer 14A5F14C9092BF3D424FB6C070050677
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072551&extension=ts&play_token=8yyeOupn4g
+#EXTINF:-1 tvg-id="2072543" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/07 02:00 AM | End SPAIN VS. ARGENTINA ALL SET FOR THE FINAL all | 8K ES: SOCCER 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0A93A3F3C8F3F2E2773F83DE6E394788
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072543&extension=ts&play_token=NZNa1gGqmQ
+#EXTVLCOPT:http-header=Authorization: Bearer 14A5F14C9092BF3D424FB6C070050677
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072543&extension=ts&play_token=dWcA48wIZq
 #EXTINF:-1 tvg-id="2072539" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/07 02:00 AM | Spain vs. Argentina all | 8K ES: SOCCER 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0A93A3F3C8F3F2E2773F83DE6E394788
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072539&extension=ts&play_token=P00kEzRHaG
+#EXTVLCOPT:http-header=Authorization: Bearer 14A5F14C9092BF3D424FB6C070050677
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072539&extension=ts&play_token=AAGU4PqvoK
 #EXTINF:-1 tvg-id="2072538" group-title="🏆|Live FIFA World Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",20/07 02:00 AM | Spain vs. Argentina all | 8K ES: SOCCER 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0A93A3F3C8F3F2E2773F83DE6E394788
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072538&extension=ts&play_token=YEBFUuoifq
+#EXTVLCOPT:http-header=Authorization: Bearer 14A5F14C9092BF3D424FB6C070050677
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072538&extension=ts&play_token=Gum7rgVRD4
