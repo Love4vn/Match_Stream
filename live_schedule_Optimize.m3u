@@ -1,421 +1,256 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="858523" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/tennis channel.png",20/07 04:00 PM | Austrian Open (┃USA┃ TENNIS CHANNEL HD)
+#EXTINF:-1 tvg-id="686562" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13749.jpg?ver=36191",20/07 04:00 PM | Austrian Open (US: TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 29936A0FD9B89B6BFDBDEF6FA957FADD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=858523&extension=ts&play_token=Bz8kvd29LD
-#EXTINF:-1 tvg-id="988078" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",20/07 04:00 PM | Austrian Open (┃USA┃ TENNIS CHANNEL HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B1B7B5EFCB7D2A01586B43A74A0BD0D3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=686562&extension=ts&play_token=x2YeNPWUdv
+#EXTINF:-1 tvg-id="686561" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13749.jpg?ver=36191",20/07 04:00 PM | Austrian Open (US: TENNIS CHANNEL)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 29936A0FD9B89B6BFDBDEF6FA957FADD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=988078&extension=ts&play_token=tzhKavsjMJ
-#EXTINF:-1 tvg-id="858523" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/tennis channel.png",20/07 04:00 PM | Austrian Open (┃USA┃ TENNIS CHANNEL HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B1B7B5EFCB7D2A01586B43A74A0BD0D3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=686561&extension=ts&play_token=grhTce8RGk
+#EXTINF:-1 tvg-id="324994" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12430.jpg?68030",20/07 04:00 PM | Austrian Open (US: TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C130B796D3174C6B600E8E65DCE897BD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=858523&extension=ts&play_token=mEvjqWJbJe
-#EXTINF:-1 tvg-id="988078" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",20/07 04:00 PM | Austrian Open (┃USA┃ TENNIS CHANNEL HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B1B7B5EFCB7D2A01586B43A74A0BD0D3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=324994&extension=ts&play_token=XS7F9KdnYK
+#EXTINF:-1 tvg-id="325092" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12430.jpg?ver=69335",20/07 04:00 PM | Austrian Open (US: TENNIS CHANNEL)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C130B796D3174C6B600E8E65DCE897BD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=988078&extension=ts&play_token=htLFsSoiGm
-#EXTINF:-1 tvg-id="858523" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/tennis channel.png",20/07 04:00 PM | Austrian Open (┃USA┃ TENNIS CHANNEL HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B1B7B5EFCB7D2A01586B43A74A0BD0D3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=325092&extension=ts&play_token=veQRB91XAy
+#EXTINF:-1 tvg-id="324994" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12430.jpg?68030",20/07 04:00 PM | Austrian Open (US: TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1DB221F32AEA1FDD415BE09074336B9F
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=858523&extension=ts&play_token=7mtI6tPoKC
-#EXTINF:-1 tvg-id="988078" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",20/07 04:00 PM | Austrian Open (┃USA┃ TENNIS CHANNEL HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 64687CFDFCA8B6A02606D8CFA077CEF1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=324994&extension=ts&play_token=A7MqG62gPr
+#EXTINF:-1 tvg-id="325092" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12430.jpg?ver=69335",20/07 04:00 PM | Austrian Open (US: TENNIS CHANNEL)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1DB221F32AEA1FDD415BE09074336B9F
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=988078&extension=ts&play_token=0LRYYDGoyq
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 64687CFDFCA8B6A02606D8CFA077CEF1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=325092&extension=ts&play_token=YC8VIb8h5C
+#EXTINF:-1 tvg-id="686562" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13749.jpg?ver=36191",20/07 04:00 PM | Austrian Open (US: TENNIS HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 64687CFDFCA8B6A02606D8CFA077CEF1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=686562&extension=ts&play_token=FFWmsjFjxX
+#EXTINF:-1 tvg-id="686561" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13749.jpg?ver=36191",20/07 04:00 PM | Austrian Open (US: TENNIS CHANNEL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 64687CFDFCA8B6A02606D8CFA077CEF1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=686561&extension=ts&play_token=VnI6RaUl3h
+#EXTINF:-1 tvg-id="316492" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/USA/teni.png",20/07 04:00 PM | Austrian Open (US - TENNIS CHANNEL HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C9D677F79C56D39BCC15D6D85600603A
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/316492
+#EXTINF:-1 tvg-id="71954" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/USA/teni.png",20/07 04:00 PM | Austrian Open (US - TENNIS CHANNEL HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C9D677F79C56D39BCC15D6D85600603A
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/71954
+#EXTINF:-1 tvg-id="1568618" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669",20/07 04:00 PM | Austrian Open (GO: TENNIS CHANNEL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B1B7B5EFCB7D2A01586B43A74A0BD0D3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1568618&extension=ts&play_token=aP9wJJSy4H
+#EXTINF:-1 tvg-id="1568618" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669",20/07 04:00 PM | Austrian Open (GO: TENNIS CHANNEL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 64687CFDFCA8B6A02606D8CFA077CEF1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1568618&extension=ts&play_token=Ta9tWkaOrD
+#EXTINF:-1 tvg-id="686544" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13749.jpg?ver=36191",20/07 04:00 PM | Austrian Open (DE: TENNIS CHANNEL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B1B7B5EFCB7D2A01586B43A74A0BD0D3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=686544&extension=ts&play_token=O4chnuQ2zm
+#EXTINF:-1 tvg-id="479708" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12430.jpg?25404",20/07 04:00 PM | Austrian Open (DE: TENNIS CHANNEL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B1B7B5EFCB7D2A01586B43A74A0BD0D3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=479708&extension=ts&play_token=2E9byQuiLF
+#EXTINF:-1 tvg-id="686544" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13749.jpg?ver=36191",20/07 04:00 PM | Austrian Open (DE: TENNIS CHANNEL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 64687CFDFCA8B6A02606D8CFA077CEF1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=686544&extension=ts&play_token=avDlfryr8C
+#EXTINF:-1 tvg-id="479708" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12430.jpg?25404",20/07 04:00 PM | Austrian Open (DE: TENNIS CHANNEL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 64687CFDFCA8B6A02606D8CFA077CEF1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=479708&extension=ts&play_token=Tj5M6qOlDI
+#EXTINF:-1 tvg-id="1562919" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1954.jpg?48182",20/07 07:00 PM | Tenis Ziua 1 (RO: DIGI SPORT 2 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B1B7B5EFCB7D2A01586B43A74A0BD0D3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562919&extension=ts&play_token=dpC4FeiwWE
 #EXTINF:-1 tvg-id="207917" group-title="🎾|Live Tennis" tvg-logo="http://picons.cmshulk.com/picons/207917.png",20/07 07:00 PM | Tenis Ziua 1 (RO|  DIGI SPORT 2 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 87A95DC9CB6ECDB7E1B291D863E2D2C8
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=207917&extension=ts&play_token=SSgbW5OaSv
+#EXTVLCOPT:http-header=Authorization: Bearer D9462986321A22CCDAF47F49020D8D7F
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=207917&extension=ts&play_token=xY0yN3KQgy
 #EXTINF:-1 tvg-id="56118" group-title="🎾|Live Tennis" tvg-logo="http://picons.cmshulk.com/picons/56118.png",20/07 07:00 PM | Tenis Ziua 1 (RO| DIGI SPORT 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 87A95DC9CB6ECDB7E1B291D863E2D2C8
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=56118&extension=ts&play_token=NI8Fp5FerD
-#EXTINF:-1 tvg-id="1444080" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 2.png",20/07 07:00 PM | Tenis Ziua 1 (┃RO┃ DIGI SPORT 2 4K)
+#EXTVLCOPT:http-header=Authorization: Bearer D9462986321A22CCDAF47F49020D8D7F
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=56118&extension=ts&play_token=k5NC882MMO
+#EXTINF:-1 tvg-id="1562707" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?37284",20/07 04:00 PM | : Generali Open - Kitzbuhel (NL: ZIGGO SPORT 1 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 29936A0FD9B89B6BFDBDEF6FA957FADD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444080&extension=ts&play_token=fMJDUXZJPc
-#EXTINF:-1 tvg-id="1444077" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 2.png",20/07 07:00 PM | Tenis Ziua 1 (┃RO┃ DIGI SPORT 2 FHD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B1B7B5EFCB7D2A01586B43A74A0BD0D3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562707&extension=ts&play_token=X4dtKNpND1
+#EXTINF:-1 tvg-id="1052174" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/NEDERLAND/ziggosport.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (NL - ZIGGO SPORT 1 UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 29936A0FD9B89B6BFDBDEF6FA957FADD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444077&extension=ts&play_token=AeXtL6vbtK
-#EXTINF:-1 tvg-id="1444078" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 2.png",20/07 07:00 PM | Tenis Ziua 1 (┃RO┃ DIGI SPORT 2 HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C9D677F79C56D39BCC15D6D85600603A
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1052174
+#EXTINF:-1 tvg-id="1562704" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?37284",20/07 04:00 PM | : Generali Open - Kitzbuhel (NL: ZIGGO SPORT 4 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 29936A0FD9B89B6BFDBDEF6FA957FADD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444078&extension=ts&play_token=shG2BbSJVK
-#EXTINF:-1 tvg-id="1444079" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 2.png",20/07 07:00 PM | Tenis Ziua 1 (┃RO┃ DIGI SPORT 2)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B1B7B5EFCB7D2A01586B43A74A0BD0D3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562704&extension=ts&play_token=ox69ZxgQQb
+#EXTINF:-1 tvg-id="1980747" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330",20/07 04:00 PM | : Generali Open - Kitzbuhel (ZG: ZIGGO SPORT 4 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 29936A0FD9B89B6BFDBDEF6FA957FADD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444079&extension=ts&play_token=tBQ0GVG6p8
-#EXTINF:-1 tvg-id="1444081" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 2.png",20/07 07:00 PM | Tenis Ziua 1 (┃RO┃ DIGI SPORT 2 FIBRA)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B1B7B5EFCB7D2A01586B43A74A0BD0D3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1980747&extension=ts&play_token=S2RexIL1FO
+#EXTINF:-1 tvg-id="2011551" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",20/07 04:00 PM | : Generali Open - Kitzbuhel (OD: ZIGGO SPORT 4 ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 29936A0FD9B89B6BFDBDEF6FA957FADD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444081&extension=ts&play_token=WCvdJkVm67
-#EXTINF:-1 tvg-id="1444080" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 2.png",20/07 07:00 PM | Tenis Ziua 1 (┃RO┃ DIGI SPORT 2 4K)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B1B7B5EFCB7D2A01586B43A74A0BD0D3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2011551&extension=ts&play_token=Qe1Hk70cI0
+#EXTINF:-1 tvg-id="2011260" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",20/07 04:00 PM | : Generali Open - Kitzbuhel (OD: ZIGGO SPORT 4 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C130B796D3174C6B600E8E65DCE897BD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444080&extension=ts&play_token=n514QesWgs
-#EXTINF:-1 tvg-id="1444077" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 2.png",20/07 07:00 PM | Tenis Ziua 1 (┃RO┃ DIGI SPORT 2 FHD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B1B7B5EFCB7D2A01586B43A74A0BD0D3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2011260&extension=ts&play_token=wHZDAOVMIY
+#EXTINF:-1 tvg-id="1537608" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?87307",20/07 04:00 PM | : Generali Open - Kitzbuhel (NL: ZIGGO SPORT 4 ᴿᴬᵂ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C130B796D3174C6B600E8E65DCE897BD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444077&extension=ts&play_token=SoC6NKlf5j
-#EXTINF:-1 tvg-id="1444078" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 2.png",20/07 07:00 PM | Tenis Ziua 1 (┃RO┃ DIGI SPORT 2 HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B1B7B5EFCB7D2A01586B43A74A0BD0D3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1537608&extension=ts&play_token=CuWCqpjddN
+#EXTINF:-1 tvg-id="1980747" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330",20/07 04:00 PM | : Generali Open - Kitzbuhel (ZG: ZIGGO SPORT 4 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C130B796D3174C6B600E8E65DCE897BD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444078&extension=ts&play_token=gVXtr4nJv0
-#EXTINF:-1 tvg-id="1444079" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 2.png",20/07 07:00 PM | Tenis Ziua 1 (┃RO┃ DIGI SPORT 2)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 64687CFDFCA8B6A02606D8CFA077CEF1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1980747&extension=ts&play_token=5H8r7ssoub
+#EXTINF:-1 tvg-id="2011551" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",20/07 04:00 PM | : Generali Open - Kitzbuhel (OD: ZIGGO SPORT 4 ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C130B796D3174C6B600E8E65DCE897BD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444079&extension=ts&play_token=jbTw5yTgiE
-#EXTINF:-1 tvg-id="1444081" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 2.png",20/07 07:00 PM | Tenis Ziua 1 (┃RO┃ DIGI SPORT 2 FIBRA)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 64687CFDFCA8B6A02606D8CFA077CEF1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2011551&extension=ts&play_token=INNWuGWC3x
+#EXTINF:-1 tvg-id="2011260" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",20/07 04:00 PM | : Generali Open - Kitzbuhel (OD: ZIGGO SPORT 4 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C130B796D3174C6B600E8E65DCE897BD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444081&extension=ts&play_token=tW8BwblpQL
-#EXTINF:-1 tvg-id="1444080" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 2.png",20/07 07:00 PM | Tenis Ziua 1 (┃RO┃ DIGI SPORT 2 4K)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 64687CFDFCA8B6A02606D8CFA077CEF1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2011260&extension=ts&play_token=Befu530YPL
+#EXTINF:-1 tvg-id="1537608" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?87307",20/07 04:00 PM | : Generali Open - Kitzbuhel (NL: ZIGGO SPORT 4 ᴿᴬᵂ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1DB221F32AEA1FDD415BE09074336B9F
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1444080&extension=ts&play_token=oDW4AkO2rd
-#EXTINF:-1 tvg-id="1444077" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 2.png",20/07 07:00 PM | Tenis Ziua 1 (┃RO┃ DIGI SPORT 2 FHD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 64687CFDFCA8B6A02606D8CFA077CEF1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1537608&extension=ts&play_token=sA8h1sPP2b
+#EXTINF:-1 tvg-id="1052177" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/NEDERLAND/ziggosport.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (NL - ZIGGO SPORT 4 UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1DB221F32AEA1FDD415BE09074336B9F
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1444077&extension=ts&play_token=CE7LUHmEy7
-#EXTINF:-1 tvg-id="1444078" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 2.png",20/07 07:00 PM | Tenis Ziua 1 (┃RO┃ DIGI SPORT 2 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1DB221F32AEA1FDD415BE09074336B9F
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1444078&extension=ts&play_token=TTX2vmsIiv
-#EXTINF:-1 tvg-id="1444079" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 2.png",20/07 07:00 PM | Tenis Ziua 1 (┃RO┃ DIGI SPORT 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1DB221F32AEA1FDD415BE09074336B9F
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1444079&extension=ts&play_token=HIsn4N7YNo
-#EXTINF:-1 tvg-id="1444081" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 2.png",20/07 07:00 PM | Tenis Ziua 1 (┃RO┃ DIGI SPORT 2 FIBRA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1DB221F32AEA1FDD415BE09074336B9F
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1444081&extension=ts&play_token=T0t7kRc3wK
-#EXTINF:-1 tvg-id="548066" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 1 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 29936A0FD9B89B6BFDBDEF6FA957FADD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=548066&extension=ts&play_token=593ogSVBVW
-#EXTINF:-1 tvg-id="932999" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT SELECT.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 1 FHD 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 29936A0FD9B89B6BFDBDEF6FA957FADD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=932999&extension=ts&play_token=KlA1twhPHp
-#EXTINF:-1 tvg-id="948041" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT SELECT.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 29936A0FD9B89B6BFDBDEF6FA957FADD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=948041&extension=ts&play_token=buG6wAuEl0
-#EXTINF:-1 tvg-id="237598" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 1 8K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 29936A0FD9B89B6BFDBDEF6FA957FADD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=237598&extension=ts&play_token=YUX4lmZQrl
-#EXTINF:-1 tvg-id="548066" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 1 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C130B796D3174C6B600E8E65DCE897BD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=548066&extension=ts&play_token=rekg6TCcZ1
-#EXTINF:-1 tvg-id="932999" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT SELECT.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 1 FHD 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C130B796D3174C6B600E8E65DCE897BD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=932999&extension=ts&play_token=fs8GrOTvka
-#EXTINF:-1 tvg-id="948041" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT SELECT.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C130B796D3174C6B600E8E65DCE897BD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=948041&extension=ts&play_token=k39gIMxk9s
-#EXTINF:-1 tvg-id="237598" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 1 8K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C130B796D3174C6B600E8E65DCE897BD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=237598&extension=ts&play_token=FeZsKdFRSw
-#EXTINF:-1 tvg-id="548066" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 1 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1DB221F32AEA1FDD415BE09074336B9F
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=548066&extension=ts&play_token=bLhPqrYxJs
-#EXTINF:-1 tvg-id="932999" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT SELECT.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 1 FHD 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1DB221F32AEA1FDD415BE09074336B9F
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=932999&extension=ts&play_token=ygHapDU54E
-#EXTINF:-1 tvg-id="948041" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT SELECT.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1DB221F32AEA1FDD415BE09074336B9F
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=948041&extension=ts&play_token=NyFnntlwdg
-#EXTINF:-1 tvg-id="237598" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 1 8K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1DB221F32AEA1FDD415BE09074336B9F
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=237598&extension=ts&play_token=Ioq3KK6FvB
-#EXTINF:-1 tvg-id="1281" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 1 HD ⏺ʳᵉᶜ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 29936A0FD9B89B6BFDBDEF6FA957FADD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1281&extension=ts&play_token=X9BEB6dsBq
-#EXTINF:-1 tvg-id="1281" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 1 HD ⏺ʳᵉᶜ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C130B796D3174C6B600E8E65DCE897BD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1281&extension=ts&play_token=sa1C7ssYVZ
-#EXTINF:-1 tvg-id="1281" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 1 HD ⏺ʳᵉᶜ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1DB221F32AEA1FDD415BE09074336B9F
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1281&extension=ts&play_token=lPJej0cU06
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C9D677F79C56D39BCC15D6D85600603A
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1052177
 #EXTINF:-1 tvg-id="1283307" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (NL| ZIGGO SPORT 4 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 87A95DC9CB6ECDB7E1B291D863E2D2C8
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1283307&extension=ts&play_token=ucNjn3P53F
+#EXTVLCOPT:http-header=Authorization: Bearer D9462986321A22CCDAF47F49020D8D7F
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1283307&extension=ts&play_token=8TAOq7u1Rv
 #EXTINF:-1 tvg-id="1761572" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (NL| ZIGGO SPORT 4 UHD 8K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 87A95DC9CB6ECDB7E1B291D863E2D2C8
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1761572&extension=ts&play_token=c7X6nVK8W4
+#EXTVLCOPT:http-header=Authorization: Bearer D9462986321A22CCDAF47F49020D8D7F
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1761572&extension=ts&play_token=OjClmnk7rg
 #EXTINF:-1 tvg-id="1282760" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (NL| ZIGGO SPORT 4 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 87A95DC9CB6ECDB7E1B291D863E2D2C8
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1282760&extension=ts&play_token=p6hQd10Ubw
+#EXTVLCOPT:http-header=Authorization: Bearer D9462986321A22CCDAF47F49020D8D7F
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1282760&extension=ts&play_token=EqgwQnkUH5
 #EXTINF:-1 tvg-id="1282745" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (NL| ZIGGO SPORT 4 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 87A95DC9CB6ECDB7E1B291D863E2D2C8
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1282745&extension=ts&play_token=tBvBgHH99i
+#EXTVLCOPT:http-header=Authorization: Bearer D9462986321A22CCDAF47F49020D8D7F
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1282745&extension=ts&play_token=cP5pQwEe0C
 #EXTINF:-1 tvg-id="1921307" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (NL| ZIGGO SPORT 4 ᴿᴬᵂ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 87A95DC9CB6ECDB7E1B291D863E2D2C8
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1921307&extension=ts&play_token=VbqxeNoRh3
-#EXTINF:-1 tvg-id="548067" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 4 4K)
+#EXTVLCOPT:http-header=Authorization: Bearer D9462986321A22CCDAF47F49020D8D7F
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1921307&extension=ts&play_token=Sg8PCQF18z
+#EXTINF:-1 tvg-id="1562703" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?37284",20/07 06:00 PM | : Millennium Estoril Open - Estoril (NL: ZIGGO SPORT 5 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 29936A0FD9B89B6BFDBDEF6FA957FADD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=548067&extension=ts&play_token=Oz0Ur5eFvd
-#EXTINF:-1 tvg-id="933000" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT RACING.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 4 FHD 50FPS)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B1B7B5EFCB7D2A01586B43A74A0BD0D3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562703&extension=ts&play_token=gKXqcqfz29
+#EXTINF:-1 tvg-id="1980746" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330",20/07 06:00 PM | : Millennium Estoril Open - Estoril (ZG: ZIGGO SPORT 5 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 29936A0FD9B89B6BFDBDEF6FA957FADD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=933000&extension=ts&play_token=acxeLWWe53
-#EXTINF:-1 tvg-id="948040" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT RACING.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 4 HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B1B7B5EFCB7D2A01586B43A74A0BD0D3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1980746&extension=ts&play_token=OsjEcd8goB
+#EXTINF:-1 tvg-id="2011550" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",20/07 06:00 PM | : Millennium Estoril Open - Estoril (OD: ZIGGO SPORT 5 ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 29936A0FD9B89B6BFDBDEF6FA957FADD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=948040&extension=ts&play_token=OOpE18JTsx
-#EXTINF:-1 tvg-id="237600" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 4 8K)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B1B7B5EFCB7D2A01586B43A74A0BD0D3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2011550&extension=ts&play_token=fNtSShIcTe
+#EXTINF:-1 tvg-id="2011259" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",20/07 06:00 PM | : Millennium Estoril Open - Estoril (OD: ZIGGO SPORT 5 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 29936A0FD9B89B6BFDBDEF6FA957FADD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=237600&extension=ts&play_token=tX8FFCPdTA
-#EXTINF:-1 tvg-id="392119" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 4 8K+ UHD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B1B7B5EFCB7D2A01586B43A74A0BD0D3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2011259&extension=ts&play_token=IB5Y807vB2
+#EXTINF:-1 tvg-id="1537607" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?87307",20/07 06:00 PM | : Millennium Estoril Open - Estoril (NL: ZIGGO SPORT 5 ᴿᴬᵂ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 29936A0FD9B89B6BFDBDEF6FA957FADD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=392119&extension=ts&play_token=7WBI0OiBln
-#EXTINF:-1 tvg-id="548067" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 4 4K)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B1B7B5EFCB7D2A01586B43A74A0BD0D3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1537607&extension=ts&play_token=NNOlEQeuw5
+#EXTINF:-1 tvg-id="1980746" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330",20/07 06:00 PM | : Millennium Estoril Open - Estoril (ZG: ZIGGO SPORT 5 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C130B796D3174C6B600E8E65DCE897BD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=548067&extension=ts&play_token=ZYabJIgKSG
-#EXTINF:-1 tvg-id="933000" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT RACING.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 4 FHD 50FPS)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 64687CFDFCA8B6A02606D8CFA077CEF1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1980746&extension=ts&play_token=rwwn9YwYSo
+#EXTINF:-1 tvg-id="2011550" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",20/07 06:00 PM | : Millennium Estoril Open - Estoril (OD: ZIGGO SPORT 5 ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C130B796D3174C6B600E8E65DCE897BD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=933000&extension=ts&play_token=TJ1Ad2voki
-#EXTINF:-1 tvg-id="948040" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT RACING.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 4 HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 64687CFDFCA8B6A02606D8CFA077CEF1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2011550&extension=ts&play_token=xFE2QqTCln
+#EXTINF:-1 tvg-id="2011259" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",20/07 06:00 PM | : Millennium Estoril Open - Estoril (OD: ZIGGO SPORT 5 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C130B796D3174C6B600E8E65DCE897BD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=948040&extension=ts&play_token=isACrchC2H
-#EXTINF:-1 tvg-id="237600" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 4 8K)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 64687CFDFCA8B6A02606D8CFA077CEF1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2011259&extension=ts&play_token=HwlO7M3E5T
+#EXTINF:-1 tvg-id="1537607" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?87307",20/07 06:00 PM | : Millennium Estoril Open - Estoril (NL: ZIGGO SPORT 5 ᴿᴬᵂ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C130B796D3174C6B600E8E65DCE897BD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=237600&extension=ts&play_token=frPjJI8dlk
-#EXTINF:-1 tvg-id="392119" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 4 8K+ UHD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 64687CFDFCA8B6A02606D8CFA077CEF1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1537607&extension=ts&play_token=X6z4PYEwE2
+#EXTINF:-1 tvg-id="1052178" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/NEDERLAND/ziggosport.png",20/07 06:00 PM | : Millennium Estoril Open - Estoril (NL - ZIGGO SPORT 5 UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C130B796D3174C6B600E8E65DCE897BD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=392119&extension=ts&play_token=lfShIkwiyc
-#EXTINF:-1 tvg-id="548067" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 4 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1DB221F32AEA1FDD415BE09074336B9F
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=548067&extension=ts&play_token=B6hoMF5GP6
-#EXTINF:-1 tvg-id="933000" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT RACING.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 4 FHD 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1DB221F32AEA1FDD415BE09074336B9F
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=933000&extension=ts&play_token=h9fGT1YEKP
-#EXTINF:-1 tvg-id="948040" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT RACING.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 4 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1DB221F32AEA1FDD415BE09074336B9F
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=948040&extension=ts&play_token=wfekReOOGd
-#EXTINF:-1 tvg-id="237600" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 4 8K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1DB221F32AEA1FDD415BE09074336B9F
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=237600&extension=ts&play_token=WlbxjiUXGx
-#EXTINF:-1 tvg-id="392119" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 4 8K+ UHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1DB221F32AEA1FDD415BE09074336B9F
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=392119&extension=ts&play_token=SH6Qhv9xF2
-#EXTINF:-1 tvg-id="1279" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 4 HD ⏺ʳᵉᶜ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 29936A0FD9B89B6BFDBDEF6FA957FADD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1279&extension=ts&play_token=t2x0R1qfZQ
-#EXTINF:-1 tvg-id="1279" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 4 HD ⏺ʳᵉᶜ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C130B796D3174C6B600E8E65DCE897BD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1279&extension=ts&play_token=5QntXBayBd
-#EXTINF:-1 tvg-id="1279" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",20/07 04:00 PM | : Generali Open - Kitzbuhel (┃NL┃ ZIGGO SPORT 4 HD ⏺ʳᵉᶜ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1DB221F32AEA1FDD415BE09074336B9F
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1279&extension=ts&play_token=YDtmhCoH5Q
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C9D677F79C56D39BCC15D6D85600603A
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1052178
 #EXTINF:-1 tvg-id="1283311" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",20/07 06:00 PM | : Millennium Estoril Open - Estoril (NL| ZIGGO SPORT 5 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 87A95DC9CB6ECDB7E1B291D863E2D2C8
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1283311&extension=ts&play_token=2iijjF9LiE
+#EXTVLCOPT:http-header=Authorization: Bearer D9462986321A22CCDAF47F49020D8D7F
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1283311&extension=ts&play_token=apDVlJz0Tp
 #EXTINF:-1 tvg-id="1761571" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",20/07 06:00 PM | : Millennium Estoril Open - Estoril (NL| ZIGGO SPORT 5 UHD 8K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 87A95DC9CB6ECDB7E1B291D863E2D2C8
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1761571&extension=ts&play_token=OJZQuG4Tyy
+#EXTVLCOPT:http-header=Authorization: Bearer D9462986321A22CCDAF47F49020D8D7F
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1761571&extension=ts&play_token=BwGENiEhaK
 #EXTINF:-1 tvg-id="1282762" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",20/07 06:00 PM | : Millennium Estoril Open - Estoril (NL| ZIGGO SPORT 5 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 87A95DC9CB6ECDB7E1B291D863E2D2C8
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1282762&extension=ts&play_token=35pgbCEUwn
+#EXTVLCOPT:http-header=Authorization: Bearer D9462986321A22CCDAF47F49020D8D7F
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1282762&extension=ts&play_token=d9rvGAjxDp
 #EXTINF:-1 tvg-id="1282747" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",20/07 06:00 PM | : Millennium Estoril Open - Estoril (NL| ZIGGO SPORT 5 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 87A95DC9CB6ECDB7E1B291D863E2D2C8
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1282747&extension=ts&play_token=Djp8vxD2Il
+#EXTVLCOPT:http-header=Authorization: Bearer D9462986321A22CCDAF47F49020D8D7F
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1282747&extension=ts&play_token=br0uIefDWl
 #EXTINF:-1 tvg-id="1921306" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",20/07 06:00 PM | : Millennium Estoril Open - Estoril (NL| ZIGGO SPORT 5 ᴿᴬᵂ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 87A95DC9CB6ECDB7E1B291D863E2D2C8
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1921306&extension=ts&play_token=FWAGATkEjR
-#EXTINF:-1 tvg-id="548069" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTDOCUHD.png",20/07 06:00 PM | : Millennium Estoril Open - Estoril (┃NL┃ ZIGGO SPORT 5 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 29936A0FD9B89B6BFDBDEF6FA957FADD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=548069&extension=ts&play_token=tRBAVsojV2
-#EXTINF:-1 tvg-id="933002" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT DOCU.png",20/07 06:00 PM | : Millennium Estoril Open - Estoril (┃NL┃ ZIGGO SPORT 5 FHD 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 29936A0FD9B89B6BFDBDEF6FA957FADD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=933002&extension=ts&play_token=qUCtfruS25
-#EXTINF:-1 tvg-id="948038" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT DOCU.png",20/07 06:00 PM | : Millennium Estoril Open - Estoril (┃NL┃ ZIGGO SPORT 5 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 29936A0FD9B89B6BFDBDEF6FA957FADD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=948038&extension=ts&play_token=bA8jzvc2WB
-#EXTINF:-1 tvg-id="237602" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTDOCUHD.png",20/07 06:00 PM | : Millennium Estoril Open - Estoril (┃NL┃ ZIGGO SPORT 5 8K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 29936A0FD9B89B6BFDBDEF6FA957FADD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=237602&extension=ts&play_token=yD1XFPfKrg
-#EXTINF:-1 tvg-id="392121" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTDOCUHD.png",20/07 06:00 PM | : Millennium Estoril Open - Estoril (┃NL┃ ZIGGO SPORT 5 8K+ UHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 29936A0FD9B89B6BFDBDEF6FA957FADD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=392121&extension=ts&play_token=kK6YDPCbOT
-#EXTINF:-1 tvg-id="548069" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTDOCUHD.png",20/07 06:00 PM | : Millennium Estoril Open - Estoril (┃NL┃ ZIGGO SPORT 5 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C130B796D3174C6B600E8E65DCE897BD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=548069&extension=ts&play_token=RX2zPWPphL
-#EXTINF:-1 tvg-id="933002" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT DOCU.png",20/07 06:00 PM | : Millennium Estoril Open - Estoril (┃NL┃ ZIGGO SPORT 5 FHD 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C130B796D3174C6B600E8E65DCE897BD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=933002&extension=ts&play_token=A8j98ni18l
-#EXTINF:-1 tvg-id="948038" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT DOCU.png",20/07 06:00 PM | : Millennium Estoril Open - Estoril (┃NL┃ ZIGGO SPORT 5 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C130B796D3174C6B600E8E65DCE897BD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=948038&extension=ts&play_token=lylPFEFABY
-#EXTINF:-1 tvg-id="237602" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTDOCUHD.png",20/07 06:00 PM | : Millennium Estoril Open - Estoril (┃NL┃ ZIGGO SPORT 5 8K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C130B796D3174C6B600E8E65DCE897BD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=237602&extension=ts&play_token=BNQR9PNKL6
-#EXTINF:-1 tvg-id="392121" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTDOCUHD.png",20/07 06:00 PM | : Millennium Estoril Open - Estoril (┃NL┃ ZIGGO SPORT 5 8K+ UHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C130B796D3174C6B600E8E65DCE897BD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=392121&extension=ts&play_token=5NU9UcOanr
-#EXTINF:-1 tvg-id="548069" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTDOCUHD.png",20/07 06:00 PM | : Millennium Estoril Open - Estoril (┃NL┃ ZIGGO SPORT 5 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1DB221F32AEA1FDD415BE09074336B9F
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=548069&extension=ts&play_token=n2Jgvkzp1Z
-#EXTINF:-1 tvg-id="933002" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT DOCU.png",20/07 06:00 PM | : Millennium Estoril Open - Estoril (┃NL┃ ZIGGO SPORT 5 FHD 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1DB221F32AEA1FDD415BE09074336B9F
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=933002&extension=ts&play_token=LOFRmtx3cs
-#EXTINF:-1 tvg-id="948038" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT DOCU.png",20/07 06:00 PM | : Millennium Estoril Open - Estoril (┃NL┃ ZIGGO SPORT 5 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1DB221F32AEA1FDD415BE09074336B9F
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=948038&extension=ts&play_token=vIiFDzpRBW
-#EXTINF:-1 tvg-id="237602" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTDOCUHD.png",20/07 06:00 PM | : Millennium Estoril Open - Estoril (┃NL┃ ZIGGO SPORT 5 8K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1DB221F32AEA1FDD415BE09074336B9F
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=237602&extension=ts&play_token=7s8nHqfQOE
-#EXTINF:-1 tvg-id="392121" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTDOCUHD.png",20/07 06:00 PM | : Millennium Estoril Open - Estoril (┃NL┃ ZIGGO SPORT 5 8K+ UHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1DB221F32AEA1FDD415BE09074336B9F
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=392121&extension=ts&play_token=VS9jE5BOWC
-#EXTINF:-1 tvg-id="1277" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTDOCUHD.png",20/07 06:00 PM | : Millennium Estoril Open - Estoril (┃NL┃ ZIGGO SPORT 5 HD ⏺ʳᵉᶜ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 29936A0FD9B89B6BFDBDEF6FA957FADD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1277&extension=ts&play_token=uzT39DSJVt
-#EXTINF:-1 tvg-id="1277" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTDOCUHD.png",20/07 06:00 PM | : Millennium Estoril Open - Estoril (┃NL┃ ZIGGO SPORT 5 HD ⏺ʳᵉᶜ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer C130B796D3174C6B600E8E65DCE897BD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1277&extension=ts&play_token=e22loX0swm
-#EXTINF:-1 tvg-id="1277" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTDOCUHD.png",20/07 06:00 PM | : Millennium Estoril Open - Estoril (┃NL┃ ZIGGO SPORT 5 HD ⏺ʳᵉᶜ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1DB221F32AEA1FDD415BE09074336B9F
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1277&extension=ts&play_token=JxjHvlIaIE
+#EXTVLCOPT:http-header=Authorization: Bearer D9462986321A22CCDAF47F49020D8D7F
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1921306&extension=ts&play_token=65eQCmkVTZ
