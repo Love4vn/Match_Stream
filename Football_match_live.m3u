@@ -1,36 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1918856" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/07 09:00 PM | FK Kharkiv vs. FC Schalke 04 all | 8K DE: SOCCER 21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8088278029E5124FC81560534CDE253A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918856&extension=ts&play_token=ofBBVoNXje
-#EXTINF:-1 tvg-id="1918856" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/07 09:00 PM | FK Kharkiv vs. FC Schalke 04 all | 8K DE: SOCCER 21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CDEDE5B1B115190CEE248A9EA420F370
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1918856&extension=ts&play_token=jpAB5Z00i1
-#EXTINF:-1 tvg-id="2055031" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",22/07 09:00 PM | FK Kharkiv vs. FC Schalke 04 all | 8K DE: SOCCER 21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7F838B3AAA308B86EE50D7ACBC881F7E
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055031&extension=ts&play_token=slWpc725Cl
 #EXTINF:-1 tvg-id="2070915" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15271.jpg?ver=95591",22/07 10:00 PM | PSF 02 Tottenham Hotspur vs MK Dons 21/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8088278029E5124FC81560534CDE253A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2070915&extension=ts&play_token=KVkC1gvfQx
-#EXTINF:-1 tvg-id="2070915" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15271.jpg?ver=95591",22/07 10:00 PM | PSF 02 Tottenham Hotspur vs MK Dons 21/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CDEDE5B1B115190CEE248A9EA420F370
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=2070915&extension=ts&play_token=bFWMvBJA5R
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 55CF1DF02473D38C47E4AE58552D65E3
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=2070915&extension=ts&play_token=Qy3KFAPTwb
 #EXTINF:-1 tvg-id="2114330" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",22/07 10:00 PM | PSF 02 Tottenham Hotspur vs MK Dons 21/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7F838B3AAA308B86EE50D7ACBC881F7E
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114330&extension=ts&play_token=KEul1a49Rt
+#EXTVLCOPT:http-header=Authorization: Bearer CE69B5B8FAB213B2633149CD002198FD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114330&extension=ts&play_token=P7MKHXvn5s
 #EXTINF:-1 tvg-id="1802340" group-title="🌍|Live International Friendly-Match",22/07 10:00 PM | PSF 02 Tottenham Hotspur vs MK Dons 21/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0E5E8E53A7AAFC6FD22B2CBF147AD8A0
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802340&extension=ts&play_token=87Po1R5xiR
+#EXTVLCOPT:http-header=Authorization: Bearer 2C7D64C71AF5D677D6BCA1C88FC8E3E4
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802340&extension=ts&play_token=Hh4wqAsGPZ
+#EXTINF:-1 tvg-id="1802340" group-title="🌍|Live International Friendly-Match",22/07 10:00 PM | PSF 02 Tottenham Hotspur vs MK Dons 21/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0C0B18CF56EEF2986F850773A61FDFBF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1802340&extension=ts&play_token=vJbfUaofM3
