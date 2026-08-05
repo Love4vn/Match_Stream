@@ -1,341 +1,246 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1863221" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",05/08 11:30 PM | LIVE AGF SABAH (DK) 8K DK: VIAPLAY 6
+#EXTINF:-1 tvg-id="1984087" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",06/08 01:00 AM | LIVE AO VIVO FENERBAHCE (TUR) X STURM GRAZ (AUT) (XSPORTS) -02 (BR) 8K BR: DISNEY+ 39
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3F861B3EE6F125C9BF43A0A558B4A137
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1863221&extension=ts&play_token=xWuXIrioHW
-#EXTINF:-1 tvg-id="1863221" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",05/08 11:30 PM | LIVE AGF SABAH (DK) 8K DK: VIAPLAY 6
+#EXTVLCOPT:http-header=Authorization: Bearer 48AA09A508E413747CF680E5B77B2D56
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1984087&extension=ts&play_token=SANxRStnxU
+#EXTINF:-1 tvg-id="1984087" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",06/08 01:00 AM | LIVE AO VIVO FENERBAHCE (TUR) X STURM GRAZ (AUT) (XSPORTS) -02 (BR) 8K BR: DISNEY+ 39
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4BB34F85D8891364FF968EF409109AD8
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1863221&extension=ts&play_token=GLp1nRUn8C
-#EXTINF:-1 tvg-id="2037372" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",05/08 11:30 PM | LIVE AGF SABAH (DK) 8K DK: VIAPLAY 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 469157359D214A69EB26D41B2D4C550F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037372&extension=ts&play_token=2tqFSfnTcU
-#EXTINF:-1 tvg-id="1984087" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",06/08 01:00 AM | AO VIVO FENERBAHCE (TUR) X STURM GRAZ (AUT) (XSPORTS) -02 (BR) 8K BR: DISNEY+ 39
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3F861B3EE6F125C9BF43A0A558B4A137
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1984087&extension=ts&play_token=2SJ60pWgGf
-#EXTINF:-1 tvg-id="1984087" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",06/08 01:00 AM | AO VIVO FENERBAHCE (TUR) X STURM GRAZ (AUT) (XSPORTS) -02 (BR) 8K BR: DISNEY+ 39
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4BB34F85D8891364FF968EF409109AD8
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1984087&extension=ts&play_token=XYlyVVBuVN
+#EXTVLCOPT:http-header=Authorization: Bearer 4A2C02AE6D97528558D46F7F5C1C790A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1984087&extension=ts&play_token=FtVLvHfmSO
 #EXTINF:-1 tvg-id="1601705" group-title="Live UEFA Europa League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",06/08 01:15 AM | US (ESPN+ 014) Soccer: Ferencvárosi TC vs. Gornik Zabrze ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3F861B3EE6F125C9BF43A0A558B4A137
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1601705&extension=ts&play_token=cJT8vw24sY
+#EXTVLCOPT:http-header=Authorization: Bearer 48AA09A508E413747CF680E5B77B2D56
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1601705&extension=ts&play_token=L3UUUU0SGq
 #EXTINF:-1 tvg-id="1601705" group-title="Live UEFA Europa League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",06/08 01:15 AM | US (ESPN+ 014) Soccer: Ferencvárosi TC vs. Gornik Zabrze ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4BB34F85D8891364FF968EF409109AD8
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1601705&extension=ts&play_token=Ic7zkijcyg
-#EXTINF:-1 tvg-id="1924718" group-title="Live UEFA Europa League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",06/08 01:15 AM | FERENCVÁROS VS. GORNIK ZABRZE (UEFA EUROPA LEAGUE) (US) 8K US: ESPN+ 12
+#EXTVLCOPT:http-header=Authorization: Bearer 4A2C02AE6D97528558D46F7F5C1C790A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1601705&extension=ts&play_token=hjW6Ci4NHV
+#EXTINF:-1 tvg-id="1924718" group-title="Live UEFA Europa League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",06/08 01:15 AM | LIVE FERENCVÁROS VS. GORNIK ZABRZE (UEFA EUROPA LEAGUE) (US) 8K US: ESPN+ 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3F861B3EE6F125C9BF43A0A558B4A137
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1924718&extension=ts&play_token=sF8rVMhY1F
-#EXTINF:-1 tvg-id="1924718" group-title="Live UEFA Europa League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",06/08 01:15 AM | FERENCVÁROS VS. GORNIK ZABRZE (UEFA EUROPA LEAGUE) (US) 8K US: ESPN+ 12
+#EXTVLCOPT:http-header=Authorization: Bearer 48AA09A508E413747CF680E5B77B2D56
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1924718&extension=ts&play_token=s8lkqbREYl
+#EXTINF:-1 tvg-id="1924718" group-title="Live UEFA Europa League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",06/08 01:15 AM | LIVE FERENCVÁROS VS. GORNIK ZABRZE (UEFA EUROPA LEAGUE) (US) 8K US: ESPN+ 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4BB34F85D8891364FF968EF409109AD8
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1924718&extension=ts&play_token=w3qHtlhhIu
+#EXTVLCOPT:http-header=Authorization: Bearer 4A2C02AE6D97528558D46F7F5C1C790A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1924718&extension=ts&play_token=yeqiFeOMOu
 #EXTINF:-1 tvg-id="1601704" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",06/08 01:30 AM | US (ESPN+ 015) Soccer: Panathinaikos vs. CSKA 1948 ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3F861B3EE6F125C9BF43A0A558B4A137
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1601704&extension=ts&play_token=MYH9a7DtmP
+#EXTVLCOPT:http-header=Authorization: Bearer 48AA09A508E413747CF680E5B77B2D56
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1601704&extension=ts&play_token=APtDdDDQj7
 #EXTINF:-1 tvg-id="1601704" group-title="Live UEFA Conference League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",06/08 01:30 AM | US (ESPN+ 015) Soccer: Panathinaikos vs. CSKA 1948 ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4BB34F85D8891364FF968EF409109AD8
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1601704&extension=ts&play_token=DR1dx49HRC
-#EXTINF:-1 tvg-id="1454900" group-title="🌍|Live International Friendly-Match" tvg-logo="https://go4.pw/EUROPE/PSF.png",06/08 01:30 AM | PSF 03 ARSENAL @ REAL BETIS – /
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B5E634676D0648A8284F31867814663D
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1454900
+#EXTVLCOPT:http-header=Authorization: Bearer 4A2C02AE6D97528558D46F7F5C1C790A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1601704&extension=ts&play_token=NZkzHt6LD2
 #EXTINF:-1 tvg-id="2084237" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15271.jpg?ver=95591",06/08 01:30 AM | PSF 03 Arsenal vs Real Betis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3F861B3EE6F125C9BF43A0A558B4A137
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2084237&extension=ts&play_token=Qd03qyZxnh
+#EXTVLCOPT:http-header=Authorization: Bearer 48AA09A508E413747CF680E5B77B2D56
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2084237&extension=ts&play_token=sumlSZSDu6
 #EXTINF:-1 tvg-id="2084237" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15271.jpg?ver=95591",06/08 01:30 AM | PSF 03 Arsenal vs Real Betis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4BB34F85D8891364FF968EF409109AD8
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2084237&extension=ts&play_token=C1lhVl7g6n
+#EXTVLCOPT:http-header=Authorization: Bearer 4A2C02AE6D97528558D46F7F5C1C790A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2084237&extension=ts&play_token=dOUr05VmKq
 #EXTINF:-1 tvg-id="2114329" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",06/08 01:30 AM | PSF 03 Arsenal vs Real Betis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 469157359D214A69EB26D41B2D4C550F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114329&extension=ts&play_token=MTnvfBQfkf
-#EXTINF:-1 tvg-id="1918870" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/08 01:30 AM | Arsenal vs. Betis all | 8K DE: SOCCER 7
+#EXTVLCOPT:http-header=Authorization: Bearer DE93320C0F1B4248ECDD733BCE64A403
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114329&extension=ts&play_token=h9nI2hNXNk
+#EXTINF:-1 tvg-id="1802341" group-title="🌍|Live International Friendly-Match",06/08 01:30 AM | PSF 03 Arsenal vs Real Betis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D859EEEEC479BD3D6731E3B01940F847
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802341&extension=ts&play_token=qgMtnPDnF2
+#EXTINF:-1 tvg-id="1918870" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/08 01:30 AM | Live Arsenal vs. Betis all 8K DE: SOCCER 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3F861B3EE6F125C9BF43A0A558B4A137
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918870&extension=ts&play_token=7eQDrhTSwT
-#EXTINF:-1 tvg-id="1881227" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",06/08 01:30 AM | Arsenal Real Betis Testspiele | 8K DE: DAZN 9
+#EXTVLCOPT:http-header=Authorization: Bearer 48AA09A508E413747CF680E5B77B2D56
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918870&extension=ts&play_token=RwGOlL7mVc
+#EXTINF:-1 tvg-id="1881234" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",06/08 01:30 AM | Live Arsenal Real Betis Testspiele 8K DE: DAZN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3F861B3EE6F125C9BF43A0A558B4A137
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1881227&extension=ts&play_token=cCvHzN66iL
-#EXTINF:-1 tvg-id="1893261" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",06/08 01:30 AM | Arsenal Real Betis Testspiele | 8K AT: DAZN 7
+#EXTVLCOPT:http-header=Authorization: Bearer 48AA09A508E413747CF680E5B77B2D56
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1881234&extension=ts&play_token=nbZfvrW9BW
+#EXTINF:-1 tvg-id="999562" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13813.png?ver=91937",06/08 01:30 AM | LIVE ARSENAL – BETIS (SE) 8K SE: AftonBlade 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3F861B3EE6F125C9BF43A0A558B4A137
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1893261&extension=ts&play_token=IGi32obiRU
-#EXTINF:-1 tvg-id="1893059" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",06/08 01:30 AM | Arsenal Real Betis Football Matchs Amicaux | 8K CH: DAZN 9
+#EXTVLCOPT:http-header=Authorization: Bearer 48AA09A508E413747CF680E5B77B2D56
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=999562&extension=ts&play_token=qL6vj0lSXL
+#EXTINF:-1 tvg-id="1716111" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13826.jpg?ver=21622",06/08 01:30 AM | LIVE ARSENAL REAL BETIS (IS) 8K IS: SIMINN 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3F861B3EE6F125C9BF43A0A558B4A137
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1893059&extension=ts&play_token=o5Ipx4hpRi
-#EXTINF:-1 tvg-id="999562" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13813.png?ver=91937",06/08 01:30 AM | ARSENAL – BETIS (SE) 8K SE: AftonBlade 6
+#EXTVLCOPT:http-header=Authorization: Bearer 48AA09A508E413747CF680E5B77B2D56
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1716111&extension=ts&play_token=kaQTp2QO4w
+#EXTINF:-1 tvg-id="1010153" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13824.jpeg?ver=46195",06/08 01:30 AM | LIVE ARSENAL REAL BETIS (IS) 8K IS: LIVEY 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3F861B3EE6F125C9BF43A0A558B4A137
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=999562&extension=ts&play_token=mNNJT00IYQ
-#EXTINF:-1 tvg-id="1716111" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13826.jpg?ver=21622",06/08 01:30 AM | ARSENAL REAL BETIS (IS) 8K IS: SIMINN 7
+#EXTVLCOPT:http-header=Authorization: Bearer 48AA09A508E413747CF680E5B77B2D56
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1010153&extension=ts&play_token=Okqi6oasxP
+#EXTINF:-1 tvg-id="1940143" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/08 01:30 AM | Live Arsenal vs. Betis all 8K US: SOCCER 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3F861B3EE6F125C9BF43A0A558B4A137
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1716111&extension=ts&play_token=AzKHOkNwfH
-#EXTINF:-1 tvg-id="1010153" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13824.jpeg?ver=46195",06/08 01:30 AM | ARSENAL REAL BETIS (IS) 8K IS: LIVEY 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3F861B3EE6F125C9BF43A0A558B4A137
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1010153&extension=ts&play_token=jFsI3SyEbY
-#EXTINF:-1 tvg-id="1940143" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/08 01:30 AM | Arsenal vs. Betis all | 8K US: SOCCER 14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3F861B3EE6F125C9BF43A0A558B4A137
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1940143&extension=ts&play_token=kastLlO47G
-#EXTINF:-1 tvg-id="1940143" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/08 01:30 AM | Arsenal vs. Betis all | 8K US: SOCCER 14
+#EXTVLCOPT:http-header=Authorization: Bearer 48AA09A508E413747CF680E5B77B2D56
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1940143&extension=ts&play_token=QGXCOpIuKE
+#EXTINF:-1 tvg-id="1940143" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/08 01:30 AM | Live Arsenal vs. Betis all 8K US: SOCCER 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4BB34F85D8891364FF968EF409109AD8
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1940143&extension=ts&play_token=hM58xAtGKa
-#EXTINF:-1 tvg-id="1918870" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/08 01:30 AM | Arsenal vs. Betis all | 8K DE: SOCCER 7
+#EXTVLCOPT:http-header=Authorization: Bearer 4A2C02AE6D97528558D46F7F5C1C790A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1940143&extension=ts&play_token=cBA8Px0Xgs
+#EXTINF:-1 tvg-id="1918870" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/08 01:30 AM | Live Arsenal vs. Betis all 8K DE: SOCCER 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4BB34F85D8891364FF968EF409109AD8
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1918870&extension=ts&play_token=f965v90Siz
-#EXTINF:-1 tvg-id="1881227" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",06/08 01:30 AM | Arsenal Real Betis Testspiele | 8K DE: DAZN 9
+#EXTVLCOPT:http-header=Authorization: Bearer 4A2C02AE6D97528558D46F7F5C1C790A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1918870&extension=ts&play_token=M4mChnBv9u
+#EXTINF:-1 tvg-id="1881234" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",06/08 01:30 AM | Live Arsenal Real Betis Testspiele 8K DE: DAZN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4BB34F85D8891364FF968EF409109AD8
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1881227&extension=ts&play_token=Eb66IA7iVY
-#EXTINF:-1 tvg-id="1893261" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",06/08 01:30 AM | Arsenal Real Betis Testspiele | 8K AT: DAZN 7
+#EXTVLCOPT:http-header=Authorization: Bearer 4A2C02AE6D97528558D46F7F5C1C790A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1881234&extension=ts&play_token=XogCUXN1KL
+#EXTINF:-1 tvg-id="999562" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13813.png?ver=91937",06/08 01:30 AM | LIVE ARSENAL – BETIS (SE) 8K SE: AftonBlade 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4BB34F85D8891364FF968EF409109AD8
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1893261&extension=ts&play_token=itAl32Afsq
-#EXTINF:-1 tvg-id="1893059" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",06/08 01:30 AM | Arsenal Real Betis Football Matchs Amicaux | 8K CH: DAZN 9
+#EXTVLCOPT:http-header=Authorization: Bearer 4A2C02AE6D97528558D46F7F5C1C790A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=999562&extension=ts&play_token=bIHl97jtgr
+#EXTINF:-1 tvg-id="1716111" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13826.jpg?ver=21622",06/08 01:30 AM | LIVE ARSENAL REAL BETIS (IS) 8K IS: SIMINN 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4BB34F85D8891364FF968EF409109AD8
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1893059&extension=ts&play_token=pOtvXkq4ir
-#EXTINF:-1 tvg-id="999562" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13813.png?ver=91937",06/08 01:30 AM | ARSENAL – BETIS (SE) 8K SE: AftonBlade 6
+#EXTVLCOPT:http-header=Authorization: Bearer 4A2C02AE6D97528558D46F7F5C1C790A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1716111&extension=ts&play_token=xho5qeIsI4
+#EXTINF:-1 tvg-id="1010153" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13824.jpeg?ver=46195",06/08 01:30 AM | LIVE ARSENAL REAL BETIS (IS) 8K IS: LIVEY 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4BB34F85D8891364FF968EF409109AD8
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=999562&extension=ts&play_token=LjQdHfQAWf
-#EXTINF:-1 tvg-id="1716111" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13826.jpg?ver=21622",06/08 01:30 AM | ARSENAL REAL BETIS (IS) 8K IS: SIMINN 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4BB34F85D8891364FF968EF409109AD8
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1716111&extension=ts&play_token=tGAfCD3eb1
-#EXTINF:-1 tvg-id="1010153" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13824.jpeg?ver=46195",06/08 01:30 AM | ARSENAL REAL BETIS (IS) 8K IS: LIVEY 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4BB34F85D8891364FF968EF409109AD8
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1010153&extension=ts&play_token=fyy2Gy1025
-#EXTINF:-1 tvg-id="2040516" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",06/08 01:30 AM | Arsenal Real Betis Testspiele | 8K DE: DAZN 9
+#EXTVLCOPT:http-header=Authorization: Bearer 4A2C02AE6D97528558D46F7F5C1C790A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1010153&extension=ts&play_token=9Lmore5yaY
+#EXTINF:-1 tvg-id="2040523" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",06/08 01:30 AM | Live Arsenal Real Betis Testspiele 8K DE: DAZN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 469157359D214A69EB26D41B2D4C550F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040516&extension=ts&play_token=PQXgBtpNdp
-#EXTINF:-1 tvg-id="2055045" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/08 01:30 AM | Arsenal vs. Betis all | 8K DE: SOCCER 7
+#EXTVLCOPT:http-header=Authorization: Bearer DE93320C0F1B4248ECDD733BCE64A403
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040523&extension=ts&play_token=Zr9q4a1Yke
+#EXTINF:-1 tvg-id="2055045" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/08 01:30 AM | Live Arsenal vs. Betis all 8K DE: SOCCER 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 469157359D214A69EB26D41B2D4C550F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055045&extension=ts&play_token=Cv6RhZS5OZ
-#EXTINF:-1 tvg-id="2055044" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/08 01:30 AM | Arsenal vs. Betis all | 8K DE: SOCCER 7
+#EXTVLCOPT:http-header=Authorization: Bearer DE93320C0F1B4248ECDD733BCE64A403
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055045&extension=ts&play_token=y8ld6pnh9W
+#EXTINF:-1 tvg-id="2055044" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/08 01:30 AM | Live Arsenal vs. Betis all 8K DE: SOCCER 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 469157359D214A69EB26D41B2D4C550F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055044&extension=ts&play_token=7FW11s1axq
-#EXTINF:-1 tvg-id="2046796" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",06/08 01:30 AM | Arsenal Real Betis Football Matchs Amicaux | 8K CH: DAZN 9
+#EXTVLCOPT:http-header=Authorization: Bearer DE93320C0F1B4248ECDD733BCE64A403
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055044&extension=ts&play_token=fBMK4yzbfJ
+#EXTINF:-1 tvg-id="1732527" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/AFTONBLADET.png",06/08 01:30 AM | LIVE ARSENAL – BETIS (SE) 8K SE: AftonBlade 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 469157359D214A69EB26D41B2D4C550F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046796&extension=ts&play_token=vDfMnMYPtm
-#EXTINF:-1 tvg-id="2046698" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",06/08 01:30 AM | Arsenal Real Betis Testspiele | 8K AT: DAZN 7
+#EXTVLCOPT:http-header=Authorization: Bearer DE93320C0F1B4248ECDD733BCE64A403
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1732527&extension=ts&play_token=iuWOLc7hdD
+#EXTINF:-1 tvg-id="1634621" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/LIVEY.png",06/08 01:30 AM | LIVE ARSENAL REAL BETIS (IS) 8K IS: LIVEY 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 469157359D214A69EB26D41B2D4C550F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046698&extension=ts&play_token=vBF4h8rVMP
-#EXTINF:-1 tvg-id="1732527" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/AFTONBLADET.png",06/08 01:30 AM | ARSENAL – BETIS (SE) 8K SE: AftonBlade 6
+#EXTVLCOPT:http-header=Authorization: Bearer DE93320C0F1B4248ECDD733BCE64A403
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1634621&extension=ts&play_token=YqOy55g2nQ
+#EXTINF:-1 tvg-id="1899998" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",06/08 02:00 AM | End Mallorca PSG (in Spanish) Club Friendlies | 8K GB: DAZN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 48AA09A508E413747CF680E5B77B2D56
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1899998&extension=ts&play_token=hRXssHMI6v
+#EXTINF:-1 tvg-id="1899998" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",06/08 02:00 AM | End Mallorca PSG (in Spanish) Club Friendlies | 8K GB: DAZN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4A2C02AE6D97528558D46F7F5C1C790A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1899998&extension=ts&play_token=bAZf4rsqpk
+#EXTINF:-1 tvg-id="2048925" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",06/08 02:00 AM | End Mallorca PSG (in Spanish) Club Friendlies | 8K GB: DAZN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 469157359D214A69EB26D41B2D4C550F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1732527&extension=ts&play_token=BHKlnCSq1l
-#EXTINF:-1 tvg-id="1634621" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/LIVEY.png",06/08 01:30 AM | ARSENAL REAL BETIS (IS) 8K IS: LIVEY 3
+#EXTVLCOPT:http-header=Authorization: Bearer DE93320C0F1B4248ECDD733BCE64A403
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2048925&extension=ts&play_token=id0BORAffj
+#EXTINF:-1 tvg-id="1918871" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/08 02:00 AM | Live Real Club Deportivo Mallorca vs. PSG all 8K DE: SOCCER 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 48AA09A508E413747CF680E5B77B2D56
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918871&extension=ts&play_token=TfFJjVns5J
+#EXTINF:-1 tvg-id="999563" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13813.png?ver=91937",06/08 02:00 AM | LIVE REAL MALLORCA – PSG (SE) 8K SE: AftonBlade 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 48AA09A508E413747CF680E5B77B2D56
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=999563&extension=ts&play_token=bCsqjciEqd
+#EXTINF:-1 tvg-id="1716112" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13826.jpg?ver=21622",06/08 02:00 AM | LIVE MALLORCA PARIS SAINT-GERMAIN (IS) 8K IS: SIMINN 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 48AA09A508E413747CF680E5B77B2D56
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1716112&extension=ts&play_token=ybplFeh5Hf
+#EXTINF:-1 tvg-id="1010154" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13824.jpeg?ver=46195",06/08 02:00 AM | LIVE MALLORCA PARIS SAINT-GERMAIN (IS) 8K IS: LIVEY 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 48AA09A508E413747CF680E5B77B2D56
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1010154&extension=ts&play_token=kutUYzqlMX
+#EXTINF:-1 tvg-id="1939933" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/08 02:00 AM | Live Real Club Deportivo Mallorca vs. PSG all 8K CA: SOCCER 23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 48AA09A508E413747CF680E5B77B2D56
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939933&extension=ts&play_token=upJixYZlcm
+#EXTINF:-1 tvg-id="1940142" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/08 02:00 AM | Live Real Club Deportivo Mallorca vs. PSG all 8K US: SOCCER 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 48AA09A508E413747CF680E5B77B2D56
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1940142&extension=ts&play_token=27WqDuBTIH
+#EXTINF:-1 tvg-id="1940142" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/08 02:00 AM | Live Real Club Deportivo Mallorca vs. PSG all 8K US: SOCCER 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4A2C02AE6D97528558D46F7F5C1C790A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1940142&extension=ts&play_token=8m1EbgV4GV
+#EXTINF:-1 tvg-id="1939933" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/08 02:00 AM | Live Real Club Deportivo Mallorca vs. PSG all 8K CA: SOCCER 23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4A2C02AE6D97528558D46F7F5C1C790A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939933&extension=ts&play_token=pdwAkLAOls
+#EXTINF:-1 tvg-id="1918871" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/08 02:00 AM | Live Real Club Deportivo Mallorca vs. PSG all 8K DE: SOCCER 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4A2C02AE6D97528558D46F7F5C1C790A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1918871&extension=ts&play_token=pbx2Q6lRxh
+#EXTINF:-1 tvg-id="999563" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13813.png?ver=91937",06/08 02:00 AM | LIVE REAL MALLORCA – PSG (SE) 8K SE: AftonBlade 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4A2C02AE6D97528558D46F7F5C1C790A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=999563&extension=ts&play_token=7LfESEGgTI
+#EXTINF:-1 tvg-id="1716112" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13826.jpg?ver=21622",06/08 02:00 AM | LIVE MALLORCA PARIS SAINT-GERMAIN (IS) 8K IS: SIMINN 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4A2C02AE6D97528558D46F7F5C1C790A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1716112&extension=ts&play_token=Sq0WVvcwaQ
+#EXTINF:-1 tvg-id="1010154" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13824.jpeg?ver=46195",06/08 02:00 AM | LIVE MALLORCA PARIS SAINT-GERMAIN (IS) 8K IS: LIVEY 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4A2C02AE6D97528558D46F7F5C1C790A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1010154&extension=ts&play_token=PKmk8MsDkW
+#EXTINF:-1 tvg-id="2055046" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/08 02:00 AM | Live Real Club Deportivo Mallorca vs. PSG all 8K DE: SOCCER 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 469157359D214A69EB26D41B2D4C550F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1634621&extension=ts&play_token=JewI2OoqCf
-#EXTINF:-1 tvg-id="1899995" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",06/08 02:00 AM | Mallorca vs. PSG Club Friendlies | 8K GB: DAZN 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3F861B3EE6F125C9BF43A0A558B4A137
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1899995&extension=ts&play_token=nuL4uNICCY
-#EXTINF:-1 tvg-id="1899995" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",06/08 02:00 AM | Mallorca vs. PSG Club Friendlies | 8K GB: DAZN 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4BB34F85D8891364FF968EF409109AD8
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1899995&extension=ts&play_token=RWjev4bpUP
-#EXTINF:-1 tvg-id="1285509" group-title="🌍|Live International Friendly-Match" tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png",06/08 02:00 AM | CA DAZN 06 MALLORCA @ PARIS SAINT-GERMAIN – /
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B5E634676D0648A8284F31867814663D
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1285509
-#EXTINF:-1 tvg-id="2048922" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",06/08 02:00 AM | Mallorca vs. PSG Club Friendlies | 8K GB: DAZN 7
+#EXTVLCOPT:http-header=Authorization: Bearer DE93320C0F1B4248ECDD733BCE64A403
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055046&extension=ts&play_token=RbMF34gOXG
+#EXTINF:-1 tvg-id="1732528" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/AFTONBLADET.png",06/08 02:00 AM | LIVE REAL MALLORCA – PSG (SE) 8K SE: AftonBlade 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 469157359D214A69EB26D41B2D4C550F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2048922&extension=ts&play_token=sBURUgfp9d
-#EXTINF:-1 tvg-id="1912596" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",06/08 02:00 AM | Mallorca vs. PSG Club Friendlies | 8K CA: DAZN 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3F861B3EE6F125C9BF43A0A558B4A137
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1912596&extension=ts&play_token=ZFSGXp62Bm
-#EXTINF:-1 tvg-id="1899895" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",06/08 02:00 AM | Mallorca vs. PSG (en Español) Club Friendlies | 8K US: DAZN 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3F861B3EE6F125C9BF43A0A558B4A137
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1899895&extension=ts&play_token=5KW8pNY06O
-#EXTINF:-1 tvg-id="1899894" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",06/08 02:00 AM | Mallorca vs. PSG Club Friendlies | 8K US: DAZN 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3F861B3EE6F125C9BF43A0A558B4A137
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1899894&extension=ts&play_token=IEsm0h1o0B
-#EXTINF:-1 tvg-id="1899895" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",06/08 02:00 AM | Mallorca vs. PSG (en Español) Club Friendlies | 8K US: DAZN 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4BB34F85D8891364FF968EF409109AD8
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1899895&extension=ts&play_token=V5ppoyYJdR
-#EXTINF:-1 tvg-id="1899894" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",06/08 02:00 AM | Mallorca vs. PSG Club Friendlies | 8K US: DAZN 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4BB34F85D8891364FF968EF409109AD8
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1899894&extension=ts&play_token=3HGbyhtxms
-#EXTINF:-1 tvg-id="1912596" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",06/08 02:00 AM | Mallorca vs. PSG Club Friendlies | 8K CA: DAZN 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4BB34F85D8891364FF968EF409109AD8
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1912596&extension=ts&play_token=p3MRnk0I2n
-#EXTINF:-1 tvg-id="1918871" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/08 02:00 AM | Real Club Deportivo Mallorca vs. PSG all | 8K DE: SOCCER 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3F861B3EE6F125C9BF43A0A558B4A137
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918871&extension=ts&play_token=hxyXUsTb4l
-#EXTINF:-1 tvg-id="1881029" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",06/08 02:00 AM | Mallorca PSG Matches amicaux | 8K BE: DAZN 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3F861B3EE6F125C9BF43A0A558B4A137
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1881029&extension=ts&play_token=2S55lbKFCX
-#EXTINF:-1 tvg-id="999563" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13813.png?ver=91937",06/08 02:00 AM | REAL MALLORCA – PSG (SE) 8K SE: AftonBlade 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3F861B3EE6F125C9BF43A0A558B4A137
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=999563&extension=ts&play_token=hBrRANv5id
-#EXTINF:-1 tvg-id="1716112" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13826.jpg?ver=21622",06/08 02:00 AM | MALLORCA PARIS SAINT-GERMAIN (IS) 8K IS: SIMINN 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3F861B3EE6F125C9BF43A0A558B4A137
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1716112&extension=ts&play_token=VqjyN8xVkw
-#EXTINF:-1 tvg-id="1010154" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13824.jpeg?ver=46195",06/08 02:00 AM | MALLORCA PARIS SAINT-GERMAIN (IS) 8K IS: LIVEY 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3F861B3EE6F125C9BF43A0A558B4A137
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1010154&extension=ts&play_token=OgZkdAJTeL
-#EXTINF:-1 tvg-id="1939933" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/08 02:00 AM | Real Club Deportivo Mallorca vs. PSG all | 8K CA: SOCCER 23
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3F861B3EE6F125C9BF43A0A558B4A137
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939933&extension=ts&play_token=pkNmnbUQPk
-#EXTINF:-1 tvg-id="1940142" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/08 02:00 AM | Real Club Deportivo Mallorca vs. PSG all | 8K US: SOCCER 15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3F861B3EE6F125C9BF43A0A558B4A137
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1940142&extension=ts&play_token=fqFauEOz4L
-#EXTINF:-1 tvg-id="1899695" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",06/08 02:00 AM | Mallorca vs. PSG Club Friendlies | 8K BR: DAZN 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3F861B3EE6F125C9BF43A0A558B4A137
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1899695&extension=ts&play_token=pYt1CbEdwC
-#EXTINF:-1 tvg-id="1940142" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/08 02:00 AM | Real Club Deportivo Mallorca vs. PSG all | 8K US: SOCCER 15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4BB34F85D8891364FF968EF409109AD8
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1940142&extension=ts&play_token=s5u1VWjefK
-#EXTINF:-1 tvg-id="1939933" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/08 02:00 AM | Real Club Deportivo Mallorca vs. PSG all | 8K CA: SOCCER 23
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4BB34F85D8891364FF968EF409109AD8
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939933&extension=ts&play_token=D8l74405T2
-#EXTINF:-1 tvg-id="1899695" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",06/08 02:00 AM | Mallorca vs. PSG Club Friendlies | 8K BR: DAZN 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4BB34F85D8891364FF968EF409109AD8
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1899695&extension=ts&play_token=ey0MZqrAa2
-#EXTINF:-1 tvg-id="1918871" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",06/08 02:00 AM | Real Club Deportivo Mallorca vs. PSG all | 8K DE: SOCCER 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4BB34F85D8891364FF968EF409109AD8
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1918871&extension=ts&play_token=FPUQacA3pV
-#EXTINF:-1 tvg-id="1881029" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",06/08 02:00 AM | Mallorca PSG Matches amicaux | 8K BE: DAZN 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4BB34F85D8891364FF968EF409109AD8
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1881029&extension=ts&play_token=crAsT9B8T2
-#EXTINF:-1 tvg-id="999563" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13813.png?ver=91937",06/08 02:00 AM | REAL MALLORCA – PSG (SE) 8K SE: AftonBlade 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4BB34F85D8891364FF968EF409109AD8
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=999563&extension=ts&play_token=wAYvoFRJUy
-#EXTINF:-1 tvg-id="1716112" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13826.jpg?ver=21622",06/08 02:00 AM | MALLORCA PARIS SAINT-GERMAIN (IS) 8K IS: SIMINN 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4BB34F85D8891364FF968EF409109AD8
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1716112&extension=ts&play_token=kxQzyQ8Xpx
-#EXTINF:-1 tvg-id="1010154" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13824.jpeg?ver=46195",06/08 02:00 AM | MALLORCA PARIS SAINT-GERMAIN (IS) 8K IS: LIVEY 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4BB34F85D8891364FF968EF409109AD8
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1010154&extension=ts&play_token=WAvVHWmzGP
-#EXTINF:-1 tvg-id="2040623" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",06/08 02:00 AM | Mallorca PSG Matches amicaux | 8K BE: DAZN 7
+#EXTVLCOPT:http-header=Authorization: Bearer DE93320C0F1B4248ECDD733BCE64A403
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1732528&extension=ts&play_token=2qjJk5vBOf
+#EXTINF:-1 tvg-id="1634622" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/LIVEY.png",06/08 02:00 AM | LIVE MALLORCA PARIS SAINT-GERMAIN (IS) 8K IS: LIVEY 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 469157359D214A69EB26D41B2D4C550F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040623&extension=ts&play_token=T3hsKlHXIH
-#EXTINF:-1 tvg-id="2055046" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",06/08 02:00 AM | Real Club Deportivo Mallorca vs. PSG all | 8K DE: SOCCER 6
+#EXTVLCOPT:http-header=Authorization: Bearer DE93320C0F1B4248ECDD733BCE64A403
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1634622&extension=ts&play_token=Xp7O2MdZ4I
+#EXTINF:-1 tvg-id="1601657" group-title="Live UEFA Europa League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",07/08 12:45 AM | US (ESPN+ 062) Soccer: Paok FC vs. Anderlecht ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 469157359D214A69EB26D41B2D4C550F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055046&extension=ts&play_token=l3sGriebXL
-#EXTINF:-1 tvg-id="1732528" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/AFTONBLADET.png",06/08 02:00 AM | REAL MALLORCA – PSG (SE) 8K SE: AftonBlade 5
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 48AA09A508E413747CF680E5B77B2D56
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1601657&extension=ts&play_token=VwHN85pgMK
+#EXTINF:-1 tvg-id="1601657" group-title="Live UEFA Europa League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",07/08 12:45 AM | US (ESPN+ 062) Soccer: Paok FC vs. Anderlecht ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 469157359D214A69EB26D41B2D4C550F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1732528&extension=ts&play_token=oFFjR9pqDD
-#EXTINF:-1 tvg-id="1634622" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/LIVEY.png",06/08 02:00 AM | MALLORCA PARIS SAINT-GERMAIN (IS) 8K IS: LIVEY 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 469157359D214A69EB26D41B2D4C550F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1634622&extension=ts&play_token=gBalMeuw8q
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4A2C02AE6D97528558D46F7F5C1C790A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1601657&extension=ts&play_token=Ttd3S7MYqT
