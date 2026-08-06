@@ -1,41 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1285509" group-title="🌍|Live International Friendly-Match" tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png",06/08 11:00 PM | CA DAZN 06 MALLORCA @ PARIS SAINT-GERMAIN – /
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8E8F951EC2EAD67D0693B33A87FFFA75
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1285509
-#EXTINF:-1 tvg-id="1601693" group-title="Live UEFA Europa League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",07/08 12:45 AM | US (ESPN+ 026) Soccer: Paok FC vs. Anderlecht ( :00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6D7E4C60914CCF687610A27A1A9B18B2
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1601693&extension=ts&play_token=mYGq7aUaaq
-#EXTINF:-1 tvg-id="1924717" group-title="Live UEFA Europa League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",07/08 12:45 AM | PAOK FC VS. ANDERLECHT (UEFA EUROPA LEAGUE) (US) 8K US: ESPN+ 13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6D7E4C60914CCF687610A27A1A9B18B2
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1924717&extension=ts&play_token=H38fE9eHJJ
-#EXTINF:-1 tvg-id="2063937" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/08 01:00 AM | Monaco vs. Getafe CF all | 8K FR: SOCCER 22
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6D7E4C60914CCF687610A27A1A9B18B2
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2063937&extension=ts&play_token=iq70P5b6OJ
 #EXTINF:-1 tvg-id="2113089" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",07/08 01:00 AM | Monaco vs. Getafe CF all | 8K FR: SOCCER 22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 079A51AB0D563E1B8A07C1A410F16201
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113089&extension=ts&play_token=rQfA42TIGg
-#EXTINF:-1 tvg-id="2084234" group-title="Live UEFA Europa League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15271.jpg?ver=95591",07/08 02:00 AM | PSF 06 Benfica vs Hearts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6D7E4C60914CCF687610A27A1A9B18B2
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2084234&extension=ts&play_token=NKbsa0iOXV
+#EXTVLCOPT:http-header=Authorization: Bearer 7FDD2DD1C0169A281A9568AF581D846D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113089&extension=ts&play_token=VY8BqcEM5L
 #EXTINF:-1 tvg-id="2114326" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",07/08 02:00 AM | PSF 06 Benfica vs Hearts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 079A51AB0D563E1B8A07C1A410F16201
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114326&extension=ts&play_token=bVW32Vt743
+#EXTVLCOPT:http-header=Authorization: Bearer 7FDD2DD1C0169A281A9568AF581D846D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114326&extension=ts&play_token=m6vY4Yyiod
 #EXTINF:-1 tvg-id="1802344" group-title="Live UEFA Europa League-Match",07/08 02:00 AM | PSF 06 Benfica vs Hearts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 412775B52F4A9F5394C7A2C038AFD072
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802344&extension=ts&play_token=k9HbglVjcL
+#EXTVLCOPT:http-header=Authorization: Bearer 1AEBCA609DF7A95DD1CB09A8DACAB696
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802344&extension=ts&play_token=NfP26H887P
+#EXTINF:-1 tvg-id="1802344" group-title="Live UEFA Europa League-Match",07/08 02:00 AM | PSF 06 Benfica vs Hearts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 691079E49E7D05FDA6A9E850D7C311E7
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1802344&extension=ts&play_token=Lfn0G7587M
+#EXTINF:-1 tvg-id="1802344" group-title="Live UEFA Europa League-Match",07/08 02:00 AM | PSF 06 Benfica vs Hearts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B9DB39E5BF80A93E34493F8FC515D116
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1802344&extension=ts&play_token=TeRNTUpwis
