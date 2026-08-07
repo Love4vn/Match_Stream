@@ -1,26 +1,351 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="2113089" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",07/08 01:00 AM | Monaco vs. Getafe CF all | 8K FR: SOCCER 22
+#EXTINF:-1 tvg-id="999565" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13813.png?ver=91937",07/08 07:00 PM | FC BAYERN – ASTON VILLA FC (SE) 8K SE: AftonBlade 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7FDD2DD1C0169A281A9568AF581D846D
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113089&extension=ts&play_token=VY8BqcEM5L
-#EXTINF:-1 tvg-id="2114326" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",07/08 02:00 AM | PSF 06 Benfica vs Hearts
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F69E05518DF59A897F0202AA25F295BA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=999565&extension=ts&play_token=lZKZFlIA7k
+#EXTINF:-1 tvg-id="1716106" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13826.jpg?ver=21622",07/08 07:00 PM | BAYERN MÜNCHEN ASTON VILLA (IS) 8K IS: SIMINN 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7FDD2DD1C0169A281A9568AF581D846D
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114326&extension=ts&play_token=m6vY4Yyiod
-#EXTINF:-1 tvg-id="1802344" group-title="Live UEFA Europa League-Match",07/08 02:00 AM | PSF 06 Benfica vs Hearts
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F69E05518DF59A897F0202AA25F295BA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1716106&extension=ts&play_token=ga6GlA9D2h
+#EXTINF:-1 tvg-id="1010150" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13824.jpeg?ver=46195",07/08 07:00 PM | BAYERN MUNICH ASTON VILLA (IS) 8K IS: LIVEY 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1AEBCA609DF7A95DD1CB09A8DACAB696
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802344&extension=ts&play_token=NfP26H887P
-#EXTINF:-1 tvg-id="1802344" group-title="Live UEFA Europa League-Match",07/08 02:00 AM | PSF 06 Benfica vs Hearts
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F69E05518DF59A897F0202AA25F295BA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1010150&extension=ts&play_token=MqwfB9fliG
+#EXTINF:-1 tvg-id="999565" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13813.png?ver=91937",07/08 07:00 PM | FC BAYERN – ASTON VILLA FC (SE) 8K SE: AftonBlade 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 691079E49E7D05FDA6A9E850D7C311E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1802344&extension=ts&play_token=Lfn0G7587M
-#EXTINF:-1 tvg-id="1802344" group-title="Live UEFA Europa League-Match",07/08 02:00 AM | PSF 06 Benfica vs Hearts
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 60B985970952B92AAE284DF8A9EA579A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=999565&extension=ts&play_token=wQk2F7sEVt
+#EXTINF:-1 tvg-id="1716106" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13826.jpg?ver=21622",07/08 07:00 PM | BAYERN MÜNCHEN ASTON VILLA (IS) 8K IS: SIMINN 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B9DB39E5BF80A93E34493F8FC515D116
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1802344&extension=ts&play_token=TeRNTUpwis
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 60B985970952B92AAE284DF8A9EA579A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1716106&extension=ts&play_token=M5M6vR9PUK
+#EXTINF:-1 tvg-id="1010150" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13824.jpeg?ver=46195",07/08 07:00 PM | BAYERN MUNICH ASTON VILLA (IS) 8K IS: LIVEY 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 60B985970952B92AAE284DF8A9EA579A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1010150&extension=ts&play_token=c1riThwmqx
+#EXTINF:-1 tvg-id="999565" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13813.png?ver=91937",07/08 07:00 PM | FC BAYERN – ASTON VILLA FC (SE) 8K SE: AftonBlade 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B57533ABA086548F5C704A4DDCC55DE8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=999565&extension=ts&play_token=ET0vsW33UB
+#EXTINF:-1 tvg-id="1716106" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13826.jpg?ver=21622",07/08 07:00 PM | BAYERN MÜNCHEN ASTON VILLA (IS) 8K IS: SIMINN 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B57533ABA086548F5C704A4DDCC55DE8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1716106&extension=ts&play_token=1BrfcnE2Z2
+#EXTINF:-1 tvg-id="1010150" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13824.jpeg?ver=46195",07/08 07:00 PM | BAYERN MUNICH ASTON VILLA (IS) 8K IS: LIVEY 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B57533ABA086548F5C704A4DDCC55DE8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1010150&extension=ts&play_token=SPUOar3a1O
+#EXTINF:-1 tvg-id="1899407" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517",07/08 11:30 PM | MEXICO: RACE 8K : APPLE TV F1 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F69E05518DF59A897F0202AA25F295BA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1899407&extension=ts&play_token=XJddOO2oLG
+#EXTINF:-1 tvg-id="1899407" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517",07/08 11:30 PM | MEXICO: RACE 8K : APPLE TV F1 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 60B985970952B92AAE284DF8A9EA579A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1899407&extension=ts&play_token=qKbeuWahbJ
+#EXTINF:-1 tvg-id="1899407" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517",07/08 11:30 PM | MEXICO: RACE 8K : APPLE TV F1 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B57533ABA086548F5C704A4DDCC55DE8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1899407&extension=ts&play_token=SBGz7tbq87
+#EXTINF:-1 tvg-id="429389" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/750.jpg?ver=56209",07/08 11:30 PM | US: FOX 59 (WXIN) INDIANAPOLIS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F69E05518DF59A897F0202AA25F295BA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=429389&extension=ts&play_token=rLayxuQ9QZ
+#EXTINF:-1 tvg-id="832056" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6591.png?94013",07/08 11:30 PM | US: BOXING TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F69E05518DF59A897F0202AA25F295BA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=832056&extension=ts&play_token=BNv7ad8Brh
+#EXTINF:-1 tvg-id="1601540" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",07/08 11:30 PM | US (ESPN+ 179) Soccer: Lexington SC vs. Phoenix FC ( :35)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F69E05518DF59A897F0202AA25F295BA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1601540&extension=ts&play_token=G6PGubOOxr
+#EXTINF:-1 tvg-id="429389" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/750.jpg?ver=56209",07/08 11:30 PM | US: FOX 59 (WXIN) INDIANAPOLIS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 60B985970952B92AAE284DF8A9EA579A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=429389&extension=ts&play_token=MhP8AmWdUs
+#EXTINF:-1 tvg-id="832056" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6591.png?94013",07/08 11:30 PM | US: BOXING TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 60B985970952B92AAE284DF8A9EA579A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=832056&extension=ts&play_token=KdHknkFvGa
+#EXTINF:-1 tvg-id="1601540" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",07/08 11:30 PM | US (ESPN+ 179) Soccer: Lexington SC vs. Phoenix FC ( :35)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 60B985970952B92AAE284DF8A9EA579A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1601540&extension=ts&play_token=kyRbTYTr76
+#EXTINF:-1 tvg-id="429389" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/750.jpg?ver=56209",07/08 11:30 PM | US: FOX 59 (WXIN) INDIANAPOLIS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B57533ABA086548F5C704A4DDCC55DE8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=429389&extension=ts&play_token=8HtAGLOIL6
+#EXTINF:-1 tvg-id="832056" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6591.png?94013",07/08 11:30 PM | US: BOXING TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B57533ABA086548F5C704A4DDCC55DE8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=832056&extension=ts&play_token=wfy7a7vY28
+#EXTINF:-1 tvg-id="1601540" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",07/08 11:30 PM | US (ESPN+ 179) Soccer: Lexington SC vs. Phoenix FC ( :35)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B57533ABA086548F5C704A4DDCC55DE8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1601540&extension=ts&play_token=sEWNttqV3B
+#EXTINF:-1 tvg-id="441621" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/maxxitv.png",07/08 11:30 PM | UA: MAXXI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F69E05518DF59A897F0202AA25F295BA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=441621&extension=ts&play_token=quZfONCuCz
+#EXTINF:-1 tvg-id="1918842" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/08 11:30 PM | End Boxing-Williamson vs. Simpson 2: Launch Press Conference all | 8K DE: SOCCER 35
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F69E05518DF59A897F0202AA25F295BA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918842&extension=ts&play_token=uW6UI49BlG
+#EXTINF:-1 tvg-id="1893156" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",07/08 11:30 PM | LIV Golf Mexico City Day 4 Featured Group 2 LIV Golf | 8K NL: DAZN 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F69E05518DF59A897F0202AA25F295BA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1893156&extension=ts&play_token=UHPpa4q9Aq
+#EXTINF:-1 tvg-id="1893155" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",07/08 11:30 PM | LIV Golf Mexico City Day 4 Featured Group 3 LIV Golf | 8K NL: DAZN 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F69E05518DF59A897F0202AA25F295BA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1893155&extension=ts&play_token=PY9N4bXeoC
+#EXTINF:-1 tvg-id="1893154" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",07/08 11:30 PM | LIV Golf Mexico City Day 4 LIV Golf | 8K NL: DAZN 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F69E05518DF59A897F0202AA25F295BA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1893154&extension=ts&play_token=2kjdWAQDJc
+#EXTINF:-1 tvg-id="1893153" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",07/08 11:30 PM | LIV Golf Mexico City Day 4 Featured Group 1 LIV Golf | 8K NL: DAZN 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F69E05518DF59A897F0202AA25F295BA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1893153&extension=ts&play_token=sEWX4dYphy
+#EXTINF:-1 tvg-id="1893152" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",07/08 11:30 PM | LIV Golf Mexico City Day 4 Featured Group 4 LIV Golf | 8K NL: DAZN 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F69E05518DF59A897F0202AA25F295BA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1893152&extension=ts&play_token=ZiYXQ6L0zL
+#EXTINF:-1 tvg-id="1930674" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/08 11:30 PM | End Wang Xinbo Mark Joyce China Open Kval all | 8K SE: SOCCER 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F69E05518DF59A897F0202AA25F295BA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1930674&extension=ts&play_token=EqGhxzEALp
+#EXTINF:-1 tvg-id="1939863" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/08 11:30 PM | Zuffa Boxing 10 Ceremonial Weigh-In all | 8K CA: SOCCER 93
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F69E05518DF59A897F0202AA25F295BA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939863&extension=ts&play_token=QPSj5BNGdA
+#EXTINF:-1 tvg-id="1940139" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/08 11:30 PM | End Boxing-Williamson vs. Simpson 2: Launch Press Conference all | 8K US: SOCCER 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F69E05518DF59A897F0202AA25F295BA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1940139&extension=ts&play_token=wqfRrjUM6f
+#EXTINF:-1 tvg-id="1899385" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517",07/08 11:30 PM | MEXICO: RACE (US) 8K US: APPLE TV F1 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F69E05518DF59A897F0202AA25F295BA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1899385&extension=ts&play_token=thKNNfCsni
+#EXTINF:-1 tvg-id="1660904" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=67754",07/08 11:30 PM | (FLSP 845) flofootball: 2026 New Mexico Highlands vs Western N.M. (New Mexico Highlands vs Western N.M.) ( :00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F69E05518DF59A897F0202AA25F295BA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1660904&extension=ts&play_token=JpdwOiEg80
+#EXTINF:-1 tvg-id="1919051" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/08 11:30 PM | Zuffa Boxing 10 Ceremonial Weigh-In all | 8K BR: SOCCER 33
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F69E05518DF59A897F0202AA25F295BA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919051&extension=ts&play_token=MSoCoPsCgz
+#EXTINF:-1 tvg-id="1940139" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/08 11:30 PM | End Boxing-Williamson vs. Simpson 2: Launch Press Conference all | 8K US: SOCCER 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 60B985970952B92AAE284DF8A9EA579A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1940139&extension=ts&play_token=lxF0Hc8wUX
+#EXTINF:-1 tvg-id="1899385" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517",07/08 11:30 PM | MEXICO: RACE (US) 8K US: APPLE TV F1 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 60B985970952B92AAE284DF8A9EA579A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1899385&extension=ts&play_token=GRe02aaWvS
+#EXTINF:-1 tvg-id="1660904" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=67754",07/08 11:30 PM | (FLSP 845) flofootball: 2026 New Mexico Highlands vs Western N.M. (New Mexico Highlands vs Western N.M.) ( :00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 60B985970952B92AAE284DF8A9EA579A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1660904&extension=ts&play_token=kAjcLv57Gf
+#EXTINF:-1 tvg-id="1939863" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/08 11:30 PM | Zuffa Boxing 10 Ceremonial Weigh-In all | 8K CA: SOCCER 93
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 60B985970952B92AAE284DF8A9EA579A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939863&extension=ts&play_token=ZhrtrTk81a
+#EXTINF:-1 tvg-id="1919051" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/08 11:30 PM | Zuffa Boxing 10 Ceremonial Weigh-In all | 8K BR: SOCCER 33
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 60B985970952B92AAE284DF8A9EA579A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919051&extension=ts&play_token=frvPyHNzgv
+#EXTINF:-1 tvg-id="1918842" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/08 11:30 PM | End Boxing-Williamson vs. Simpson 2: Launch Press Conference all | 8K DE: SOCCER 35
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 60B985970952B92AAE284DF8A9EA579A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1918842&extension=ts&play_token=urpwcODYkA
+#EXTINF:-1 tvg-id="1893156" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",07/08 11:30 PM | LIV Golf Mexico City Day 4 Featured Group 2 LIV Golf | 8K NL: DAZN 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 60B985970952B92AAE284DF8A9EA579A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1893156&extension=ts&play_token=9e5P8uMRmH
+#EXTINF:-1 tvg-id="1893155" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",07/08 11:30 PM | LIV Golf Mexico City Day 4 Featured Group 3 LIV Golf | 8K NL: DAZN 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 60B985970952B92AAE284DF8A9EA579A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1893155&extension=ts&play_token=gzfTfg7WTv
+#EXTINF:-1 tvg-id="1893154" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",07/08 11:30 PM | LIV Golf Mexico City Day 4 LIV Golf | 8K NL: DAZN 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 60B985970952B92AAE284DF8A9EA579A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1893154&extension=ts&play_token=p9RWelGNnu
+#EXTINF:-1 tvg-id="1893153" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",07/08 11:30 PM | LIV Golf Mexico City Day 4 Featured Group 1 LIV Golf | 8K NL: DAZN 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 60B985970952B92AAE284DF8A9EA579A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1893153&extension=ts&play_token=8zgJRCR8LN
+#EXTINF:-1 tvg-id="1893152" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",07/08 11:30 PM | LIV Golf Mexico City Day 4 Featured Group 4 LIV Golf | 8K NL: DAZN 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 60B985970952B92AAE284DF8A9EA579A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1893152&extension=ts&play_token=UtkWZe5WcI
+#EXTINF:-1 tvg-id="1930674" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/08 11:30 PM | End Wang Xinbo Mark Joyce China Open Kval all | 8K SE: SOCCER 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 60B985970952B92AAE284DF8A9EA579A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1930674&extension=ts&play_token=0bqgOdezZB
+#EXTINF:-1 tvg-id="1940139" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/08 11:30 PM | End Boxing-Williamson vs. Simpson 2: Launch Press Conference all | 8K US: SOCCER 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B57533ABA086548F5C704A4DDCC55DE8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1940139&extension=ts&play_token=mUV018sDaG
+#EXTINF:-1 tvg-id="1899385" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517",07/08 11:30 PM | MEXICO: RACE (US) 8K US: APPLE TV F1 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B57533ABA086548F5C704A4DDCC55DE8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1899385&extension=ts&play_token=eAg6dvat3O
+#EXTINF:-1 tvg-id="1660904" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=67754",07/08 11:30 PM | (FLSP 845) flofootball: 2026 New Mexico Highlands vs Western N.M. (New Mexico Highlands vs Western N.M.) ( :00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B57533ABA086548F5C704A4DDCC55DE8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1660904&extension=ts&play_token=tkGY377APd
+#EXTINF:-1 tvg-id="1939863" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/08 11:30 PM | Zuffa Boxing 10 Ceremonial Weigh-In all | 8K CA: SOCCER 93
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B57533ABA086548F5C704A4DDCC55DE8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939863&extension=ts&play_token=DJwamT1Gt8
+#EXTINF:-1 tvg-id="1919051" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/08 11:30 PM | Zuffa Boxing 10 Ceremonial Weigh-In all | 8K BR: SOCCER 33
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B57533ABA086548F5C704A4DDCC55DE8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1919051&extension=ts&play_token=Yj9m7a3OeX
+#EXTINF:-1 tvg-id="1918842" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/08 11:30 PM | End Boxing-Williamson vs. Simpson 2: Launch Press Conference all | 8K DE: SOCCER 35
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B57533ABA086548F5C704A4DDCC55DE8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1918842&extension=ts&play_token=Vo6VsrQLm7
+#EXTINF:-1 tvg-id="1893156" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",07/08 11:30 PM | LIV Golf Mexico City Day 4 Featured Group 2 LIV Golf | 8K NL: DAZN 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B57533ABA086548F5C704A4DDCC55DE8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1893156&extension=ts&play_token=3BUfydEfku
+#EXTINF:-1 tvg-id="1893155" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",07/08 11:30 PM | LIV Golf Mexico City Day 4 Featured Group 3 LIV Golf | 8K NL: DAZN 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B57533ABA086548F5C704A4DDCC55DE8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1893155&extension=ts&play_token=6ptbKrj3UP
+#EXTINF:-1 tvg-id="1893154" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",07/08 11:30 PM | LIV Golf Mexico City Day 4 LIV Golf | 8K NL: DAZN 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B57533ABA086548F5C704A4DDCC55DE8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1893154&extension=ts&play_token=lmlKzuUXqT
+#EXTINF:-1 tvg-id="1893153" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",07/08 11:30 PM | LIV Golf Mexico City Day 4 Featured Group 1 LIV Golf | 8K NL: DAZN 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B57533ABA086548F5C704A4DDCC55DE8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1893153&extension=ts&play_token=08tsH8hrh1
+#EXTINF:-1 tvg-id="1893152" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",07/08 11:30 PM | LIV Golf Mexico City Day 4 Featured Group 4 LIV Golf | 8K NL: DAZN 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B57533ABA086548F5C704A4DDCC55DE8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1893152&extension=ts&play_token=KDIliO6UwT
+#EXTINF:-1 tvg-id="1930674" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",07/08 11:30 PM | End Wang Xinbo Mark Joyce China Open Kval all | 8K SE: SOCCER 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B57533ABA086548F5C704A4DDCC55DE8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1930674&extension=ts&play_token=mTLYrlV9ko
+#EXTINF:-1 tvg-id="1562618" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14554.png?64116",07/08 11:30 PM | IT: DAZN MATCHROOM BOXING ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F69E05518DF59A897F0202AA25F295BA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562618&extension=ts&play_token=KDgx2k39ce
+#EXTINF:-1 tvg-id="1562617" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14554.png?64116",07/08 11:30 PM | IT: DAZN BOXING TV ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F69E05518DF59A897F0202AA25F295BA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562617&extension=ts&play_token=GtPl5ZifT5
+#EXTINF:-1 tvg-id="1562616" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14554.png?64116",07/08 11:30 PM | IT: DAZN BOXING TV 1 ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F69E05518DF59A897F0202AA25F295BA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562616&extension=ts&play_token=35A2PJFqBF
+#EXTINF:-1 tvg-id="1562615" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14554.png?64116",07/08 11:30 PM | IT: DAZN BOXING TV 2 ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F69E05518DF59A897F0202AA25F295BA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562615&extension=ts&play_token=qUre464rDH
+#EXTINF:-1 tvg-id="1562614" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14554.png?64116",07/08 11:30 PM | IT: DAZN BOXING TV 3 ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F69E05518DF59A897F0202AA25F295BA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562614&extension=ts&play_token=vDienVPuHY
+#EXTINF:-1 tvg-id="1562613" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14554.png?64116",07/08 11:30 PM | IT: DAZN BOXING TV 4 ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F69E05518DF59A897F0202AA25F295BA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562613&extension=ts&play_token=su7wsNzykS
+#EXTINF:-1 tvg-id="285318" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8262.jpg?76687",07/08 11:30 PM | IT: Eleven Sport Fighting Kick Boxing Live + Replica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F69E05518DF59A897F0202AA25F295BA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=285318&extension=ts&play_token=vYY5Y5vJ3K
+#EXTINF:-1 tvg-id="2095769" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/LATINO/TELEMUNDO.png",07/08 11:30 PM | TELEMUNDO LOCAL (MEXICALI)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F69E05518DF59A897F0202AA25F295BA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2095769&extension=ts&play_token=ybLcF8YASw
+#EXTINF:-1 tvg-id="2095769" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/LATINO/TELEMUNDO.png",07/08 11:30 PM | TELEMUNDO LOCAL (MEXICALI)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 60B985970952B92AAE284DF8A9EA579A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2095769&extension=ts&play_token=QudSgJ1HxR
+#EXTINF:-1 tvg-id="285318" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8262.jpg?76687",07/08 11:30 PM | IT: Eleven Sport Fighting Kick Boxing Live + Replica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 60B985970952B92AAE284DF8A9EA579A
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=285318&extension=ts&play_token=Rm8M9fAACG
+#EXTINF:-1 tvg-id="2095769" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/LATINO/TELEMUNDO.png",07/08 11:30 PM | TELEMUNDO LOCAL (MEXICALI)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B57533ABA086548F5C704A4DDCC55DE8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=2095769&extension=ts&play_token=6e4nlXnIoS
+#EXTINF:-1 tvg-id="285318" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8262.jpg?76687",07/08 11:30 PM | IT: Eleven Sport Fighting Kick Boxing Live + Replica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B57533ABA086548F5C704A4DDCC55DE8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=285318&extension=ts&play_token=YGNsozLCFM
