@@ -1,231 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1984093" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",09/08 12:00 AM | LIVE REAL MADRID VS. FERENCVÁROS -02 (BR) 8K BR: DISNEY+ 33
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 141BAF499C2DB72CE11F882BE91E8ECD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1984093&extension=ts&play_token=DniGWmQ83G
-#EXTINF:-1 tvg-id="1128621" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13844.png?ver=3041",09/08 12:00 AM | LIVE FERENCVAROS REAL MADRID (NO) 8K NO: VGTV 11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 141BAF499C2DB72CE11F882BE91E8ECD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1128621&extension=ts&play_token=V5LhzjSE4m
-#EXTINF:-1 tvg-id="1675560" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGTV.png",09/08 12:00 AM | LIVE FERENCVAROS REAL MADRID (NO) 8K NO: VGTV 11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 13DEFD310EC668CA7DDC409489CB5363
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1675560&extension=ts&play_token=aftUqaIAIN
-#EXTINF:-1 tvg-id="2084229" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15271.jpg?ver=95591",09/08 01:00 AM | PSF11: Udinese vs Nottingham Forest // Barcelona vs Nottingham Forest
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 141BAF499C2DB72CE11F882BE91E8ECD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2084229&extension=ts&play_token=9AZfF8lhhI
-#EXTINF:-1 tvg-id="2114321" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",09/08 01:00 AM | PSF11: Udinese vs Nottingham Forest // Barcelona vs Nottingham Forest
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 13DEFD310EC668CA7DDC409489CB5363
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114321&extension=ts&play_token=LOj9X3Bz8V
-#EXTINF:-1 tvg-id="1802349" group-title="🌍|Live International Friendly-Match",09/08 01:00 AM | PSF11: Udinese vs Nottingham Forest // Barcelona vs Nottingham Forest
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3297BB3B4EA42A3BCEB34E02F53D988D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802349&extension=ts&play_token=zJhkTuTqfw
-#EXTINF:-1 tvg-id="1802349" group-title="🌍|Live International Friendly-Match",09/08 01:00 AM | PSF11: Udinese vs Nottingham Forest // Barcelona vs Nottingham Forest
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AEEAACC2665DC774669030D87904223E
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1802349&extension=ts&play_token=OhLlIyRvnb
-#EXTINF:-1 tvg-id="1940076" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",09/08 01:00 AM | Live Udinese vs. Nottingham Forest all 8K US: SOCCER 81
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 141BAF499C2DB72CE11F882BE91E8ECD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1940076&extension=ts&play_token=rqeDdnjXHr
-#EXTINF:-1 tvg-id="1027270" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13832.png?ver=61261",09/08 01:00 AM | LIVE UDINESE-NOTTINGHAM FOREST (DK) 8K DK: PLAY TV2 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 141BAF499C2DB72CE11F882BE91E8ECD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1027270&extension=ts&play_token=q36D7iIASv
-#EXTINF:-1 tvg-id="1128620" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13844.png?ver=3041",09/08 01:00 AM | LIVE FVG-CUP: UDINESE-NOTTINGHAM- BARCELONA (NO) 8K NO: VGTV 12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 141BAF499C2DB72CE11F882BE91E8ECD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1128620&extension=ts&play_token=G3s33q7bmL
-#EXTINF:-1 tvg-id="1639613" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/PLAYTV2.png",09/08 01:00 AM | LIVE UDINESE-NOTTINGHAM FOREST (DK) 8K DK: PLAY TV2 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 13DEFD310EC668CA7DDC409489CB5363
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1639613&extension=ts&play_token=Bey6paRvGS
-#EXTINF:-1 tvg-id="1675559" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGTV.png",09/08 01:00 AM | LIVE FVG-CUP: UDINESE-NOTTINGHAM- BARCELONA (NO) 8K NO: VGTV 12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 13DEFD310EC668CA7DDC409489CB5363
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1675559&extension=ts&play_token=5QJLqEtVNr
-#EXTINF:-1 tvg-id="2084228" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15271.jpg?ver=95591",09/08 01:30 AM | PSF12: Betis vs AFC Bournemouth
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 141BAF499C2DB72CE11F882BE91E8ECD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2084228&extension=ts&play_token=JZqN37yrLu
-#EXTINF:-1 tvg-id="2114320" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",09/08 01:30 AM | PSF12: Betis vs AFC Bournemouth
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 13DEFD310EC668CA7DDC409489CB5363
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114320&extension=ts&play_token=ygiFpVsA14
-#EXTINF:-1 tvg-id="1802350" group-title="🌍|Live International Friendly-Match",09/08 01:30 AM | PSF12: Betis vs AFC Bournemouth
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3297BB3B4EA42A3BCEB34E02F53D988D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802350&extension=ts&play_token=aV94Vp0sm1
-#EXTINF:-1 tvg-id="1802350" group-title="🌍|Live International Friendly-Match",09/08 01:30 AM | PSF12: Betis vs AFC Bournemouth
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AEEAACC2665DC774669030D87904223E
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1802350&extension=ts&play_token=gsMAeGX18o
-#EXTINF:-1 tvg-id="2063923" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",09/08 01:30 AM | Cagliari Calcio vs. Nice all | 8K FR: SOCCER 36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 141BAF499C2DB72CE11F882BE91E8ECD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2063923&extension=ts&play_token=ETqhaldUaH
-#EXTINF:-1 tvg-id="2113075" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",09/08 01:30 AM | Cagliari Calcio vs. Nice all | 8K FR: SOCCER 36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 13DEFD310EC668CA7DDC409489CB5363
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113075&extension=ts&play_token=bkFEF2ZSIu
-#EXTINF:-1 tvg-id="2084227" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15271.jpg?ver=95591",09/08 02:00 AM | PSF13: Valencia vs Newcastle United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 141BAF499C2DB72CE11F882BE91E8ECD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2084227&extension=ts&play_token=o5RYifE8bT
-#EXTINF:-1 tvg-id="2114319" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",09/08 02:00 AM | PSF13: Valencia vs Newcastle United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 13DEFD310EC668CA7DDC409489CB5363
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114319&extension=ts&play_token=D43mB78c4j
-#EXTINF:-1 tvg-id="1802351" group-title="🌍|Live International Friendly-Match",09/08 02:00 AM | PSF13: Valencia vs Newcastle United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3297BB3B4EA42A3BCEB34E02F53D988D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802351&extension=ts&play_token=toERNBRB73
-#EXTINF:-1 tvg-id="1802351" group-title="🌍|Live International Friendly-Match",09/08 02:00 AM | PSF13: Valencia vs Newcastle United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AEEAACC2665DC774669030D87904223E
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1802351&extension=ts&play_token=gHa4R4t7CO
-#EXTINF:-1 tvg-id="999562" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13813.png?ver=91937",09/08 02:00 AM | VALENCIA NEWCASTLE (SE) 8K SE: AftonBlade 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 141BAF499C2DB72CE11F882BE91E8ECD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=999562&extension=ts&play_token=V3n60BU1fC
-#EXTINF:-1 tvg-id="1128619" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13844.png?ver=3041",09/08 02:00 AM | VALENCIA NEWCASTLE UNITED (NO) 8K NO: VGTV 13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 141BAF499C2DB72CE11F882BE91E8ECD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1128619&extension=ts&play_token=DxuZncAIiJ
-#EXTINF:-1 tvg-id="1732527" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/AFTONBLADET.png",09/08 02:00 AM | VALENCIA NEWCASTLE (SE) 8K SE: AftonBlade 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 13DEFD310EC668CA7DDC409489CB5363
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1732527&extension=ts&play_token=CVs6EOFtRk
-#EXTINF:-1 tvg-id="1675558" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGTV.png",09/08 02:00 AM | VALENCIA NEWCASTLE UNITED (NO) 8K NO: VGTV 13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 13DEFD310EC668CA7DDC409489CB5363
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1675558&extension=ts&play_token=XWSBs2Gato
-#EXTINF:-1 tvg-id="2084229" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15271.jpg?ver=95591",09/08 02:00 AM | PSF11: Udinese vs Nottingham Forest // Barcelona vs Nottingham Forest
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 141BAF499C2DB72CE11F882BE91E8ECD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2084229&extension=ts&play_token=9AZfF8lhhI
-#EXTINF:-1 tvg-id="2114321" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",09/08 02:00 AM | PSF11: Udinese vs Nottingham Forest // Barcelona vs Nottingham Forest
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 13DEFD310EC668CA7DDC409489CB5363
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114321&extension=ts&play_token=LOj9X3Bz8V
-#EXTINF:-1 tvg-id="1802349" group-title="🌍|Live International Friendly-Match",09/08 02:00 AM | PSF11: Udinese vs Nottingham Forest // Barcelona vs Nottingham Forest
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3297BB3B4EA42A3BCEB34E02F53D988D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802349&extension=ts&play_token=zJhkTuTqfw
-#EXTINF:-1 tvg-id="1802349" group-title="🌍|Live International Friendly-Match",09/08 02:00 AM | PSF11: Udinese vs Nottingham Forest // Barcelona vs Nottingham Forest
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AEEAACC2665DC774669030D87904223E
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1802349&extension=ts&play_token=OhLlIyRvnb
-#EXTINF:-1 tvg-id="1940070" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",09/08 02:00 AM | FC Barcelona vs. Nottingham Forest all | 8K US: SOCCER 87
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 141BAF499C2DB72CE11F882BE91E8ECD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1940070&extension=ts&play_token=WiVqcyGRfl
-#EXTINF:-1 tvg-id="1027269" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13832.png?ver=61261",09/08 02:00 AM | FC BARCELONA-NOTTINGHAM FOREST (DK) 8K DK: PLAY TV2 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 141BAF499C2DB72CE11F882BE91E8ECD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1027269&extension=ts&play_token=N3ObmshDfm
-#EXTINF:-1 tvg-id="1128620" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13844.png?ver=3041",09/08 02:00 AM | LIVE FVG-CUP: UDINESE-NOTTINGHAM- BARCELONA (NO) 8K NO: VGTV 12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 141BAF499C2DB72CE11F882BE91E8ECD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1128620&extension=ts&play_token=G3s33q7bmL
-#EXTINF:-1 tvg-id="1639612" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/PLAYTV2.png",09/08 02:00 AM | FC BARCELONA-NOTTINGHAM FOREST (DK) 8K DK: PLAY TV2 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 13DEFD310EC668CA7DDC409489CB5363
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1639612&extension=ts&play_token=KOf0h8ziYE
-#EXTINF:-1 tvg-id="1675559" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGTV.png",09/08 02:00 AM | LIVE FVG-CUP: UDINESE-NOTTINGHAM- BARCELONA (NO) 8K NO: VGTV 12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 13DEFD310EC668CA7DDC409489CB5363
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1675559&extension=ts&play_token=5QJLqEtVNr
-#EXTINF:-1 tvg-id="1367493" group-title="🌍|Live International Friendly-Match" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif",09/08 02:00 AM | USA Soccer08: Europe : Olympiakos Piraeus vs Real Madrid @
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3297BB3B4EA42A3BCEB34E02F53D988D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1367493&extension=ts&play_token=ZzhHXsmAjE
-#EXTINF:-1 tvg-id="1367493" group-title="🌍|Live International Friendly-Match" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif",09/08 02:00 AM | USA Soccer08: Europe : Olympiakos Piraeus vs Real Madrid @
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AEEAACC2665DC774669030D87904223E
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1367493&extension=ts&play_token=FizMPI5Q1T
 #EXTINF:-1 tvg-id="2084229" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15271.jpg?ver=95591",09/08 03:00 AM | PSF11: Udinese vs Nottingham Forest // Barcelona vs Nottingham Forest
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 141BAF499C2DB72CE11F882BE91E8ECD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2084229&extension=ts&play_token=9AZfF8lhhI
+#EXTVLCOPT:http-header=Authorization: Bearer 4F119511D2AB0D693FFA0FE4E41E199B
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2084229&extension=ts&play_token=Mz59hk0xHI
 #EXTINF:-1 tvg-id="2114321" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",09/08 03:00 AM | PSF11: Udinese vs Nottingham Forest // Barcelona vs Nottingham Forest
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 13DEFD310EC668CA7DDC409489CB5363
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114321&extension=ts&play_token=LOj9X3Bz8V
+#EXTVLCOPT:http-header=Authorization: Bearer 9463B75586D3B1AE7C2C8C354F88BECB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114321&extension=ts&play_token=TlR6QYJ8aM
 #EXTINF:-1 tvg-id="1802349" group-title="🌍|Live International Friendly-Match",09/08 03:00 AM | PSF11: Udinese vs Nottingham Forest // Barcelona vs Nottingham Forest
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3297BB3B4EA42A3BCEB34E02F53D988D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802349&extension=ts&play_token=zJhkTuTqfw
-#EXTINF:-1 tvg-id="1802349" group-title="🌍|Live International Friendly-Match",09/08 03:00 AM | PSF11: Udinese vs Nottingham Forest // Barcelona vs Nottingham Forest
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AEEAACC2665DC774669030D87904223E
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1802349&extension=ts&play_token=OhLlIyRvnb
-#EXTINF:-1 tvg-id="1940064" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",09/08 03:00 AM | Udinese vs. FC Barcelona all | 8K US: SOCCER 93
+#EXTVLCOPT:http-header=Authorization: Bearer 8EF893C78495943596EF07983879EE87
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802349&extension=ts&play_token=cfMTUxycyK
+#EXTINF:-1 tvg-id="1940064" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",09/08 03:00 AM | Live Udinese vs. FC Barcelona all 8K US: SOCCER 93
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 141BAF499C2DB72CE11F882BE91E8ECD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1940064&extension=ts&play_token=iNXwhgDnqc
-#EXTINF:-1 tvg-id="1027268" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13832.png?ver=61261",09/08 03:00 AM | UDINESE-FC BARCELONA (DK) 8K DK: PLAY TV2 8
+#EXTVLCOPT:http-header=Authorization: Bearer 4F119511D2AB0D693FFA0FE4E41E199B
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1940064&extension=ts&play_token=t7pTlmndBS
+#EXTINF:-1 tvg-id="1027268" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13832.png?ver=61261",09/08 03:00 AM | ENDED UDINESE-FC BARCELONA (DK) 8K DK: PLAY TV2 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 141BAF499C2DB72CE11F882BE91E8ECD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1027268&extension=ts&play_token=DMC78Ea0ol
+#EXTVLCOPT:http-header=Authorization: Bearer 4F119511D2AB0D693FFA0FE4E41E199B
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1027268&extension=ts&play_token=OxecnGEv2g
 #EXTINF:-1 tvg-id="1128620" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13844.png?ver=3041",09/08 03:00 AM | LIVE FVG-CUP: UDINESE-NOTTINGHAM- BARCELONA (NO) 8K NO: VGTV 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 141BAF499C2DB72CE11F882BE91E8ECD
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1128620&extension=ts&play_token=G3s33q7bmL
-#EXTINF:-1 tvg-id="1639611" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/PLAYTV2.png",09/08 03:00 AM | UDINESE-FC BARCELONA (DK) 8K DK: PLAY TV2 8
+#EXTVLCOPT:http-header=Authorization: Bearer 4F119511D2AB0D693FFA0FE4E41E199B
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1128620&extension=ts&play_token=SGKsZx8Cbg
+#EXTINF:-1 tvg-id="1639611" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/PLAYTV2.png",09/08 03:00 AM | LIVE UDINESE-FC BARCELONA (DK) 8K DK: PLAY TV2 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 13DEFD310EC668CA7DDC409489CB5363
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1639611&extension=ts&play_token=wQVdefBWuH
+#EXTVLCOPT:http-header=Authorization: Bearer 9463B75586D3B1AE7C2C8C354F88BECB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1639611&extension=ts&play_token=xduO9EQM3j
 #EXTINF:-1 tvg-id="1675559" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGTV.png",09/08 03:00 AM | LIVE FVG-CUP: UDINESE-NOTTINGHAM- BARCELONA (NO) 8K NO: VGTV 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 13DEFD310EC668CA7DDC409489CB5363
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1675559&extension=ts&play_token=5QJLqEtVNr
+#EXTVLCOPT:http-header=Authorization: Bearer 9463B75586D3B1AE7C2C8C354F88BECB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1675559&extension=ts&play_token=yEUQz6G3XN
