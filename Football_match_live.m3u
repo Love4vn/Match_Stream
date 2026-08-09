@@ -1,391 +1,361 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1880999" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",09/08 06:00 PM | Manchester City Atlético de Madrid Matches amicaux | 8K BE: DAZN 37
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72940DD52916D7133E9274800EEEC282
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1880999&extension=ts&play_token=kfKiDRIuIX
-#EXTINF:-1 tvg-id="1128617" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13844.png?ver=3041",09/08 06:00 PM | MANCHESTER CITY ATLÉTICO MADRID (NO) 8K NO: VGTV 15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72940DD52916D7133E9274800EEEC282
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1128617&extension=ts&play_token=Mn2dBN98Au
-#EXTINF:-1 tvg-id="1983958" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",09/08 06:00 PM | MANCHESTER CITY VS. ATLETICO DE MADRID -02 (BR) 8K BR: DISNEY+ 167
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72940DD52916D7133E9274800EEEC282
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1983958&extension=ts&play_token=OAvLxmSpPc
 #EXTINF:-1 tvg-id="1983958" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",09/08 06:00 PM | MANCHESTER CITY VS. ATLETICO DE MADRID -02 (BR) 8K BR: DISNEY+ 167
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CD986EB5373361C0396A1EAB071DD923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1983958&extension=ts&play_token=njgIrN6RxW
+#EXTVLCOPT:http-header=Authorization: Bearer E4AD47415B413D438FEA0B761D5FB157
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1983958&extension=ts&play_token=oCmEAbkpdC
 #EXTINF:-1 tvg-id="1880999" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",09/08 06:00 PM | Manchester City Atlético de Madrid Matches amicaux | 8K BE: DAZN 37
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CD986EB5373361C0396A1EAB071DD923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1880999&extension=ts&play_token=7LRJDhDAwn
+#EXTVLCOPT:http-header=Authorization: Bearer E4AD47415B413D438FEA0B761D5FB157
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1880999&extension=ts&play_token=grZowuk0L4
 #EXTINF:-1 tvg-id="1128617" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13844.png?ver=3041",09/08 06:00 PM | MANCHESTER CITY ATLÉTICO MADRID (NO) 8K NO: VGTV 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CD986EB5373361C0396A1EAB071DD923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1128617&extension=ts&play_token=b0bimap104
+#EXTVLCOPT:http-header=Authorization: Bearer E4AD47415B413D438FEA0B761D5FB157
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1128617&extension=ts&play_token=9JUYBGvh2Y
 #EXTINF:-1 tvg-id="1983958" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",09/08 06:00 PM | MANCHESTER CITY VS. ATLETICO DE MADRID -02 (BR) 8K BR: DISNEY+ 167
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 57115B6BB57790F2B2879010D37E5856
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1983958&extension=ts&play_token=OM4PcCu5f6
+#EXTVLCOPT:http-header=Authorization: Bearer DCD1FF40EE66E415D10AF0726AACF10F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1983958&extension=ts&play_token=RG1Z0G3TsG
 #EXTINF:-1 tvg-id="1880999" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",09/08 06:00 PM | Manchester City Atlético de Madrid Matches amicaux | 8K BE: DAZN 37
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 57115B6BB57790F2B2879010D37E5856
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1880999&extension=ts&play_token=LP6J5y1cOP
+#EXTVLCOPT:http-header=Authorization: Bearer DCD1FF40EE66E415D10AF0726AACF10F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1880999&extension=ts&play_token=WlDnTi1wXj
 #EXTINF:-1 tvg-id="1128617" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13844.png?ver=3041",09/08 06:00 PM | MANCHESTER CITY ATLÉTICO MADRID (NO) 8K NO: VGTV 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 57115B6BB57790F2B2879010D37E5856
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1128617&extension=ts&play_token=aGVYJlSgux
-#EXTINF:-1 tvg-id="1128615" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13844.png?ver=3041",09/08 07:00 PM | CHELSEA JOHOR DARUL TA'ZIM (NO) 8K NO: VGTV 17
+#EXTVLCOPT:http-header=Authorization: Bearer DCD1FF40EE66E415D10AF0726AACF10F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1128617&extension=ts&play_token=zN3Wfgg8jU
+#EXTINF:-1 tvg-id="2040593" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",09/08 06:00 PM | Manchester City Atlético de Madrid Matches amicaux | 8K BE: DAZN 37
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72940DD52916D7133E9274800EEEC282
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1128615&extension=ts&play_token=VfIKwLcLC8
-#EXTINF:-1 tvg-id="1716092" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13826.jpg?ver=21622",09/08 07:00 PM | JOHOR DARUL TA'ZIM CHELSEA (IS) 8K IS: SIMINN 26
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 18D33B5C75BAF870D6366DD9EDD87A55
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040593&extension=ts&play_token=fCXYCDEHiz
+#EXTINF:-1 tvg-id="1675556" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGTV.png",09/08 06:00 PM | MANCHESTER CITY ATLÉTICO MADRID (NO) 8K NO: VGTV 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72940DD52916D7133E9274800EEEC282
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1716092&extension=ts&play_token=r26F1vI9Do
-#EXTINF:-1 tvg-id="1010144" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13824.jpeg?ver=46195",09/08 07:00 PM | JOHOR DARUL TA'ZIM CHELSEA (IS) 8K IS: LIVEY 12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72940DD52916D7133E9274800EEEC282
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1010144&extension=ts&play_token=2FQOc9cVCf
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 18D33B5C75BAF870D6366DD9EDD87A55
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1675556&extension=ts&play_token=AGUBcR18zc
 #EXTINF:-1 tvg-id="1128615" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13844.png?ver=3041",09/08 07:00 PM | CHELSEA JOHOR DARUL TA'ZIM (NO) 8K NO: VGTV 17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CD986EB5373361C0396A1EAB071DD923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1128615&extension=ts&play_token=NmvZpNAIrA
+#EXTVLCOPT:http-header=Authorization: Bearer E4AD47415B413D438FEA0B761D5FB157
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1128615&extension=ts&play_token=skm5zLwqkm
 #EXTINF:-1 tvg-id="1716092" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13826.jpg?ver=21622",09/08 07:00 PM | JOHOR DARUL TA'ZIM CHELSEA (IS) 8K IS: SIMINN 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CD986EB5373361C0396A1EAB071DD923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1716092&extension=ts&play_token=vHYC8GF3Ot
+#EXTVLCOPT:http-header=Authorization: Bearer E4AD47415B413D438FEA0B761D5FB157
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1716092&extension=ts&play_token=WJ4UT3AX1E
 #EXTINF:-1 tvg-id="1010144" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13824.jpeg?ver=46195",09/08 07:00 PM | JOHOR DARUL TA'ZIM CHELSEA (IS) 8K IS: LIVEY 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CD986EB5373361C0396A1EAB071DD923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1010144&extension=ts&play_token=pJzCAiq5bi
+#EXTVLCOPT:http-header=Authorization: Bearer E4AD47415B413D438FEA0B761D5FB157
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1010144&extension=ts&play_token=igggo4DVc7
 #EXTINF:-1 tvg-id="1128615" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13844.png?ver=3041",09/08 07:00 PM | CHELSEA JOHOR DARUL TA'ZIM (NO) 8K NO: VGTV 17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 57115B6BB57790F2B2879010D37E5856
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1128615&extension=ts&play_token=xqq3UoDqPc
+#EXTVLCOPT:http-header=Authorization: Bearer DCD1FF40EE66E415D10AF0726AACF10F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1128615&extension=ts&play_token=xaOZs89toX
 #EXTINF:-1 tvg-id="1716092" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13826.jpg?ver=21622",09/08 07:00 PM | JOHOR DARUL TA'ZIM CHELSEA (IS) 8K IS: SIMINN 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 57115B6BB57790F2B2879010D37E5856
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1716092&extension=ts&play_token=Wztrs0gmI6
+#EXTVLCOPT:http-header=Authorization: Bearer DCD1FF40EE66E415D10AF0726AACF10F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1716092&extension=ts&play_token=YY6xN50g6W
 #EXTINF:-1 tvg-id="1010144" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13824.jpeg?ver=46195",09/08 07:00 PM | JOHOR DARUL TA'ZIM CHELSEA (IS) 8K IS: LIVEY 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 57115B6BB57790F2B2879010D37E5856
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1010144&extension=ts&play_token=ta533Cb1UZ
-#EXTINF:-1 tvg-id="999559" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13813.png?ver=91937",09/08 08:00 PM | ARSENAL – BORUSSIA DORTMUND (SE) 8K SE: AftonBlade 9
+#EXTVLCOPT:http-header=Authorization: Bearer DCD1FF40EE66E415D10AF0726AACF10F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1010144&extension=ts&play_token=A9QvoE53xu
+#EXTINF:-1 tvg-id="1675554" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGTV.png",09/08 07:00 PM | CHELSEA JOHOR DARUL TA'ZIM (NO) 8K NO: VGTV 17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72940DD52916D7133E9274800EEEC282
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=999559&extension=ts&play_token=wBsTc8sQ01
-#EXTINF:-1 tvg-id="1128612" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13844.png?ver=3041",09/08 08:00 PM | ARSENAL BOR. DORTMUND (NO) 8K NO: VGTV 20
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 18D33B5C75BAF870D6366DD9EDD87A55
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1675554&extension=ts&play_token=YotBhrXzyw
+#EXTINF:-1 tvg-id="1634612" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/LIVEY.png",09/08 07:00 PM | JOHOR DARUL TA'ZIM CHELSEA (IS) 8K IS: LIVEY 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72940DD52916D7133E9274800EEEC282
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1128612&extension=ts&play_token=zhfvErdF5q
-#EXTINF:-1 tvg-id="1983951" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",09/08 08:00 PM | ARSENAL VS. BORUSSIA DORTMUND -02 (BR) 8K BR: DISNEY+ 174
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72940DD52916D7133E9274800EEEC282
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1983951&extension=ts&play_token=4vmCjuO2pR
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 18D33B5C75BAF870D6366DD9EDD87A55
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1634612&extension=ts&play_token=aYEarDRQYJ
 #EXTINF:-1 tvg-id="1983951" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",09/08 08:00 PM | ARSENAL VS. BORUSSIA DORTMUND -02 (BR) 8K BR: DISNEY+ 174
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CD986EB5373361C0396A1EAB071DD923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1983951&extension=ts&play_token=FDLH9CQC28
+#EXTVLCOPT:http-header=Authorization: Bearer E4AD47415B413D438FEA0B761D5FB157
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1983951&extension=ts&play_token=dUXoMb8h6K
 #EXTINF:-1 tvg-id="999559" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13813.png?ver=91937",09/08 08:00 PM | ARSENAL – BORUSSIA DORTMUND (SE) 8K SE: AftonBlade 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CD986EB5373361C0396A1EAB071DD923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=999559&extension=ts&play_token=2cXHZRniPm
+#EXTVLCOPT:http-header=Authorization: Bearer E4AD47415B413D438FEA0B761D5FB157
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=999559&extension=ts&play_token=HPo8T6B8DZ
 #EXTINF:-1 tvg-id="1128612" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13844.png?ver=3041",09/08 08:00 PM | ARSENAL BOR. DORTMUND (NO) 8K NO: VGTV 20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CD986EB5373361C0396A1EAB071DD923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1128612&extension=ts&play_token=IRbWnkAFV9
+#EXTVLCOPT:http-header=Authorization: Bearer E4AD47415B413D438FEA0B761D5FB157
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1128612&extension=ts&play_token=KI6Nsg19Mq
 #EXTINF:-1 tvg-id="1983951" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",09/08 08:00 PM | ARSENAL VS. BORUSSIA DORTMUND -02 (BR) 8K BR: DISNEY+ 174
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 57115B6BB57790F2B2879010D37E5856
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1983951&extension=ts&play_token=7jQJ3nPzUZ
+#EXTVLCOPT:http-header=Authorization: Bearer DCD1FF40EE66E415D10AF0726AACF10F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1983951&extension=ts&play_token=OeIJyKFyij
 #EXTINF:-1 tvg-id="999559" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13813.png?ver=91937",09/08 08:00 PM | ARSENAL – BORUSSIA DORTMUND (SE) 8K SE: AftonBlade 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 57115B6BB57790F2B2879010D37E5856
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=999559&extension=ts&play_token=Kdvt74HYDd
+#EXTVLCOPT:http-header=Authorization: Bearer DCD1FF40EE66E415D10AF0726AACF10F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=999559&extension=ts&play_token=mS1Blkn6gF
 #EXTINF:-1 tvg-id="1128612" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13844.png?ver=3041",09/08 08:00 PM | ARSENAL BOR. DORTMUND (NO) 8K NO: VGTV 20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 57115B6BB57790F2B2879010D37E5856
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1128612&extension=ts&play_token=CkS8CYkQMY
-#EXTINF:-1 tvg-id="2063862" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",09/08 08:30 PM | Liverpool vs. Monaco all | 8K FR: SOCCER 97
+#EXTVLCOPT:http-header=Authorization: Bearer DCD1FF40EE66E415D10AF0726AACF10F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1128612&extension=ts&play_token=6MlnKjVZrK
+#EXTINF:-1 tvg-id="1732524" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/AFTONBLADET.png",09/08 08:00 PM | ARSENAL – BORUSSIA DORTMUND (SE) 8K SE: AftonBlade 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72940DD52916D7133E9274800EEEC282
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2063862&extension=ts&play_token=2sPmyOtFLO
-#EXTINF:-1 tvg-id="1918741" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",09/08 08:30 PM | Liverpool vs. Monaco all | 8K DE: SOCCER 136
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 18D33B5C75BAF870D6366DD9EDD87A55
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1732524&extension=ts&play_token=zPTOYop32B
+#EXTINF:-1 tvg-id="1675551" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGTV.png",09/08 08:00 PM | ARSENAL BOR. DORTMUND (NO) 8K NO: VGTV 20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72940DD52916D7133E9274800EEEC282
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918741&extension=ts&play_token=j59s7s5xEq
-#EXTINF:-1 tvg-id="1893221" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",09/08 08:30 PM | Liverpool Monaco Testspiele | 8K AT: DAZN 47
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72940DD52916D7133E9274800EEEC282
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1893221&extension=ts&play_token=a9q05CXEOn
-#EXTINF:-1 tvg-id="1893012" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",09/08 08:30 PM | Liverpool Monaco Football Matchs Amicaux | 8K CH: DAZN 56
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72940DD52916D7133E9274800EEEC282
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1893012&extension=ts&play_token=p0Bx745d3c
-#EXTINF:-1 tvg-id="999558" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13813.png?ver=91937",09/08 08:30 PM | LIVERPOOL – MONACO (SE) 8K SE: AftonBlade 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72940DD52916D7133E9274800EEEC282
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=999558&extension=ts&play_token=yrAmc7AwW8
-#EXTINF:-1 tvg-id="1128611" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13844.png?ver=3041",09/08 08:30 PM | LIVERPOOL MONACO (NO) 8K NO: VGTV 21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72940DD52916D7133E9274800EEEC282
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1128611&extension=ts&play_token=lpOu65FI0E
-#EXTINF:-1 tvg-id="1716090" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13826.jpg?ver=21622",09/08 08:30 PM | LIVERPOOL MONACO (IS) 8K IS: SIMINN 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72940DD52916D7133E9274800EEEC282
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1716090&extension=ts&play_token=SwtazL8S5u
-#EXTINF:-1 tvg-id="1010142" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13824.jpeg?ver=46195",09/08 08:30 PM | LIVERPOOL MONACO (IS) 8K IS: LIVEY 14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72940DD52916D7133E9274800EEEC282
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1010142&extension=ts&play_token=7wYm3QsFr9
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 18D33B5C75BAF870D6366DD9EDD87A55
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1675551&extension=ts&play_token=3zHdja1k5S
 #EXTINF:-1 tvg-id="2063862" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",09/08 08:30 PM | Liverpool vs. Monaco all | 8K FR: SOCCER 97
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CD986EB5373361C0396A1EAB071DD923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2063862&extension=ts&play_token=wFGulFfryO
+#EXTVLCOPT:http-header=Authorization: Bearer E4AD47415B413D438FEA0B761D5FB157
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2063862&extension=ts&play_token=7zgQs8KG9k
 #EXTINF:-1 tvg-id="1918741" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",09/08 08:30 PM | Liverpool vs. Monaco all | 8K DE: SOCCER 136
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CD986EB5373361C0396A1EAB071DD923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1918741&extension=ts&play_token=fGuO0nmpr2
+#EXTVLCOPT:http-header=Authorization: Bearer E4AD47415B413D438FEA0B761D5FB157
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1918741&extension=ts&play_token=SKQdqFnGNz
 #EXTINF:-1 tvg-id="1893221" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",09/08 08:30 PM | Liverpool Monaco Testspiele | 8K AT: DAZN 47
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CD986EB5373361C0396A1EAB071DD923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1893221&extension=ts&play_token=O4NiA5xzeb
+#EXTVLCOPT:http-header=Authorization: Bearer E4AD47415B413D438FEA0B761D5FB157
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1893221&extension=ts&play_token=trE86Nz8hv
 #EXTINF:-1 tvg-id="1893012" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",09/08 08:30 PM | Liverpool Monaco Football Matchs Amicaux | 8K CH: DAZN 56
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CD986EB5373361C0396A1EAB071DD923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1893012&extension=ts&play_token=XBUhKqMX5x
+#EXTVLCOPT:http-header=Authorization: Bearer E4AD47415B413D438FEA0B761D5FB157
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1893012&extension=ts&play_token=ED9VLpXM4j
 #EXTINF:-1 tvg-id="999558" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13813.png?ver=91937",09/08 08:30 PM | LIVERPOOL – MONACO (SE) 8K SE: AftonBlade 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CD986EB5373361C0396A1EAB071DD923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=999558&extension=ts&play_token=Y9Oc8qXTOG
+#EXTVLCOPT:http-header=Authorization: Bearer E4AD47415B413D438FEA0B761D5FB157
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=999558&extension=ts&play_token=wO2UREilji
 #EXTINF:-1 tvg-id="1128611" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13844.png?ver=3041",09/08 08:30 PM | LIVERPOOL MONACO (NO) 8K NO: VGTV 21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CD986EB5373361C0396A1EAB071DD923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1128611&extension=ts&play_token=hhHPHYoaQN
+#EXTVLCOPT:http-header=Authorization: Bearer E4AD47415B413D438FEA0B761D5FB157
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1128611&extension=ts&play_token=T16CVg4yA7
 #EXTINF:-1 tvg-id="1716090" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13826.jpg?ver=21622",09/08 08:30 PM | LIVERPOOL MONACO (IS) 8K IS: SIMINN 28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CD986EB5373361C0396A1EAB071DD923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1716090&extension=ts&play_token=48TtLK5AEN
+#EXTVLCOPT:http-header=Authorization: Bearer E4AD47415B413D438FEA0B761D5FB157
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1716090&extension=ts&play_token=QqSLdO9Byv
 #EXTINF:-1 tvg-id="1010142" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13824.jpeg?ver=46195",09/08 08:30 PM | LIVERPOOL MONACO (IS) 8K IS: LIVEY 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CD986EB5373361C0396A1EAB071DD923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1010142&extension=ts&play_token=h8oYtw7dCm
+#EXTVLCOPT:http-header=Authorization: Bearer E4AD47415B413D438FEA0B761D5FB157
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1010142&extension=ts&play_token=JlONNgWTLI
 #EXTINF:-1 tvg-id="2063862" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",09/08 08:30 PM | Liverpool vs. Monaco all | 8K FR: SOCCER 97
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 57115B6BB57790F2B2879010D37E5856
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=2063862&extension=ts&play_token=VdstvcMC6x
+#EXTVLCOPT:http-header=Authorization: Bearer DCD1FF40EE66E415D10AF0726AACF10F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=2063862&extension=ts&play_token=vGvIdOHTwl
 #EXTINF:-1 tvg-id="1918741" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",09/08 08:30 PM | Liverpool vs. Monaco all | 8K DE: SOCCER 136
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 57115B6BB57790F2B2879010D37E5856
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1918741&extension=ts&play_token=P9HrjudmiN
+#EXTVLCOPT:http-header=Authorization: Bearer DCD1FF40EE66E415D10AF0726AACF10F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1918741&extension=ts&play_token=Jw6x58ZoaW
 #EXTINF:-1 tvg-id="1893221" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",09/08 08:30 PM | Liverpool Monaco Testspiele | 8K AT: DAZN 47
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 57115B6BB57790F2B2879010D37E5856
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1893221&extension=ts&play_token=pB4maKRjLS
+#EXTVLCOPT:http-header=Authorization: Bearer DCD1FF40EE66E415D10AF0726AACF10F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1893221&extension=ts&play_token=SZ49JeghOp
 #EXTINF:-1 tvg-id="1893012" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",09/08 08:30 PM | Liverpool Monaco Football Matchs Amicaux | 8K CH: DAZN 56
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 57115B6BB57790F2B2879010D37E5856
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1893012&extension=ts&play_token=KB6XxAVK3E
+#EXTVLCOPT:http-header=Authorization: Bearer DCD1FF40EE66E415D10AF0726AACF10F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1893012&extension=ts&play_token=QSG858pkt6
 #EXTINF:-1 tvg-id="999558" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13813.png?ver=91937",09/08 08:30 PM | LIVERPOOL – MONACO (SE) 8K SE: AftonBlade 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 57115B6BB57790F2B2879010D37E5856
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=999558&extension=ts&play_token=HTdsCtydeh
+#EXTVLCOPT:http-header=Authorization: Bearer DCD1FF40EE66E415D10AF0726AACF10F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=999558&extension=ts&play_token=SNH9nqQfXv
 #EXTINF:-1 tvg-id="1128611" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13844.png?ver=3041",09/08 08:30 PM | LIVERPOOL MONACO (NO) 8K NO: VGTV 21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 57115B6BB57790F2B2879010D37E5856
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1128611&extension=ts&play_token=8a0IaynDIC
+#EXTVLCOPT:http-header=Authorization: Bearer DCD1FF40EE66E415D10AF0726AACF10F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1128611&extension=ts&play_token=Ruh5q0vwRV
 #EXTINF:-1 tvg-id="1716090" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13826.jpg?ver=21622",09/08 08:30 PM | LIVERPOOL MONACO (IS) 8K IS: SIMINN 28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 57115B6BB57790F2B2879010D37E5856
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1716090&extension=ts&play_token=TYEfcctVTV
+#EXTVLCOPT:http-header=Authorization: Bearer DCD1FF40EE66E415D10AF0726AACF10F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1716090&extension=ts&play_token=TYiD2Iul15
 #EXTINF:-1 tvg-id="1010142" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13824.jpeg?ver=46195",09/08 08:30 PM | LIVERPOOL MONACO (IS) 8K IS: LIVEY 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 57115B6BB57790F2B2879010D37E5856
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1010142&extension=ts&play_token=8yF4mxqtAX
-#EXTINF:-1 tvg-id="1977453" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",09/08 10:00 PM | Mansfield Sheffield United Carabao Cup Ronde 1 2026 | 8K NL: VIAPLAY 13
+#EXTVLCOPT:http-header=Authorization: Bearer DCD1FF40EE66E415D10AF0726AACF10F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1010142&extension=ts&play_token=CFOWzqylz8
+#EXTINF:-1 tvg-id="2054916" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",09/08 08:30 PM | Liverpool vs. Monaco all | 8K DE: SOCCER 136
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72940DD52916D7133E9274800EEEC282
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1977453&extension=ts&play_token=w5gE3Uws30
-#EXTINF:-1 tvg-id="918723" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",09/08 10:00 PM | CARABAO CUP MANSFIELD SHEFFIELD UNITED (NL) 8K NL: VIAPLAY 28
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 18D33B5C75BAF870D6366DD9EDD87A55
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054916&extension=ts&play_token=zUIteBlkDQ
+#EXTINF:-1 tvg-id="2046749" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",09/08 08:30 PM | Liverpool Monaco Football Matchs Amicaux | 8K CH: DAZN 56
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72940DD52916D7133E9274800EEEC282
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=918723&extension=ts&play_token=WiI168n1Ps
-#EXTINF:-1 tvg-id="1809999" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",09/08 10:00 PM | LIGACUPEN MANSFIELD SHEFFIELD UNITED (SE) 8K SE: VIAPLAY 48
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 18D33B5C75BAF870D6366DD9EDD87A55
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046749&extension=ts&play_token=8l6bLn3goR
+#EXTINF:-1 tvg-id="2046658" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",09/08 08:30 PM | Liverpool Monaco Testspiele | 8K AT: DAZN 47
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72940DD52916D7133E9274800EEEC282
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1809999&extension=ts&play_token=bnbKFgFfW6
-#EXTINF:-1 tvg-id="1863183" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",09/08 10:00 PM | CARABAO CUP MANSFIELD SHEFFIELD UNITED (DK) 8K DK: VIAPLAY 44
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 18D33B5C75BAF870D6366DD9EDD87A55
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046658&extension=ts&play_token=TnxVvtc2z7
+#EXTINF:-1 tvg-id="2113014" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",09/08 08:30 PM | Liverpool vs. Monaco all | 8K FR: SOCCER 97
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72940DD52916D7133E9274800EEEC282
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1863183&extension=ts&play_token=xB0fHcq6Lo
-#EXTINF:-1 tvg-id="1242741" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",09/08 10:00 PM | LIGACUPEN MANSFIELD SHEFFIELD UNITED (NO) 8K NO: VIAPLAY 48
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 18D33B5C75BAF870D6366DD9EDD87A55
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113014&extension=ts&play_token=NOySWdVv71
+#EXTINF:-1 tvg-id="1732523" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/AFTONBLADET.png",09/08 08:30 PM | LIVERPOOL – MONACO (SE) 8K SE: AftonBlade 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72940DD52916D7133E9274800EEEC282
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1242741&extension=ts&play_token=q7KIc5yVt9
-#EXTINF:-1 tvg-id="1863283" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",09/08 10:00 PM | ENGLANNIN LIIGACUP MANSFIELD SHEFFIELD UNITED (FI) 8K FI: VIAPLAY 49
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 18D33B5C75BAF870D6366DD9EDD87A55
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1732523&extension=ts&play_token=hWG7OHFv55
+#EXTINF:-1 tvg-id="1675550" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGTV.png",09/08 08:30 PM | LIVERPOOL MONACO (NO) 8K NO: VGTV 21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72940DD52916D7133E9274800EEEC282
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1863283&extension=ts&play_token=UzUetk4Lcn
-#EXTINF:-1 tvg-id="1008790" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",09/08 10:00 PM | CARABAO CUP MANSFIELD SHEFFIELD UNITED (IS) 8K IS: VIAPLAY 36
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 18D33B5C75BAF870D6366DD9EDD87A55
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1675550&extension=ts&play_token=Uign9cQDAc
+#EXTINF:-1 tvg-id="1634610" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/LIVEY.png",09/08 08:30 PM | LIVERPOOL MONACO (IS) 8K IS: LIVEY 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72940DD52916D7133E9274800EEEC282
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1008790&extension=ts&play_token=J69LLoElcc
-#EXTINF:-1 tvg-id="1939833" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",09/08 10:00 PM | Mansfield vs. Sheffield Utd all | 8K CA: SOCCER 123
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72940DD52916D7133E9274800EEEC282
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939833&extension=ts&play_token=0QIgcTC9r2
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 18D33B5C75BAF870D6366DD9EDD87A55
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1634610&extension=ts&play_token=s4o2TBqYUN
 #EXTINF:-1 tvg-id="1939833" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",09/08 10:00 PM | Mansfield vs. Sheffield Utd all | 8K CA: SOCCER 123
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CD986EB5373361C0396A1EAB071DD923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939833&extension=ts&play_token=1GLgsdOC6c
+#EXTVLCOPT:http-header=Authorization: Bearer E4AD47415B413D438FEA0B761D5FB157
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939833&extension=ts&play_token=ut2ywlQnsv
 #EXTINF:-1 tvg-id="1977453" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",09/08 10:00 PM | Mansfield Sheffield United Carabao Cup Ronde 1 2026 | 8K NL: VIAPLAY 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CD986EB5373361C0396A1EAB071DD923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1977453&extension=ts&play_token=oZlUtqrDBq
+#EXTVLCOPT:http-header=Authorization: Bearer E4AD47415B413D438FEA0B761D5FB157
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1977453&extension=ts&play_token=BcoAc1g9DI
 #EXTINF:-1 tvg-id="918723" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",09/08 10:00 PM | CARABAO CUP MANSFIELD SHEFFIELD UNITED (NL) 8K NL: VIAPLAY 28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CD986EB5373361C0396A1EAB071DD923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=918723&extension=ts&play_token=uUxmvjKDxb
+#EXTVLCOPT:http-header=Authorization: Bearer E4AD47415B413D438FEA0B761D5FB157
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=918723&extension=ts&play_token=ySv4vF1ZWY
 #EXTINF:-1 tvg-id="1809999" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",09/08 10:00 PM | LIGACUPEN MANSFIELD SHEFFIELD UNITED (SE) 8K SE: VIAPLAY 48
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CD986EB5373361C0396A1EAB071DD923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1809999&extension=ts&play_token=zVa9EiwmHE
+#EXTVLCOPT:http-header=Authorization: Bearer E4AD47415B413D438FEA0B761D5FB157
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1809999&extension=ts&play_token=PXpQYSRnAD
 #EXTINF:-1 tvg-id="1863183" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",09/08 10:00 PM | CARABAO CUP MANSFIELD SHEFFIELD UNITED (DK) 8K DK: VIAPLAY 44
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CD986EB5373361C0396A1EAB071DD923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1863183&extension=ts&play_token=sxTrzoy2Tr
+#EXTVLCOPT:http-header=Authorization: Bearer E4AD47415B413D438FEA0B761D5FB157
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1863183&extension=ts&play_token=Ilf5T8Lzai
 #EXTINF:-1 tvg-id="1242741" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",09/08 10:00 PM | LIGACUPEN MANSFIELD SHEFFIELD UNITED (NO) 8K NO: VIAPLAY 48
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CD986EB5373361C0396A1EAB071DD923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1242741&extension=ts&play_token=26TYQTCded
+#EXTVLCOPT:http-header=Authorization: Bearer E4AD47415B413D438FEA0B761D5FB157
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1242741&extension=ts&play_token=cvbKmMFFha
 #EXTINF:-1 tvg-id="1863283" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",09/08 10:00 PM | ENGLANNIN LIIGACUP MANSFIELD SHEFFIELD UNITED (FI) 8K FI: VIAPLAY 49
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CD986EB5373361C0396A1EAB071DD923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1863283&extension=ts&play_token=9EZTuWxopi
+#EXTVLCOPT:http-header=Authorization: Bearer E4AD47415B413D438FEA0B761D5FB157
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1863283&extension=ts&play_token=MApfiJbV0y
 #EXTINF:-1 tvg-id="1008790" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",09/08 10:00 PM | CARABAO CUP MANSFIELD SHEFFIELD UNITED (IS) 8K IS: VIAPLAY 36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CD986EB5373361C0396A1EAB071DD923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1008790&extension=ts&play_token=HM0XLoy5UJ
+#EXTVLCOPT:http-header=Authorization: Bearer E4AD47415B413D438FEA0B761D5FB157
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1008790&extension=ts&play_token=pdqn5AYeul
 #EXTINF:-1 tvg-id="1939833" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",09/08 10:00 PM | Mansfield vs. Sheffield Utd all | 8K CA: SOCCER 123
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 57115B6BB57790F2B2879010D37E5856
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939833&extension=ts&play_token=1XPCULphKd
+#EXTVLCOPT:http-header=Authorization: Bearer DCD1FF40EE66E415D10AF0726AACF10F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939833&extension=ts&play_token=k8GVv0fPmF
 #EXTINF:-1 tvg-id="1977453" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",09/08 10:00 PM | Mansfield Sheffield United Carabao Cup Ronde 1 2026 | 8K NL: VIAPLAY 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 57115B6BB57790F2B2879010D37E5856
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1977453&extension=ts&play_token=0TtFmlw7SI
+#EXTVLCOPT:http-header=Authorization: Bearer DCD1FF40EE66E415D10AF0726AACF10F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1977453&extension=ts&play_token=T6I1uLWXsR
 #EXTINF:-1 tvg-id="918723" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",09/08 10:00 PM | CARABAO CUP MANSFIELD SHEFFIELD UNITED (NL) 8K NL: VIAPLAY 28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 57115B6BB57790F2B2879010D37E5856
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=918723&extension=ts&play_token=ZuUVs09cup
+#EXTVLCOPT:http-header=Authorization: Bearer DCD1FF40EE66E415D10AF0726AACF10F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=918723&extension=ts&play_token=ON1BUWpsby
 #EXTINF:-1 tvg-id="1809999" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",09/08 10:00 PM | LIGACUPEN MANSFIELD SHEFFIELD UNITED (SE) 8K SE: VIAPLAY 48
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 57115B6BB57790F2B2879010D37E5856
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1809999&extension=ts&play_token=2zyj3hxlI0
+#EXTVLCOPT:http-header=Authorization: Bearer DCD1FF40EE66E415D10AF0726AACF10F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1809999&extension=ts&play_token=8vDmebnhOr
 #EXTINF:-1 tvg-id="1863183" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",09/08 10:00 PM | CARABAO CUP MANSFIELD SHEFFIELD UNITED (DK) 8K DK: VIAPLAY 44
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 57115B6BB57790F2B2879010D37E5856
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863183&extension=ts&play_token=RvXZewgsIz
+#EXTVLCOPT:http-header=Authorization: Bearer DCD1FF40EE66E415D10AF0726AACF10F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863183&extension=ts&play_token=Io6P64DZuL
 #EXTINF:-1 tvg-id="1242741" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",09/08 10:00 PM | LIGACUPEN MANSFIELD SHEFFIELD UNITED (NO) 8K NO: VIAPLAY 48
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 57115B6BB57790F2B2879010D37E5856
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1242741&extension=ts&play_token=y2gUvItdmX
+#EXTVLCOPT:http-header=Authorization: Bearer DCD1FF40EE66E415D10AF0726AACF10F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1242741&extension=ts&play_token=dfPUpZUDF3
 #EXTINF:-1 tvg-id="1863283" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",09/08 10:00 PM | ENGLANNIN LIIGACUP MANSFIELD SHEFFIELD UNITED (FI) 8K FI: VIAPLAY 49
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 57115B6BB57790F2B2879010D37E5856
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863283&extension=ts&play_token=4TMsjeCxqN
+#EXTVLCOPT:http-header=Authorization: Bearer DCD1FF40EE66E415D10AF0726AACF10F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863283&extension=ts&play_token=NwynkFYgtR
 #EXTINF:-1 tvg-id="1008790" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",09/08 10:00 PM | CARABAO CUP MANSFIELD SHEFFIELD UNITED (IS) 8K IS: VIAPLAY 36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 57115B6BB57790F2B2879010D37E5856
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1008790&extension=ts&play_token=8ziNIQCrQd
-#EXTINF:-1 tvg-id="2063872" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",09/08 10:30 PM | Marseille vs. Athletic Club all | 8K FR: SOCCER 87
+#EXTVLCOPT:http-header=Authorization: Bearer DCD1FF40EE66E415D10AF0726AACF10F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1008790&extension=ts&play_token=pndoEFbVH4
+#EXTINF:-1 tvg-id="2068641" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",09/08 10:00 PM | Mansfield Sheffield United Carabao Cup Ronde 1 2026 | 8K NL: VIAPLAY 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 72940DD52916D7133E9274800EEEC282
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2063872&extension=ts&play_token=24sLEwgCwJ
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 18D33B5C75BAF870D6366DD9EDD87A55
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2068641&extension=ts&play_token=tif5uASa4L
+#EXTINF:-1 tvg-id="1592472" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",09/08 10:00 PM | CARABAO CUP MANSFIELD SHEFFIELD UNITED (NL) 8K NL: VIAPLAY 28
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 18D33B5C75BAF870D6366DD9EDD87A55
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1592472&extension=ts&play_token=TyT8vyRaR2
+#EXTINF:-1 tvg-id="2016231" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",09/08 10:00 PM | LIGACUPEN MANSFIELD SHEFFIELD UNITED (SE) 8K SE: VIAPLAY 48
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 18D33B5C75BAF870D6366DD9EDD87A55
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016231&extension=ts&play_token=xzCf6seInU
+#EXTINF:-1 tvg-id="2037334" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",09/08 10:00 PM | CARABAO CUP MANSFIELD SHEFFIELD UNITED (DK) 8K DK: VIAPLAY 44
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 18D33B5C75BAF870D6366DD9EDD87A55
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037334&extension=ts&play_token=htPuzqiksF
+#EXTINF:-1 tvg-id="1735530" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",09/08 10:00 PM | LIGACUPEN MANSFIELD SHEFFIELD UNITED (NO) 8K NO: VIAPLAY 48
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 18D33B5C75BAF870D6366DD9EDD87A55
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735530&extension=ts&play_token=8eeaAXiqQ9
+#EXTINF:-1 tvg-id="2037431" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",09/08 10:00 PM | ENGLANNIN LIIGACUP MANSFIELD SHEFFIELD UNITED (FI) 8K FI: VIAPLAY 49
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 18D33B5C75BAF870D6366DD9EDD87A55
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037431&extension=ts&play_token=hufQ1o6grI
 #EXTINF:-1 tvg-id="2063872" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",09/08 10:30 PM | Marseille vs. Athletic Club all | 8K FR: SOCCER 87
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CD986EB5373361C0396A1EAB071DD923
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2063872&extension=ts&play_token=dfwF87riHW
+#EXTVLCOPT:http-header=Authorization: Bearer E4AD47415B413D438FEA0B761D5FB157
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2063872&extension=ts&play_token=OnS2qbxJId
 #EXTINF:-1 tvg-id="2063872" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",09/08 10:30 PM | Marseille vs. Athletic Club all | 8K FR: SOCCER 87
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 57115B6BB57790F2B2879010D37E5856
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=2063872&extension=ts&play_token=o58Sw6TTPQ
+#EXTVLCOPT:http-header=Authorization: Bearer DCD1FF40EE66E415D10AF0726AACF10F
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=2063872&extension=ts&play_token=SLnuvqvKe2
+#EXTINF:-1 tvg-id="2113024" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",09/08 10:30 PM | Marseille vs. Athletic Club all | 8K FR: SOCCER 87
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 18D33B5C75BAF870D6366DD9EDD87A55
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113024&extension=ts&play_token=zY0yrFuulp
