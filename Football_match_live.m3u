@@ -1,36 +1,311 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="2063901" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",16/08 12:00 AM | Live Toulouse FC vs. Hamburger SV all 8K FR: SOCCER 58
+#EXTINF:-1 tvg-id="1912521" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",16/08 05:30 PM | Liverpool vs. Como Club Friendlies | 8K CA: DAZN 82
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B4F558E2D667DEE81846887CE94ADFE6
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1912521&extension=ts&play_token=y0clkF6uEv
+#EXTINF:-1 tvg-id="1912521" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",16/08 05:30 PM | Liverpool vs. Como Club Friendlies | 8K CA: DAZN 82
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2EF733E5C6CAD5DC408CA9882F128245
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2063901&extension=ts&play_token=u4kCXnjUnD
-#EXTINF:-1 tvg-id="2113053" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",16/08 12:00 AM | Live Toulouse FC vs. Hamburger SV all 8K FR: SOCCER 58
+#EXTVLCOPT:http-header=Authorization: Bearer DC9B8806006F7024BC7C6E902BAF784F
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1912521&extension=ts&play_token=ofc0HSsTvv
+#EXTINF:-1 tvg-id="999561" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13813.png?ver=91937",16/08 05:30 PM | LIVERPOOL – COMO (SE) 8K SE: AftonBlade 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B4F558E2D667DEE81846887CE94ADFE6
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=999561&extension=ts&play_token=P9Hxp9TrvE
+#EXTINF:-1 tvg-id="1716085" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13826.jpg?ver=21622",16/08 05:30 PM | LIVERPOOL COMO (IS) 8K IS: SIMINN 33
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B4F558E2D667DEE81846887CE94ADFE6
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1716085&extension=ts&play_token=5FzaeHGbGZ
+#EXTINF:-1 tvg-id="1939822" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",16/08 05:30 PM | Liverpool vs. Calcio Como 1907 all | 8K CA: SOCCER 134
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B4F558E2D667DEE81846887CE94ADFE6
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939822&extension=ts&play_token=47Kd5lctm4
+#EXTINF:-1 tvg-id="1899624" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",16/08 05:30 PM | Liverpool v Como Club Friendlies | 8K BR: DAZN 78
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B4F558E2D667DEE81846887CE94ADFE6
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1899624&extension=ts&play_token=g18AtYqxb8
+#EXTINF:-1 tvg-id="1939822" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",16/08 05:30 PM | Liverpool vs. Calcio Como 1907 all | 8K CA: SOCCER 134
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DC9B8806006F7024BC7C6E902BAF784F
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939822&extension=ts&play_token=sjdgXhNOMj
+#EXTINF:-1 tvg-id="1899624" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",16/08 05:30 PM | Liverpool v Como Club Friendlies | 8K BR: DAZN 78
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DC9B8806006F7024BC7C6E902BAF784F
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1899624&extension=ts&play_token=tsFgtnzjTo
+#EXTINF:-1 tvg-id="999561" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13813.png?ver=91937",16/08 05:30 PM | LIVERPOOL – COMO (SE) 8K SE: AftonBlade 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DC9B8806006F7024BC7C6E902BAF784F
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=999561&extension=ts&play_token=ZQiRAVpGVk
+#EXTINF:-1 tvg-id="1716085" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13826.jpg?ver=21622",16/08 05:30 PM | LIVERPOOL COMO (IS) 8K IS: SIMINN 33
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DC9B8806006F7024BC7C6E902BAF784F
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1716085&extension=ts&play_token=2eAEEx8WJt
+#EXTINF:-1 tvg-id="1732526" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/AFTONBLADET.png",16/08 05:30 PM | LIVERPOOL – COMO (SE) 8K SE: AftonBlade 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 320A23D7545E4CD62B2D8260A72BC954
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113053&extension=ts&play_token=VCawn0oLbp
-#EXTINF:-1 tvg-id="1940074" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",16/08 12:30 AM | Live Inter vs. Betis all 8K US: SOCCER 83
+#EXTVLCOPT:http-header=Authorization: Bearer 46EA3EC936361C59646150DB747890BD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1732526&extension=ts&play_token=NUokUbs97E
+#EXTINF:-1 tvg-id="2084227" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15271.jpg?ver=95591",16/08 06:00 PM | PSF13 Tottenham Hotspur vs Hoffenheim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B4F558E2D667DEE81846887CE94ADFE6
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2084227&extension=ts&play_token=69kJrTWlbi
+#EXTINF:-1 tvg-id="2084227" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15271.jpg?ver=95591",16/08 06:00 PM | PSF13 Tottenham Hotspur vs Hoffenheim
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2EF733E5C6CAD5DC408CA9882F128245
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1940074&extension=ts&play_token=OENbfAUqsU
-#EXTINF:-1 tvg-id="1939943" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",16/08 12:30 AM | Live Inter vs. Betis all 8K CA: SOCCER 13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2EF733E5C6CAD5DC408CA9882F128245
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939943&extension=ts&play_token=xR5tR9pqGh
-#EXTINF:-1 tvg-id="1716109" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13826.jpg?ver=21622",16/08 12:30 AM | LIVE INTER MILAN REAL BETIS (IS) 8K IS: SIMINN 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2EF733E5C6CAD5DC408CA9882F128245
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1716109&extension=ts&play_token=JZrRI4JHP4
-#EXTINF:-1 tvg-id="1010149" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13824.jpeg?ver=46195",16/08 12:30 AM | INTER MILAN REAL BETIS (IS) 8K IS: LIVEY 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2EF733E5C6CAD5DC408CA9882F128245
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1010149&extension=ts&play_token=s3z1QAvL75
-#EXTINF:-1 tvg-id="1634617" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/LIVEY.png",16/08 12:30 AM | INTER MILAN REAL BETIS (IS) 8K IS: LIVEY 7
+#EXTVLCOPT:http-header=Authorization: Bearer DC9B8806006F7024BC7C6E902BAF784F
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2084227&extension=ts&play_token=FJRdlW1SeW
+#EXTINF:-1 tvg-id="2114319" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",16/08 06:00 PM | PSF13 Tottenham Hotspur vs Hoffenheim
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 320A23D7545E4CD62B2D8260A72BC954
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1634617&extension=ts&play_token=9EMsGaSFzz
+#EXTVLCOPT:http-header=Authorization: Bearer 46EA3EC936361C59646150DB747890BD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114319&extension=ts&play_token=fDbnY8M1GQ
+#EXTINF:-1 tvg-id="2063812" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",16/08 08:00 PM | Nottingham Forest vs. Stade Brestois 29 all | 8K FR: SOCCER 147
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B4F558E2D667DEE81846887CE94ADFE6
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2063812&extension=ts&play_token=HScY15F1eZ
+#EXTINF:-1 tvg-id="2063812" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",16/08 08:00 PM | Nottingham Forest vs. Stade Brestois 29 all | 8K FR: SOCCER 147
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DC9B8806006F7024BC7C6E902BAF784F
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2063812&extension=ts&play_token=NHpgqZ5Dtx
+#EXTINF:-1 tvg-id="2112964" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",16/08 08:00 PM | Nottingham Forest vs. Stade Brestois 29 all | 8K FR: SOCCER 147
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 46EA3EC936361C59646150DB747890BD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2112964&extension=ts&play_token=ZvXNsCFk8V
+#EXTINF:-1 tvg-id="1899927" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",16/08 10:00 PM | Schalke vs. Real Madrid Club Friendlies | 8K GB: DAZN 75
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B4F558E2D667DEE81846887CE94ADFE6
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1899927&extension=ts&play_token=wKnDRgxP53
+#EXTINF:-1 tvg-id="1899927" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",16/08 10:00 PM | Schalke vs. Real Madrid Club Friendlies | 8K GB: DAZN 75
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DC9B8806006F7024BC7C6E902BAF784F
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1899927&extension=ts&play_token=o6saUm4Td7
+#EXTINF:-1 tvg-id="2048854" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",16/08 10:00 PM | Schalke vs. Real Madrid Club Friendlies | 8K GB: DAZN 75
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 46EA3EC936361C59646150DB747890BD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2048854&extension=ts&play_token=9M6R7Nyf3V
+#EXTINF:-1 tvg-id="1912523" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",16/08 10:00 PM | Schalke vs. Real Madrid Club Friendlies | 8K CA: DAZN 80
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B4F558E2D667DEE81846887CE94ADFE6
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1912523&extension=ts&play_token=iNeI9hw3eD
+#EXTINF:-1 tvg-id="1912523" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",16/08 10:00 PM | Schalke vs. Real Madrid Club Friendlies | 8K CA: DAZN 80
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DC9B8806006F7024BC7C6E902BAF784F
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1912523&extension=ts&play_token=cEwPMUKZor
+#EXTINF:-1 tvg-id="1893208" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",16/08 10:00 PM | FC Schalke 04 Real Madrid Testspiele | 8K AT: DAZN 60
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B4F558E2D667DEE81846887CE94ADFE6
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1893208&extension=ts&play_token=nQ7QgMoKhD
+#EXTINF:-1 tvg-id="1892986" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",16/08 10:00 PM | Schalke 04 Real Madrid Football Matchs Amicaux | 8K CH: DAZN 82
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B4F558E2D667DEE81846887CE94ADFE6
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1892986&extension=ts&play_token=eQ5nzfV07t
+#EXTINF:-1 tvg-id="999562" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13813.png?ver=91937",16/08 10:00 PM | REAL MADRID – SCHALKE 04 (SE) 8K SE: AftonBlade 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B4F558E2D667DEE81846887CE94ADFE6
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=999562&extension=ts&play_token=Z4qS1hTEUM
+#EXTINF:-1 tvg-id="1128608" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13844.png?ver=3041",16/08 10:00 PM | SCHALKE 04 REAL MADRID (NO) 8K NO: VGTV 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B4F558E2D667DEE81846887CE94ADFE6
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1128608&extension=ts&play_token=q39qpy9xgx
+#EXTINF:-1 tvg-id="1716091" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13826.jpg?ver=21622",16/08 10:00 PM | REAL MADRID SCHALKE (IS) 8K IS: SIMINN 27
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B4F558E2D667DEE81846887CE94ADFE6
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1716091&extension=ts&play_token=ejipdstT23
+#EXTINF:-1 tvg-id="1939821" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",16/08 10:00 PM | FC Schalke 04 vs. Real Madrid all | 8K CA: SOCCER 135
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B4F558E2D667DEE81846887CE94ADFE6
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939821&extension=ts&play_token=KrQzvg63zw
+#EXTINF:-1 tvg-id="1899626" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",16/08 10:00 PM | Schalke vs. Real Madrid Club Friendlies | 8K BR: DAZN 76
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B4F558E2D667DEE81846887CE94ADFE6
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1899626&extension=ts&play_token=tlYstlJMYd
+#EXTINF:-1 tvg-id="1939821" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",16/08 10:00 PM | FC Schalke 04 vs. Real Madrid all | 8K CA: SOCCER 135
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DC9B8806006F7024BC7C6E902BAF784F
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939821&extension=ts&play_token=TfEiH4nlru
+#EXTINF:-1 tvg-id="1899626" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",16/08 10:00 PM | Schalke vs. Real Madrid Club Friendlies | 8K BR: DAZN 76
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DC9B8806006F7024BC7C6E902BAF784F
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1899626&extension=ts&play_token=W7ZST5cLD1
+#EXTINF:-1 tvg-id="1893208" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",16/08 10:00 PM | FC Schalke 04 Real Madrid Testspiele | 8K AT: DAZN 60
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DC9B8806006F7024BC7C6E902BAF784F
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1893208&extension=ts&play_token=oPKKA0GLdc
+#EXTINF:-1 tvg-id="1892986" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",16/08 10:00 PM | Schalke 04 Real Madrid Football Matchs Amicaux | 8K CH: DAZN 82
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DC9B8806006F7024BC7C6E902BAF784F
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1892986&extension=ts&play_token=Y8g0cUMGVh
+#EXTINF:-1 tvg-id="999562" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13813.png?ver=91937",16/08 10:00 PM | REAL MADRID – SCHALKE 04 (SE) 8K SE: AftonBlade 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DC9B8806006F7024BC7C6E902BAF784F
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=999562&extension=ts&play_token=Wgvfd5X3wd
+#EXTINF:-1 tvg-id="1128608" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13844.png?ver=3041",16/08 10:00 PM | SCHALKE 04 REAL MADRID (NO) 8K NO: VGTV 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DC9B8806006F7024BC7C6E902BAF784F
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1128608&extension=ts&play_token=4ipAzAe9Mp
+#EXTINF:-1 tvg-id="1716091" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13826.jpg?ver=21622",16/08 10:00 PM | REAL MADRID SCHALKE (IS) 8K IS: SIMINN 27
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DC9B8806006F7024BC7C6E902BAF784F
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1716091&extension=ts&play_token=RF0Gg6z954
+#EXTINF:-1 tvg-id="2046723" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",16/08 10:00 PM | Schalke 04 Real Madrid Football Matchs Amicaux | 8K CH: DAZN 82
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 46EA3EC936361C59646150DB747890BD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046723&extension=ts&play_token=sxvpFfyS5P
+#EXTINF:-1 tvg-id="2046645" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",16/08 10:00 PM | FC Schalke 04 Real Madrid Testspiele | 8K AT: DAZN 60
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 46EA3EC936361C59646150DB747890BD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046645&extension=ts&play_token=WVaXDt5r3l
+#EXTINF:-1 tvg-id="1732527" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/AFTONBLADET.png",16/08 10:00 PM | REAL MADRID – SCHALKE 04 (SE) 8K SE: AftonBlade 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 46EA3EC936361C59646150DB747890BD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1732527&extension=ts&play_token=fgoIa1GCpM
+#EXTINF:-1 tvg-id="1675547" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGTV.png",16/08 10:00 PM | SCHALKE 04 REAL MADRID (NO) 8K NO: VGTV 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 46EA3EC936361C59646150DB747890BD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1675547&extension=ts&play_token=rwDSYQtfLe
+#EXTINF:-1 tvg-id="1672716" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",16/08 10:00 PM | (MX) (Dazn 042) Real Madrid vs. Atletico Madrid ( :00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B4F558E2D667DEE81846887CE94ADFE6
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1672716&extension=ts&play_token=BrVWfvZqFh
+#EXTINF:-1 tvg-id="1672716" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",16/08 10:00 PM | (MX) (Dazn 042) Real Madrid vs. Atletico Madrid ( :00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DC9B8806006F7024BC7C6E902BAF784F
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1672716&extension=ts&play_token=WxDshN0zYJ
+#EXTINF:-1 tvg-id="2063798" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",16/08 10:00 PM | Newcastle vs. Strasbourg all | 8K FR: SOCCER 161
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B4F558E2D667DEE81846887CE94ADFE6
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2063798&extension=ts&play_token=wK8CwljGVv
+#EXTINF:-1 tvg-id="1128609" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13844.png?ver=3041",16/08 10:00 PM | NEWCASTLE UNITED RC STRASBOURG ALSACE (NO) 8K NO: VGTV 23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B4F558E2D667DEE81846887CE94ADFE6
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1128609&extension=ts&play_token=QXk6wSrErY
+#EXTINF:-1 tvg-id="1983992" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",16/08 10:00 PM | NEWCASTLE UNITED VS. STRASBOURG -02 (BR) 8K BR: DISNEY+ 133
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B4F558E2D667DEE81846887CE94ADFE6
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1983992&extension=ts&play_token=Rd5cPxPNpV
+#EXTINF:-1 tvg-id="2063798" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",16/08 10:00 PM | Newcastle vs. Strasbourg all | 8K FR: SOCCER 161
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DC9B8806006F7024BC7C6E902BAF784F
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2063798&extension=ts&play_token=385BezQbXw
+#EXTINF:-1 tvg-id="1983992" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",16/08 10:00 PM | NEWCASTLE UNITED VS. STRASBOURG -02 (BR) 8K BR: DISNEY+ 133
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DC9B8806006F7024BC7C6E902BAF784F
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1983992&extension=ts&play_token=bSObKE9KPo
+#EXTINF:-1 tvg-id="1128609" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13844.png?ver=3041",16/08 10:00 PM | NEWCASTLE UNITED RC STRASBOURG ALSACE (NO) 8K NO: VGTV 23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DC9B8806006F7024BC7C6E902BAF784F
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1128609&extension=ts&play_token=881oU3CyAC
+#EXTINF:-1 tvg-id="2113050" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",16/08 10:00 PM | Newcastle vs. Strasbourg all | 8K FR: SOCCER 161
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 46EA3EC936361C59646150DB747890BD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113050&extension=ts&play_token=kkenfl9BKd
+#EXTINF:-1 tvg-id="2112950" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",16/08 10:00 PM | Newcastle vs. Strasbourg all | 8K FR: SOCCER 161
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 46EA3EC936361C59646150DB747890BD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2112950&extension=ts&play_token=QW0l7Dbqsn
+#EXTINF:-1 tvg-id="1675548" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGTV.png",16/08 10:00 PM | NEWCASTLE UNITED RC STRASBOURG ALSACE (NO) 8K NO: VGTV 23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 46EA3EC936361C59646150DB747890BD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1675548&extension=ts&play_token=biYwO1Hvif
+#EXTINF:-1 tvg-id="1912521" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",17/08 12:00 AM | Liverpool vs. Como Club Friendlies | 8K CA: DAZN 82
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B4F558E2D667DEE81846887CE94ADFE6
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1912521&extension=ts&play_token=y0clkF6uEv
+#EXTINF:-1 tvg-id="1912521" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",17/08 12:00 AM | Liverpool vs. Como Club Friendlies | 8K CA: DAZN 82
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DC9B8806006F7024BC7C6E902BAF784F
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1912521&extension=ts&play_token=ofc0HSsTvv
+#EXTINF:-1 tvg-id="999561" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13813.png?ver=91937",17/08 12:00 AM | LIVERPOOL – COMO (SE) 8K SE: AftonBlade 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B4F558E2D667DEE81846887CE94ADFE6
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=999561&extension=ts&play_token=P9Hxp9TrvE
+#EXTINF:-1 tvg-id="1716085" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13826.jpg?ver=21622",17/08 12:00 AM | LIVERPOOL COMO (IS) 8K IS: SIMINN 33
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B4F558E2D667DEE81846887CE94ADFE6
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1716085&extension=ts&play_token=5FzaeHGbGZ
+#EXTINF:-1 tvg-id="1939822" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",17/08 12:00 AM | Liverpool vs. Calcio Como 1907 all | 8K CA: SOCCER 134
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B4F558E2D667DEE81846887CE94ADFE6
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939822&extension=ts&play_token=47Kd5lctm4
+#EXTINF:-1 tvg-id="1899624" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",17/08 12:00 AM | Liverpool v Como Club Friendlies | 8K BR: DAZN 78
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B4F558E2D667DEE81846887CE94ADFE6
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1899624&extension=ts&play_token=g18AtYqxb8
+#EXTINF:-1 tvg-id="1939822" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",17/08 12:00 AM | Liverpool vs. Calcio Como 1907 all | 8K CA: SOCCER 134
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DC9B8806006F7024BC7C6E902BAF784F
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939822&extension=ts&play_token=sjdgXhNOMj
+#EXTINF:-1 tvg-id="1899624" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",17/08 12:00 AM | Liverpool v Como Club Friendlies | 8K BR: DAZN 78
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DC9B8806006F7024BC7C6E902BAF784F
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1899624&extension=ts&play_token=tsFgtnzjTo
+#EXTINF:-1 tvg-id="999561" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13813.png?ver=91937",17/08 12:00 AM | LIVERPOOL – COMO (SE) 8K SE: AftonBlade 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DC9B8806006F7024BC7C6E902BAF784F
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=999561&extension=ts&play_token=ZQiRAVpGVk
+#EXTINF:-1 tvg-id="1716085" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13826.jpg?ver=21622",17/08 12:00 AM | LIVERPOOL COMO (IS) 8K IS: SIMINN 33
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DC9B8806006F7024BC7C6E902BAF784F
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1716085&extension=ts&play_token=2eAEEx8WJt
+#EXTINF:-1 tvg-id="1732526" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/AFTONBLADET.png",17/08 12:00 AM | LIVERPOOL – COMO (SE) 8K SE: AftonBlade 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 46EA3EC936361C59646150DB747890BD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1732526&extension=ts&play_token=NUokUbs97E
