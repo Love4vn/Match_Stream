@@ -1,526 +1,881 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="2063916" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 01:45 AM | Marseille vs. Strasbourg all | 8K FR: SOCCER 43
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2063916&extension=ts&play_token=paKqOZtGTl
-#EXTINF:-1 tvg-id="1988089" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 01:45 AM | Marseille vs. Strasbourg all | 8K ES: SOCCER 37
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1988089&extension=ts&play_token=hIvm0X7Cgp
-#EXTINF:-1 tvg-id="1919056" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 01:45 AM | End Marseille vs. Strasbourg all | 8K BR: SOCCER 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919056&extension=ts&play_token=kzQQ4aDo1u
-#EXTINF:-1 tvg-id="1984034" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",22/08 01:45 AM | AO VIVO OLYMPIQUE DE MARSEILLE X STRASBOURG (XSPORTS) -02 (BR) 8K BR: DISNEY+ 92
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1984034&extension=ts&play_token=NdBYIZXdcK
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2063916&extension=ts&play_token=Jhw79k3WL0
 #EXTINF:-1 tvg-id="1918818" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 01:45 AM | Marseille vs. Strasbourg all | 8K DE: SOCCER 59
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1918818&extension=ts&play_token=DXjiMbtNvQ
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918818&extension=ts&play_token=Y6Bz6PCCMi
 #EXTINF:-1 tvg-id="918735" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 01:45 AM | LIGUE 1 MARSEILLE STRASBOURG (NL) 8K NL: VIAPLAY 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=918735&extension=ts&play_token=CHtDMNRDDO
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=918735&extension=ts&play_token=4ctQKUb01l
+#EXTINF:-1 tvg-id="1988089" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 01:45 AM | Marseille vs. Strasbourg all | 8K ES: SOCCER 37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988089&extension=ts&play_token=1wKukwVubS
 #EXTINF:-1 tvg-id="1810023" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 01:45 AM | LIGUE 1 MARSEILLE STRASBOURG (SE) 8K SE: VIAPLAY 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1810023&extension=ts&play_token=SqYb3z30Rq
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1810023&extension=ts&play_token=sw1xEm2cIA
 #EXTINF:-1 tvg-id="1863192" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 01:45 AM | LIGUE 1 MARSEILLE STRASBOURG (DK) 8K DK: VIAPLAY 35
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1863192&extension=ts&play_token=AT5yvbM7vV
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1863192&extension=ts&play_token=RFubaXz33I
 #EXTINF:-1 tvg-id="1242762" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 01:45 AM | LIGUE 1 MARSEILLE STRASBOURG (NO) 8K NO: VIAPLAY 27
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1242762&extension=ts&play_token=ElM8tSVLWK
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1242762&extension=ts&play_token=J03MI1aQH7
 #EXTINF:-1 tvg-id="1863307" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 01:45 AM | LIGUE 1 MARSEILLE STRASBOURG (FI) 8K FI: VIAPLAY 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1863307&extension=ts&play_token=QONrYHRo8h
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1863307&extension=ts&play_token=xOEFc9EzVF
+#EXTINF:-1 tvg-id="1919056" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 01:45 AM | Marseille vs. Strasbourg all | 8K BR: SOCCER 28
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919056&extension=ts&play_token=y6QwZYCcPj
+#EXTINF:-1 tvg-id="1984034" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",22/08 01:45 AM | AO VIVO OLYMPIQUE DE MARSEILLE X STRASBOURG (XSPORTS) -02 (BR) 8K BR: DISNEY+ 92
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1984034&extension=ts&play_token=dinVFrziBt
+#EXTINF:-1 tvg-id="2063916" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 01:45 AM | Marseille vs. Strasbourg all | 8K FR: SOCCER 43
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=2063916&extension=ts&play_token=GZw9BzSsYd
+#EXTINF:-1 tvg-id="1988089" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 01:45 AM | Marseille vs. Strasbourg all | 8K ES: SOCCER 37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1988089&extension=ts&play_token=Af4AQv2tIh
+#EXTINF:-1 tvg-id="1919056" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 01:45 AM | Marseille vs. Strasbourg all | 8K BR: SOCCER 28
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1919056&extension=ts&play_token=y7IdyKreYW
+#EXTINF:-1 tvg-id="1984034" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",22/08 01:45 AM | AO VIVO OLYMPIQUE DE MARSEILLE X STRASBOURG (XSPORTS) -02 (BR) 8K BR: DISNEY+ 92
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1984034&extension=ts&play_token=uY0isHweVZ
+#EXTINF:-1 tvg-id="1918818" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 01:45 AM | Marseille vs. Strasbourg all | 8K DE: SOCCER 59
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1918818&extension=ts&play_token=FcazS3oK4S
+#EXTINF:-1 tvg-id="918735" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 01:45 AM | LIGUE 1 MARSEILLE STRASBOURG (NL) 8K NL: VIAPLAY 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=918735&extension=ts&play_token=3xTrQACxw7
+#EXTINF:-1 tvg-id="1810023" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 01:45 AM | LIGUE 1 MARSEILLE STRASBOURG (SE) 8K SE: VIAPLAY 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1810023&extension=ts&play_token=O2HDrFa2AH
+#EXTINF:-1 tvg-id="1863192" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 01:45 AM | LIGUE 1 MARSEILLE STRASBOURG (DK) 8K DK: VIAPLAY 35
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863192&extension=ts&play_token=eQDCvCaYuu
+#EXTINF:-1 tvg-id="1242762" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 01:45 AM | LIGUE 1 MARSEILLE STRASBOURG (NO) 8K NO: VIAPLAY 27
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1242762&extension=ts&play_token=l1ZjAhdSMC
+#EXTINF:-1 tvg-id="1863307" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 01:45 AM | LIGUE 1 MARSEILLE STRASBOURG (FI) 8K FI: VIAPLAY 25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863307&extension=ts&play_token=4wz49rc2zv
 #EXTINF:-1 tvg-id="1592460" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",22/08 01:45 AM | LIGUE 1 MARSEILLE STRASBOURG (NL) 8K NL: VIAPLAY 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1592460&extension=ts&play_token=56FUIpRARS
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1592460&extension=ts&play_token=97EOTwoOC5
 #EXTINF:-1 tvg-id="2054993" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",22/08 01:45 AM | Marseille vs. Strasbourg all | 8K DE: SOCCER 59
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054993&extension=ts&play_token=1diczdHGLf
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054993&extension=ts&play_token=FxjJivAkPn
 #EXTINF:-1 tvg-id="2113068" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",22/08 01:45 AM | Marseille vs. Strasbourg all | 8K FR: SOCCER 43
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113068&extension=ts&play_token=SdjpoJQGz3
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113068&extension=ts&play_token=aEfxk1VLdq
 #EXTINF:-1 tvg-id="2072516" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",22/08 01:45 AM | Marseille vs. Strasbourg all | 8K ES: SOCCER 37
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072516&extension=ts&play_token=2X75lAvh6v
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072516&extension=ts&play_token=sQk2VquwEY
 #EXTINF:-1 tvg-id="2016255" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",22/08 01:45 AM | LIGUE 1 MARSEILLE STRASBOURG (SE) 8K SE: VIAPLAY 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016255&extension=ts&play_token=NzCr25aUwM
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016255&extension=ts&play_token=Z1oMQnoJfX
 #EXTINF:-1 tvg-id="2037343" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",22/08 01:45 AM | LIGUE 1 MARSEILLE STRASBOURG (DK) 8K DK: VIAPLAY 35
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037343&extension=ts&play_token=3Sa0l0NbQW
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037343&extension=ts&play_token=vyJkEtWNiP
 #EXTINF:-1 tvg-id="1735551" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",22/08 01:45 AM | LIGUE 1 MARSEILLE STRASBOURG (NO) 8K NO: VIAPLAY 27
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735551&extension=ts&play_token=zhYNATdC6I
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735551&extension=ts&play_token=Pu9qa1onem
 #EXTINF:-1 tvg-id="2037455" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",22/08 01:45 AM | LIGUE 1 MARSEILLE STRASBOURG (FI) 8K FI: VIAPLAY 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037455&extension=ts&play_token=99aHJ6XFqH
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037455&extension=ts&play_token=dCYrh7r9zv
 #EXTINF:-1 tvg-id="1535741" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14455.png?ver=90267",22/08 01:45 AM | (Fanatiz 019) Olympique Marseille vs Strasbourg ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1535741&extension=ts&play_token=8LG0rcvC94
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1535741&extension=ts&play_token=KFPyWXWc2K
+#EXTINF:-1 tvg-id="1535741" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14455.png?ver=90267",22/08 01:45 AM | (Fanatiz 019) Olympique Marseille vs Strasbourg ( :00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1535741&extension=ts&play_token=3xZoQDDb1k
+#EXTINF:-1 tvg-id="1022237" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="https://go4.pw/57.png",22/08 01:45 AM | FR OLYMPIQUE MARSEILLE VS STRASBOURG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CFB49E26BA5392AB72D576A79C657238
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1022237
+#EXTINF:-1 tvg-id="1018321" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="https://go4.pw/57.png",22/08 01:45 AM | AR OLYMPIQUE MARSEILLE VS STRASBOURG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CFB49E26BA5392AB72D576A79C657238
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1018321
 #EXTINF:-1 tvg-id="678594" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13744.png?ver=9390",22/08 02:00 AM | FA Player 05 Arsenal vs London City Lionesses // //
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=678594&extension=ts&play_token=oaII1AXNpk
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=678594&extension=ts&play_token=4CUULahs4M
 #EXTINF:-1 tvg-id="678592" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13744.png?ver=9390",22/08 02:00 AM | FA Player 07 Arsenal vs Bristol City // //
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=678592&extension=ts&play_token=4p6UB3hbsJ
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=678592&extension=ts&play_token=scbFpLOsx3
+#EXTINF:-1 tvg-id="678594" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13744.png?ver=9390",22/08 02:00 AM | FA Player 05 Arsenal vs London City Lionesses // //
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=678594&extension=ts&play_token=3hxRB8Go2F
+#EXTINF:-1 tvg-id="678592" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13744.png?ver=9390",22/08 02:00 AM | FA Player 07 Arsenal vs Bristol City // //
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=678592&extension=ts&play_token=6oVbzreKR2
+#EXTINF:-1 tvg-id="1454899" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/EUROPE/PSF.png",22/08 02:00 AM | PSF 04 ARSENAL @ MANCHESTER CITY – /
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CFB49E26BA5392AB72D576A79C657238
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1454899
+#EXTINF:-1 tvg-id="1454898" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/EUROPE/PSF.png",22/08 02:00 AM | PSF 05 ARSENAL @ MANCHESTER CITY – /
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CFB49E26BA5392AB72D576A79C657238
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1454898
+#EXTINF:-1 tvg-id="1454897" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/EUROPE/PSF.png",22/08 02:00 AM | PSF 06 ARSENAL @ MANCHESTER CITY – /
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CFB49E26BA5392AB72D576A79C657238
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1454897
 #EXTINF:-1 tvg-id="1429576" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://103.176.90.95/images/1429576.png",22/08 02:00 AM | FA Player 05 Arsenal vs London City Lionesses // //
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1429576&extension=ts&play_token=EhDTc37R6D
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1429576&extension=ts&play_token=TU8KZRyGcS
 #EXTINF:-1 tvg-id="1429574" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://103.176.90.95/images/1429574.png",22/08 02:00 AM | FA Player 07 Arsenal vs Bristol City // //
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1429574&extension=ts&play_token=mGCP0rvbfm
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1429574&extension=ts&play_token=bvBHLrSAFz
 #EXTINF:-1 tvg-id="1535950" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 02:00 AM | AU (STAN 12) Studio Coverage: Arsenal v Coventry City Matchweek 1 2026/2027 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1535950&extension=ts&play_token=hBcbo6LF5t
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1535950&extension=ts&play_token=XkB2BKMnUW
 #EXTINF:-1 tvg-id="1535949" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 02:00 AM | AU (STAN 13) • Arsenal v Coventry City Matchweek 1 2026/2027 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1535949&extension=ts&play_token=f4ZG470o7w
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1535949&extension=ts&play_token=yAIl6H3tcm
 #EXTINF:-1 tvg-id="1535948" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 02:00 AM | AU (STAN 14) Player Camera • Arsenal v Coventry City 2026/2027 ( :34)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1535948&extension=ts&play_token=CxtHS1xGpw
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1535948&extension=ts&play_token=mc4Qyr2pC5
 #EXTINF:-1 tvg-id="1535947" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 02:00 AM | AU (STAN 15) Multi Camera • Arsenal v Coventry City 2026/2027 ( :39)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1535947&extension=ts&play_token=M5vTfm9sRW
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1535947&extension=ts&play_token=S4Txt0M5qD
+#EXTINF:-1 tvg-id="1535950" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 02:00 AM | AU (STAN 12) Studio Coverage: Arsenal v Coventry City Matchweek 1 2026/2027 ( :29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1535950&extension=ts&play_token=eKD38VvkHn
+#EXTINF:-1 tvg-id="1535949" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 02:00 AM | AU (STAN 13) • Arsenal v Coventry City Matchweek 1 2026/2027 ( :29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1535949&extension=ts&play_token=iQZdc0mDhn
+#EXTINF:-1 tvg-id="1535948" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 02:00 AM | AU (STAN 14) Player Camera • Arsenal v Coventry City 2026/2027 ( :34)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1535948&extension=ts&play_token=meHcis4DNp
+#EXTINF:-1 tvg-id="1535947" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 02:00 AM | AU (STAN 15) Multi Camera • Arsenal v Coventry City 2026/2027 ( :39)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1535947&extension=ts&play_token=t8qDspTkFE
 #EXTINF:-1 tvg-id="1966345" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 02:00 AM | AU (STAN 12) Studio Coverage: Arsenal v Coventry City Matchweek 1 2026/2027 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1966345&extension=ts&play_token=rq07sUwFy0
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1966345&extension=ts&play_token=zFLpnMlXGa
 #EXTINF:-1 tvg-id="1966344" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 02:00 AM | AU (STAN 13) • Arsenal v Coventry City Matchweek 1 2026/2027 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1966344&extension=ts&play_token=wndWiDcQVT
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1966344&extension=ts&play_token=Wm8gRqH48Q
 #EXTINF:-1 tvg-id="1966343" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 02:00 AM | AU (STAN 14) Player Camera • Arsenal v Coventry City 2026/2027 ( :34)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1966343&extension=ts&play_token=uOtSbytCI3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1966343&extension=ts&play_token=8u3aCggfRc
 #EXTINF:-1 tvg-id="1966342" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 02:00 AM | AU (STAN 15) Multi Camera • Arsenal v Coventry City 2026/2027 ( :39)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1966342&extension=ts&play_token=SD5a4kqEtA
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1966342&extension=ts&play_token=VOUXBSSMZt
+#EXTINF:-1 tvg-id="1966345" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 02:00 AM | AU (STAN 12) Studio Coverage: Arsenal v Coventry City Matchweek 1 2026/2027 ( :29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1966345&extension=ts&play_token=lmdFixLhwC
+#EXTINF:-1 tvg-id="1966344" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 02:00 AM | AU (STAN 13) • Arsenal v Coventry City Matchweek 1 2026/2027 ( :29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1966344&extension=ts&play_token=oH4dYcSq6k
+#EXTINF:-1 tvg-id="1966343" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 02:00 AM | AU (STAN 14) Player Camera • Arsenal v Coventry City 2026/2027 ( :34)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1966343&extension=ts&play_token=2YPfTjJ554
+#EXTINF:-1 tvg-id="1966342" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 02:00 AM | AU (STAN 15) Multi Camera • Arsenal v Coventry City 2026/2027 ( :39)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1966342&extension=ts&play_token=exYICwGKvI
+#EXTINF:-1 tvg-id="1100811" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",22/08 02:00 AM | EN ARSENAL VS COVENTRY CITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CFB49E26BA5392AB72D576A79C657238
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100811
 #EXTINF:-1 tvg-id="1454430" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",22/08 02:00 AM | 01: Arsenal vs Coventry City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1454430&extension=ts&play_token=eKxXhChL1X
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454430&extension=ts&play_token=rucNeQY1h1
 #EXTINF:-1 tvg-id="1454429" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",22/08 02:00 AM | 01: Arsenal vs Coventry City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1454429&extension=ts&play_token=2mGbtKUnWr
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454429&extension=ts&play_token=gco8jFkCsk
 #EXTINF:-1 tvg-id="1454428" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",22/08 02:00 AM | 01: Arsenal vs Coventry City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1454428&extension=ts&play_token=55jd63Uujp
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454428&extension=ts&play_token=PtbrAoBspU
 #EXTINF:-1 tvg-id="2084236" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15271.jpg?ver=95591",22/08 02:00 AM | PSF04 Arsenal vs Manchester City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2084236&extension=ts&play_token=6vVXcald7t
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2084236&extension=ts&play_token=xfSbfcT3L1
 #EXTINF:-1 tvg-id="2084235" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15271.jpg?ver=95591",22/08 02:00 AM | PSF05 Arsenal vs Manchester City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2084235&extension=ts&play_token=0nZnvd91RR
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2084235&extension=ts&play_token=osjz21YkJ4
 #EXTINF:-1 tvg-id="2084234" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15271.jpg?ver=95591",22/08 02:00 AM | PSF06 Arsenal vs Manchester City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2084234&extension=ts&play_token=5DqiGI7MT2
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2084234&extension=ts&play_token=rAh5if3IYj
+#EXTINF:-1 tvg-id="1454430" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",22/08 02:00 AM | 01: Arsenal vs Coventry City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1454430&extension=ts&play_token=j9O8DC62fZ
+#EXTINF:-1 tvg-id="1454429" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",22/08 02:00 AM | 01: Arsenal vs Coventry City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1454429&extension=ts&play_token=bC332K4Pzk
+#EXTINF:-1 tvg-id="1454428" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",22/08 02:00 AM | 01: Arsenal vs Coventry City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1454428&extension=ts&play_token=JEJtNPUj2n
+#EXTINF:-1 tvg-id="2084236" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15271.jpg?ver=95591",22/08 02:00 AM | PSF04 Arsenal vs Manchester City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=2084236&extension=ts&play_token=ofC512Rj97
+#EXTINF:-1 tvg-id="2084235" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15271.jpg?ver=95591",22/08 02:00 AM | PSF05 Arsenal vs Manchester City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=2084235&extension=ts&play_token=fMtMDNxjWQ
+#EXTINF:-1 tvg-id="2084234" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15271.jpg?ver=95591",22/08 02:00 AM | PSF06 Arsenal vs Manchester City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=2084234&extension=ts&play_token=prNOQurkQA
 #EXTINF:-1 tvg-id="2114328" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",22/08 02:00 AM | PSF04 Arsenal vs Manchester City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114328&extension=ts&play_token=ImO8u7ooBi
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114328&extension=ts&play_token=FKLcxm2wDo
 #EXTINF:-1 tvg-id="2114327" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",22/08 02:00 AM | PSF05 Arsenal vs Manchester City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114327&extension=ts&play_token=tHnfnczRFj
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114327&extension=ts&play_token=P4JivVsozh
 #EXTINF:-1 tvg-id="2114326" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",22/08 02:00 AM | PSF06 Arsenal vs Manchester City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114326&extension=ts&play_token=TD6kRFgyWw
-#EXTINF:-1 tvg-id="1802342" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",22/08 02:00 AM | PSF04 Arsenal vs Manchester City
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0E6D92168BF60CD5B71829F850CA11A4
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802342&extension=ts&play_token=YL4obM3VU6
-#EXTINF:-1 tvg-id="1802343" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",22/08 02:00 AM | PSF05 Arsenal vs Manchester City
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0E6D92168BF60CD5B71829F850CA11A4
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802343&extension=ts&play_token=meOvSRR3jk
-#EXTINF:-1 tvg-id="1802344" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",22/08 02:00 AM | PSF06 Arsenal vs Manchester City
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0E6D92168BF60CD5B71829F850CA11A4
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802344&extension=ts&play_token=FT8kgGXfCa
-#EXTINF:-1 tvg-id="1802342" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",22/08 02:00 AM | PSF04 Arsenal vs Manchester City
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 522CB606ABCF75E3A153282AB00E11AC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1802342&extension=ts&play_token=EYYfd7kevn
-#EXTINF:-1 tvg-id="1802343" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",22/08 02:00 AM | PSF05 Arsenal vs Manchester City
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 522CB606ABCF75E3A153282AB00E11AC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1802343&extension=ts&play_token=k1Is8qhjjJ
-#EXTINF:-1 tvg-id="1802344" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",22/08 02:00 AM | PSF06 Arsenal vs Manchester City
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 522CB606ABCF75E3A153282AB00E11AC
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1802344&extension=ts&play_token=3K42Bm7MBo
-#EXTINF:-1 tvg-id="1939900" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 02:00 AM | Arsenal vs. Coventry all | 8K CA: SOCCER 56
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939900&extension=ts&play_token=zzZAs5GfcH
-#EXTINF:-1 tvg-id="1988090" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 02:00 AM | Arsenal vs. Coventry all | 8K ES: SOCCER 36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1988090&extension=ts&play_token=jtdnSNIfKP
-#EXTINF:-1 tvg-id="1984033" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",22/08 02:00 AM | GAME DAY ESPN ARSENAL X COVENTRY CITY -02 (BR) 8K BR: DISNEY+ 93
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1984033&extension=ts&play_token=e1uTcmDNfY
-#EXTINF:-1 tvg-id="1984032" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",22/08 02:00 AM | ARSENAL VS. COVENTRY CITY -02 (BR) 8K BR: DISNEY+ 94
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1984032&extension=ts&play_token=bAagERfywX
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114326&extension=ts&play_token=SYLirnZEuQ
 #EXTINF:-1 tvg-id="1918784" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 02:00 AM | Arsenal vs. Coventry all | 8K DE: SOCCER 93
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1918784&extension=ts&play_token=2QpM3wX9Kf
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918784&extension=ts&play_token=thbZEoRsVb
 #EXTINF:-1 tvg-id="1930973" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 02:00 AM | Arsenal vs. Coventry all | 8K NL: SOCCER 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1930973&extension=ts&play_token=Thrp2QPydS
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1930973&extension=ts&play_token=OazujGWPvS
 #EXTINF:-1 tvg-id="918736" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 02:00 AM | ARSENAL COVENTRY (NL) 8K NL: VIAPLAY 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=918736&extension=ts&play_token=KXCKnTXPsG
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=918736&extension=ts&play_token=GSKb8N1hYX
+#EXTINF:-1 tvg-id="1988090" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 02:00 AM | Arsenal vs. Coventry all | 8K ES: SOCCER 36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988090&extension=ts&play_token=SpmXANpApo
 #EXTINF:-1 tvg-id="1810024" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 02:00 AM | PL-STUDION: ARSENAL COVENTRY (SE) 8K SE: VIAPLAY 23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1810024&extension=ts&play_token=1kjOdsTSqh
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1810024&extension=ts&play_token=LsOyLCyY1y
 #EXTINF:-1 tvg-id="1810022" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 02:00 AM | ARSENAL COVENTRY (SE) 8K SE: VIAPLAY 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1810022&extension=ts&play_token=grvCWOyVHe
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1810022&extension=ts&play_token=sFWvRXTyAC
 #EXTINF:-1 tvg-id="1825953" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",22/08 02:00 AM | ARSENAL COVENTRY (SE) 8K SE: PLAY+ 50
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1825953&extension=ts&play_token=a7Ji6sYixH
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1825953&extension=ts&play_token=27ol7MLcGW
 #EXTINF:-1 tvg-id="1863193" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 02:00 AM | ARSENAL COVENTRY (DK) 8K DK: VIAPLAY 34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1863193&extension=ts&play_token=KNPcpOfwhC
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1863193&extension=ts&play_token=nYgiFKKz8N
 #EXTINF:-1 tvg-id="1242763" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 02:00 AM | ARSENAL COVENTRY (NO) 8K NO: VIAPLAY 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1242763&extension=ts&play_token=jiREVWSUYt
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1242763&extension=ts&play_token=MNjCDaRUCd
 #EXTINF:-1 tvg-id="1863308" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 02:00 AM | VALIOLIIGA ARSENAL COVENTRY (FI) 8K FI: VIAPLAY 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1863308&extension=ts&play_token=wrUpjaLlOJ
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1863308&extension=ts&play_token=ib84dBvAe4
+#EXTINF:-1 tvg-id="1939900" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 02:00 AM | Arsenal vs. Coventry all | 8K CA: SOCCER 56
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939900&extension=ts&play_token=bFRes0Z2R7
+#EXTINF:-1 tvg-id="1984033" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",22/08 02:00 AM | GAME DAY ESPN ARSENAL X COVENTRY CITY -02 (BR) 8K BR: DISNEY+ 93
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1984033&extension=ts&play_token=SX1fxve0ZV
+#EXTINF:-1 tvg-id="1984032" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",22/08 02:00 AM | ARSENAL VS. COVENTRY CITY -02 (BR) 8K BR: DISNEY+ 94
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1984032&extension=ts&play_token=FTcdibjNCK
+#EXTINF:-1 tvg-id="1939900" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 02:00 AM | Arsenal vs. Coventry all | 8K CA: SOCCER 56
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939900&extension=ts&play_token=M3pDwjknfD
+#EXTINF:-1 tvg-id="1988090" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 02:00 AM | Arsenal vs. Coventry all | 8K ES: SOCCER 36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1988090&extension=ts&play_token=qbAiVlIieh
+#EXTINF:-1 tvg-id="1984033" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",22/08 02:00 AM | GAME DAY ESPN ARSENAL X COVENTRY CITY -02 (BR) 8K BR: DISNEY+ 93
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1984033&extension=ts&play_token=LcmzOSCdSG
+#EXTINF:-1 tvg-id="1984032" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",22/08 02:00 AM | ARSENAL VS. COVENTRY CITY -02 (BR) 8K BR: DISNEY+ 94
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1984032&extension=ts&play_token=AHZEpZd68i
+#EXTINF:-1 tvg-id="1918784" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 02:00 AM | Arsenal vs. Coventry all | 8K DE: SOCCER 93
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1918784&extension=ts&play_token=0FFXz2A1VI
+#EXTINF:-1 tvg-id="1930973" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 02:00 AM | Arsenal vs. Coventry all | 8K NL: SOCCER 26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1930973&extension=ts&play_token=0fytwaUMTr
+#EXTINF:-1 tvg-id="918736" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 02:00 AM | ARSENAL COVENTRY (NL) 8K NL: VIAPLAY 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=918736&extension=ts&play_token=Mub1XY1q4f
+#EXTINF:-1 tvg-id="1810024" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 02:00 AM | PL-STUDION: ARSENAL COVENTRY (SE) 8K SE: VIAPLAY 23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1810024&extension=ts&play_token=w4115IA1C7
+#EXTINF:-1 tvg-id="1810022" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 02:00 AM | ARSENAL COVENTRY (SE) 8K SE: VIAPLAY 25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1810022&extension=ts&play_token=ldDiTyx8tN
+#EXTINF:-1 tvg-id="1825953" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",22/08 02:00 AM | ARSENAL COVENTRY (SE) 8K SE: PLAY+ 50
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1825953&extension=ts&play_token=jiZ36XrKCQ
+#EXTINF:-1 tvg-id="1863193" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 02:00 AM | ARSENAL COVENTRY (DK) 8K DK: VIAPLAY 34
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863193&extension=ts&play_token=ipqgeB62zg
+#EXTINF:-1 tvg-id="1242763" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 02:00 AM | ARSENAL COVENTRY (NO) 8K NO: VIAPLAY 26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1242763&extension=ts&play_token=D3K3EIhUPg
+#EXTINF:-1 tvg-id="1863308" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 02:00 AM | VALIOLIIGA ARSENAL COVENTRY (FI) 8K FI: VIAPLAY 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863308&extension=ts&play_token=MEVFde28LY
 #EXTINF:-1 tvg-id="1592459" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",22/08 02:00 AM | ARSENAL COVENTRY (NL) 8K NL: VIAPLAY 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1592459&extension=ts&play_token=eL1Ff9Ci4P
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1592459&extension=ts&play_token=TTnKbVOy2w
 #EXTINF:-1 tvg-id="2058522" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",22/08 02:00 AM | Arsenal vs. Coventry all | 8K NL: SOCCER 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2058522&extension=ts&play_token=5wIjCzs5Ao
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2058522&extension=ts&play_token=9MqWHu0wkl
 #EXTINF:-1 tvg-id="2054959" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",22/08 02:00 AM | Arsenal vs. Coventry all | 8K DE: SOCCER 93
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054959&extension=ts&play_token=H2oLTrJvC2
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054959&extension=ts&play_token=cFElxkmF5X
 #EXTINF:-1 tvg-id="2072517" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",22/08 02:00 AM | Arsenal vs. Coventry all | 8K ES: SOCCER 36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072517&extension=ts&play_token=Uw4iRE4hX8
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072517&extension=ts&play_token=kwhoTumTHv
 #EXTINF:-1 tvg-id="2021198" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",22/08 02:00 AM | ARSENAL COVENTRY (SE) 8K SE: PLAY+ 50
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021198&extension=ts&play_token=OBz9mSVCZC
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021198&extension=ts&play_token=SyghVROYsG
 #EXTINF:-1 tvg-id="2016256" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",22/08 02:00 AM | PL-STUDION: ARSENAL COVENTRY (SE) 8K SE: VIAPLAY 23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016256&extension=ts&play_token=UKp0ciN6Nf
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016256&extension=ts&play_token=jroe8LU7o6
 #EXTINF:-1 tvg-id="2016254" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",22/08 02:00 AM | ARSENAL COVENTRY (SE) 8K SE: VIAPLAY 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016254&extension=ts&play_token=RdJAJ71KVv
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016254&extension=ts&play_token=XgpTnQmOwT
 #EXTINF:-1 tvg-id="2070116" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",22/08 02:00 AM | ARSENAL COVENTRY (DK) 8K DK: VIAPLAY 34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2070116&extension=ts&play_token=6PhUq3Rz3U
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2070116&extension=ts&play_token=Gn1r24enzn
 #EXTINF:-1 tvg-id="2037344" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",22/08 02:00 AM | ARSENAL COVENTRY (DK) 8K DK: VIAPLAY 34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037344&extension=ts&play_token=2ITbyX9yFn
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037344&extension=ts&play_token=O8Nn7doXwI
 #EXTINF:-1 tvg-id="1735552" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",22/08 02:00 AM | ARSENAL COVENTRY (NO) 8K NO: VIAPLAY 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735552&extension=ts&play_token=RvhCXBZxDq
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735552&extension=ts&play_token=m707QlVO50
 #EXTINF:-1 tvg-id="2037456" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",22/08 02:00 AM | VALIOLIIGA ARSENAL COVENTRY (FI) 8K FI: VIAPLAY 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037456&extension=ts&play_token=WF04HHvJKd
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037456&extension=ts&play_token=TGxKlpGLPe
+#EXTINF:-1 tvg-id="1100813" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",22/08 02:00 AM | FR ARSENAL VS COVENTRY CITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CFB49E26BA5392AB72D576A79C657238
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100813
+#EXTINF:-1 tvg-id="1100815" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",22/08 02:00 AM | AR ARSENAL VS COVENTRY CITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CFB49E26BA5392AB72D576A79C657238
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100815
+#EXTINF:-1 tvg-id="1388024" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",22/08 02:00 AM | ALB ARSENAL VS COVENTRY CITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CFB49E26BA5392AB72D576A79C657238
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1388024
 #EXTINF:-1 tvg-id="1535950" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 02:00 AM | AU (STAN 12) Studio Coverage: Arsenal v Coventry City Matchweek 1 2026/2027 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1535950&extension=ts&play_token=hBcbo6LF5t
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1535950&extension=ts&play_token=XkB2BKMnUW
 #EXTINF:-1 tvg-id="1535949" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 02:00 AM | AU (STAN 13) • Arsenal v Coventry City Matchweek 1 2026/2027 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1535949&extension=ts&play_token=f4ZG470o7w
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1535949&extension=ts&play_token=yAIl6H3tcm
 #EXTINF:-1 tvg-id="1535948" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 02:00 AM | AU (STAN 14) Player Camera • Arsenal v Coventry City 2026/2027 ( :34)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1535948&extension=ts&play_token=CxtHS1xGpw
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1535948&extension=ts&play_token=mc4Qyr2pC5
 #EXTINF:-1 tvg-id="1535947" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 02:00 AM | AU (STAN 15) Multi Camera • Arsenal v Coventry City 2026/2027 ( :39)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1535947&extension=ts&play_token=M5vTfm9sRW
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1535947&extension=ts&play_token=S4Txt0M5qD
+#EXTINF:-1 tvg-id="1535950" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 02:00 AM | AU (STAN 12) Studio Coverage: Arsenal v Coventry City Matchweek 1 2026/2027 ( :29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1535950&extension=ts&play_token=eKD38VvkHn
+#EXTINF:-1 tvg-id="1535949" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 02:00 AM | AU (STAN 13) • Arsenal v Coventry City Matchweek 1 2026/2027 ( :29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1535949&extension=ts&play_token=iQZdc0mDhn
+#EXTINF:-1 tvg-id="1535948" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 02:00 AM | AU (STAN 14) Player Camera • Arsenal v Coventry City 2026/2027 ( :34)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1535948&extension=ts&play_token=meHcis4DNp
+#EXTINF:-1 tvg-id="1535947" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 02:00 AM | AU (STAN 15) Multi Camera • Arsenal v Coventry City 2026/2027 ( :39)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1535947&extension=ts&play_token=t8qDspTkFE
 #EXTINF:-1 tvg-id="1966345" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 02:00 AM | AU (STAN 12) Studio Coverage: Arsenal v Coventry City Matchweek 1 2026/2027 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1966345&extension=ts&play_token=rq07sUwFy0
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1966345&extension=ts&play_token=zFLpnMlXGa
 #EXTINF:-1 tvg-id="1966344" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 02:00 AM | AU (STAN 13) • Arsenal v Coventry City Matchweek 1 2026/2027 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1966344&extension=ts&play_token=wndWiDcQVT
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1966344&extension=ts&play_token=Wm8gRqH48Q
 #EXTINF:-1 tvg-id="1966343" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 02:00 AM | AU (STAN 14) Player Camera • Arsenal v Coventry City 2026/2027 ( :34)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1966343&extension=ts&play_token=uOtSbytCI3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1966343&extension=ts&play_token=8u3aCggfRc
 #EXTINF:-1 tvg-id="1966342" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 02:00 AM | AU (STAN 15) Multi Camera • Arsenal v Coventry City 2026/2027 ( :39)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1966342&extension=ts&play_token=SD5a4kqEtA
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1966342&extension=ts&play_token=VOUXBSSMZt
+#EXTINF:-1 tvg-id="1966345" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 02:00 AM | AU (STAN 12) Studio Coverage: Arsenal v Coventry City Matchweek 1 2026/2027 ( :29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1966345&extension=ts&play_token=lmdFixLhwC
+#EXTINF:-1 tvg-id="1966344" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 02:00 AM | AU (STAN 13) • Arsenal v Coventry City Matchweek 1 2026/2027 ( :29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1966344&extension=ts&play_token=oH4dYcSq6k
+#EXTINF:-1 tvg-id="1966343" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 02:00 AM | AU (STAN 14) Player Camera • Arsenal v Coventry City 2026/2027 ( :34)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1966343&extension=ts&play_token=2YPfTjJ554
+#EXTINF:-1 tvg-id="1966342" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",22/08 02:00 AM | AU (STAN 15) Multi Camera • Arsenal v Coventry City 2026/2027 ( :39)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1966342&extension=ts&play_token=exYICwGKvI
+#EXTINF:-1 tvg-id="1100811" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",22/08 02:00 AM | EN ARSENAL VS COVENTRY CITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CFB49E26BA5392AB72D576A79C657238
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100811
 #EXTINF:-1 tvg-id="1454430" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",22/08 02:00 AM | 01: Arsenal vs Coventry City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1454430&extension=ts&play_token=eKxXhChL1X
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454430&extension=ts&play_token=rucNeQY1h1
 #EXTINF:-1 tvg-id="1454429" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",22/08 02:00 AM | 01: Arsenal vs Coventry City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1454429&extension=ts&play_token=2mGbtKUnWr
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454429&extension=ts&play_token=gco8jFkCsk
 #EXTINF:-1 tvg-id="1454428" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",22/08 02:00 AM | 01: Arsenal vs Coventry City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1454428&extension=ts&play_token=55jd63Uujp
-#EXTINF:-1 tvg-id="1939900" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 02:00 AM | Arsenal vs. Coventry all | 8K CA: SOCCER 56
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1454428&extension=ts&play_token=PtbrAoBspU
+#EXTINF:-1 tvg-id="1454430" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",22/08 02:00 AM | 01: Arsenal vs Coventry City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939900&extension=ts&play_token=zzZAs5GfcH
-#EXTINF:-1 tvg-id="1988090" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 02:00 AM | Arsenal vs. Coventry all | 8K ES: SOCCER 36
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1454430&extension=ts&play_token=j9O8DC62fZ
+#EXTINF:-1 tvg-id="1454429" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",22/08 02:00 AM | 01: Arsenal vs Coventry City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1988090&extension=ts&play_token=jtdnSNIfKP
-#EXTINF:-1 tvg-id="1984033" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",22/08 02:00 AM | GAME DAY ESPN ARSENAL X COVENTRY CITY -02 (BR) 8K BR: DISNEY+ 93
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1454429&extension=ts&play_token=bC332K4Pzk
+#EXTINF:-1 tvg-id="1454428" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394",22/08 02:00 AM | 01: Arsenal vs Coventry City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1984033&extension=ts&play_token=e1uTcmDNfY
-#EXTINF:-1 tvg-id="1984032" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",22/08 02:00 AM | ARSENAL VS. COVENTRY CITY -02 (BR) 8K BR: DISNEY+ 94
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1984032&extension=ts&play_token=bAagERfywX
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1454428&extension=ts&play_token=JEJtNPUj2n
 #EXTINF:-1 tvg-id="1918784" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 02:00 AM | Arsenal vs. Coventry all | 8K DE: SOCCER 93
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1918784&extension=ts&play_token=2QpM3wX9Kf
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918784&extension=ts&play_token=thbZEoRsVb
 #EXTINF:-1 tvg-id="1930973" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 02:00 AM | Arsenal vs. Coventry all | 8K NL: SOCCER 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1930973&extension=ts&play_token=Thrp2QPydS
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1930973&extension=ts&play_token=OazujGWPvS
 #EXTINF:-1 tvg-id="918736" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 02:00 AM | ARSENAL COVENTRY (NL) 8K NL: VIAPLAY 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=918736&extension=ts&play_token=KXCKnTXPsG
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=918736&extension=ts&play_token=GSKb8N1hYX
+#EXTINF:-1 tvg-id="1988090" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 02:00 AM | Arsenal vs. Coventry all | 8K ES: SOCCER 36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1988090&extension=ts&play_token=SpmXANpApo
 #EXTINF:-1 tvg-id="1810024" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 02:00 AM | PL-STUDION: ARSENAL COVENTRY (SE) 8K SE: VIAPLAY 23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1810024&extension=ts&play_token=1kjOdsTSqh
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1810024&extension=ts&play_token=LsOyLCyY1y
 #EXTINF:-1 tvg-id="1810022" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 02:00 AM | ARSENAL COVENTRY (SE) 8K SE: VIAPLAY 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1810022&extension=ts&play_token=grvCWOyVHe
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1810022&extension=ts&play_token=sFWvRXTyAC
 #EXTINF:-1 tvg-id="1825953" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",22/08 02:00 AM | ARSENAL COVENTRY (SE) 8K SE: PLAY+ 50
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1825953&extension=ts&play_token=a7Ji6sYixH
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1825953&extension=ts&play_token=27ol7MLcGW
 #EXTINF:-1 tvg-id="1863193" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 02:00 AM | ARSENAL COVENTRY (DK) 8K DK: VIAPLAY 34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1863193&extension=ts&play_token=KNPcpOfwhC
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1863193&extension=ts&play_token=nYgiFKKz8N
 #EXTINF:-1 tvg-id="1242763" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 02:00 AM | ARSENAL COVENTRY (NO) 8K NO: VIAPLAY 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1242763&extension=ts&play_token=jiREVWSUYt
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1242763&extension=ts&play_token=MNjCDaRUCd
 #EXTINF:-1 tvg-id="1863308" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 02:00 AM | VALIOLIIGA ARSENAL COVENTRY (FI) 8K FI: VIAPLAY 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 2429BFE3DED7C703E6F3EFD49761DE65
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1863308&extension=ts&play_token=wrUpjaLlOJ
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1863308&extension=ts&play_token=ib84dBvAe4
+#EXTINF:-1 tvg-id="1939900" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 02:00 AM | Arsenal vs. Coventry all | 8K CA: SOCCER 56
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939900&extension=ts&play_token=bFRes0Z2R7
+#EXTINF:-1 tvg-id="1984033" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",22/08 02:00 AM | GAME DAY ESPN ARSENAL X COVENTRY CITY -02 (BR) 8K BR: DISNEY+ 93
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1984033&extension=ts&play_token=SX1fxve0ZV
+#EXTINF:-1 tvg-id="1984032" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",22/08 02:00 AM | ARSENAL VS. COVENTRY CITY -02 (BR) 8K BR: DISNEY+ 94
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer C20C650BCCDE64E97AFB1AAFB67ED7A7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1984032&extension=ts&play_token=FTcdibjNCK
+#EXTINF:-1 tvg-id="1939900" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 02:00 AM | Arsenal vs. Coventry all | 8K CA: SOCCER 56
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939900&extension=ts&play_token=M3pDwjknfD
+#EXTINF:-1 tvg-id="1988090" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 02:00 AM | Arsenal vs. Coventry all | 8K ES: SOCCER 36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1988090&extension=ts&play_token=qbAiVlIieh
+#EXTINF:-1 tvg-id="1984033" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",22/08 02:00 AM | GAME DAY ESPN ARSENAL X COVENTRY CITY -02 (BR) 8K BR: DISNEY+ 93
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1984033&extension=ts&play_token=LcmzOSCdSG
+#EXTINF:-1 tvg-id="1984032" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962",22/08 02:00 AM | ARSENAL VS. COVENTRY CITY -02 (BR) 8K BR: DISNEY+ 94
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1984032&extension=ts&play_token=AHZEpZd68i
+#EXTINF:-1 tvg-id="1918784" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 02:00 AM | Arsenal vs. Coventry all | 8K DE: SOCCER 93
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1918784&extension=ts&play_token=0FFXz2A1VI
+#EXTINF:-1 tvg-id="1930973" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",22/08 02:00 AM | Arsenal vs. Coventry all | 8K NL: SOCCER 26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1930973&extension=ts&play_token=0fytwaUMTr
+#EXTINF:-1 tvg-id="918736" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 02:00 AM | ARSENAL COVENTRY (NL) 8K NL: VIAPLAY 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=918736&extension=ts&play_token=Mub1XY1q4f
+#EXTINF:-1 tvg-id="1810024" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 02:00 AM | PL-STUDION: ARSENAL COVENTRY (SE) 8K SE: VIAPLAY 23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1810024&extension=ts&play_token=w4115IA1C7
+#EXTINF:-1 tvg-id="1810022" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 02:00 AM | ARSENAL COVENTRY (SE) 8K SE: VIAPLAY 25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1810022&extension=ts&play_token=ldDiTyx8tN
+#EXTINF:-1 tvg-id="1825953" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13788.png?ver=74295",22/08 02:00 AM | ARSENAL COVENTRY (SE) 8K SE: PLAY+ 50
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1825953&extension=ts&play_token=jiZ36XrKCQ
+#EXTINF:-1 tvg-id="1863193" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 02:00 AM | ARSENAL COVENTRY (DK) 8K DK: VIAPLAY 34
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863193&extension=ts&play_token=ipqgeB62zg
+#EXTINF:-1 tvg-id="1242763" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 02:00 AM | ARSENAL COVENTRY (NO) 8K NO: VIAPLAY 26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1242763&extension=ts&play_token=D3K3EIhUPg
+#EXTINF:-1 tvg-id="1863308" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/08 02:00 AM | VALIOLIIGA ARSENAL COVENTRY (FI) 8K FI: VIAPLAY 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2DCC19750674D1DA569B63C6CC03DAE2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863308&extension=ts&play_token=MEVFde28LY
 #EXTINF:-1 tvg-id="1592459" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",22/08 02:00 AM | ARSENAL COVENTRY (NL) 8K NL: VIAPLAY 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1592459&extension=ts&play_token=eL1Ff9Ci4P
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1592459&extension=ts&play_token=TTnKbVOy2w
 #EXTINF:-1 tvg-id="2058522" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",22/08 02:00 AM | Arsenal vs. Coventry all | 8K NL: SOCCER 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2058522&extension=ts&play_token=5wIjCzs5Ao
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2058522&extension=ts&play_token=9MqWHu0wkl
 #EXTINF:-1 tvg-id="2054959" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",22/08 02:00 AM | Arsenal vs. Coventry all | 8K DE: SOCCER 93
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054959&extension=ts&play_token=H2oLTrJvC2
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054959&extension=ts&play_token=cFElxkmF5X
 #EXTINF:-1 tvg-id="2072517" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",22/08 02:00 AM | Arsenal vs. Coventry all | 8K ES: SOCCER 36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072517&extension=ts&play_token=Uw4iRE4hX8
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072517&extension=ts&play_token=kwhoTumTHv
 #EXTINF:-1 tvg-id="2021198" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",22/08 02:00 AM | ARSENAL COVENTRY (SE) 8K SE: PLAY+ 50
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021198&extension=ts&play_token=OBz9mSVCZC
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021198&extension=ts&play_token=SyghVROYsG
 #EXTINF:-1 tvg-id="2016256" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",22/08 02:00 AM | PL-STUDION: ARSENAL COVENTRY (SE) 8K SE: VIAPLAY 23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016256&extension=ts&play_token=UKp0ciN6Nf
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016256&extension=ts&play_token=jroe8LU7o6
 #EXTINF:-1 tvg-id="2016254" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",22/08 02:00 AM | ARSENAL COVENTRY (SE) 8K SE: VIAPLAY 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016254&extension=ts&play_token=RdJAJ71KVv
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016254&extension=ts&play_token=XgpTnQmOwT
 #EXTINF:-1 tvg-id="2070116" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",22/08 02:00 AM | ARSENAL COVENTRY (DK) 8K DK: VIAPLAY 34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2070116&extension=ts&play_token=6PhUq3Rz3U
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2070116&extension=ts&play_token=Gn1r24enzn
 #EXTINF:-1 tvg-id="2037344" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",22/08 02:00 AM | ARSENAL COVENTRY (DK) 8K DK: VIAPLAY 34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037344&extension=ts&play_token=2ITbyX9yFn
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037344&extension=ts&play_token=O8Nn7doXwI
 #EXTINF:-1 tvg-id="1735552" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",22/08 02:00 AM | ARSENAL COVENTRY (NO) 8K NO: VIAPLAY 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735552&extension=ts&play_token=RvhCXBZxDq
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735552&extension=ts&play_token=m707QlVO50
 #EXTINF:-1 tvg-id="2037456" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",22/08 02:00 AM | VALIOLIIGA ARSENAL COVENTRY (FI) 8K FI: VIAPLAY 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 64312764C45AE3A5E8E48BD960A3B9A2
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037456&extension=ts&play_token=WF04HHvJKd
+#EXTVLCOPT:http-header=Authorization: Bearer F5674A9E203C591902AC115135798D90
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037456&extension=ts&play_token=TGxKlpGLPe
+#EXTINF:-1 tvg-id="1100813" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",22/08 02:00 AM | FR ARSENAL VS COVENTRY CITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CFB49E26BA5392AB72D576A79C657238
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100813
+#EXTINF:-1 tvg-id="1100815" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",22/08 02:00 AM | AR ARSENAL VS COVENTRY CITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CFB49E26BA5392AB72D576A79C657238
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100815
+#EXTINF:-1 tvg-id="1388024" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",22/08 02:00 AM | ALB ARSENAL VS COVENTRY CITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer CFB49E26BA5392AB72D576A79C657238
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1388024
