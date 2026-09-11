@@ -1,36 +1,76 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1592458" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",12/09 01:45 AM | LIGUE 1 RENNES MARSEILLE (NL) 8K NL: VIAPLAY 14
+#EXTINF:-1 tvg-id="1592456" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",12/09 01:45 AM | LIGUE 1 RENNES MARSEILLE (NL) 8K NL: VIAPLAY 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF1C33BE5215F9489EE8F8530C387778
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1592458&extension=ts&play_token=IIsojz4lBA
+#EXTVLCOPT:http-header=Authorization: Bearer D753B54D066B639F9BF25210E766626A
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1592456&extension=ts&play_token=3PD4sgE98F
 #EXTINF:-1 tvg-id="2054974" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",12/09 01:45 AM | Rennes vs. Marseille all | 8K DE: SOCCER 78
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF1C33BE5215F9489EE8F8530C387778
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054974&extension=ts&play_token=nCYSOVmiYN
+#EXTVLCOPT:http-header=Authorization: Bearer D753B54D066B639F9BF25210E766626A
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054974&extension=ts&play_token=43KjBRweZs
 #EXTINF:-1 tvg-id="2072480" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",12/09 01:45 AM | Rennes vs. Marseille all | 8K ES: SOCCER 73
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF1C33BE5215F9489EE8F8530C387778
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072480&extension=ts&play_token=w2IjzZ4sXD
+#EXTVLCOPT:http-header=Authorization: Bearer D753B54D066B639F9BF25210E766626A
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072480&extension=ts&play_token=Ca2y1Kjp1k
 #EXTINF:-1 tvg-id="2040680" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",12/09 01:45 AM | Rennes Olympique Marseille Ligue 1 | 8K ES: DAZN 51
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF1C33BE5215F9489EE8F8530C387778
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040680&extension=ts&play_token=DscyekFIs9
-#EXTINF:-1 tvg-id="2016226" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 01:45 AM | LIGUE 1 RENNES MARSEILLE (SE) 8K SE: VIAPLAY 53
+#EXTVLCOPT:http-header=Authorization: Bearer D753B54D066B639F9BF25210E766626A
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040680&extension=ts&play_token=EN2qPBRZkn
+#EXTINF:-1 tvg-id="2016250" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 01:45 AM | LIGUE 1 RENNES MARSEILLE (SE) 8K SE: VIAPLAY 29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF1C33BE5215F9489EE8F8530C387778
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016226&extension=ts&play_token=QUESxomALk
-#EXTINF:-1 tvg-id="2037318" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 01:45 AM | LIGUE 1 RENNES MARSEILLE (DK) 8K DK: VIAPLAY 60
+#EXTVLCOPT:http-header=Authorization: Bearer D753B54D066B639F9BF25210E766626A
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016250&extension=ts&play_token=ys7Ukiy7Uy
+#EXTINF:-1 tvg-id="2070116" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 01:45 AM | LIGUE 1 RENNES MARSEILLE (DK) 8K DK: VIAPLAY 34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF1C33BE5215F9489EE8F8530C387778
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037318&extension=ts&play_token=fPYHvl9iat
-#EXTINF:-1 tvg-id="1735530" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 01:45 AM | LIGUE 1 RENNES MARSEILLE (NO) 8K NO: VIAPLAY 48
+#EXTVLCOPT:http-header=Authorization: Bearer D753B54D066B639F9BF25210E766626A
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2070116&extension=ts&play_token=yIbi5PFt1i
+#EXTINF:-1 tvg-id="2037344" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 01:45 AM | LIGUE 1 RENNES MARSEILLE (DK) 8K DK: VIAPLAY 34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EF1C33BE5215F9489EE8F8530C387778
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735530&extension=ts&play_token=cHhUV8jSpq
+#EXTVLCOPT:http-header=Authorization: Bearer D753B54D066B639F9BF25210E766626A
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037344&extension=ts&play_token=tvTq0Y6F80
+#EXTINF:-1 tvg-id="1735547" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 01:45 AM | LIGUE 1 RENNES MARSEILLE (NO) 8K NO: VIAPLAY 31
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D753B54D066B639F9BF25210E766626A
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735547&extension=ts&play_token=pY9SQccCUC
+#EXTINF:-1 tvg-id="1022237" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="https://go4.pw/57.png",12/09 01:45 AM | FR RENNES VS OLYMPIQUE MARSEILLE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 12A1BCEF3933F3D52249E9022D85D51A
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1022237
+#EXTINF:-1 tvg-id="1018321" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="https://go4.pw/57.png",12/09 01:45 AM | AR RENNES VS OLYMPIQUE MARSEILLE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 12A1BCEF3933F3D52249E9022D85D51A
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1018321
+#EXTINF:-1 tvg-id="2025560" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 01:45 AM | Rennes vs Marseille @ :Viaplay NL 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D753B54D066B639F9BF25210E766626A
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2025560&extension=ts&play_token=1LJHOAeHHB
+#EXTINF:-1 tvg-id="1990176" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",12/09 01:45 AM | Rennes vs Marseille @ :Viaplay SE 25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D753B54D066B639F9BF25210E766626A
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1990176&extension=ts&play_token=2P11UAT3y0
+#EXTINF:-1 tvg-id="1996265" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",12/09 01:45 AM | Rennes vs Marseille @ :Viaplay DK 31
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D753B54D066B639F9BF25210E766626A
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996265&extension=ts&play_token=Ftzjrz0wUg
+#EXTINF:-1 tvg-id="1996089" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 01:45 AM | Rennes vs Marseille @ :Viaplay NO 27
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D753B54D066B639F9BF25210E766626A
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996089&extension=ts&play_token=UatQNxgZql
+#EXTINF:-1 tvg-id="1992091" group-title="⚽️🇨🇵|Live Ligue 1-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",12/09 01:45 AM | Rennes vs Marseille @ :Viaplay FI 26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D753B54D066B639F9BF25210E766626A
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992091&extension=ts&play_token=CHIKTFlM3L
