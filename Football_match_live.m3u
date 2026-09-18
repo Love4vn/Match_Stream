@@ -2,155 +2,335 @@
 #EXTINF:-1 tvg-id="1100762" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://go4.pw/56.png",19/09 01:30 AM | EN BAYERN MÜNCHEN UNION BERLIN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 24EDAB8373E374EB04D2CD8A988E5495
+#EXTVLCOPT:http-header=Authorization: Bearer 895D9AA088B378350B82DFB7AAFC62C8
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100762
-#EXTINF:-1 tvg-id="2062278" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",19/09 01:30 AM | FC Bayern vs. Union Berlin all | 8K CA: SOCCER 53
+#EXTINF:-1 tvg-id="1592453" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",19/09 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN UNION BERLIN (NL) 8K NL: VIAPLAY 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1F5B70E6600A73E4D3A787C8A0F40561
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2062278&extension=ts&play_token=fm0PyXW8rD
-#EXTINF:-1 tvg-id="2145320" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/09 01:30 AM | Bayern München Union Berlin Bundesliga | 8K ES: DAZN 41
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1F5B70E6600A73E4D3A787C8A0F40561
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2145320&extension=ts&play_token=GcGrQ7WfdK
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1592453&extension=ts&play_token=13RYZdj0mB
 #EXTINF:-1 tvg-id="2054982" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",19/09 01:30 AM | FC Bayern vs. Union Berlin all | 8K DE: SOCCER 70
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1F5B70E6600A73E4D3A787C8A0F40561
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2054982&extension=ts&play_token=i1F1KuWzTQ
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054982&extension=ts&play_token=K3DLOX1BvF
+#EXTINF:-1 tvg-id="2072465" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",19/09 01:30 AM | End FC Bayern vs. Union Berlin all | 8K ES: SOCCER 88
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072465&extension=ts&play_token=Gg8D1v4Qyh
+#EXTINF:-1 tvg-id="2145320" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/09 01:30 AM | Bayern München Union Berlin Bundesliga | 8K ES: DAZN 41
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2145320&extension=ts&play_token=7lej5cWyVt
 #EXTINF:-1 tvg-id="2046549" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",19/09 01:30 AM | Bayern x Union Berlin Bundesliga | 8K PT: DAZN 56
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1F5B70E6600A73E4D3A787C8A0F40561
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2046549&extension=ts&play_token=YHWbN9hW9B
-#EXTINF:-1 tvg-id="1592457" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",19/09 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN UNION BERLIN (NL) 8K NL: VIAPLAY 13
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046549&extension=ts&play_token=cMpgWRO4OA
+#EXTINF:-1 tvg-id="2021226" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",19/09 01:30 AM | BAYERN MÜNCHEN UNION BERLIN (SE) 8K SE: PLAY+ 22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1F5B70E6600A73E4D3A787C8A0F40561
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1592457&extension=ts&play_token=vAzdBeGem1
-#EXTINF:-1 tvg-id="2066922" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",19/09 01:30 AM | FC Bayern vs. Union Berlin all | 8K BR: SOCCER 35
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021226&extension=ts&play_token=XJNCOYekjM
+#EXTINF:-1 tvg-id="2016261" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",19/09 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN UNION BERLIN (SE) 8K SE: VIAPLAY 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1F5B70E6600A73E4D3A787C8A0F40561
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2066922&extension=ts&play_token=oQC1mtD6ww
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016261&extension=ts&play_token=vNMJ1Oag6t
+#EXTINF:-1 tvg-id="2037356" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",19/09 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN UNION BERLIN (DK) 8K DK: VIAPLAY 22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037356&extension=ts&play_token=9ziwNCGEGC
+#EXTINF:-1 tvg-id="1605784" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TV2PLAY.png",19/09 01:30 AM | BAYERN MÜNCHEN UNION BERLIN (NO) 8K NO: TV2 PLAY 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1605784&extension=ts&play_token=vU6qwfgOD9
+#EXTINF:-1 tvg-id="1735560" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",19/09 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN UNION BERLIN (NO) 8K NO: VIAPLAY 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735560&extension=ts&play_token=X85qzI2JB6
 #EXTINF:-1 tvg-id="1100768" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://go4.pw/56.png",19/09 01:30 AM | DE BAYERN MÜNCHEN UNION BERLIN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 24EDAB8373E374EB04D2CD8A988E5495
+#EXTVLCOPT:http-header=Authorization: Bearer 895D9AA088B378350B82DFB7AAFC62C8
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100768
 #EXTINF:-1 tvg-id="1100764" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://go4.pw/56.png",19/09 01:30 AM | FR BAYERN MÜNCHEN UNION BERLIN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 24EDAB8373E374EB04D2CD8A988E5495
+#EXTVLCOPT:http-header=Authorization: Bearer 895D9AA088B378350B82DFB7AAFC62C8
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100764
 #EXTINF:-1 tvg-id="1100766" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://go4.pw/56.png",19/09 01:30 AM | AR BAYERN MÜNCHEN UNION BERLIN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 24EDAB8373E374EB04D2CD8A988E5495
+#EXTVLCOPT:http-header=Authorization: Bearer 895D9AA088B378350B82DFB7AAFC62C8
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100766
+#EXTINF:-1 tvg-id="2025562" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",19/09 01:30 AM | Bayern München vs Union Berlin @ :Viaplay NL 09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2025562&extension=ts&play_token=xOc5L5CG18
+#EXTINF:-1 tvg-id="1991516" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png",19/09 01:30 AM | Bayern Munchen vs Union Berlin @ :TeliaPlay SE 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1991516&extension=ts&play_token=kO4xE2kBMo
+#EXTINF:-1 tvg-id="1990186" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",19/09 01:30 AM | Bayern München vs Union Berlin @ :Viaplay SE 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1990186&extension=ts&play_token=FyLqpNE53c
+#EXTINF:-1 tvg-id="1996278" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",19/09 01:30 AM | Bayern München vs Union Berlin @ :Viaplay DK 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996278&extension=ts&play_token=IgSHKTTPMj
+#EXTINF:-1 tvg-id="1996015" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/2PLAY.png",19/09 01:30 AM | Soccer: Bayern München vs Union Berlin @ :Tv2Play NO 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996015&extension=ts&play_token=1XgBLa6FW7
+#EXTINF:-1 tvg-id="1996100" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",19/09 01:30 AM | Bayern München vs Union Berlin @ :Viaplay NO 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996100&extension=ts&play_token=ndYhQcrgjS
+#EXTINF:-1 tvg-id="1992102" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",19/09 01:30 AM | Bayern München vs Union Berlin @ :Viaplay FI 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992102&extension=ts&play_token=yePptWWWdU
+#EXTINF:-1 tvg-id="1992256" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELIAPLAY.png",19/09 01:30 AM | Bayern Munchen vs Union Berlin @ :Telia FI 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992256&extension=ts&play_token=TLMxwfUknk
+#EXTINF:-1 tvg-id="2026353" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",19/09 01:30 AM | Bayern München vs Union Berlin @ :Viaplay IS 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2026353&extension=ts&play_token=yh9QtzEBhS
 #EXTINF:-1 tvg-id="1100762" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://go4.pw/56.png",19/09 01:30 AM | EN BAYERN MÜNCHEN UNION BERLIN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 24EDAB8373E374EB04D2CD8A988E5495
+#EXTVLCOPT:http-header=Authorization: Bearer 895D9AA088B378350B82DFB7AAFC62C8
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100762
-#EXTINF:-1 tvg-id="2062278" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",19/09 01:30 AM | FC Bayern vs. Union Berlin all | 8K CA: SOCCER 53
+#EXTINF:-1 tvg-id="1592453" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",19/09 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN UNION BERLIN (NL) 8K NL: VIAPLAY 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1F5B70E6600A73E4D3A787C8A0F40561
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2062278&extension=ts&play_token=fm0PyXW8rD
-#EXTINF:-1 tvg-id="2145320" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/09 01:30 AM | Bayern München Union Berlin Bundesliga | 8K ES: DAZN 41
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1F5B70E6600A73E4D3A787C8A0F40561
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2145320&extension=ts&play_token=GcGrQ7WfdK
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1592453&extension=ts&play_token=13RYZdj0mB
 #EXTINF:-1 tvg-id="2054982" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",19/09 01:30 AM | FC Bayern vs. Union Berlin all | 8K DE: SOCCER 70
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1F5B70E6600A73E4D3A787C8A0F40561
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2054982&extension=ts&play_token=i1F1KuWzTQ
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054982&extension=ts&play_token=K3DLOX1BvF
+#EXTINF:-1 tvg-id="2072465" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",19/09 01:30 AM | End FC Bayern vs. Union Berlin all | 8K ES: SOCCER 88
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072465&extension=ts&play_token=Gg8D1v4Qyh
+#EXTINF:-1 tvg-id="2145320" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/09 01:30 AM | Bayern München Union Berlin Bundesliga | 8K ES: DAZN 41
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2145320&extension=ts&play_token=7lej5cWyVt
 #EXTINF:-1 tvg-id="2046549" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",19/09 01:30 AM | Bayern x Union Berlin Bundesliga | 8K PT: DAZN 56
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1F5B70E6600A73E4D3A787C8A0F40561
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2046549&extension=ts&play_token=YHWbN9hW9B
-#EXTINF:-1 tvg-id="1592457" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",19/09 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN UNION BERLIN (NL) 8K NL: VIAPLAY 13
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046549&extension=ts&play_token=cMpgWRO4OA
+#EXTINF:-1 tvg-id="2021226" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",19/09 01:30 AM | BAYERN MÜNCHEN UNION BERLIN (SE) 8K SE: PLAY+ 22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1F5B70E6600A73E4D3A787C8A0F40561
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1592457&extension=ts&play_token=vAzdBeGem1
-#EXTINF:-1 tvg-id="2066922" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",19/09 01:30 AM | FC Bayern vs. Union Berlin all | 8K BR: SOCCER 35
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021226&extension=ts&play_token=XJNCOYekjM
+#EXTINF:-1 tvg-id="2016261" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",19/09 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN UNION BERLIN (SE) 8K SE: VIAPLAY 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1F5B70E6600A73E4D3A787C8A0F40561
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2066922&extension=ts&play_token=oQC1mtD6ww
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016261&extension=ts&play_token=vNMJ1Oag6t
+#EXTINF:-1 tvg-id="2037356" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",19/09 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN UNION BERLIN (DK) 8K DK: VIAPLAY 22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037356&extension=ts&play_token=9ziwNCGEGC
+#EXTINF:-1 tvg-id="1605784" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TV2PLAY.png",19/09 01:30 AM | BAYERN MÜNCHEN UNION BERLIN (NO) 8K NO: TV2 PLAY 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1605784&extension=ts&play_token=vU6qwfgOD9
+#EXTINF:-1 tvg-id="1735560" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",19/09 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN UNION BERLIN (NO) 8K NO: VIAPLAY 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735560&extension=ts&play_token=X85qzI2JB6
 #EXTINF:-1 tvg-id="1100768" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://go4.pw/56.png",19/09 01:30 AM | DE BAYERN MÜNCHEN UNION BERLIN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 24EDAB8373E374EB04D2CD8A988E5495
+#EXTVLCOPT:http-header=Authorization: Bearer 895D9AA088B378350B82DFB7AAFC62C8
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100768
 #EXTINF:-1 tvg-id="1100764" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://go4.pw/56.png",19/09 01:30 AM | FR BAYERN MÜNCHEN UNION BERLIN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 24EDAB8373E374EB04D2CD8A988E5495
+#EXTVLCOPT:http-header=Authorization: Bearer 895D9AA088B378350B82DFB7AAFC62C8
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100764
 #EXTINF:-1 tvg-id="1100766" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://go4.pw/56.png",19/09 01:30 AM | AR BAYERN MÜNCHEN UNION BERLIN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 24EDAB8373E374EB04D2CD8A988E5495
+#EXTVLCOPT:http-header=Authorization: Bearer 895D9AA088B378350B82DFB7AAFC62C8
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100766
-#EXTINF:-1 tvg-id="1909960" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",19/09 02:00 AM | AU (STAN 16) Brentford v Chelsea Matchweek 5 2026/2027 ( :29)
+#EXTINF:-1 tvg-id="2025562" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",19/09 01:30 AM | Bayern München vs Union Berlin @ :Viaplay NL 09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1F5B70E6600A73E4D3A787C8A0F40561
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1909960&extension=ts&play_token=WlVXTGV8MB
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2025562&extension=ts&play_token=xOc5L5CG18
+#EXTINF:-1 tvg-id="1991516" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png",19/09 01:30 AM | Bayern Munchen vs Union Berlin @ :TeliaPlay SE 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1991516&extension=ts&play_token=kO4xE2kBMo
+#EXTINF:-1 tvg-id="1990186" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",19/09 01:30 AM | Bayern München vs Union Berlin @ :Viaplay SE 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1990186&extension=ts&play_token=FyLqpNE53c
+#EXTINF:-1 tvg-id="1996278" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",19/09 01:30 AM | Bayern München vs Union Berlin @ :Viaplay DK 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996278&extension=ts&play_token=IgSHKTTPMj
+#EXTINF:-1 tvg-id="1996015" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/2PLAY.png",19/09 01:30 AM | Soccer: Bayern München vs Union Berlin @ :Tv2Play NO 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996015&extension=ts&play_token=1XgBLa6FW7
+#EXTINF:-1 tvg-id="1996100" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",19/09 01:30 AM | Bayern München vs Union Berlin @ :Viaplay NO 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996100&extension=ts&play_token=ndYhQcrgjS
+#EXTINF:-1 tvg-id="1992102" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",19/09 01:30 AM | Bayern München vs Union Berlin @ :Viaplay FI 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992102&extension=ts&play_token=yePptWWWdU
+#EXTINF:-1 tvg-id="1992256" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELIAPLAY.png",19/09 01:30 AM | Bayern Munchen vs Union Berlin @ :Telia FI 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992256&extension=ts&play_token=TLMxwfUknk
+#EXTINF:-1 tvg-id="2026353" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",19/09 01:30 AM | Bayern München vs Union Berlin @ :Viaplay IS 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2026353&extension=ts&play_token=yh9QtzEBhS
 #EXTINF:-1 tvg-id="1100811" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",19/09 02:00 AM | EN BRENTFORD VS CHELSEA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 24EDAB8373E374EB04D2CD8A988E5495
+#EXTVLCOPT:http-header=Authorization: Bearer 895D9AA088B378350B82DFB7AAFC62C8
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100811
-#EXTINF:-1 tvg-id="2072472" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",19/09 02:00 AM | Brentford vs. Chelsea all | 8K ES: SOCCER 81
+#EXTINF:-1 tvg-id="1592456" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",19/09 02:00 AM | BRENTFORD CHELSEA (NL) 8K NL: VIAPLAY 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1F5B70E6600A73E4D3A787C8A0F40561
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2072472&extension=ts&play_token=MtNrPYhAmp
-#EXTINF:-1 tvg-id="2145314" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/09 02:00 AM | Brentford Chelsea | 8K ES: DAZN 47
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1F5B70E6600A73E4D3A787C8A0F40561
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2145314&extension=ts&play_token=geV8ccZ0XO
-#EXTINF:-1 tvg-id="2054975" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",19/09 02:00 AM | Brentford vs. Chelsea all | 8K DE: SOCCER 77
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1F5B70E6600A73E4D3A787C8A0F40561
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2054975&extension=ts&play_token=jnOHCdhtgE
-#EXTINF:-1 tvg-id="2046546" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",19/09 02:00 AM | Brentford x Chelsea | 8K PT: DAZN 59
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1F5B70E6600A73E4D3A787C8A0F40561
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2046546&extension=ts&play_token=LtVSnbpzPT
-#EXTINF:-1 tvg-id="1592460" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",19/09 02:00 AM | BRENTFORD CHELSEA (NL) 8K NL: VIAPLAY 16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1F5B70E6600A73E4D3A787C8A0F40561
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1592460&extension=ts&play_token=6Y4LAKZluh
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1592456&extension=ts&play_token=JFzYL1QW5g
 #EXTINF:-1 tvg-id="2058499" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",19/09 02:00 AM | Brentford vs. Chelsea all | 8K NL: SOCCER 49
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 1F5B70E6600A73E4D3A787C8A0F40561
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2058499&extension=ts&play_token=k9sLBlRwDD
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2058499&extension=ts&play_token=3wPrXZU6YZ
+#EXTINF:-1 tvg-id="2054975" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",19/09 02:00 AM | Brentford vs. Chelsea all | 8K DE: SOCCER 77
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054975&extension=ts&play_token=i9i9n0Xfaw
+#EXTINF:-1 tvg-id="2072472" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",19/09 02:00 AM | Brentford vs. Chelsea all | 8K ES: SOCCER 81
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072472&extension=ts&play_token=4Ng8E2hqIh
+#EXTINF:-1 tvg-id="2145314" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/09 02:00 AM | Brentford Chelsea | 8K ES: DAZN 47
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2145314&extension=ts&play_token=kmo5CQIYjM
+#EXTINF:-1 tvg-id="2046546" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",19/09 02:00 AM | Brentford x Chelsea | 8K PT: DAZN 59
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046546&extension=ts&play_token=Re8HQIx8p3
+#EXTINF:-1 tvg-id="2021221" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",19/09 02:00 AM | BRENTFORD CHELSEA (SE) 8K SE: PLAY+ 27
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021221&extension=ts&play_token=XkVtyR8vzE
+#EXTINF:-1 tvg-id="2016258" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",19/09 02:00 AM | BRENTFORD CHELSEA (SE) 8K SE: VIAPLAY 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016258&extension=ts&play_token=fGxC6Zy2bu
+#EXTINF:-1 tvg-id="2037353" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",19/09 02:00 AM | BRENTFORD CHELSEA (DK) 8K DK: VIAPLAY 25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037353&extension=ts&play_token=gAK9QvsPEE
+#EXTINF:-1 tvg-id="1735559" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",19/09 02:00 AM | BRENTFORD CHELSEA (NO) 8K NO: VIAPLAY 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735559&extension=ts&play_token=vN1H5zlWzm
 #EXTINF:-1 tvg-id="1100813" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",19/09 02:00 AM | FR BRENTFORD VS CHELSEA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 24EDAB8373E374EB04D2CD8A988E5495
+#EXTVLCOPT:http-header=Authorization: Bearer 895D9AA088B378350B82DFB7AAFC62C8
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100813
 #EXTINF:-1 tvg-id="1100815" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",19/09 02:00 AM | AR BRENTFORD VS CHELSEA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 24EDAB8373E374EB04D2CD8A988E5495
+#EXTVLCOPT:http-header=Authorization: Bearer 895D9AA088B378350B82DFB7AAFC62C8
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100815
 #EXTINF:-1 tvg-id="1388024" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",19/09 02:00 AM | ALB BRENTFORD VS CHELSEA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 24EDAB8373E374EB04D2CD8A988E5495
+#EXTVLCOPT:http-header=Authorization: Bearer 895D9AA088B378350B82DFB7AAFC62C8
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1388024
+#EXTINF:-1 tvg-id="2025559" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",19/09 02:00 AM | Brentford vs Chelsea @ :Viaplay NL 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2025559&extension=ts&play_token=s334evqxSM
+#EXTINF:-1 tvg-id="1991511" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png",19/09 02:00 AM | Brentford vs Chelsea @ :TeliaPlay SE 29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1991511&extension=ts&play_token=a663JdeLEr
+#EXTINF:-1 tvg-id="1990183" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",19/09 02:00 AM | Brentford vs Chelsea @ :Viaplay SE 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1990183&extension=ts&play_token=GBKK5tdMkb
+#EXTINF:-1 tvg-id="1996275" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",19/09 02:00 AM | Brentford vs Chelsea @ :Viaplay DK 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996275&extension=ts&play_token=MvxLHb9Qis
+#EXTINF:-1 tvg-id="1996099" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",19/09 02:00 AM | Brentford vs Chelsea @ :Viaplay NO 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996099&extension=ts&play_token=mxx5CyZ58E
+#EXTINF:-1 tvg-id="1992099" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",19/09 02:00 AM | Brentford vs Chelsea @ :Viaplay FI 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992099&extension=ts&play_token=Re4rph2hHl
+#EXTINF:-1 tvg-id="1992253" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELIAPLAY.png",19/09 02:00 AM | Brentford vs Chelsea @ :Telia FI 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E6A2D839660E8758044EC24AA35D844D
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992253&extension=ts&play_token=M67o5elCDV
