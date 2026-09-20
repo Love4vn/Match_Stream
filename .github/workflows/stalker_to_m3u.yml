@@ -4,7 +4,10 @@ on:
   schedule:
     - cron: '0 */3 * * *'
   workflow_dispatch:
-
+# Đảm bảo chỉ 1 workflow chạy tại 1 thời điểm
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 jobs:
   build:
     runs-on: ubuntu-latest
