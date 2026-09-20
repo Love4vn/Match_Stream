@@ -6,6 +6,12 @@ on:
     - cron: '25 */2 * * *'
   workflow_dispatch:  # Cho phép chạy thủ công
 
+# Đảm bảo chỉ 1 workflow chạy tại 1 thời điểm
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+
 jobs:
   build:
     runs-on: ubuntu-latest
