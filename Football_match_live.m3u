@@ -1,36 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="2072502" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/09 11:00 PM | Azerbaijan vs. Tajikistan all | 8K ES: SOCCER 51
+#EXTINF:-1 tvg-id="2040466" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png",26/09 08:30 PM | End SC Freiburg Bayer Leverkusen Google Pixel Frauen-Bundesliga | 8K DE: DAZN 59
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A7B1FE6ABE8D3DEF092F41EB68ADC22D
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072502&extension=ts&play_token=XhQd7D3aN5
-#EXTINF:-1 tvg-id="2072503" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",23/09 11:00 PM | Gibraltar vs. São Tomé e Príncipe all | 8K ES: SOCCER 50
+#EXTVLCOPT:http-header=Authorization: Bearer 4D41AFCD88858DC0944C00AA5D2A9079
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040466&extension=ts&play_token=Mi2zV1BvDk
+#EXTINF:-1 tvg-id="2145313" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",26/09 08:30 PM | Freiburg Bayer Leverkusen Google Pixel Frauen-Bundesliga | 8K ES: DAZN 48
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A7B1FE6ABE8D3DEF092F41EB68ADC22D
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072503&extension=ts&play_token=fBhKQL4dXU
-#EXTINF:-1 tvg-id="2016278" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",23/09 11:00 PM | LANDSKAMP GIBRALTAR SÃO TOMÉ OCH PRÍNCIPE (SE) 8K SE: VIAPLAY 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A7B1FE6ABE8D3DEF092F41EB68ADC22D
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016278&extension=ts&play_token=OUAJ7J6o87
-#EXTINF:-1 tvg-id="1735577" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",23/09 11:00 PM | PRIVATLANDSKAMP GIBRALTAR SÃO TOMÉ OG PRÍNCIPE (NO) 8K NO: VIAPLAY 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A7B1FE6ABE8D3DEF092F41EB68ADC22D
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735577&extension=ts&play_token=txYO1p4bFx
-#EXTINF:-1 tvg-id="1990200" group-title="🌍|Live International Friendly-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",23/09 11:00 PM | Gibraltar vs São Tomé och Príncipe @ :Viaplay SE 01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A7B1FE6ABE8D3DEF092F41EB68ADC22D
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1990200&extension=ts&play_token=39coagJrrv
-#EXTINF:-1 tvg-id="1996031" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/2PLAY.png",23/09 11:00 PM | Soccer: Gibraltar vs São Tomé og Príncipe @ :Tv2Play NO 05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A7B1FE6ABE8D3DEF092F41EB68ADC22D
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996031&extension=ts&play_token=l0Crupq9OP
-#EXTINF:-1 tvg-id="2026362" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",23/09 11:00 PM | Gíbraltar vs São Tomé og Príncipe @ :Viaplay IS 01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A7B1FE6ABE8D3DEF092F41EB68ADC22D
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2026362&extension=ts&play_token=0aZXgsdR8m
+#EXTVLCOPT:http-header=Authorization: Bearer 4D41AFCD88858DC0944C00AA5D2A9079
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2145313&extension=ts&play_token=JEsrlaMFd4
