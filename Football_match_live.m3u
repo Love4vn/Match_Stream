@@ -1,26 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1910662" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://103.176.90.154/picons/logos/PPV/PARAMOUNTPLUS.png",26/09 08:00 PM | US (Paramount 080) Venezia vs. Napoli ( :00)
+#EXTINF:-1 tvg-id="2134490" group-title="🌍|Live International Friendly-Match" tvg-logo="http://103.176.90.154/picons/logos/PPV/VGPLUS.png",26/09 10:45 PM | Liverpool Everton @ :VG 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0C5DF09A56FBB3F9CC8EE498296CBADC
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1910662&extension=ts&play_token=48p6pWZHNw
-#EXTINF:-1 tvg-id="1910699" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://103.176.90.154/picons/logos/PPV/PARAMOUNTPLUS.png",26/09 08:30 PM | US (Paramount 043) Viking vs. Bayern ( :05)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0C5DF09A56FBB3F9CC8EE498296CBADC
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1910699&extension=ts&play_token=zHnM9vTcq3
-#EXTINF:-1 tvg-id="2145313" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",26/09 08:30 PM | Freiburg Bayer Leverkusen Google Pixel Frauen-Bundesliga | 8K ES: DAZN 48
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0C5DF09A56FBB3F9CC8EE498296CBADC
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2145313&extension=ts&play_token=KuM5whFAHW
-#EXTINF:-1 tvg-id="2040466" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png",26/09 08:30 PM | End SC Freiburg Bayer Leverkusen Google Pixel Frauen-Bundesliga | 8K DE: DAZN 59
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0C5DF09A56FBB3F9CC8EE498296CBADC
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=2040466&extension=ts&play_token=XMtp6Y6F8J
-#EXTINF:-1 tvg-id="1909933" group-title="🌍|Live International Friendly-Match" tvg-logo="http://103.176.90.154/picons/logos/PPV/staun.png",26/09 10:45 PM | AU (STAN 44) Liverpool v Everton WSL 2026/27 ( :39)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0C5DF09A56FBB3F9CC8EE498296CBADC
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1909933&extension=ts&play_token=JfvBI7h6mG
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 63EED191482B99CCD8ABC9AF0A2589CB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2134490&extension=ts&play_token=XJm4ZPwKEa
